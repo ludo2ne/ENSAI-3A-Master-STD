@@ -1,0 +1,85 @@
+---
+title: "Présentation Master STD"
+subtitle: "Présentation du Master Statistique et Traitement des Données"
+author: "Ludovic Deneuville"
+format:
+  revealjs:
+    theme: moon
+    footer: "[Home](../index.html)"      # Link to the homepage
+    slide-number: c/t                    # collapsed/total
+    chalkboard: true
+    controls: true
+from: markdown+emoji
+---
+
+
+## DSI de l'INSEE
+
+- Développement d'applications
+- Production, Infrastructure, Architecture, Réseaux
+- Innovation, Sécurité, Stratégie
+
+
+## DSI de l'INSEE
+
+- effectifs 2022 : 428 
+  - effectifs INSEE 2022 : 5027 
+  - 240 développeurs et développeuses
+- Paris, Nantes, Lille, Orléans, Metz...
+
+
+## Exemple de métiers à l'INSEE
+
+- Analyste développeur
+- Chef de projet informatique
+- Architecte applicatif
+- Analyste Sécurité
+
+
+## Domaines étudiés en STD
+
+- Génie Logiciel, DevOps
+- Big Data, Cloud
+- Système, Réseaux, Sécurité
+- Machine Learning
+- Gestion de projet
+
+## Technologies clés
+
+- Java : back
+  - Python : ça arrive...
+- JavaScript React : front
+- Git, GitLab, GitHub
+- CI/CD
+- Docker, Kubernetes : Conteneurisation, Orchestration
+
+
+## DevOps à l’Insee 
+
+- Initiée par la DSI en 2021
+- Aller plus loin que SCRUM 
+  - augmenter le rythme des déploiements
+
+
+## DevOps à l’Insee 
+
+- Fluidifier les interactions entre développeurs (dev) et exploitants (ops)
+- Automatiser le processus de mise en production
+  - CICD, Conteneurisation
+- Tests automatisés pour contrôler
+- Outils d’observations de la prod aux développeurs
+
+
+## DataOps
+
+- Fluidifier le lien entre :
+  - Gestionnaires de données
+  - Consommateurs de données
+
+
+## Conclusion
+
+- Un poste à l'info est un vrai plus
+- Innovation, Dynamique
+- Pas besoin d'être un crack en informatique
+- Vision globale de ce que fait l'INSEE

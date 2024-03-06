@@ -1,0 +1,98 @@
+---
+title: "La DSI"
+subtitle: "La Direction du Système d'Information de l'INSEE"
+author: "Ludovic Deneuville"
+format:
+  revealjs:
+    theme: moon
+    footer: "[Home](../index.html)"      # Link to the homepage
+    slide-number: c/t                    # collapsed/total
+    chalkboard: true
+    controls: true
+from: markdown+emoji
+---
+
+
+## Département Développement du SI (DDSI)
+
+- Répondre aux besoins des maîtrises d’ouvrage
+- Développement et de maintien des applications
+- Évolution du patrimoine applicatif
+- Mutualisation, rationalisation et transversalité
+- DevOps, Agile, SCRUM, Accessibilité
+
+
+## Département Développement du SI (DDSI)
+
+- SNDI de Paris, Lille, Nantes et Orléans
+- GCOC d’Aix-Marseille
+- 240 développeurs et développeuses
+- Division Accompagnement et Coaching 
+
+
+## Domaines d'applications au SNDI de Lille
+
+- Enquêtes ménages et entreprises
+  - Conception, Collecte, Traitements, Évaluation
+- programme Métallica, Multimode
+- RMéS : référentiel de métadonnées statistiques de l’Insee
+
+
+## Domaines d'applications au SNDI d'Orléans
+
+- Emploi et les Revenus d’Activités (SIERA, DSN)
+- Fichiers fiscaux (RELIEF, FILOSOFI)
+- Tirage d'échantillons (NAUTILE)
+- Données de Caisses, Tourisme, programme RESIL, Pôle Géographie
+
+
+## Domaines d'applications au SNDI de Nantes
+
+- Répertoire SIRENE des Entreprises
+  - Projet SIRENE4
+- Répertoire des personnes
+  - BRPP, ELIRE
+- Statistiques structurelles conjoncturels d’entreprises
+
+
+## Domaines d'applications au SNDI de Paris
+
+- Diffusion : Site insee.fr
+- Indice des prix à la consommation (IPC)
+- Outils transverses (utilisé par de nombreuses applications)
+- Démographie, statistiques industrielles...
+
+
+## Département Production et Infrastructure Informatiques (DPII)
+
+- Infrastructure et services nécessaires au bon fonctionnement du SI
+- Architectures techniques, technologies Cloud
+- mise en place de la démarche DevOps
+- services bureautiques aux agents
+
+
+## Département Production et Infrastructure Informatiques (DPII)
+
+- Division Architecture Applicative de Production (DAAP)
+- Centre d’exploitation informatique (CEI à Metz) 
+- Service national des supports informatiques (SNSI à Nantes)
+- Division Conseil, Assistance et Services aux Utilisateurs et aux Applications (CASUA)
+- Division Infrastructure (DINFRA)
+- Cellule Réseaux et Services de Télécommunications (CRST)
+
+
+## Unité innovation et stratégie du système d'information (UNISSI)
+
+- Orientations sur l’évolution du SI, choix technologiques
+- Vision fonctionnelle et technique du système d'information
+- Expérimentations sur des technologies avancées, y compris l’IA
+- Sécurité du SI et de maîtrise des risque
+
+
+## Unité innovation et stratégie du système d'information (UNISSI)
+
+- Division Innovation et Instruction Technique (DIIT)
+  - en lien avec l'Unité SSP Lab
+- Division Urbanisme du Système d’Information (DUSI)
+- Division de la Sécurité et de la Maîtrise des Risques (DSMR)
+

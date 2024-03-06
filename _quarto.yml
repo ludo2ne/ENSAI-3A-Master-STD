@@ -1,0 +1,37 @@
+
+project:
+  type: website
+
+website:
+  title: "Master STD"
+  navbar:
+    background: "#447099"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: doc/presentation.qmd
+        text: Présentation
+      - href: doc/accueil.qmd
+        text: Accueil
+      - href: doc/cours.qmd
+        text: Cours
+      - href: doc/examen-analyste.qmd
+        text: Analyste
+      - href: doc/stage.qmd
+        text: Stage
+      - href: doc/INSEE.qmd
+        text: l'INSEE
+      - href: doc/DSI.qmd
+        text: la DSI
+  page-footer:
+    right: |
+      Website built with [Quarto](https://quarto.org/){.external target="_blank"} <br>
+      [Code source](https://github.com/ludo2ne/Quarto-tuto){.external target="_blank"}
+  reader-mode: true
+
+format:
+  html:
+    theme:
+      dark: solar
+      light: cosmo
+    css: styles.css

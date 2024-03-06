@@ -1,0 +1,267 @@
+---
+title: "Cours"
+description: "Cours du Master STD"
+author: "Ludovic Deneuville"
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-expand: 3
+from: markdown+emoji
+number-sections: true
+---
+
+Le programme complet est consultable sur la page du [Master Statistique des Données pour la Décision Publique](https://ensai.fr/2-cursus/master-evaluation-et-decision-publiques/){target="_blank"} du site de l'ENSAI.
+
+
+## UE1 Machine Learning
+
+### Apprentissage statistique (Machine Learning)
+
+|             |                                        |
+|-------------|----------------------------------------|
+| Enseignant  | Sébastien Da Veiga                     |
+| Cours       | 18h                                    |
+| Ateliers    | 12h                                    |
+| Langue      | Anglais (cours) et Français (ateliers) |
+
+- [ ] Régression et classification, pénalisation, méthodes locales, SVM, forêt
+
+
+### Apprentissage profond (Deep Learning)
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Ikko Yamane              |
+| Cours       | 24h                      |
+| Langue      | Français                 |
+
+- [ ] Principe des réseaux de neurones 
+- [ ] Propriétés des réseaux de neurones simples
+- [ ] Descente de gradient
+- [ ] Réseaux de neurones profonds 
+
+### Webmining et Traitement du langage
+
+|                       |                                             |
+|-----------------------|---------------------------------------------|
+| Enseignant            | Guillaume Gravier (Irisa)                   |
+| Cours                 | 9h                                          |
+| Atelier               | 12h                                         |
+| Langue                | Anglais                                     |
+
+
+- [ ] Collecter des données
+- [ ] Extraire de l'information et apparier des sources textuelles
+- [ ] Classification, Analyse de sentiment
+- [ ] Modèles d'étude de la langue
+
+---
+
+## UE2 Développement d'application et DataOps
+
+### Génie Logiciel
+
+|                      |                                                |
+|----------------------|------------------------------------------------|
+| Enseignants          | Djamel Eddine KHELLADI (Université Rennes 1)   |
+|                      | Alban GRÉAU                                    |
+| Cours                | 24h                                            |
+| Atelier              | 24h                                            |
+| Commun avec les ID   | Oui                                            |
+
+
+- [ ] Patrons de conception, Bonnes pratiques
+- [ ] Contenerisation et Orchestration
+- [ ] Tests, TDD, Couverture de tests
+- [ ] CICD 
+- [ ] Java - Maven - Spring Boot - JPA - Hibernate
+- [ ] Cloud avec AWS (s3, RDS, Elastic Beanstalk)
+
+Cours de Djamel
+- 15min au début puis laisse faire
+
+[Cours de Rémi (2023)](https://ensai-school.github.io/software-engineering-2021-2022/){.external target="_blank"}
+
+### Développement Web
+
+|                      |                                                |
+|----------------------|------------------------------------------------|
+| Enseignant           | Olivier Chantrel                               |
+| Cours                | 12h                                            |
+| Atelier              | 15h                                            |
+| Commun avec les ID   | Oui                                            |
+
+- [ ] XML, DOM, SAX
+- [ ] Web, HTML, CSS, Bootstrap
+- [ ] PHP, MySQL, MariaDB
+- [ ] AJAX, JavaScript (Angular, React, Vue.JS)
+
+
+### DataOps
+
+|                      |                                                             |
+|----------------------|-------------------------------------------------------------|
+| Enseignant           | [Christophe Blefari](https://www.blef.fr/){target="_blank"} |
+| Cours                | 27h                                                         |
+| Langue               | Anglais                                                     |
+| Commun avec les ID   | Oui                                                         |
+
+
+- [ ] DataOps, MLOps et DevOps
+- [ ] AWS Cloud platform
+- [ ] Infrastructure as Code 
+- [ ] CI/CD
+- [ ] Docker, Kubernetes 
+- [ ] Data pipelines et data observability 
+
+
+:construction: Lien vers le cours ?
+
+---
+
+## UE3 Big Data
+
+### Technologies NOSQL et Cloud
+
+|                      |                             |
+|----------------------|-----------------------------|
+| Enseignant           | [Shadi Ibrahim](https://people.rennes.inria.fr/Shadi.Ibrahim/teaching.html){target="_blank"} |
+| Cours                | 30h                         |
+| Langue               | Français                    |
+
+- [ ] SQL et NoSQL
+- [ ] Système de fichiers distribué avec HDFS 
+- [ ] Traitement distribué avec Hadoop MapReduce 
+- [ ] Virtualisation et conteneurisation
+- [ ] DynamoDB, Google BigTable, MongoDB, Neo4J
+
+### Indexation Web
+
+|                      |                             |
+|----------------------|-----------------------------|
+| Enseignant           | [Lara Perinetti](https://github.com/PeriLara/TPS_indexation_web_ensai){target="_blank"} |
+| Cours                | 9h                          |
+| Ateliers             | 6h                          |
+| Langue               | Français                    |
+| Commun avec les ID   | Oui                         |
+
+- [ ] Google et le Page Rank, tri alpha
+- [ ] Crawler
+- [ ] Construire un index web
+
+---
+
+arrive, envoi le cours, le tp et se met dans son coin
+3 tp notés en 3 semaines, un peu trop
+
+:construction: Lien vers le cours ?
+
+### Publication de données respectueuses
+
+|                      |                             |
+|----------------------|-----------------------------|
+| Enseignant           | [Tristan Allard](https://people.irisa.fr/Tristan.Allard/){target="_blank"} |
+|                      | Julien Jamme                |
+| Cours                | 9h                          |
+| Langue               | Français                    |
+
+- https://fr.wikipedia.org/wiki/K-anonymisation
+- https://www.kaggle.com/code/kelvar/mondrian-algorithm
+- https://fr.wikipedia.org/wiki/Confidentialit%C3%A9_diff%C3%A9rentielle
+
+
+---
+
+## UE4 Système et Réseaux
+
+### Initiation à Unix
+
+|                      |                                          |
+|----------------------|------------------------------------------|
+| Enseignant           | Sébastien Le Corre                       |
+| Cours                | 15h                                      |
+| Ateliers             | 6h                                       |
+| Langue               | Français                                 |
+
+
+- [ ] ligne de commande Bash
+- [ ] Scripting
+
+### Réseaux et Systèmes d'exploitation
+
+|                      |                                          |
+|----------------------|------------------------------------------|
+| Enseignant           | Thomas Correge                           |
+| Cours                | 15h                                      |
+| Ateliers             | 6h                                       |
+| Langue               | Français                                 |
+
+
+### Systèmes répartis
+
+|                      |                                          |
+|----------------------|------------------------------------------|
+| Enseignant           | David Gross-Amblard                      |
+| Cours                | 15h                                      |
+| Ateliers             | 6h                                       |
+| Langue               | Français                                 |
+
+- [ ] introduction aux architectures distribuées
+
+### Sécurité des données
+
+|                      |                                          |
+|----------------------|------------------------------------------|
+| Enseignant           | David Gross-Amblard                      |
+| Cours                | 9h                                       |
+| Ateliers             | 9h                                       |
+| Langue               | Français                                 |
+
+- [ ] Chiffrement, anonymisation
+- [ ] Contrôles d'accès DAC, RBAC, MAC, Attaques
+- [ ] Watermarking, Fingerprinting
+
+---
+
+## UE5 Formation Analyste
+
+### Gestion de projet
+
+### Architecture informatique
+
+|                      |                                          |
+|----------------------|------------------------------------------|
+| Enseignant           | Nicolas Duffour                          |
+| Cours                | 24h                                      |
+| Langue               | Français                                 |
+
+
+### Environnement informatique ministériel et interministériel
+
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Sophie Ronfle            |
+| Cours       | 18h                      |
+| Langue      | Français                 |
+
+
+
+---
+
+## UE6 Formation avancée à l'examen d'analyste
+
+### Préparation à l'écrit
+
+
+
+### Préparation à l'oral
+
+:warning: thématiques non abordées en cours
+
+
+### Anglais
+
+## UE7 Stage
+

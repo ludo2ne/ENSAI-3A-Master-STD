@@ -1,0 +1,14 @@
+---
+title: "Master STD"
+description: "Master Statistique et Traitement des Données"
+format: html
+from: markdown+emoji
+---
+
+
+- [Présentation aux élèves de 1ère année](doc/presentation.qmd)
+- [Accueil des étudiants du Master STD](doc/accueil.qmd)
+  - [Les enseignements](doc/cours.qmd)
+  - [Le stage de Master](doc/stage.qmd)
+- [L'INSEE](doc/INSEE.qmd)
+  - [La Direction des Systèmes d'Informations de l'INSEE](doc/DSI.qmd)

@@ -1,0 +1,130 @@
+---
+title: "Accueil Master STD"
+subtitle: "Rentrée Master Statistique et Traitement des Données"
+author: "Ludovic Deneuville"
+date: "4 septembre 2023"
+format:
+  revealjs:
+    theme: moon
+    footer: "[Home](../index.html)"      # Link to the homepage
+    slide-number: c/t                    # collapsed/total
+    chalkboard: true
+    controls: true
+from: markdown+emoji
+---
+
+
+## Distribution PC
+
+OS : Ubuntu
+
+- [ ] Noter numéro
+- [ ] Signer feuille
+
+
+## Distribution PC
+
+### Clé USB Windows 10 
+
+- :warning: installer en dual boot : Ne pas écraser Ubuntu !
+- Besoin pour le cours du 2/10 au 6/10 (Réseaux et Systèmes d'Exploitation)
+- :warning: Ne pas installer trop tôt 
+  - **sans clé de licence (validité 1 mois)**
+  - installer à partir du 20/09
+
+
+## Examen Analyste
+
+- [Lien examen](https://www.economie.gouv.fr/recrutement/analyste-developpeur-examen-professionnel){target="_blank"}
+- [Inscription](https://concours-sg.finances.gouv.fr/){target="_blank"}
+- Pas obligatoire pour travailler en service Informatique à l'INSEE
+  - mais fortement recommandé
+- Prime analyste : 225€ / mois
+
+
+## Examen Analyste
+
+\
+
+### Qualités évaluées
+
+- Techniques d'analyse, 
+- Aptitude à la synthèse
+- Rédaction d'un dossier technique
+- Connaissances en matière de programmation
+- Qualités de réflexion et de logique
+
+
+## Examen Analyste
+
+\
+
+### Connaissances
+
+- Gestion de projet, organisation du SI
+- Développement d'applications
+- Matériel, sécurité, réseaux, architecture
+- Environnement juridique et administratif
+
+
+## Examen Analyste
+
+\
+
+### Dates
+
+- inscriptions : mi-Octobre
+- écrit (début janvier) : 6h
+  - dossier d'analyse
+- oral (début mars) : 30min prépa, 10 min exposé, 20min questions
+  - tirage au sort de 2 sujets, choix d'un sujet
+
+
+
+
+
+## INSEE
+
+- [Focus INSEE](INSEE.qmd)
+- [ ] Vérifiez vos accès à l'[intranet](https://intranet.insee.fr/){target="_blank"} et à [Mouv'in](https://mobilites.insee.fr/){target="_blank"}
+  - la campagne de mobilité démarre en octobre
+
+
+## Campagne de mobilité
+
+\
+
+### Dates importantes
+
+- Mi-octobre : vous devez être inscrits dans la campagne
+- Mi-décembre : diffusion des postes ouverts
+- Fin-février : dépôt des voeux
+- Mi-avril : résultats
+
+
+## Campagne de mobilité
+
+\
+
+### Conseils
+
+- [ ] préparez en avance votre CV
+- [ ] préparez un mail de motivation
+  - à adapter ensuite selon les postes visés
+- [ ] envoyez des mails avant Noël
+  - le 15 janvier c'est trop tard !
+
+
+## Métiers INSEE {.smaller}
+
+Avoir fait un poste dans la sphère info est un vrai plus
+
+- Analyste Développeur
+- Analyste Développeur confirmé
+- Expert big data
+- Chef de projet
+- Urbaniste du système d'information
+- DBA
+- Ingénieur Système et Sécurité
+- Ingénieur DevOps
+- Ingénieur dans l’équipe produit Kubernetes

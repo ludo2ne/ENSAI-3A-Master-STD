@@ -1,0 +1,105 @@
+---
+title: "Examen d'Analyste"
+description: "Préparation à l'examen d'Analyste Développeur"
+author: "Ludovic Deneuville"
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-expand: 3
+from: markdown+emoji
+---
+
+
+## Liens
+
+- [Page examen](https://www.economie.gouv.fr/recrutement/analyste-developpeur-examen-professionnel){target="_blank"}
+- [Inscription](https://concours-sg.finances.gouv.fr/){target="_blank"}
+
+
+## Contacts
+
+| Contact            | Rôle                                        |
+|--------------------|---------------------------------------------|
+| BLOCH Fabrice      | Correspondant INSEE                         |
+| BOURDIN Marion     | IGPDE - Chargée de formation cycle analyste |
+| DENEUVILLE Ludovic | ENSAI - Responsable Master STD              |
+| DUCHESNE Aurélie   | ENSAI - Organisatrice de la formation       |
+|                    |                                             |
+
+
+## Formateurs
+
+| Formateur       | Matière                      |
+|-----------------|------------------------------|
+| KOUAME Sonia    | Préparation à l'examen écrit |
+| BROSSARD Xavier | Gestion de projet            |
+| MSELLEK Nadia   | Gestion de projet            |
+| AALIOUI Bilal   |                              | 
+|                 |                              |
+
+
+## Examens blancs
+
+### Écrits
+
+- L'IGPDE fournit les sujets et corrige les copies
+
+- Examen Blanc n°1 du 15/09
+  - documents autorisés exeptionnellement
+- Examen Blanc n°2
+  - sans documents
+- Examen Blanc n°3
+  - sans documents
+
+
+### Oraux
+
+Les oraux blancs ont lieu en présentiel à l'IGPDE :
+```
+IGPDE
+20, allée Georges Pompidou 
+94300 VINCENNES 
+(RER A Vincennes / Metro 1 Château de Vincennes)
+```
+
+- Oraux Blancs n°1 du 06/12
+- Oraux Blancs n°2 du 22/01
+- Oraux Blancs n°3 du 14/02
+
+
+## Examen
+
+- 12/10/2023 : ouverture des inscriptions
+- 16/11/2023 : cloture des inscriptions
+
+### Écrit
+
+- Jeudi 11 janvier 2024
+  - Centrex, 2 Rue de la Butte Verte, 93160 NOISY-LE-GRAND (RER A Noisy-Champs)
+  - Début de l'épreuve : 9h45
+  - Fin de l'épreuve : 15h45
+- Mission
+  - Rennes - Paris Montparnasse : 6h35 - 8h15
+  - Paris Montparnasse - Noisy Champs (50min, Métro 4 :arrow_right: Chatelet Les Halles :arrow_right: RER A)
+  - Paris - Rennes : 18h00 - 19h25
+
+
+### Oral
+
+- À partir du 11 mars 2024
+- immeuble Atrium, place des Vins-de-France, 75573 PARIS
+
+
+## Semaine à la DG
+
+- Lundi 12/02: préparation à l’oral J1 [Bilal Aalioui et Nadia Msellek]
+- Mardi 13/02 : l’informatique ministérielle et interministérielle [Bilal aalioui et Nadia Msellek]
+- Mercredi 14/02 : Oraux Blancs n°3 à l'IGPDE
+- Jeudi 15/02 : préparation à l’oral J2 [Bilal Aalioui et Nadia Msellek]
+- Vendredi 16/02 : days of chaos [Armelle Koehl Donatien Eneman]
+
+
+## Missions
+
+:construction: TODO : Protocole le plus clair et simple possible pour les élèves et l'ENSAI
