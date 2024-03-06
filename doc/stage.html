@@ -101,29 +101,50 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../doc/presentation.html"> 
 <span class="menu-text">Présentation</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../doc/accueil.html"> 
-<span class="menu-text">Accueil</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-le-master" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Le Master</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-le-master">    
+        <li>
+    <a class="dropdown-item" href="../doc/accueil.html">
+ <span class="dropdown-text">Accueil</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../doc/cours.html"> 
-<span class="menu-text">Cours</span></a>
+        <li>
+    <a class="dropdown-item" href="../doc/cours.html">
+ <span class="dropdown-text">Les cours</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../doc/examen-analyste.html"> 
-<span class="menu-text">Analyste</span></a>
+        <li>
+    <a class="dropdown-item" href="../doc/examen-analyste.html">
+ <span class="dropdown-text">L’examen d’Analyste</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../doc/stage.html" aria-current="page"> 
-<span class="menu-text">Stage</span></a>
+        <li>
+    <a class="dropdown-item" href="../doc/stage.html">
+ <span class="dropdown-text">Le Stage</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../doc/INSEE.html"> 
-<span class="menu-text">l’INSEE</span></a>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-linsee" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">L’INSEE</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-linsee">    
+        <li>
+    <a class="dropdown-item" href="../doc/INSEE.html">
+ <span class="dropdown-text">Focus sur l’INSEE</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../doc/DSI.html"> 
-<span class="menu-text">la DSI</span></a>
+        <li>
+    <a class="dropdown-item" href="../doc/DSI.html">
+ <span class="dropdown-text">la DSI</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/ludo2ne/ENSAI-3A-Master-STD" target="_blank"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -959,7 +980,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Website built with <a href="https://quarto.org/" class="external" target="_blank">Quarto</a> <br> <a href="https://github.com/ludo2ne/Quarto-tuto" class="external" target="_blank">Code source</a></p>
+<p>Website built with <a href="https://quarto.org/" class="external" target="_blank">Quarto</a> <br> <a href="https://github.com/ludo2ne/ENSAI-3A-Master-STD" class="external" target="_blank">Code source</a></p>
 </div>
   </div>
 </footer>
