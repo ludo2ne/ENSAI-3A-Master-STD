@@ -1,0 +1,1248 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.551">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Ludovic Deneuville">
+<meta name="description" content="Cours du Master STD">
+
+<title>Master STD - Focus sur l’INSEE</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Master STD</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../doc/presentation.html"> 
+<span class="menu-text">Présentation</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../doc/accueil.html"> 
+<span class="menu-text">Accueil</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../doc/cours.html"> 
+<span class="menu-text">Cours</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../doc/examen-analyste.html"> 
+<span class="menu-text">Analyste</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../doc/stage.html"> 
+<span class="menu-text">Stage</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../doc/INSEE.html" aria-current="page"> 
+<span class="menu-text">l’INSEE</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../doc/DSI.html"> 
+<span class="menu-text">la DSI</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="3">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#quelques-liens" id="toc-quelques-liens" class="nav-link active" data-scroll-target="#quelques-liens">Quelques liens</a></li>
+  <li><a href="#la-direction-générale-dg" id="toc-la-direction-générale-dg" class="nav-link" data-scroll-target="#la-direction-générale-dg">La Direction Générale (DG)</a>
+  <ul class="collapse">
+  <li><a href="#les-7-directions" id="toc-les-7-directions" class="nav-link" data-scroll-target="#les-7-directions">Les 7 directions</a></li>
+  </ul></li>
+  <li><a href="#les-directions-régionales-dr" id="toc-les-directions-régionales-dr" class="nav-link" data-scroll-target="#les-directions-régionales-dr">Les Directions Régionales (DR)</a>
+  <ul class="collapse">
+  <li><a href="#un-peu-dhistoire" id="toc-un-peu-dhistoire" class="nav-link" data-scroll-target="#un-peu-dhistoire">Un peu d’histoire</a></li>
+  <li><a href="#réorganisation-suite-à-la-fusion-des-régions" id="toc-réorganisation-suite-à-la-fusion-des-régions" class="nav-link" data-scroll-target="#réorganisation-suite-à-la-fusion-des-régions">Réorganisation suite à la fusion des régions</a></li>
+  <li><a href="#les-pôles-et-sites" id="toc-les-pôles-et-sites" class="nav-link" data-scroll-target="#les-pôles-et-sites">Les pôles et sites</a></li>
+  </ul></li>
+  <li><a href="#les-services-statistiques-ministériels-ssm" id="toc-les-services-statistiques-ministériels-ssm" class="nav-link" data-scroll-target="#les-services-statistiques-ministériels-ssm">Les Services Statistiques Ministériels (SSM)</a></li>
+  <li><a href="#linformatique-à-linsee" id="toc-linformatique-à-linsee" class="nav-link" data-scroll-target="#linformatique-à-linsee">L’informatique à l’INSEE</a></li>
+  <li><a href="#les-principales-enquêtes" id="toc-les-principales-enquêtes" class="nav-link" data-scroll-target="#les-principales-enquêtes">Les principales enquêtes</a></li>
+  <li><a href="#les-répertoires" id="toc-les-répertoires" class="nav-link" data-scroll-target="#les-répertoires">Les répertoires</a></li>
+  <li><a href="#infos-diverses-rh" id="toc-infos-diverses-rh" class="nav-link" data-scroll-target="#infos-diverses-rh">Infos diverses RH</a>
+  <ul class="collapse">
+  <li><a href="#horaires-de-travail" id="toc-horaires-de-travail" class="nav-link" data-scroll-target="#horaires-de-travail">Horaires de travail</a></li>
+  <li><a href="#congés-et-cycles-de-travail" id="toc-congés-et-cycles-de-travail" class="nav-link" data-scroll-target="#congés-et-cycles-de-travail">Congés et Cycles de travail</a></li>
+  <li><a href="#télétravail" id="toc-télétravail" class="nav-link" data-scroll-target="#télétravail">Télétravail</a></li>
+  <li><a href="#paie" id="toc-paie" class="nav-link" data-scroll-target="#paie">Paie</a></li>
+  </ul></li>
+  <li><a href="#affectations" id="toc-affectations" class="nav-link" data-scroll-target="#affectations">Affectations</a></li>
+  </ul>
+</nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Focus sur l’INSEE</h1>
+</div>
+
+<div>
+  <div class="description">
+    Cours du Master STD
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Ludovic Deneuville </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p><u>INSEE</u>: Institut National de la Statistique et des Études Économiques.</p>
+<p>Créé en 1946, l’INSEE emploie environs 5.000 agents dont 25% de catégorie Attaché. D’autres informations sont disponibles dans les <a href="https://www.insee.fr/fr/information/4130132" target="_blank">rapports d’activité annuels</a>.</p>
+<section id="quelques-liens" class="level2">
+<h2 class="anchored" data-anchor-id="quelques-liens">Quelques liens</h2>
+<ul>
+<li><a href="https://www.insee.fr/" target="_blank">https://www.insee.fr/</a></li>
+<li><a href="https://ssphub.netlify.app/" target="_blank">Réseau des Datascientists de la Statistique Publique</a></li>
+<li><a href="https://blog.insee.fr/" target="_blank">Blog de l’INSEE</a></li>
+<li><a href="https://twitter.com/InseeFr" target="_blank">Twitter</a>, il existe également de nombreux fils régionaux, par exemple :
+<ul>
+<li><a href="https://twitter.com/inseeregions" target="_blank">Insee en région</a></li>
+<li><a href="https://twitter.com/InseeHdF" target="_blank">Hauts-de-France</a></li>
+<li><a href="https://twitter.com/InseeBretagne" target="_blank">Bretagne</a></li>
+</ul></li>
+<li><a href="https://www.youtube.com/channel/UChCCvJTbZEYsCXyfu27eQ6g/videos" target="_blank">Youtube</a></li>
+<li><a href="https://statistiques-locales.insee.fr/" target="_blank">https://statistiques-locales.insee.fr/</a></li>
+<li><a href="https://www.youtube.com/watch?v=IxYg3tdHTY0" target="_blank">René Carmille, un hacker sous l’Occupation</a> : documentaire sur la création en 1941 du Service National des Statistiques qui deviendra l’INSEE quelques années plus tard</li>
+<li><a href="https://www.youtube.com/watch?v=NjJ58IaTmWY&amp;ab_channel=NotaBene" target="_blank">Les chiffres sont-ils “neutres” ?</a></li>
+</ul>
+<section id="accéder-à-lintranet-symphonie" class="level5">
+<h5 class="anchored" data-anchor-id="accéder-à-lintranet-symphonie">Accéder à l’intranet Symphonie</h5>
+<ul>
+<li><a href="https://intranet.insee.fr/" target="_blank">https://intranet.insee.fr/</a></li>
+<li>demander un idep et un compte annuaire général à :
+<ul>
+<li>dg57-contact-utilisateurs-informatique@insee.fr</li>
+<li>contact-utilisateurs-informatique@insee.fr</li>
+<li>mobilite-et-carrieres@insee.fr</li>
+</ul></li>
+<li>Cela permet également d’accéder à <a href="https://mobilites.insee.fr/" target="_blank">Mouv’in</a>, l’application de gestion des mobilités</li>
+<li><a href="https://intranet.insee.fr/jcms/c_2108029/pedagogie-communication-institutionnelle-evenements" target="_blank">Pédagogie, communication institutionnelle et évènements</a></li>
+</ul>
+</section>
+<section id="outils-interactifs" class="level5">
+<h5 class="anchored" data-anchor-id="outils-interactifs">Outils interactifs</h5>
+<ul>
+<li><a href="https://www.insee.fr/fr/statistiques/3532172" target="_blank">Classement des prénoms en France depuis 1900</a></li>
+<li><a href="https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm" target="_blank">Pyramide des ages</a></li>
+<li><a href="https://www.insee.fr/fr/outil-interactif/5369554/index.html" target="_blank">Datavisualisation des salaires</a></li>
+</ul>
+</section>
+</section>
+<section id="la-direction-générale-dg" class="level2">
+<h2 class="anchored" data-anchor-id="la-direction-générale-dg">La Direction Générale (DG)</h2>
+<p>La majorité des missions et des agents de la DG sont à Montrouge au sud de Paris. Les agents du centre de Metz font également parti de la DG (l’établissement de Lorraine étant localisé à Nancy).</p>
+<p>Aussi dans chacun des établissements régionaux, des agents réalisent des missions nationales. De plus en plus de travaux sont transférés depuis Montrouge vers des établissements de province.</p>
+<section id="les-7-directions" class="level3">
+<h3 class="anchored" data-anchor-id="les-7-directions">Les 7 directions</h3>
+<blockquote class="blockquote">
+<p>Descriptions des directions extraites de l’intranet de l’INSEE</p>
+</blockquote>
+<section id="secrétariat-général" class="level4">
+<h4 class="anchored" data-anchor-id="secrétariat-général">Secrétariat Général</h4>
+<p>Le SG veille à donner à l’Insee les moyens d’accomplir l’ensemble de ses missions. Il a en charge le pilotage et la répartition des ressources de l’Institut (ressources humaines, ressources financières, moyens immobiliers, logistiques …), à l’exception des ressources informatiques qui sont gérées par la DSI.</p>
+<p><u>Mots clés</u>: RH, Budget, Communication interne, Dialogue social, Affaires juridiques et contentieuses</p>
+</section>
+<section id="direction-du-système-dinformation" class="level4">
+<h4 class="anchored" data-anchor-id="direction-du-système-dinformation">Direction du Système d’Information</h4>
+<p>La DSI pilote, développe et assure le bon fonctionnement et la sécurité du système d’information.</p>
+<p><u>Mots clés</u>: Infrastructures, Réseaux, Sécurité, Projets informatiques, Développement, Assistance à Maîtrise d’Ouvrage, Innovation</p>
+</section>
+<section id="direction-de-la-méthodologie-et-de-la-coordination-statistique-et-internationale" class="level4">
+<h4 class="anchored" data-anchor-id="direction-de-la-méthodologie-et-de-la-coordination-statistique-et-internationale">Direction de la Méthodologie et de la Coordination Statistique et Internationale</h4>
+<p>La DMCSI est une direction transversale de l’Insee qui réalise des travaux en propre et qui vient également en appui aux directions thématiques de l’Insee et aux services statistiques ministériels.</p>
+<p>Ses orientations sont de : - redonner toute leur importance aux méthodes statistiques au sein de l’Institut - capitaliser sur les méthodes et accumuler les savoirs - travailler à la demande en appui aux processus de production - développer de nouvelles approches, innover (nouvelles sources, datasciences…) - se coordonner, au niveau français et au niveau européen voire international</p>
+<p><u>Mots clés</u>: Méthodes, Démarche qualité, Documentation statistique, Coordination, Sondages, Innovation, <a href="https://www.insee.fr/fr/information/3559883" target="_blank">SSP Lab</a></p>
+</section>
+<section id="direction-des-statistiques-démographiques-et-sociales" class="level4">
+<h4 class="anchored" data-anchor-id="direction-des-statistiques-démographiques-et-sociales">Direction des Statistiques Démographiques et Sociales</h4>
+<p>Bien identifiée par l’indice des prix pour la mesure de l’inflation, le recensement de la population, ou bien l’enquête emploi pour le calcul du chômage, la DSDS produit des données et des études sur des thèmes variés : démographie, transformation des familles, migrations, égalité femmes-hommes, emploi, chômage, formation, salaires et coût du travail, revenus, pauvreté, patrimoines, logement, conditions de vie, prix à la consommation, redistribution, etc. La DSDS est aussi responsable de répertoires administratifs dont la gestion a été confiée à l’Insee par la loi (Répertoire national d’identification des personnes physiques RNIPP, Répertoire électoral unique REU) et de répertoires statistiques et de nomenclatures.</p>
+<p><u>Mots clés</u>: Enquêtes ménages, Études démographiques et sociales, Emploi, Démographie, Ressources et des conditions de vie, Prix à la consommation</p>
+</section>
+<section id="direction-des-statistiques-dentreprises" class="level4">
+<h4 class="anchored" data-anchor-id="direction-des-statistiques-dentreprises">Direction des Statistiques d’Entreprises</h4>
+<p>La DSE coordonne l’ensemble des statistiques sur le système productif. Elle veille notamment à la mise en œuvre des obligations statistiques résultant des principaux règlements européens sur les entreprises et s’assure que tous les moyens sont mis en œuvre pour y parvenir, à l’intérieur comme à l’extérieur de la direction générale. Elle gère les répertoires d’entreprises et d’établissements (répertoire inter-administratif SIRENE et répertoire statistique SIRUS), produit les statistiques de l’industrie, du commerce et des services marchands, gère des bases de données d’entreprises. Elle construit des indicateurs conjoncturels macroéconomiques et participe à l’élaboration des comptes nationaux annuels à un niveau sectoriel détaillé.</p>
+<p><u>Mots clés</u>: Enquêtes entreprise, Répertoire SIRENE, Statistiques annuelles d’entreprise, Profilage, Synthèses sectorielles</p>
+</section>
+<section id="direction-de-la-diffusion-et-de-laction-régionale" class="level4">
+<h4 class="anchored" data-anchor-id="direction-de-la-diffusion-et-de-laction-régionale">Direction de la Diffusion et de l’Action Régionale</h4>
+<p>La DDAR met à disposition de l’ensemble des utilisateurs des produits et services résultant des activités de l’Insee. Elle définit la politique de diffusion et de communication de l’Insee et la met en œuvre. Elle assure la pérennité des travaux de l’Insee en procédant à l’archivage des données et documents produits par l’institut. Elle met à disposition des utilisateurs extérieurs (chercheurs, services statistiques des ministères, organismes divers) des fichiers de données de l’Insee de types très variés (fichiers détails, fichiers de diffusion, produits spécifiques ou sur mesure). Elle fournit les ressources documentaires utiles à l’Institut et donne accès aux publics extérieurs à la plupart des publications de la statistique publique via sa bibliothèque numérique et aux ressources documentaires très riches des collections physiques de la bibliothèque Alain Desrosières.</p>
+<p><u>Mots clés</u>: Action régionale, Communication externe, Insee contact, Offre éditoriale, Diffusions internet, Open Data,</p>
+</section>
+<section id="direction-des-études-et-synthèses-économiques" class="level4">
+<h4 class="anchored" data-anchor-id="direction-des-études-et-synthèses-économiques">Direction des Études et Synthèses Économiques</h4>
+<p>La DESE a pour mission principale de réaliser et de coordonner à l’Insee des travaux, comptes, études et modèles à finalité macroéconomique permettant de mieux comprendre l’évolution de l’économie française dans son environnement international.</p>
+<p><u>Mots clés</u>: Comptes Nationaux, Notes de Conjoncture, Economie et Statistique, Études macroéconomiques</p>
+</section>
+</section>
+</section>
+<section id="les-directions-régionales-dr" class="level2">
+<h2 class="anchored" data-anchor-id="les-directions-régionales-dr">Les Directions Régionales (DR)</h2>
+<p>Pour plus de détails sur la localisation des établissements de l’INSEE, consulter le <a href="https://www.insee.fr/fr/statistiques/fichier/4130132/rapport-activite-insee_2021.pdf" target="_blank">rapport annuel d’activités de L’INSEE 2021</a>, page 22</p>
+<section id="un-peu-dhistoire" class="level3">
+<h3 class="anchored" data-anchor-id="un-peu-dhistoire">Un peu d’histoire</h3>
+<p>Avant 2016 et la réforme des régions, chaque préfecture de région avait sa DR de l’INSEE. Chaque DR était composée des 3 services suivants :</p>
+<ul>
+<li>Service Administration des Ressources (SAR)
+<ul>
+<li>Ressources Humaines</li>
+<li>Budget, Logistique, Assistance informatique</li>
+<li>Formation</li>
+</ul></li>
+<li>Service Statistique (SES)
+<ul>
+<li>Division Enquête Ménage (DEM)</li>
+<li>Divsion <a href="https://www.le-recensement-et-moi.fr/" target="_blank">Recensement de la Population</a> (RP)</li>
+</ul></li>
+<li>Service Etude et Diffusion (SED)
+<ul>
+<li>Etudes régionales</li>
+</ul></li>
+</ul>
+<p>Chaque DR réalise également des missions de portée nationale (détaillé par la suite).</p>
+</section>
+<section id="réorganisation-suite-à-la-fusion-des-régions" class="level3">
+<h3 class="anchored" data-anchor-id="réorganisation-suite-à-la-fusion-des-régions">Réorganisation suite à la fusion des régions</h3>
+<p>Après 2016, l’INSEE est toujours présente dans ces villes. Cependant il ne peut rester qu’une seule DR par région, ainsi les autres seront nommés Établissement. Pour les régions qui n’ont pas fusionnées, rien ne change.</p>
+<p>Ce qui a changé :</p>
+<ul>
+<li>Un seul SED subsiste par région, généralement dans la plus grande ville</li>
+<li>Chaque DR et chaque établissement conserve un SES</li>
+<li>Les SAR fusionnent, la majorité des agents du SAR sont à la DR même si le SAR garde des agents dans chaque établissement pour plus de proximité</li>
+</ul>
+<p>La DR n’est pas toujours localisée dans la plus grande ville, exemple avec la région Nouvelle-Aquitaine :</p>
+<ul>
+<li>DR : Poitiers</li>
+<li>ETAB : Bordeaux et Limoges</li>
+<li>Le SED est à Bordeaux</li>
+</ul>
+</section>
+<section id="les-pôles-et-sites" class="level3">
+<h3 class="anchored" data-anchor-id="les-pôles-et-sites">Les <a href="https://intranet.insee.fr/jcms/c_2114582/poles-de-l-action-regionale" target="_blank">pôles</a> et sites</h3>
+<blockquote class="blockquote">
+<p>Descriptions des sites et pôles extraites de l’intranet de l’INSEE</p>
+</blockquote>
+<p>Dans chaque DR ou établissement, il n’y a pas uniquement des missions régionales. Voici quelques exemples de pôles et de sites aux missions nationales ou inter-régionales.</p>
+<section id="site-sirene" class="level4">
+<h4 class="anchored" data-anchor-id="site-sirene">Site SIRENE</h4>
+<p>La mission principale du site est l’immatriculation des entreprises, qui consiste à leur attribuer des numéros SIREN et SIRET et un code APE, déterminé d’après la nomenclature d’activités française (NAF). Le site traite aussi des déclarations administratives telles que des changements de dénomination, d’adresse, de catégorie juridique, d’activité…</p>
+<ul>
+<li><a href="https://www.insee.fr/fr/information/1972043" target="_blank">Connaître et comprendre le répertoire Sirene</a></li>
+<li><a href="https://intranet.insee.fr/jcms/1630168_DBFileDocument/trajectoires-d-entreprise" target="_blank">Trajectoires d’entreprise</a> (intranet insee)</li>
+</ul>
+</section>
+<section id="site-prix-à-la-consommation" class="level4">
+<h4 class="anchored" data-anchor-id="site-prix-à-la-consommation">Site Prix à la Consommation</h4>
+<ul>
+<li>collecte des relevés de prix</li>
+<li>contrôle des processus de collecte</li>
+</ul>
+</section>
+<section id="site-tourisme" class="level4">
+<h4 class="anchored" data-anchor-id="site-tourisme">Site Tourisme</h4>
+<ul>
+<li>gère les enquêtes de fréquentation (hôtellerie et camping)</li>
+<li>et la mise à jour du parc des hébergements (hôtels et campings)</li>
+</ul>
+<p>Le Pôle national Tourisme est installé à la Direction Régionale Occitanie.</p>
+</section>
+<section id="site-réseau-enquêteurs-entreprises" class="level4">
+<h4 class="anchored" data-anchor-id="site-réseau-enquêteurs-entreprises">Site Réseau Enquêteurs Entreprises</h4>
+<ul>
+<li>teste les questionnaires d’enquête préalablement au passage au comité du label</li>
+<li>contact avec les entreprises nouvellement entrantes dans les échantillons avant l’envoi des premiers questionnaires</li>
+<li>relance des non-répondants, notamment les entreprises dont le poids dans un échantillon est important, par téléphone ou par visite</li>
+</ul>
+</section>
+<section id="site-gestion-financière" class="level4">
+<h4 class="anchored" data-anchor-id="site-gestion-financière">Site Gestion Financière</h4>
+<p>Ses missions principales sont d’une part de formaliser les achats et suivre la liquidation de la dépense, d’autre part d’établir les ordres de mission et les états de frais des agents, enquêteurs et superviseurs.</p>
+<p>Localisations : Amiens, Limoges et Reims</p>
+</section>
+<section id="site-brpp" class="level4">
+<h4 class="anchored" data-anchor-id="site-brpp">Site BRPP</h4>
+<p>Il gère la mise à jour du répertoire d’identification des personnes physiques avec des données d’état civil (naissances, décès, mariages, conclusions et dissolutions de pacs). Ce répertoire doit être l’image des registres d’état civil détenus par les mairies. L’équipe est chargée, entre autres, de contrôler la cohérence et la qualité des données, l’exhaustivité des actes transmis, de s’assurer des délais de transmission.</p>
+</section>
+<section id="pôle-de-service-pour-laction-régionale-psar" class="level4">
+<h4 class="anchored" data-anchor-id="pôle-de-service-pour-laction-régionale-psar">Pôle de Service pour l’Action Régionale (PSAR)</h4>
+<p>Le PSAR a pour mission de fournir au réseau de l’action régionale des prestations de nature à faciliter la réalisation de synthèses et diagnostics de territoire par les directions régionales, dans le cadre du service spécifique rendu à leurs partenaires, acteurs publics du développement local.</p>
+<p>L’activité du PSAR relève de trois domaines qui se recoupent en partie :</p>
+<ul>
+<li>il produit des investissements (le principal outil développé et maintenu sous la responsabilité du Psar est le « kit synthèses locales »)</li>
+<li>il intervient dans le champ de la méthodologie</li>
+<li>il assure une fonction d’animation et de formation autour des synthèses et diagnostics de territoire.</li>
+</ul>
+<p>Les PSAR :</p>
+<ul>
+<li>PSAR Synthèses Locales (Lyon)</li>
+<li>PSAR Emploi-Population (Lille)</li>
+<li>PSAR Analyse Territoriale (Marseille)</li>
+<li>PSAR Études Économiques Régionales (Toulouse)</li>
+</ul>
+<hr>
+</section>
+</section>
+</section>
+<section id="les-services-statistiques-ministériels-ssm" class="level2">
+<h2 class="anchored" data-anchor-id="les-services-statistiques-ministériels-ssm">Les Services Statistiques Ministériels (SSM)</h2>
+<p>De très nombreux postes sont réservés aux agents de l’INSEE dans différents ministères. Voici les principaux SSM :</p>
+<ul>
+<li>DARES (Direction de l’Animation, de la Recherche, des Études et des Statistiques)</li>
+<li>DEPP (Direction de l’Évaluation, de la Prospective et de la Performance)
+<ul>
+<li>SSM en charge des statistiques sur l’éducation</li>
+</ul></li>
+<li>DESF (Département des Études et Statistiques Fiscales)
+<ul>
+<li>SSM de la de la <code>DGFIP</code> (Direction Générale des Finances Publiques)</li>
+<li>SSM du ministère du Travail</li>
+</ul></li>
+<li>DRESS (Direction de la Recherche, des Études, de l’Évaluation et des Statistiques)
+<ul>
+<li>SSM chargé de la santé et des solidarités</li>
+</ul></li>
+<li>DSECE (Département des Statistiques et des Études du Commerce Extérieur)
+<ul>
+<li>SSM chargé du commerce extérieur et des douanes</li>
+</ul></li>
+<li>DSED (Département des Statistiques, des Études et de la Documentation)
+<ul>
+<li>SSM sur le sujet de l’Immigration et de l’Intégration</li>
+</ul></li>
+<li>MEDES (Mission des Enquêtes, Données et Études Statistiques)
+<ul>
+<li>SSM chargé de la jeunesse et des sports</li>
+</ul></li>
+<li>SDES
+<ul>
+<li><code>DREAL</code> : (Direction Régionale de l’Environnement, de l’Aménagement et du Logement)</li>
+</ul></li>
+<li>SIES (Sous-direction des systèmes d’Information et des Études Statistiques)
+<ul>
+<li>SSM chargé de l’enseignement supérieur et de la recherche</li>
+</ul></li>
+<li>SRISE (Services Régionaux de l’Information Statistique et Économique)
+<ul>
+<li>Directions régionales de l’Alimentation, de l’Agriculture et de la Forêt (<code>DRAAF</code>)</li>
+</ul></li>
+<li>SSMSI (Service Statistique Ministériel de la Sécurité Intérieure)</li>
+</ul>
+</section>
+<section id="linformatique-à-linsee" class="level2">
+<h2 class="anchored" data-anchor-id="linformatique-à-linsee">L’informatique à l’INSEE</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Quelques chiffres :</strong></p>
+<ul>
+<li>Environs 450 personnes travaillent dans ce domaine</li>
+<li>Langages principaux : Java (back-end) et JavaScript React (front-end)</li>
+<li>Plus de 100 applications à maintenir</li>
+</ul>
+</div>
+</div>
+<p>La DSI est divisée en 3 départements :</p>
+<ul>
+<li>Développement
+<ul>
+<li>4 Services Nationaux de Développement Informatique (SNDI) à Lille, Nantes, Orléans et Paris</li>
+<li>Division Assistance à Maîtrise d’Ouvrage</li>
+<li>Division Animation et Conseil</li>
+</ul></li>
+<li>Production et Infrastructures
+<ul>
+<li>Division Architecture Applicative de Production (DAAP)</li>
+<li>Le Centre d’Exploitation Informatique (CEI) de Metz</li>
+<li>Cellule Réseaux et Télécommunications</li>
+<li>Service National des Supports Informatiques (SNSI) de Nantes</li>
+</ul></li>
+<li>Innovation et stratégie de Système d’information
+<ul>
+<li>Division Urbanisation du SI</li>
+<li>DIvision Sécurité et Maîtrise des risques</li>
+</ul></li>
+</ul>
+<p>La majorité des projets se font en mode Agile avec la méthode SCRUM. Les grands projets en cours :</p>
+<ul>
+<li>Edifice (Migration de Datacenter)</li>
+<li>Prisme (Collecte et Indice des Prix)</li>
+<li>Metallica (Outils pour les enquêtes ménages et entreprises)</li>
+<li>Sirene 4</li>
+</ul>
+</section>
+<section id="les-principales-enquêtes" class="level2">
+<h2 class="anchored" data-anchor-id="les-principales-enquêtes">Les principales enquêtes</h2>
+<p>Voici quelques exemples d’enquêtes réalisées auprès des ménages :</p>
+<ul>
+<li>Enquête Annuelle du <a href="https://www.le-recensement-et-moi.fr/" target="_blank">Recensement de la population</a> (EAR)
+<ul>
+<li>tous les 5 ans pour les communes de moins de 10.000 habitants</li>
+<li>annuel pour les communes de plus de 10.000 habitants mais uniquement sur un échantillon de 8% des logements</li>
+</ul></li>
+<li>Enquête Emploi en Continu</li>
+<li>Loyers et Charges</li>
+<li>Conjoncture auprès des ménages (Camme)</li>
+<li>Statistiques sur les Ressources et Conditions de Vie (SRCV)</li>
+<li>Entrée dans la vie adulte (EVA)</li>
+<li>Technologie de l’Information et de la Communication (TIC)</li>
+</ul>
+<p><span class="emoji" data-emoji="information_source">ℹ️</span> L’INSEE réalise également de nombreuses enquêtes auprès des entreprises.</p>
+</section>
+<section id="les-répertoires" class="level2">
+<h2 class="anchored" data-anchor-id="les-répertoires">Les répertoires</h2>
+<ul>
+<li><a href="https://sirene.fr/" target="_blank">SIRENE</a> : Entreprises privées, publiques, associations</li>
+<li>RNIPP : Répertoire National d’Identification des Personnes Physiques
+<ul>
+<li>fournis le numéro de Sécurité Sociale</li>
+</ul></li>
+<li>REU : Répertoire Electoral Unique
+<ul>
+<li>pour l’inscription sur les listes électorales</li>
+</ul></li>
+<li>COG (<em>prononcé “coge”</em>) : Code Officiel Géographique</li>
+<li>RIL : Répertoire des Immeubles Localisés</li>
+</ul>
+</section>
+<section id="infos-diverses-rh" class="level2">
+<h2 class="anchored" data-anchor-id="infos-diverses-rh">Infos diverses RH</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>Ces informations sont données à titre indicatif, le réglement évolue régulièrement en particulier depuis la pandémie. Ainsi, il est probable qu’elles ne soient pas exacte même si elles donnent les grandes lignes.</em></p>
+</div>
+</div>
+<p><u>Contact RH</u>: contact@csrh-insee.fr</p>
+<section id="horaires-de-travail" class="level3">
+<h3 class="anchored" data-anchor-id="horaires-de-travail">Horaires de travail</h3>
+<p>En général, ils sont assez libres, mais ils peut y avoir des contraintes sur certains postes. La présence est obligatoire sur les plages fixes (un quota mensuel de 3h permet de gérer les imprévus).</p>
+<p>Une journée de travail dure 10h maximum (5h pour une ½ journée). Le supplément éventuel sera écrêté.</p>
+<table class="table">
+<tbody>
+<tr class="odd">
+<td>Plage de travail</td>
+<td>7:00</td>
+<td>19:00</td>
+</tr>
+<tr class="even">
+<td>Plage fixe matin</td>
+<td>9:30</td>
+<td>11:30</td>
+</tr>
+<tr class="odd">
+<td>Plage fixe après-midi</td>
+<td>14:00</td>
+<td>16:00</td>
+</tr>
+</tbody>
+</table>
+<p>La pause méridienne est de 45 min minimum (ramenée à 45 min si inférieure). Interdiction de rester dans l’établissement après 20:00.</p>
+<p><span class="emoji" data-emoji="information_source">ℹ️</span> En général, à la DG, la plupart des agents commencent et finissent tard (9h30-18h00). En DR, c’est plus variable, certains viennent dès 7h pour finir à 16h.</p>
+<section id="compteur-horaire" class="level5">
+<h5 class="anchored" data-anchor-id="compteur-horaire">Compteur horaire</h5>
+<p>Il faut pointer lorsque vous arrivez ou quittez le lieu de travail. Les heures effectuées en plus ou en moins sont comptabilisées sur ce compteur, et à la fin de chaque mois :</p>
+<ul>
+<li>le maximum autorisé est de +12h. S’il y a plus, le supplément est écrêté</li>
+<li>le minimum autorisé est de -12h. S’il y a moins il faut poser des congés pour compenser</li>
+</ul>
+<p>Vous pouvez également poser des journées ou des ½ journées de récupération si votre compteur horaire le permet.</p>
+</section>
+</section>
+<section id="congés-et-cycles-de-travail" class="level3">
+<h3 class="anchored" data-anchor-id="congés-et-cycles-de-travail">Congés et Cycles de travail</h3>
+<p>Les agents ont la possibilité de choisir entre 3 cycles de travail :</p>
+<ul>
+<li>36h00 sur 5 jours, soit 7h12 / jour</li>
+<li>37h30 sur 5 jours, soit 7h30 / jour (cycle de base)</li>
+<li>38h30 sur 5 jours, soit 7h42 / jour</li>
+</ul>
+<table class="table">
+<colgroup>
+<col style="width: 27%">
+<col style="width: 10%">
+<col style="width: 61%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type de congé</th>
+<th>Jours</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Congés Annuels</td>
+<td>25</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>ARTT</td>
+<td>5, 14 ou 19</td>
+<td>Dépend du cycle de travail choisi</td>
+</tr>
+<tr class="odd">
+<td>Jours de Fractionnement</td>
+<td>0, 1 ou 2</td>
+<td>Pour obtenir ces 2 jours, il faut poser au minimum <br> 8 jours de congés entre le 01/11 et le 30/04</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="télétravail" class="level3">
+<h3 class="anchored" data-anchor-id="télétravail">Télétravail</h3>
+<p>Les règles évoluent rapidement dans ce domaine.</p>
+<blockquote class="blockquote">
+<p>Les agents peuvent choisir entre trois régimes :</p>
+<ul>
+<li>aucun jour de télétravail régulier et 30 jours de télétravail ponctuel</li>
+<li>jusqu’à un jour de télétravail régulier et 18 jours de télétravail ponctuel</li>
+<li>jusqu’à deux jours de télétravail régulier et 12 jours de télétravail ponctuel</li>
+</ul>
+</blockquote>
+<p>En tant que nouvel arrivant sur un poste, il est à voir avec votre responsable la quotité de télétravail possible pour les premiers mois.</p>
+</section>
+<section id="paie" class="level3">
+<h3 class="anchored" data-anchor-id="paie">Paie</h3>
+<p>Consulter ses bulletins de paie sur le site <a href="https://ensap.gouv.fr" target="_blank">ensap</a></p>
+</section>
+</section>
+<section id="affectations" class="level2">
+<h2 class="anchored" data-anchor-id="affectations">Affectations</h2>
+<ul>
+<li><a href="https://mobilites.insee.fr/" target="_blank">Application Mouv’In</a></li>
+</ul>
+<p>La campagne de mobilité n’est pas réservée uniquement aux sortants d’école, elle concernent tous les attachés qui souhaitent changer de poste</p>
+<ul>
+<li>Mi-décembre : diffusion de la liste des postes ouverts</li>
+<li>15 décembre - 20 janvier : prises de contacts sur les postes ciblés</li>
+<li>Début janvier : Forum INSEE</li>
+<li>Mi-février : remise d’une liste de voeux</li>
+<li>Mi-avril : liste des affectations</li>
+<li>Septembre : prise de poste</li>
+</ul>
+<p>Il est préconisé pour chacun des 2 premiers postes :</p>
+<ul>
+<li>une durée de 3 ans (4 ans maximum)</li>
+<li>qu’ils soient dans 2 univers différents
+<ul>
+<li>dans différentes directions (DG, DR, SSM)</li>
+<li>et/ou dans différents services
+<ul>
+<li>différents départements de la DG</li>
+<li>en DR (SES, SED, SAR, Informatique)</li>
+</ul></li>
+<li>et/ou dans différentes villes</li>
+</ul></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = true;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/ludo2ne\.github\.io\/ENSAI-3A-Master-STD\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Website built with <a href="https://quarto.org/" class="external" target="_blank">Quarto</a> <br> <a href="https://github.com/ludo2ne/Quarto-tuto" class="external" target="_blank">Code source</a></p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
