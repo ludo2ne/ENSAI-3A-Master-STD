@@ -43,7 +43,7 @@ from: markdown+emoji
 
 ### Écrits
 
-- L'IGPDE fournit les sujets et corrige les copies
+L'IGPDE fournit les sujets et corrige les copies
 
 - Examen Blanc n°1 du 15/09
   - documents autorisés exeptionnellement

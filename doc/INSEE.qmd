@@ -32,18 +32,8 @@ D'autres informations sont disponibles dans les [rapports d'activité annuels](h
 - [Les chiffres sont-ils "neutres" ?](https://www.youtube.com/watch?v=NjJ58IaTmWY&ab_channel=NotaBene){target="_blank"}
 
 
-##### Accéder à l'intranet Symphonie
 
-- [https://intranet.insee.fr/](https://intranet.insee.fr/){target="_blank"}
-- demander un idep et un compte annuaire général à : 
-  - dg57-contact-utilisateurs-informatique@insee.fr
-  - contact-utilisateurs-informatique@insee.fr
-  - mobilite-et-carrieres@insee.fr
-- Cela permet également d'accéder à [Mouv'in](https://mobilites.insee.fr/){target="_blank"}, l'application de gestion des mobilités
-- [Pédagogie, communication institutionnelle et évènements](https://intranet.insee.fr/jcms/c_2108029/pedagogie-communication-institutionnelle-evenements){target="_blank"}
-
-
-##### Outils interactifs
+#### Outils interactifs
 
 - [Classement des prénoms en France depuis 1900](https://www.insee.fr/fr/statistiques/3532172){target="_blank"}
 - [Pyramide des ages](https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm){target="_blank"}
@@ -59,64 +49,99 @@ Aussi dans chacun des établissements régionaux, des agents réalisent des miss
 
 ### Les 7 directions
 
-> Descriptions des directions extraites de l'intranet de l'INSEE
-
 #### Secrétariat Général
 
-Le SG veille à donner à l'Insee les moyens d'accomplir l'ensemble de ses missions. Il a en charge le pilotage et la répartition des ressources de l'Institut (ressources humaines, ressources financières, moyens immobiliers, logistiques ...), à l'exception des ressources informatiques qui sont gérées par la DSI.
+> Le `SG` intervient dans les domaines suivants : 
+>
+> - la gestion des ressources humaines, des conditions de travail, 
+> - le pilotage des ressources financières, des moyens informatiques, immobiliers et logistiques.
+> 
+> Source : [insee.fr](https://www.insee.fr/){target="_blank"}
 
 [Mots clés]{.underline}: RH, Budget, Communication interne, Dialogue social, Affaires juridiques et contentieuses
 
-#### Direction du Système d’Information
+#### Direction du Système d'Information
 
-La DSI pilote, développe et assure le bon fonctionnement et la sécurité du système d'information.
+> La `DSI` :
+> 
+> - pilote et développe le système d'information de l'INSEE,
+> - en élabore la stratégie et le schéma directeur,
+> - en assure la sécurité,
+> - met à disposition l'infrastructure informatique nécessaire au fonctionnement du système d'information.
+> 
+> Source : [insee.fr](https://www.insee.fr/){target="_blank"}
 
 [Mots clés]{.underline}: Infrastructures, Réseaux, Sécurité, Projets informatiques, Développement, Assistance à Maîtrise d'Ouvrage, Innovation
 
 #### Direction de la Méthodologie et de la Coordination Statistique et Internationale
 
-La DMCSI est une direction transversale de l’Insee qui réalise des travaux en propre et qui vient également en appui aux directions thématiques de l’Insee et aux services statistiques ministériels.
-
-Ses orientations sont de :
-- redonner toute leur importance aux méthodes statistiques au sein de l’Institut
-- capitaliser sur les méthodes et accumuler les savoirs
-- travailler à la demande en appui aux processus de production 
-- développer de nouvelles approches, innover (nouvelles sources, datasciences...)
-- se coordonner, au niveau français et au niveau européen voire international
+> La `DMCSI` a pour mission :
+> 
+> - d'élaborer et de promouvoir les bonnes méthodes et pratiques en matière statistique, 
+> - de mettre en place, progressivement et de manière coopérative, un cadre d'assurance qualité,
+> - d'organiser, au sein du service statistique public, la coordination de l'Insee et des services statistiques ministériels aux niveaux national et international,
+> - d'assister le directeur général dans son rôle de coordonnateur des autorités statistiques nationales au sens de la loi européenne,
+> - de promouvoir et d'animer l'innovation au sein du service statistique public.
+> 
+> Source : [insee.fr](https://www.insee.fr/){target="_blank"}
 
 [Mots clés]{.underline}: Méthodes, Démarche qualité, Documentation statistique, Coordination, Sondages, Innovation, [SSP Lab](https://www.insee.fr/fr/information/3559883){target="_blank"}
 
 
 #### Direction des Statistiques Démographiques et Sociales
 
-Bien identifiée par l'indice des prix pour la mesure de l’inflation, le recensement de la population, ou bien l'enquête emploi pour le calcul du chômage, la DSDS produit des données et des études sur des thèmes variés : démographie, transformation des familles, migrations, égalité femmes-hommes, emploi, chômage, formation, salaires et coût du travail, revenus, pauvreté, patrimoines, logement, conditions de vie, prix à la consommation, redistribution, etc. La DSDS est aussi responsable de répertoires administratifs dont la gestion a été confiée à l’Insee par la loi (Répertoire national d’identification des personnes physiques RNIPP, Répertoire électoral unique REU) et de répertoires statistiques et de nomenclatures.
+> La `DSDS` :
+> 
+> - gère le répertoire national d'identification des personnes physiques et le fichier national des électeurs 
+> - conçoit et élabore les statistiques et les études concernant la population, les ménages et le développement social, notamment dans les domaines suivants : démographie, emploi, revenus, patrimoines, prix à la consommation, logement et conditions de vie
+> - établit les populations légales et produit les résultats statistiques du recensement aux plans national et local.
+> 
+> Source : [insee.fr](https://www.insee.fr/){target="_blank"}
 
 [Mots clés]{.underline}: Enquêtes ménages, Études démographiques et sociales, Emploi, Démographie, Ressources et des conditions de vie, Prix à la consommation
 
 
 #### Direction des Statistiques d'Entreprises
 
-La DSE coordonne l'ensemble des statistiques sur le système productif.
-Elle veille notamment à la mise en œuvre des obligations statistiques résultant des principaux règlements européens sur les entreprises et s'assure que tous les moyens sont mis en œuvre pour y parvenir, à l'intérieur comme à l'extérieur de la direction générale. Elle gère les répertoires d'entreprises et d'établissements (répertoire inter-administratif SIRENE et répertoire statistique SIRUS), produit les statistiques de l’industrie, du commerce et des services marchands, gère des bases de données d'entreprises. Elle construit des indicateurs conjoncturels macroéconomiques et participe à l'élaboration des comptes nationaux annuels à un niveau sectoriel détaillé. 
+> La `DSE` coordonne l'ensemble des statistiques sur le système productif.
+> Elle veille notamment à la mise en œuvre des obligations statistiques résultant des principaux règlements européens sur les entreprises et s'assure que tous les moyens sont mis en œuvre pour y parvenir, à l'intérieur comme à l'extérieur de la direction générale. Elle gère les répertoires d'entreprises et d'établissements (répertoire inter-administratif SIRENE et répertoire statistique SIRUS), produit les statistiques de l'industrie, du commerce et des services marchands, gère des bases de données d'entreprises. Elle construit des indicateurs conjoncturels macroéconomiques et participe à l'élaboration des comptes nationaux annuels à un niveau sectoriel détaillé. 
+> 
+> Source : [insee.fr](https://www.insee.fr/){target="_blank"}
 
 [Mots clés]{.underline}: Enquêtes entreprise, Répertoire SIRENE, Statistiques annuelles d'entreprise, Profilage, Synthèses sectorielles
 
 
-#### Direction de la Diffusion et de l’Action Régionale
+#### Direction de la Diffusion et de l'Action Régionale
 
-La DDAR met à disposition de l’ensemble des utilisateurs des produits et services résultant des activités de l’Insee. Elle définit la politique de diffusion et de communication de l’Insee et la met en œuvre. Elle assure la pérennité des travaux de l’Insee en procédant à l’archivage des données et documents produits par l’institut. Elle met à disposition des utilisateurs extérieurs (chercheurs, services statistiques des ministères, organismes divers) des fichiers de données de l’Insee de types très variés (fichiers détails, fichiers de diffusion, produits spécifiques ou sur mesure). Elle fournit les ressources documentaires utiles à l’Institut et donne accès aux publics extérieurs à la plupart des publications de la statistique publique via sa bibliothèque numérique et aux ressources documentaires très riches des collections physiques de la bibliothèque Alain Desrosières.
+> La `DDAR` :
+> - met à disposition de l'ensemble des utilisateurs des produits et services résultant des activités de la statistique publique de l'Insee et des autres services producteurs,
+> - en adéquation avec les attentes des publics, elle en assure la diffusion, la promotion et la distribution,
+> - coordonne l'offre et les activités d'étude et de diffusion des directions régionales de l'Insee : information générale, études réalisées en partenariat avec les acteurs publics en région, conseil et assistance aux décideurs régionaux et locaux.
+> 
+> Source : [insee.fr](https://www.insee.fr/){target="_blank"}
 
 [Mots clés]{.underline}: Action régionale, Communication externe, Insee contact, Offre éditoriale, Diffusions internet, Open Data, 
 
 
 #### Direction des Études et Synthèses Économiques
 
-La DESE a pour mission principale de réaliser et de coordonner à l'Insee des travaux, comptes, études et modèles à finalité macroéconomique permettant de mieux comprendre l'évolution de l'économie française dans son environnement international.
+> La `DESE` :
+> 
+> - élabore et analyse des informations conjoncturelles, 
+> - en fait périodiquement la synthèse, 
+> - produit les comptes nationaux annuels et trimestriels,
+> - conçoit et fait fonctionner des modèles, notamment dans les domaines de la macroéconomie et de la protection sociale. 
+>
+> Elle réalise des études et prévisions économiques et des évaluations de politiques publiques.
+> 
+> Source : [insee.fr](https://www.insee.fr/){target="_blank"}
 
 [Mots clés]{.underline}: Comptes Nationaux, Notes de Conjoncture, Economie et Statistique, Études macroéconomiques
 
 
 ## Les Directions Régionales (DR)
+
+Les locaux de l'INSEE se situent généralement dans les préfectures des régions d'avant 2016, ainsi que dans les DOM.
 
 Pour plus de détails sur la localisation des établissements de l'INSEE, consulter le [rapport annuel d'activités de L'INSEE 2021](https://www.insee.fr/fr/statistiques/fichier/4130132/rapport-activite-insee_2021.pdf){target="_blank"}, page 22
 
@@ -155,8 +180,6 @@ La DR n'est pas toujours localisée dans la plus grande ville, exemple avec la r
 - Le SED est à Bordeaux
 
 
-
-
 ### Les [pôles](https://intranet.insee.fr/jcms/c_2114582/poles-de-l-action-regionale){target="_blank"} et sites
 
 > Descriptions des sites et pôles extraites de l'intranet de l'INSEE
@@ -165,7 +188,7 @@ Dans chaque DR ou établissement, il n'y a pas uniquement des missions régional
 
 #### Site SIRENE
 
-La mission principale du site est l’immatriculation des entreprises, qui consiste à leur attribuer des numéros SIREN et SIRET et un code APE, déterminé d’après la nomenclature d’activités française (NAF). Le site traite aussi des déclarations administratives telles que des changements de dénomination, d’adresse, de catégorie juridique, d’activité...
+La mission principale du site est l'immatriculation des entreprises, qui consiste à leur attribuer des numéros SIREN et SIRET et un code APE, déterminé d'après la nomenclature d'activités française (NAF). Le site traite aussi des déclarations administratives telles que des changements de dénomination, d'adresse, de catégorie juridique, d'activité...
 
 - [Connaître et comprendre le répertoire Sirene](https://www.insee.fr/fr/information/1972043){target="_blank"}
 - [Trajectoires d'entreprise](https://intranet.insee.fr/jcms/1630168_DBFileDocument/trajectoires-d-entreprise){target="_blank"} (intranet insee)
@@ -182,8 +205,6 @@ La mission principale du site est l’immatriculation des entreprises, qui consi
 - gère les enquêtes de fréquentation (hôtellerie et camping)
 - et la mise à jour du parc des hébergements (hôtels et campings)
 
-Le Pôle national Tourisme est installé à la Direction Régionale Occitanie.
-
 
 #### Site Réseau Enquêteurs Entreprises 
 
@@ -196,24 +217,21 @@ Le Pôle national Tourisme est installé à la Direction Régionale Occitanie.
 
 Ses missions principales sont d'une part de formaliser les achats et suivre la liquidation de la dépense, d'autre part d'établir les ordres de mission et les états de frais des agents, enquêteurs et superviseurs.
 
-Localisations : Amiens, Limoges et Reims
-
 
 #### Site BRPP
 
-Il gère la mise à jour du répertoire d’identification des personnes physiques avec des données d’état civil (naissances, décès, mariages, conclusions et dissolutions de pacs). Ce répertoire doit être l’image des registres d’état civil détenus par les mairies. L’équipe est chargée, entre autres, de contrôler la cohérence et la qualité des données, l'exhaustivité des actes transmis, de s’assurer des délais de transmission.
-
+Il gère la mise à jour du répertoire d'identification des personnes physiques avec des données d'état civil (naissances, décès, mariages, conclusions et dissolutions de pacs). Ce répertoire doit être l'image des registres d'état civil détenus par les mairies. L'équipe est chargée, entre autres, de contrôler la cohérence et la qualité des données, l'exhaustivité des actes transmis, de s'assurer des délais de transmission.
 
 
 #### Pôle de Service pour l'Action Régionale (PSAR)
 
-Le PSAR a pour mission de fournir au réseau de l’action régionale des prestations de nature à faciliter la réalisation de synthèses et diagnostics de territoire par les directions régionales, dans le cadre du service spécifique rendu à leurs partenaires, acteurs publics du développement local.
+Le PSAR a pour mission de fournir au réseau de l'action régionale des prestations de nature à faciliter la réalisation de synthèses et diagnostics de territoire par les directions régionales, dans le cadre du service spécifique rendu à leurs partenaires, acteurs publics du développement local.
 
 L'activité du PSAR relève de trois domaines qui se recoupent en partie :
 
 - il produit des investissements (le principal outil développé et maintenu sous la responsabilité du Psar est le « kit synthèses locales »)
 - il intervient dans le champ de la méthodologie 
-- il assure une fonction d’animation et de formation autour des synthèses et diagnostics de territoire.
+- il assure une fonction d'animation et de formation autour des synthèses et diagnostics de territoire.
 
 Les PSAR :
 
@@ -223,15 +241,13 @@ Les PSAR :
 - PSAR Études Économiques Régionales (Toulouse)
 
 
----
-
 ## Les Services Statistiques Ministériels (SSM)
 
 De très nombreux postes sont réservés aux agents de l'INSEE dans différents ministères. Voici les principaux SSM :
 
 - DARES (Direction de l'Animation, de la Recherche, des Études et des Statistiques)
-- DEPP (Direction de l’Évaluation, de la Prospective et de la Performance)
-  - SSM en charge des statistiques sur l’éducation
+- DEPP (Direction de l'Évaluation, de la Prospective et de la Performance)
+  - SSM en charge des statistiques sur l'éducation
 - DESF (Département des Études et Statistiques Fiscales)
   - SSM de la de la `DGFIP` (Direction Générale des Finances Publiques)
   - SSM du ministère du Travail
@@ -240,51 +256,16 @@ De très nombreux postes sont réservés aux agents de l'INSEE dans différents 
 - DSECE (Département des Statistiques et des Études du Commerce Extérieur)
   - SSM chargé du commerce extérieur et des douanes
 - DSED (Département des Statistiques, des Études et de la Documentation)
-  - SSM sur le sujet de l’Immigration et de l’Intégration
+  - SSM sur le sujet de l'Immigration et de l'Intégration
 - MEDES (Mission des Enquêtes, Données et Études Statistiques)
   - SSM chargé de la jeunesse et des sports
 - SDES
-  - `DREAL` : (Direction Régionale de l'Environnement, de l’Aménagement et du Logement)
+  - `DREAL` : (Direction Régionale de l'Environnement, de l'Aménagement et du Logement)
 - SIES (Sous-direction des systèmes d'Information et des Études Statistiques)
-  - SSM chargé de l’enseignement supérieur et de la recherche
+  - SSM chargé de l'enseignement supérieur et de la recherche
 - SRISE (Services Régionaux de l'Information Statistique et Économique)
   - Directions régionales de l'Alimentation, de l'Agriculture et de la Forêt (`DRAAF`)
 - SSMSI (Service Statistique Ministériel de la Sécurité Intérieure)
-
-
-
-## L'informatique à l'INSEE
-
-::: {.callout-note}
-**Quelques chiffres :**
-
-- Environs 450 personnes travaillent dans ce domaine
-- Langages principaux : Java (back-end) et JavaScript React (front-end)
-- Plus de 100 applications à maintenir
-:::
-
-La DSI est divisée en 3 départements :
-
-- Développement
-  - 4 Services Nationaux de Développement Informatique (SNDI) à Lille, Nantes, Orléans et Paris
-  - Division Assistance à Maîtrise d'Ouvrage
-  - Division Animation et Conseil
-- Production et Infrastructures
-  - Division Architecture Applicative de Production (DAAP)
-  - Le Centre d'Exploitation Informatique (CEI) de Metz
-  - Cellule Réseaux et Télécommunications
-  - Service National des Supports Informatiques (SNSI) de Nantes
-- Innovation et stratégie de Système d'information
-  - Division Urbanisation du SI
-  - DIvision Sécurité et Maîtrise des risques
-
-
-La majorité des projets se font en mode Agile avec la méthode SCRUM. Les grands projets en cours :
-
-- Edifice (Migration de Datacenter)
-- Prisme (Collecte et Indice des Prix)
-- Metallica (Outils pour les enquêtes ménages et entreprises)
-- Sirene 4
 
 
 ## Les principales enquêtes
@@ -301,117 +282,17 @@ Voici quelques exemples d'enquêtes réalisées auprès des ménages :
 - Entrée dans la vie adulte (EVA)
 - Technologie de l'Information et de la Communication (TIC)
 
-
-:information_source: L'INSEE réalise également de nombreuses enquêtes auprès des entreprises.
+::: {.callout-tip}
+L'INSEE réalise également de nombreuses enquêtes auprès des entreprises.
+:::
 
 
 ## Les répertoires 
 
 - [SIRENE](https://sirene.fr/){target="_blank"} : Entreprises privées, publiques, associations
-- RNIPP : Répertoire National d’Identification des Personnes Physiques
+- RNIPP : Répertoire National d'Identification des Personnes Physiques
   - fournis le numéro de Sécurité Sociale
 - REU : Répertoire Electoral Unique
   - pour l'inscription sur les listes électorales
 - COG (*prononcé "coge"*) : Code Officiel Géographique
 - RIL : Répertoire des Immeubles Localisés
-
-
-
-## Infos diverses RH
-
-:::{.callout-note}
-*Ces informations sont données à titre indicatif, le réglement évolue régulièrement en particulier depuis la pandémie. Ainsi, il est probable qu'elles ne soient pas exacte même si elles donnent les grandes lignes.*
-:::
-
-[Contact RH]{.underline}: contact@csrh-insee.fr
-
-### Horaires de travail
-
-En général, ils sont assez libres, mais ils peut y avoir des contraintes sur certains postes. La présence est obligatoire sur les plages fixes (un quota mensuel de 3h permet de gérer les imprévus).
-
-Une journée de travail dure 10h maximum (5h pour une ½ journée). Le supplément éventuel sera écrêté.
-
-| | | |
-| --------------------------------------- | ------ |------- |
-| Plage de travail                        | 7:00   | 19:00  |
-| Plage fixe matin                        | 9:30   | 11:30  |
-| Plage fixe après-midi                   | 14:00  | 16:00  |
-
-La pause méridienne est de 45 min minimum (ramenée à 45 min si inférieure).
-Interdiction de rester dans l'établissement après 20:00.
-
-:information_source: En général, à la DG, la plupart des agents commencent et finissent tard (9h30-18h00). En DR, c'est plus variable, certains viennent dès 7h pour finir à 16h.
-
-##### Compteur horaire
-
-Il faut pointer lorsque vous arrivez ou quittez le lieu de travail. Les heures effectuées en plus ou en moins sont comptabilisées sur ce compteur, et à la fin de chaque mois :
-
-- le maximum autorisé est de +12h. S'il y a plus, le supplément est écrêté
-- le minimum autorisé est de -12h. S'il y a moins il faut poser des congés pour compenser
-
-Vous pouvez également poser des journées ou des ½ journées de récupération si votre compteur horaire le permet.
-
-
-
-
-### Congés et Cycles de travail
-
-Les agents ont la possibilité de choisir entre 3 cycles de travail :
-
-- 36h00 sur 5 jours, soit 7h12 / jour
-- 37h30 sur 5 jours, soit 7h30 / jour (cycle de base)
-- 38h30 sur 5 jours, soit 7h42 / jour
-
-
-
-| Type de congé                 | Jours       |                                                                  |
-| ----------------------------- | ----------- | ---------------------------------------------------------------- |
-| Congés Annuels                | 25          |                                                                  |
-| ARTT                          | 5, 14 ou 19 | Dépend du cycle de travail choisi         |
-| Jours de Fractionnement       | 0, 1 ou 2   | Pour obtenir ces 2 jours, il faut poser au minimum <br> 8 jours de congés entre le 01/11 et le 30/04 |
-
-
-### Télétravail 
-
-Les règles évoluent rapidement dans ce domaine.
-
-
-> Les agents peuvent choisir entre trois régimes :
-> 
-> - aucun jour de télétravail régulier et 30 jours de télétravail ponctuel
-> - jusqu’à un jour de télétravail régulier et 18 jours de télétravail ponctuel
-> - jusqu’à deux jours de télétravail régulier et 12 jours de télétravail ponctuel
-
-En tant que nouvel arrivant sur un poste, il est à voir avec votre responsable la quotité de télétravail possible pour les premiers mois.
-
-### Paie
-
-Consulter ses bulletins de paie sur le site [ensap](https://ensap.gouv.fr){target="_blank"}
-
-
-## Affectations
-
-- [Application Mouv'In](https://mobilites.insee.fr/){target="_blank"}
-
-La campagne de mobilité n'est pas réservée uniquement aux sortants d'école, elle concernent tous les attachés qui souhaitent changer de poste
-
-- Mi-décembre : diffusion de la liste des postes ouverts
-- 15 décembre - 20 janvier : prises de contacts sur les postes ciblés
-- Début janvier : Forum INSEE
-- Mi-février : remise d'une liste de voeux
-- Mi-avril : liste des affectations
-- Septembre : prise de poste
-
-Il est préconisé pour chacun des 2 premiers postes :
-
-- une durée de 3 ans (4 ans maximum) 
-- qu'ils soient dans 2 univers différents
-  - dans différentes directions (DG, DR, SSM)
-  - et/ou dans différents services
-      - différents départements de la DG
-      - en DR (SES, SED, SAR, Informatique)
-  - et/ou dans différentes villes
-
-
-
-
