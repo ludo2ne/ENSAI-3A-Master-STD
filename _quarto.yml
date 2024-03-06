@@ -11,22 +11,32 @@ website:
         text: Home
       - href: doc/presentation.qmd
         text: Présentation
-      - href: doc/accueil.qmd
-        text: Accueil
-      - href: doc/cours.qmd
-        text: Cours
-      - href: doc/examen-analyste.qmd
-        text: Analyste
-      - href: doc/stage.qmd
-        text: Stage
-      - href: doc/INSEE.qmd
-        text: l'INSEE
-      - href: doc/DSI.qmd
-        text: la DSI
+      - text: Le Master
+        menu:
+          - href: doc/accueil.qmd
+            text: Accueil
+          - href: doc/cours.qmd
+            text: Les cours
+          - href: doc/examen-analyste.qmd
+            text: L'examen d'Analyste
+          - href: doc/stage.qmd
+            text: Le Stage
+      - text: L'INSEE
+        menu:
+          - href: doc/INSEE.qmd
+            text: Focus sur l'INSEE
+          - href: doc/DSI.qmd
+            text: la DSI
+    right:
+      - icon: github
+        href: https://github.com/ludo2ne/ENSAI-3A-Master-STD
+        target: "_blank"
   page-footer:
     right: |
       Website built with [Quarto](https://quarto.org/){.external target="_blank"} <br>
-      [Code source](https://github.com/ludo2ne/Quarto-tuto){.external target="_blank"}
+      [Code source](https://github.com/ludo2ne/ENSAI-3A-Master-STD){.external target="_blank"}
+  repo-url: https://github.com/ludo2ne/ENSAI-3A-Master-STD
+  repo-branch: main
   reader-mode: true
 
 format:

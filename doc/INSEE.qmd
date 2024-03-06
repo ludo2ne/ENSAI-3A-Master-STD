@@ -1,6 +1,6 @@
 ---
 title: "Focus sur l'INSEE"
-description: "Cours du Master STD"
+description: "Un bref aperçu de l'INSEE, son organisation et ses travaux"
 author: "Ludovic Deneuville"
 format:
   html:
