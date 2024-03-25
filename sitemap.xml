@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/examen-analyste.html</loc>
-    <lastmod>2024-03-06T14:29:28.300Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/INSEE.html</loc>
-    <lastmod>2024-03-06T14:29:28.300Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/DSI.html</loc>
-    <lastmod>2024-03-06T14:29:28.300Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/cours.html</loc>
-    <lastmod>2024-03-06T14:29:28.300Z</lastmod>
-  </url>
-  <url>
     <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/index.html</loc>
-    <lastmod>2024-03-06T14:29:28.300Z</lastmod>
+    <lastmod>2024-03-25T14:26:11.986Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/examen-analyste.html</loc>
+    <lastmod>2024-03-25T14:26:11.986Z</lastmod>
   </url>
   <url>
     <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/presentation.html</loc>
-    <lastmod>2024-03-06T14:29:28.300Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/accueil.html</loc>
-    <lastmod>2024-03-06T14:29:28.300Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/stage-slide.html</loc>
-    <lastmod>2024-03-06T14:29:28.300Z</lastmod>
+    <lastmod>2024-03-25T14:26:11.986Z</lastmod>
   </url>
   <url>
     <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/stage.html</loc>
-    <lastmod>2024-03-06T14:29:28.300Z</lastmod>
+    <lastmod>2024-03-25T14:26:11.986Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/stage-slide.html</loc>
+    <lastmod>2024-03-25T14:26:11.986Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/cours.html</loc>
+    <lastmod>2024-03-25T14:26:11.986Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/accueil.html</loc>
+    <lastmod>2024-03-25T14:26:11.986Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/INSEE.html</loc>
+    <lastmod>2024-03-25T14:26:11.986Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ludo2ne.github.io/ENSAI-3A-Master-STD/doc/DSI.html</loc>
+    <lastmod>2024-03-25T14:26:11.986Z</lastmod>
   </url>
 </urlset>
