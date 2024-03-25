@@ -50,7 +50,6 @@ Le programme complet est consultable sur la page du [Master Statistique des Donn
 | Atelier               | 12h                                         |
 | Langue                | Anglais                                     |
 
-
 - [ ] Collecter des données
 - [ ] Extraire de l'information et apparier des sources textuelles
 - [ ] Classification, Analyse de sentiment
@@ -70,7 +69,6 @@ Le programme complet est consultable sur la page du [Master Statistique des Donn
 | Atelier              | 24h                                            |
 | Commun avec les ID   | Oui                                            |
 
-
 - [ ] Patrons de conception, Bonnes pratiques
 - [ ] Contenerisation et Orchestration
 - [ ] Tests, TDD, Couverture de tests
@@ -78,12 +76,11 @@ Le programme complet est consultable sur la page du [Master Statistique des Donn
 - [ ] Java - Maven - Spring Boot - JPA - Hibernate
 - [ ] Cloud avec AWS (s3, RDS, Elastic Beanstalk)
 
-Cours de Djamel
-- 15min au début puis laisse faire
-
 [Cours de Rémi (2023)](https://ensai-school.github.io/software-engineering-2021-2022/){.external target="_blank"}
 
 ### Développement Web
+
+Les élèves doivent choisir entre ce cours et celui de *DataOps*.
 
 |                      |                                                |
 |----------------------|------------------------------------------------|
@@ -97,8 +94,9 @@ Cours de Djamel
 - [ ] PHP, MySQL, MariaDB
 - [ ] AJAX, JavaScript (Angular, React, Vue.JS)
 
-
 ### DataOps
+
+Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 
 |                      |                                                             |
 |----------------------|-------------------------------------------------------------|
@@ -107,16 +105,12 @@ Cours de Djamel
 | Langue               | Anglais                                                     |
 | Commun avec les ID   | Oui                                                         |
 
-
 - [ ] DataOps, MLOps et DevOps
 - [ ] AWS Cloud platform
 - [ ] Infrastructure as Code 
 - [ ] CI/CD
 - [ ] Docker, Kubernetes 
-- [ ] Data pipelines et data observability 
-
-
-:construction: Lien vers le cours ?
+- [ ] Data pipelines et data observability
 
 ---
 
@@ -150,13 +144,6 @@ Cours de Djamel
 - [ ] Crawler
 - [ ] Construire un index web
 
----
-
-arrive, envoi le cours, le tp et se met dans son coin
-3 tp notés en 3 semaines, un peu trop
-
-:construction: Lien vers le cours ?
-
 ### Publication de données respectueuses
 
 |                      |                             |
@@ -165,11 +152,11 @@ arrive, envoi le cours, le tp et se met dans son coin
 |                      | Julien Jamme                |
 | Cours                | 9h                          |
 | Langue               | Français                    |
+| Commun avec les ID   | Oui                         |
 
 - https://fr.wikipedia.org/wiki/K-anonymisation
 - https://www.kaggle.com/code/kelvar/mondrian-algorithm
 - https://fr.wikipedia.org/wiki/Confidentialit%C3%A9_diff%C3%A9rentielle
-
 
 ---
 
@@ -185,7 +172,7 @@ arrive, envoi le cours, le tp et se met dans son coin
 | Langue               | Français                                 |
 
 
-- [ ] ligne de commande Bash
+- [ ] Ligne de commande Bash
 - [ ] Scripting
 
 ### Réseaux et Systèmes d'exploitation
@@ -196,7 +183,6 @@ arrive, envoi le cours, le tp et se met dans son coin
 | Cours                | 15h                                      |
 | Ateliers             | 6h                                       |
 | Langue               | Français                                 |
-
 
 ### Systèmes répartis
 
@@ -239,14 +225,11 @@ arrive, envoi le cours, le tp et se met dans son coin
 
 ### Environnement informatique ministériel et interministériel
 
-
 |             |                          |
 |-------------|--------------------------|
 | Enseignant  | Sophie Ronfle            |
 | Cours       | 18h                      |
 | Langue      | Français                 |
-
-
 
 ---
 
@@ -262,6 +245,8 @@ arrive, envoi le cours, le tp et se met dans son coin
 
 
 ### Anglais
+
+---
 
 ## UE7 Stage
 

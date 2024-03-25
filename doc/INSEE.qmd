@@ -33,8 +33,9 @@ D'autres informations sont disponibles dans les [rapports d'activité annuels](h
 
 
 
-#### Outils interactifs
+#### Ressources pédagogiques et outils interactifs
 
+- [Découvrir, apprendre, enseigner](https://www.insee.fr/fr/information/2021852){target="_blank"}
 - [Classement des prénoms en France depuis 1900](https://www.insee.fr/fr/statistiques/3532172){target="_blank"}
 - [Pyramide des ages](https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm){target="_blank"}
 - [Datavisualisation des salaires](https://www.insee.fr/fr/outil-interactif/5369554/index.html){target="_blank"}

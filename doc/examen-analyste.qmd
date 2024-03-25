@@ -10,10 +10,23 @@ format:
 from: markdown+emoji
 ---
 
+## Présentation
+
+Cet examen permet de valider vos connaissances dans le domaine du traitement de l'information. Sa réussite vous confére la qualification d'Analyste-développeur à vie.  
+
+Cette qualification vous permet :
+
+- d'obtenir une prime supplémentaire mensuelle si vous êtes affecté sur un poste informatique
+- d'accéder aux qualifications PSE et Chef de projet 
+
+Il y a 2 épreuves à réussir (note ≥ 10) pour obtenir la qualification :
+
+- épreuve écrite : étude d'un cas d'automatisation + dossier technique
+- épreuve orale : présentation d'un sujet tiré au sort, puis questions du jury
 
 ## Liens
 
-- [Page examen](https://www.economie.gouv.fr/recrutement/analyste-developpeur-examen-professionnel){target="_blank"}
+- [Page examen](https://www.economie.gouv.fr/recrutement/analyste-developpeur-examen-professionnel){target="_blank"} (Calendrier, infos, annales, rapports du jury...)
 - [Inscription](https://concours-sg.finances.gouv.fr/){target="_blank"}
 
 
@@ -45,50 +58,90 @@ from: markdown+emoji
 
 L'IGPDE fournit les sujets et corrige les copies
 
-- Examen Blanc n°1 du 15/09
-  - documents autorisés exeptionnellement
-- Examen Blanc n°2
-  - sans documents
-- Examen Blanc n°3
-  - sans documents
+- Examen Blanc n°1 du 15/09/23
+- Examen Blanc n°2 du 17/10/23
+- Examen Blanc n°3 du 14/11/23
+- Examen Blanc n°4 du 11/12/23
 
 
 ### Oraux
 
 Les oraux blancs ont lieu en présentiel à l'IGPDE :
-```
-IGPDE
-20, allée Georges Pompidou 
-94300 VINCENNES 
-(RER A Vincennes / Metro 1 Château de Vincennes)
-```
 
-- Oraux Blancs n°1 du 06/12
-- Oraux Blancs n°2 du 22/01
-- Oraux Blancs n°3 du 14/02
+::: {.callout-note title="Adresse et Trajet"}
+IGPDE  
+20, allée Georges Pompidou  
+94300 VINCENNES  
 
+- RER A (Vincennes) ou Metro 1 (Château de Vincennes)
+- Depuis Montparnasse (35 min)
+  - Métro 4 :arrow_right: Chatelet Les Halles :arrow_right: RER A
+:::
+
+- Oral Blanc n°1 du 06/12/23
+- Oral Blanc n°2 du 22/01/24
+- Oral Blanc n°3 du 14/02/24
+
+::: {.callout-tip}
+- Présenter convocation + une pièce d’identité pour accéder au batiment
+- Restaurant administratif dans le batiment ouvert de 11h45 à 14h00 (présenter convocation pour avoir un tarif réduit)
+- Espace convivialité au 3ème étage, cafétéria au rdc, centre de documentation au 4ème étage
+:::
+
+#### Déroulement d'un oral
+
+1. Tirage au sort des sujets 
+	- Bureau 7120 (Christine Gaillard et Marion Bourdin) 
+	- 5 minutes avant le début de votre préparation (ex : 8h55 si début à 9h) 
+2. Préparation de votre présentation 
+	- à la salle indiquée sur le planning
+	- durée : 30 minutes
+	- Du brouillon est à disposition. Pensez à prendre une montre ou un chronométre
+3. Passage devant le jury + débriefing :
+	- Salle indiquée sur les plannings
+	- 10 minutes de présentation (bien respecter le temps imparti !)
+	- 20 minutes de questions-réponses  
+	- 20 minutes de débriefing  
+
+
+
+---
 
 ## Examen
 
+### Calendrier 2024 (1ere session)
+
 - 12/10/2023 : ouverture des inscriptions
 - 16/11/2023 : cloture des inscriptions
+- 11/01/2024 : épreuve écrite
+- à partir du 11/03/2024 : épreuve orale
 
 ### Écrit
 
+::: {.callout-note title="Adresse et Trajet"}
+Centrex  
+2 Rue de la Butte Verte  
+93160 NOISY-LE-GRAND  
+
+- RER A Noisy-Champs
+- Depuis Montparnasse (50min)
+  - Métro 4 :arrow_right: Chatelet Les Halles :arrow_right: RER A :arrow_right: Noisy Champs
+:::
+
 - Jeudi 11 janvier 2024
-  - Centrex, 2 Rue de la Butte Verte, 93160 NOISY-LE-GRAND (RER A Noisy-Champs)
   - Début de l'épreuve : 9h45
   - Fin de l'épreuve : 15h45
-- Mission
-  - Rennes - Paris Montparnasse : 6h35 - 8h15
-  - Paris Montparnasse - Noisy Champs (50min, Métro 4 :arrow_right: Chatelet Les Halles :arrow_right: RER A)
-  - Paris - Rennes : 18h00 - 19h25
 
 
 ### Oral
 
 - À partir du 11 mars 2024
-- immeuble Atrium, place des Vins-de-France, 75573 PARIS
+
+::: {.callout-note title="Adresse et Trajet"}
+Immeuble Atrium  
+Place des Vins-de-France  
+75573 PARIS
+:::
 
 
 ## Semaine à la DG
