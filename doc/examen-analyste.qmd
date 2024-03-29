@@ -155,4 +155,54 @@ Place des Vins-de-France
 
 ## Missions
 
-:construction: TODO : Protocole le plus clair et simple possible pour les élèves et l'ENSAI
+::: {.callout-caution}
+Vous aurez 2 types de missions différents qui ne donnent pas lieu aux mêmes prises en charge :
+
+- `formation` (oraux blanc, semaine DG) :arrow_right: tous les frais sont pris en charge : transport, repas, nuitées
+- `concours / examens` (examens écrit et oral) :arrow_right: seul le transport aller/retour est remboursé par l'ENSAI
+
+:::
+
+### Ordre de Mission
+
+Avant de partir en mission, il est impératif d'être couvert par un `Ordre de Mission` (OM).
+
+Pour obtenir cet OM, vous devez préalablement remplir une `demande d'OM`, au plus tard 10 jours avant le début de la mission. Cette fiche liste tous les élèments permettant de définir la mission :
+
+- Nom, prénom, tél, mail
+- Lieu de départ, dates de départ et de retour
+- Motif, lieu et durée de la mission
+  - il faut joindre un justificatif de mission (convocation, justificatif d'inscription...)
+- Détailler les trajets pour se rendre sur le lieu de la mission (pas besoin de détailler métro, rer, bus)
+- Signer, et faire signer par la direction des études [ET]{.underline} le secrétariat général
+
+Une fois que tout est bien rempli, vous pouvez envoyer votre demande d'OM et la convocation sur la boite fonctionnelle *mission*.
+
+::: {.callout-important title="Cochez les bonnes cases"}
+Vous avez 2 possibilités pour vos billets de train :
+
+1. Vous achetez vous-même les billets et demanderez ensuite le remboursement
+  - Billet à commander : NON
+  - Billet à rembourser : OUI
+2. Vous demander à l'ENSAI de commander vos billets
+  - Billet à commander : OUI
+  - Billet à rembourser : NON
+  - dans ce cas, votre demande d'OM doit arriver au minimum 15 jours avant le début de la mission
+
+Cochez la case *Metro / RER / Bus* si nécessaire pour votre trajet.
+:::
+
+
+### Remboursement de frais
+
+Il est important de demander et conserver tous les justificatifs originaux de frais (ticket repas, ticket métro, facture hôtel...).
+
+A votre retour de mission, envoyez sans tarder le tout aux gestionnaires.
+
+
+- Repas
+  - Si arrivée la veille : repas du soir : 20€
+  - Le midi :
+    - 10€ si repas dans un restaurant administratif
+    - 20€ si repas à l'extérieur
+  - Si retour de mission après 20h, repas du soir : 20€

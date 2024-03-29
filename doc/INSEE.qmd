@@ -20,25 +20,47 @@ D'autres informations sont disponibles dans les [rapports d'activité annuels](h
 ## Quelques liens 
 
 - [https://www.insee.fr/](https://www.insee.fr/){target="_blank"}
-- [Réseau des Datascientists de la Statistique Publique](https://ssphub.netlify.app/){target="_blank"}
+- [Réseau des Datascientists de la Statistique Publique](https://ssphub.netlify.app/){target="_blank"} (SSPHub)
+  - :bulb: abonnez-vous à la [newletter](https://framaforms.org/integration-reseau-des-data-scientists-1676407156){target="_blank"}
 - [Blog de l'INSEE](https://blog.insee.fr/){target="_blank"}
 - [Twitter](https://twitter.com/InseeFr){target="_blank"}, il existe également de nombreux fils régionaux, par exemple : 
   - [Insee en région](https://twitter.com/inseeregions){target="_blank"}
   - [Hauts-de-France](https://twitter.com/InseeHdF){target="_blank"}
   - [Bretagne](https://twitter.com/InseeBretagne){target="_blank"}
-- [Youtube](https://www.youtube.com/channel/UChCCvJTbZEYsCXyfu27eQ6g/videos){target="_blank"}
 - [https://statistiques-locales.insee.fr/](https://statistiques-locales.insee.fr/){target="_blank"}
-- [René Carmille, un hacker sous l'Occupation](https://www.youtube.com/watch?v=IxYg3tdHTY0){target="_blank"} : documentaire sur la création en 1941 du Service National des Statistiques qui deviendra l'INSEE quelques années plus tard
-- [Les chiffres sont-ils "neutres" ?](https://www.youtube.com/watch?v=NjJ58IaTmWY&ab_channel=NotaBene){target="_blank"}
 
 
 
-#### Ressources pédagogiques et outils interactifs
+### Ressources pédagogiques et outils interactifs
 
 - [Découvrir, apprendre, enseigner](https://www.insee.fr/fr/information/2021852){target="_blank"}
 - [Classement des prénoms en France depuis 1900](https://www.insee.fr/fr/statistiques/3532172){target="_blank"}
 - [Pyramide des ages](https://www.insee.fr/fr/outil-interactif/5014911/pyramide.htm){target="_blank"}
 - [Datavisualisation des salaires](https://www.insee.fr/fr/outil-interactif/5369554/index.html){target="_blank"}
+
+### Vidéos
+
+- [Chaine Youtube INSEE](https://www.youtube.com/channel/UChCCvJTbZEYsCXyfu27eQ6g/videos){target="_blank"}
+
+De nombreuses playlists expliquent simplement différents concepts, par exemple : 
+
+- [Ressources pédagogiques](https://www.youtube.com/watch?v=TLh4gj95eI8&list=PLLfRO44HULrkHDMWa00-MXB4LhqKA8o7k&index=2&ab_channel=Insee-InstitutnationaldelaStatistiqueetdes%C3%89tudes%C3%A9conomiques){target="_blank"}
+- [Explique moi l'éco](https://www.youtube.com/watch?v=_swQ2-VLYIs&list=PLLfRO44HULrnrLxJ5yGrcDXCnxOIIjDPe&ab_channel=Insee-InstitutnationaldelaStatistiqueetdes%C3%89tudes%C3%A9conomiques)
+
+
+
+#### René Carmille, un hacker sous l'Occupation
+
+Documentaire sur la création en 1941 du Service National des Statistiques qui deviendra l'INSEE quelques années plus tard
+
+{{< video https://www.youtube.com/watch?v=IxYg3tdHTY0 >}}
+
+
+#### Les chiffres sont-ils "neutres" ?
+
+par NotaBene
+
+{{< video https://www.youtube.com/watch?v=NjJ58IaTmWY&ab_channel=NotaBene >}}
 
 
 ## La Direction Générale (DG)
