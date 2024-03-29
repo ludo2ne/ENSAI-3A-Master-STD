@@ -70,18 +70,25 @@
     "text": "Missions\n🚧 TODO : Protocole le plus clair et simple possible pour les élèves et l’ENSAI"
   },
   {
+    "objectID": "doc/presentation.html#sommaire",
+    "href": "doc/presentation.html#sommaire",
+    "title": "Présentation Master STD",
+    "section": "Sommaire",
+    "text": "Sommaire\n\nLa DSI de l’INSEE\nMatières étudiées à l’ENSAI\nTechnologies\nDevOps"
+  },
+  {
     "objectID": "doc/presentation.html#dsi-de-linsee",
     "href": "doc/presentation.html#dsi-de-linsee",
     "title": "Présentation Master STD",
     "section": "DSI de l’INSEE",
-    "text": "DSI de l’INSEE\n\nDéveloppement d’applications\nProduction, Infrastructure, Architecture, Réseaux\nInnovation, Sécurité, Stratégie"
+    "text": "DSI de l’INSEE\n\nDéveloppement d’applications\nProduction, Infrastructure, Architecture, Réseaux\nSécurité, Stratégie\nInnovation, État de l’art\n\n\n\nWEB4G : insee.fr\nRESIL : répertoire Statistique des Individus et des Logements\nSIRENE : répertoire d’entreprises\nNAUTILE : tirage d’échantillon\nMETALLICA : enquêtes ménages (conception, suivi, collecte)\n\nplus de 100 applications (gestion de répertoire, intégration de fichiers, organisation, outils internes)"
   },
   {
     "objectID": "doc/presentation.html#dsi-de-linsee-1",
     "href": "doc/presentation.html#dsi-de-linsee-1",
     "title": "Présentation Master STD",
     "section": "DSI de l’INSEE",
-    "text": "DSI de l’INSEE\n\neffectifs 2022 : 428\n\neffectifs INSEE 2022 : 5027\n240 développeurs et développeuses\n\nParis, Nantes, Lille, Orléans, Metz…"
+    "text": "DSI de l’INSEE\n\nEffectifs 2022 : 428\n\neffectifs INSEE 2022 : 5027\n240 développeurs et développeuses\n\nParis, Nantes, Lille, Orléans, Metz…\n\n\nPlus d’hommes que de femmes mais elles sont souvent très motivées, efficaces.\nPas là pour enfiler des perles"
   },
   {
     "objectID": "doc/presentation.html#exemple-de-métiers-à-linsee",
@@ -95,28 +102,28 @@
     "href": "doc/presentation.html#domaines-étudiés-en-std",
     "title": "Présentation Master STD",
     "section": "Domaines étudiés en STD",
-    "text": "Domaines étudiés en STD\n\nGénie Logiciel, DevOps\nBig Data, Cloud\nSystème, Réseaux, Sécurité\nMachine Learning\nGestion de projet"
+    "text": "Domaines étudiés en STD\n\nGénie Logiciel, DevOps\nBig Data, Cloud\nSystème, Réseaux, Sécurité\nMachine Learning\nGestion de projet\n\n\n🎯 avoir une culture informatique\nIntervenants venant du monde professionnel\nExamen Analyste"
   },
   {
     "objectID": "doc/presentation.html#technologies-clés",
     "href": "doc/presentation.html#technologies-clés",
     "title": "Présentation Master STD",
     "section": "Technologies clés",
-    "text": "Technologies clés\n\nJava : back\n\nPython : ça arrive…\n\nJavaScript React : front\nGit, GitLab, GitHub\nCI/CD\nDocker, Kubernetes : Conteneurisation, Orchestration"
+    "text": "Technologies clés\n\nJava : back\n\nPython : ça arrive…\n\nJavaScript React : front\nGit, GitLab, GitHub\nCI/CD, Qualimétrie\nDocker, Kubernetes : Conteneurisation, Orchestration\n\n\nAvant tout ça :\n\ncoder sur sa machine\nlancer les tests\ncréer un zip\nse connecter au serveur de dev, arrêter\ndéposer le zip, redémarrer\n\nça marche sur ma machine et pas sur le serveur…"
   },
   {
     "objectID": "doc/presentation.html#devops-à-linsee",
     "href": "doc/presentation.html#devops-à-linsee",
     "title": "Présentation Master STD",
     "section": "DevOps à l’Insee",
-    "text": "DevOps à l’Insee\n\nInitiée par la DSI en 2021\nAller plus loin que SCRUM\n\naugmenter le rythme des déploiements"
+    "text": "DevOps à l’Insee\n\nInitiée par la DSI en 2021\nAller plus loin que SCRUM\n\naugmenter le rythme des déploiements\n\n\n\nMéthodes agiles applicables aussi aux projets stats"
   },
   {
     "objectID": "doc/presentation.html#devops-à-linsee-1",
     "href": "doc/presentation.html#devops-à-linsee-1",
     "title": "Présentation Master STD",
     "section": "DevOps à l’Insee",
-    "text": "DevOps à l’Insee\n\nFluidifier les interactions entre développeurs (dev) et exploitants (ops)\nAutomatiser le processus de mise en production\n\nCICD, Conteneurisation\n\nTests automatisés pour contrôler\nOutils d’observations de la prod aux développeurs"
+    "text": "DevOps à l’Insee\n\nFluidifier les interactions entre développeurs (dev) et exploitants (ops)\nAutomatiser le processus de mise en production\n\nCI/CD, Conteneurisation\n\nTests automatisés pour contrôler\nOutils d’observations de la prod aux développeurs\n\n\nDashboard"
   },
   {
     "objectID": "doc/presentation.html#dataops",
@@ -130,7 +137,7 @@
     "href": "doc/presentation.html#conclusion",
     "title": "Présentation Master STD",
     "section": "Conclusion",
-    "text": "Conclusion\n\nUn poste à l’info est un vrai plus\nInnovation, Dynamique\nPas besoin d’être un crack en informatique\nVision globale de ce que fait l’INSEE\n\n\n\n\nHome"
+    "text": "Conclusion\n\nUn poste à l’info est un vrai plus\nInnovation, Dynamique\nCommunauté très active\nPas besoin d’être un crack en informatique\nVision globale de ce que fait l’INSEE\n\n\nConfettis : press C\n\n\n\n\nHome"
   },
   {
     "objectID": "doc/stage.html",
