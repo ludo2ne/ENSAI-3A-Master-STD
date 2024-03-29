@@ -1,7 +1,8 @@
 ---
 title: "Présentation Master STD"
-subtitle: "Présentation du Master Statistique et Traitement des Données"
+subtitle: "Master Statistique et Traitement des Données"
 author: "Ludovic Deneuville"
+date: "2024.03.29"
 format:
   revealjs:
     theme: moon
@@ -9,24 +10,50 @@ format:
     slide-number: c/t                    # collapsed/total
     chalkboard: true
     controls: true
+revealjs-plugins:
+  - confetti
 from: markdown+emoji
 ---
+
+## Sommaire
+
+- La DSI de l'INSEE
+- Matières étudiées à l'ENSAI
+- Technologies
+- DevOps
 
 
 ## DSI de l'INSEE
 
 - Développement d'applications
 - Production, Infrastructure, Architecture, Réseaux
-- Innovation, Sécurité, Stratégie
+- Sécurité, Stratégie
+- Innovation, État de l'art
+
+::: {.notes}
+
+- WEB4G : insee.fr
+- RESIL : répertoire Statistique des Individus et des Logements
+- SIRENE : répertoire d'entreprises
+- NAUTILE : tirage d'échantillon
+- METALLICA : enquêtes ménages (conception, suivi, collecte)
+
+plus de 100 applications (gestion de répertoire, intégration de fichiers, organisation, outils internes)
+:::
 
 
 ## DSI de l'INSEE
 
-- effectifs 2022 : 428 
+- Effectifs 2022 : 428 
   - effectifs INSEE 2022 : 5027 
   - 240 développeurs et développeuses
 - Paris, Nantes, Lille, Orléans, Metz...
 
+
+::: {.notes}
+Plus d'hommes que de femmes mais elles sont souvent très motivées, efficaces.  
+Pas là pour enfiler des perles
+:::
 
 ## Exemple de métiers à l'INSEE
 
@@ -44,14 +71,35 @@ from: markdown+emoji
 - Machine Learning
 - Gestion de projet
 
+::: {.notes}
+:dart: avoir une culture informatique
+
+Intervenants venant du monde professionnel
+
+Examen Analyste
+:::
+
 ## Technologies clés
 
 - Java : back
   - Python : ça arrive...
 - JavaScript React : front
 - Git, GitLab, GitHub
-- CI/CD
+- CI/CD, Qualimétrie
 - Docker, Kubernetes : Conteneurisation, Orchestration
+
+
+::: {.notes}
+Avant tout ça :
+
+- coder sur sa machine
+- lancer les tests
+- créer un zip
+- se connecter au serveur de dev, arrêter
+- déposer le zip, redémarrer
+
+ça marche sur ma machine et pas sur le serveur...
+:::
 
 
 ## DevOps à l’Insee 
@@ -60,15 +108,21 @@ from: markdown+emoji
 - Aller plus loin que SCRUM 
   - augmenter le rythme des déploiements
 
+::: {.notes}
+Méthodes agiles applicables aussi aux projets stats
+:::
 
 ## DevOps à l’Insee 
 
 - Fluidifier les interactions entre développeurs (dev) et exploitants (ops)
 - Automatiser le processus de mise en production
-  - CICD, Conteneurisation
+  - CI/CD, Conteneurisation
 - Tests automatisés pour contrôler
 - Outils d’observations de la prod aux développeurs
 
+::: {.notes}
+Dashboard
+:::
 
 ## DataOps
 
@@ -81,5 +135,10 @@ from: markdown+emoji
 
 - Un poste à l'info est un vrai plus
 - Innovation, Dynamique
+- Communauté très active
 - Pas besoin d'être un crack en informatique
 - Vision globale de ce que fait l'INSEE
+
+::: {.notes}
+Confettis : press C
+:::
