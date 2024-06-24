@@ -10,7 +10,7 @@ format:
     css: none
   revealjs:
     theme: moon
-    footer: "[Home](../index.html)"      # Link to the homepage
+    footer: "[Home](../index.html) - [Stage Master STD](stage.qmd)"      # Link to the homepage
     slide-number: c/t                    # collapsed/total
     chalkboard: true
     controls: true
@@ -21,7 +21,7 @@ from: markdown+emoji
 ## Modalités
 
 - durée : entre 20 semaines et 6 mois
-- entre le 19/02 et le 31/08
+- entre le 3 mars et le 31 août
 
 
 ## :dart: Objectifs
