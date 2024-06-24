@@ -25,7 +25,14 @@ Le programme complet est consultable sur la page du [Master Statistique des Donn
 | Ateliers    | 12h                                    |
 | Langue      | Anglais (cours) et Français (ateliers) |
 
-- [ ] Régression et classification, pénalisation, méthodes locales, SVM, forêt
+::: {.callout-note title="Contenu du cours"}
+- **Modèles Linéaires :** Régression et classification, techniques de pénalisation.
+- **Méthodes Locales :** Approches basées sur la proximité des données.
+- **SVM (Support Vector Machine) :** Modèle pour la classification et la régression avec le kernel trick.
+- **Forêts d'arbres décisionnels (Random Forest) :** Méthode d'ensemble pour améliorer la précision des prédictions.
+- **Comparaison Empirique des Modèles :** Techniques pour évaluer et comparer empiriquement la performance des modèles pour des tâches spécifiques.
+:::
+
 
 
 ### Apprentissage profond (Deep Learning)
@@ -36,10 +43,12 @@ Le programme complet est consultable sur la page du [Master Statistique des Donn
 | Cours       | 24h                      |
 | Langue      | Français                 |
 
-- [ ] Principe des réseaux de neurones 
-- [ ] Propriétés des réseaux de neurones simples
-- [ ] Descente de gradient
-- [ ] Réseaux de neurones profonds 
+::: {.callout-note title="Contenu du cours"}
+- Principe des réseaux de neurones 
+- Propriétés des réseaux de neurones simples
+- Descente de gradient
+- Réseaux de neurones profonds 
+:::
 
 ### Webmining et Traitement du langage
 
@@ -50,10 +59,12 @@ Le programme complet est consultable sur la page du [Master Statistique des Donn
 | Atelier               | 12h                                         |
 | Langue                | Anglais                                     |
 
-- [ ] Collecter des données
-- [ ] Extraire de l'information et apparier des sources textuelles
-- [ ] Classification, Analyse de sentiment
-- [ ] Modèles d'étude de la langue
+::: {.callout-note title="Contenu du cours"}
+- Collecter des données
+- Extraire de l'information et apparier des sources textuelles
+- Classification, Analyse de sentiment
+- Modèles d'étude de la langue
+:::
 
 ---
 
@@ -63,18 +74,19 @@ Le programme complet est consultable sur la page du [Master Statistique des Donn
 
 |                      |                                                |
 |----------------------|------------------------------------------------|
-| Enseignants          | Djamel Eddine KHELLADI (Université Rennes 1)   |
-|                      | Alban GRÉAU                                    |
+| Enseignants          | Djamel Eddine KHELLADI et Alban GRÉAU          |
 | Cours                | 24h                                            |
 | Atelier              | 24h                                            |
 | Commun avec les ID   | Oui                                            |
 
-- [ ] Patrons de conception, Bonnes pratiques
-- [ ] Contenerisation et Orchestration
-- [ ] Tests, TDD, Couverture de tests
-- [ ] CICD 
-- [ ] Java - Maven - Spring Boot - JPA - Hibernate
-- [ ] Cloud avec AWS (s3, RDS, Elastic Beanstalk)
+::: {.callout-note title="Contenu du cours"}
+- Patrons de conception, Bonnes pratiques
+- Contenerisation et Orchestration
+- Tests, TDD, Couverture de tests
+- CICD 
+- Java - Maven - Spring Boot - JPA - Hibernate
+- Cloud avec AWS (s3, RDS, Elastic Beanstalk)
+:::
 
 [Cours de Rémi (2023)](https://ensai-school.github.io/software-engineering-2021-2022/){.external target="_blank"}
 
@@ -89,10 +101,12 @@ Les élèves doivent choisir entre ce cours et celui de *DataOps*.
 | Atelier              | 15h                                            |
 | Commun avec les ID   | Oui                                            |
 
-- [ ] XML, DOM, SAX
-- [ ] Web, HTML, CSS, Bootstrap
-- [ ] PHP, MySQL, MariaDB
-- [ ] AJAX, JavaScript (Angular, React, Vue.JS)
+::: {.callout-note title="Contenu du cours"}
+- XML, DOM, SAX
+- Web, HTML, CSS, Bootstrap
+- PHP, MySQL, MariaDB
+- AJAX, JavaScript (Angular, React, Vue.JS)
+:::
 
 ### DataOps
 
@@ -105,14 +119,15 @@ Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 | Langue               | Anglais                                                     |
 | Commun avec les ID   | Oui                                                         |
 
-- [ ] DataOps, MLOps et DevOps
-- [ ] AWS Cloud platform
-- [ ] Infrastructure as Code 
-- [ ] CI/CD
-- [ ] Docker, Kubernetes 
-- [ ] Data pipelines et data observability
+::: {.callout-note title="Contenu du cours"}
+- DataOps, MLOps et DevOps
+- AWS Cloud platform
+- Infrastructure as Code 
+- CI/CD
+- Docker, Kubernetes 
+- Data pipelines et data observability
+:::
 
----
 
 ## UE3 Big Data
 
@@ -124,11 +139,13 @@ Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 | Cours                | 30h                         |
 | Langue               | Français                    |
 
-- [ ] SQL et NoSQL
-- [ ] Système de fichiers distribué avec HDFS 
-- [ ] Traitement distribué avec Hadoop MapReduce 
-- [ ] Virtualisation et conteneurisation
-- [ ] DynamoDB, Google BigTable, MongoDB, Neo4J
+::: {.callout-note title="Contenu du cours"}
+- SQL et NoSQL
+- Système de fichiers distribué avec HDFS 
+- Traitement distribué avec Hadoop MapReduce 
+- Virtualisation et conteneurisation
+- DynamoDB, Google BigTable, MongoDB, Neo4J
+:::
 
 ### Indexation Web
 
@@ -140,25 +157,37 @@ Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 | Langue               | Français                    |
 | Commun avec les ID   | Oui                         |
 
-- [ ] Google et le Page Rank, tri alpha
-- [ ] Crawler
-- [ ] Construire un index web
+::: {.callout-note title="Contenu du cours"}
+Ce cours couvre la collecte d'informations web, l'Information Retrieval, la constitution et l'organisation de corpus, et l'utilisation de l'algorithme PageRank. Les élèves apprendront des techniques de classification de documents textuels et d'opinion mining, incluant l'analyse de sentiments et l'évaluation de modèles.
+
+- **Information Retrieval :** 
+  - Concepts : tf-idf, stemming, Regex, kmeans.
+  - Pratique : Construction de term-document matrix, utilisation de PageRank.
+- **Opinion Mining :** 
+  - Concepts : Sentiment analysis, annotation syntaxique.
+  - Pratique : Constitution de corpus, annotation et classification de textes.
+:::
 
 ### Publication de données respectueuses
 
 |                      |                             |
 |----------------------|-----------------------------|
-| Enseignant           | [Tristan Allard](https://people.irisa.fr/Tristan.Allard/){target="_blank"} |
-|                      | Julien Jamme                |
+| Enseignant           | [Tristan Allard](https://people.irisa.fr/Tristan.Allard/){target="_blank"}  et Julien Jamme|
 | Cours                | 9h                          |
 | Langue               | Français                    |
 | Commun avec les ID   | Oui                         |
 
-- https://fr.wikipedia.org/wiki/K-anonymisation
-- https://www.kaggle.com/code/kelvar/mondrian-algorithm
-- https://fr.wikipedia.org/wiki/Confidentialit%C3%A9_diff%C3%A9rentielle
 
----
+::: {.callout-note title="Contenu du cours"}
+La publication de données respectueuses de la vie privée est essentielle pour permettre des analyses de données tout en protégeant les informations personnelles :
+
+- **Méthodes de Partitionnement** : Techniques comme le k-anonymat et la l-diversité sont précieuses mais ont des limites.
+- **Confidentialité Différentielle** : Aujourd'hui la norme de référence, elle offre des garanties formelles grâce à des techniques de perturbation des données.
+- **Vulnérabilités** : Les schémas de publication restent vulnérables à des attaques telles que la ré-identification et l'inférence de membership.
+- **Défis Complexes** : Les données personnelles posent des défis en matière de confidentialité, nécessitant des améliorations continues des techniques de protection.
+- **Évolution Historique** : Comprendre l'évolution des méthodes aide à mieux appréhender les approches modernes.
+- **Cycle Sans Fin** : La lutte pour la protection de la vie privée est un cycle sans fin, exigeant vigilance et innovation constantes.
+:::
 
 ## UE4 Système et Réseaux
 
@@ -172,8 +201,15 @@ Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 | Langue               | Français                                 |
 
 
-- [ ] Ligne de commande Bash
-- [ ] Scripting
+::: {.callout-note title="Contenu du cours"}
+- **Introduction à GNU/Linux :** Familiarisation avec le système d'exploitation GNU/Linux, son histoire et ses principes fondamentaux.
+- **Installation d'une distribution :** Étapes pour installer une distribution GNU/Linux sur un système.
+- **Le shell :** Utilisation et manipulation du shell (interpréteur de commandes) pour exécuter des tâches et automatiser des processus.
+- **Utilisateurs, groupes, permissions :** Gestion des utilisateurs, des groupes et des permissions pour sécuriser l'accès aux fichiers et aux ressources système.
+- **La gestion des paquets :** Méthodes pour installer, mettre à jour et supprimer des logiciels via les gestionnaires de paquets de GNU/Linux.
+- **La gestion du réseau :** Configuration et gestion des paramètres réseau, y compris la connexion, la configuration IP et la résolution de noms.
+- **Méthodes de dépannage :** Techniques et outils pour diagnostiquer et résoudre les problèmes courants rencontrés dans un environnement GNU/Linux.
+:::
 
 ### Réseaux et Systèmes d'exploitation
 
@@ -184,6 +220,16 @@ Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 | Ateliers             | 6h                                       |
 | Langue               | Français                                 |
 
+
+::: {.callout-note title="Contenu du cours"}
+- **Gestion des Ressources par les OS :** Exploration des mécanismes par lesquels les systèmes d'exploitation gèrent le matériel et les ressources logicielles.
+- **Processus et Multithreading :** Étude des processus, leur création, gestion et synchronisation, ainsi que l'utilisation efficace du multithreading pour améliorer les performances des applications.
+- **Topologies et Technologies Réseau :** Analyse des différentes architectures réseau, telles que LAN, WAN, et des technologies sous-jacentes comme Ethernet, WiFi, et leurs implications.
+- **Modèles en Couches :** Compréhension des modèles OSI (Open Systems Interconnection) et TCP/IP, et comment ces modèles organisent les communications réseau.
+- **Concepts de Sécurité :** Introduction aux concepts de DMZ (Zone Démilitarisée), pare-feu et proxy pour sécuriser les réseaux, ainsi qu'une sensibilisation aux risques liés à la sécurité informatique.
+:::
+
+
 ### Systèmes répartis
 
 |                      |                                          |
@@ -193,7 +239,16 @@ Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 | Ateliers             | 6h                                       |
 | Langue               | Français                                 |
 
-- [ ] introduction aux architectures distribuées
+
+::: {.callout-note title="Contenu du cours"}
+Ce cours approfondit les architectures distribuées à l'échelle mondiale, avec une focalisation sur les grilles, les systèmes peer-to-peer (P2P) et le cloud. Les objectifs incluent la compréhension des concepts fondamentaux tels que la synchronisation et l'exclusion mutuelle, ainsi que l'étude des algorithmes associés à chaque type d'architecture.
+
+- **Introduction aux Architectures Distribuées :** Exploration des différentes architectures réparties.
+- **Concepts Fondamentaux :** Synchronisation, exclusion mutuelle, et autres concepts clés.
+- **Approches Centralisées et Semi-centralisées :** Étude du cloud computing et des grilles.
+- **Approches Décentralisées :** Analyse des systèmes P2P structurés, non-structurés et hybrides.
+- **Applications Pratiques :** Utilisation dans les systèmes de partage de fichiers et les protocoles épidémiques.
+:::
 
 ### Sécurité des données
 
@@ -204,15 +259,35 @@ Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 | Ateliers             | 9h                                       |
 | Langue               | Français                                 |
 
-- [ ] Chiffrement, anonymisation
-- [ ] Contrôles d'accès DAC, RBAC, MAC, Attaques
-- [ ] Watermarking, Fingerprinting
+::: {.callout-note title="Contenu du cours"}
+Ce cours explore les principes fondamentaux de la sécurité informatique, en mettant l'accent sur la protection des données dans un contexte d'actualité dynamique marqué par des attaques spectaculaires et l'évolution des législations. La cryptographie est présentée comme un outil essentiel pour prévenir la divulgation, la modification et l'accès non autorisé aux données.
 
----
+- **Introduction à la Sécurité :** Analyse des besoins et des menaces en matière de sécurité informatique.
+- **Cryptography :**
+  - Cryptographies à clés secrètes et publiques.
+  - Protocoles cryptographiques pour assurer la confidentialité, l'intégrité, la signature et l'authentification des données.
+- **Systèmes Utilisateurs :**
+  - Applications Web et sécurité.
+  - Sécurité des transactions par carte bancaire.
+  - Sécurité des applications réseau.
+:::
 
 ## UE5 Formation Analyste
 
 ### Gestion de projet
+
+### Gestion de Projet Informatique
+
+::: {.callout-note title="Contenu du cours"}
+Ce cours explore la gestion de projet dans le domaine des systèmes d'information, en couvrant le cycle de vie d'une application, les acteurs impliqués et leurs rôles respectifs. Il inclut également la conduite du changement, la comitologie pour la prise de décision, ainsi que la gestion de la qualité et l'adoption des méthodes agiles.
+
+- **Cycle de Vie d'une Application :** Phases de développement, de déploiement et de maintenance.
+- **Acteurs et Rôles :** Responsabilités des développeurs, chefs de projet, utilisateurs finaux et autres parties prenantes.
+- **Conduite du Changement :** Stratégies pour gérer les résistances et faciliter l'adoption des nouvelles technologies.
+- **Comitologie :** Structures décisionnelles et processus de gouvernance dans les projets informatiques.
+- **Qualité :** Normes de qualité, assurance qualité et contrôle qualité.
+- **Méthodes Agiles :** Approches itératives et adaptatives pour la gestion de projet, telles que Scrum et Kanban.
+:::
 
 ### Architecture informatique
 
@@ -223,6 +298,14 @@ Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 | Langue               | Français                                 |
 
 
+::: {.callout-note title="Contenu du cours"}
+Ce cours vise à familiariser les étudiants avec les principes d'architecture informatique de pointe. Les objectifs incluent la préparation aux épreuves écrites et orales de l'examen, en développant une compréhension approfondie des architectures physique, technique, applicative et logique.
+
+- **Architecture :** Exploration des dimensions physique, technique, applicative et logique.
+- **Sécurité :** Concepts essentiels pour garantir la protection des systèmes informatiques.
+- **Transformation Numérique :** Impact du cloud computing, du big data et de l'intelligence artificielle sur l'architecture informatique moderne.
+:::
+
 ### Environnement informatique ministériel et interministériel
 
 |             |                          |
@@ -231,7 +314,10 @@ Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 | Cours       | 18h                      |
 | Langue      | Français                 |
 
----
+
+::: {.callout-note title="Contenu du cours"}
+Ce cours présente les cadres juridiques essentiels tels que la Loi Informatique et Libertés (LIL), le Règlement Général sur la Protection des Données (RGPD), et le droit d'auteur. Les étudiants apprendront les définitions et les implications des données personnelles, y compris l'adresse IP, ainsi que les droits et obligations des individus et des responsables de traitement. La régulation des cookies et traceurs selon le règlement ePrivacy, le rôle de la Commission Nationale Informatique et Liberté (CNIL), et l'évolution vers le Délégué à la Protection des Données (DPO) seront également abordés. Enfin, le cours couvre l'encadrement juridique de l'utilisation des outils informatiques dans les sphères privée et professionnelle.
+:::
 
 ## UE6 Formation avancée à l'examen d'analyste
 
@@ -241,7 +327,6 @@ Les élèves doivent choisir entre ce cours et celui de *Développement Web*.
 
 ### Préparation à l'oral
 
-:warning: thématiques non abordées en cours
 
 
 ### Anglais
