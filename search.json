@@ -7,125 +7,6 @@
     "text": "Présentation aux élèves de 1ère année\nAccueil des étudiants du Master STD\n\nLes enseignements\nLe stage de Master\n\nL’INSEE\n\nLa Direction des Systèmes d’Informations de l’INSEE"
   },
   {
-    "objectID": "doc/accueil.html#distribution-pc",
-    "href": "doc/accueil.html#distribution-pc",
-    "title": "Accueil Master STD",
-    "section": "Distribution PC",
-    "text": "Distribution PC\nOS : Ubuntu\n\nNoter numéro\nSigner feuille"
-  },
-  {
-    "objectID": "doc/accueil.html#distribution-pc-1",
-    "href": "doc/accueil.html#distribution-pc-1",
-    "title": "Accueil Master STD",
-    "section": "Distribution PC",
-    "text": "Distribution PC\nClé USB Windows 10\n\n⚠️ installer en dual boot : Ne pas écraser Ubuntu !\nBesoin pour le cours du 2/10 au 6/10 (Réseaux et Systèmes d’Exploitation)\n⚠️ Ne pas installer trop tôt\n\nsans clé de licence (validité 1 mois)\ninstaller à partir du 20/09"
-  },
-  {
-    "objectID": "doc/accueil.html#examen-analyste",
-    "href": "doc/accueil.html#examen-analyste",
-    "title": "Accueil Master STD",
-    "section": "Examen Analyste",
-    "text": "Examen Analyste\n\nLien examen\nInscription\nPas obligatoire pour travailler en service Informatique à l’INSEE\n\nmais fortement recommandé\n\nPrime analyste : 225€ / mois"
-  },
-  {
-    "objectID": "doc/accueil.html#examen-analyste-1",
-    "href": "doc/accueil.html#examen-analyste-1",
-    "title": "Accueil Master STD",
-    "section": "Examen Analyste",
-    "text": "Examen Analyste\n\n\nQualités évaluées\n\nTechniques d’analyse,\nAptitude à la synthèse\nRédaction d’un dossier technique\nConnaissances en matière de programmation\nQualités de réflexion et de logique"
-  },
-  {
-    "objectID": "doc/accueil.html#examen-analyste-2",
-    "href": "doc/accueil.html#examen-analyste-2",
-    "title": "Accueil Master STD",
-    "section": "Examen Analyste",
-    "text": "Examen Analyste\n\n\nConnaissances\n\nGestion de projet, organisation du SI\nDéveloppement d’applications\nMatériel, sécurité, réseaux, architecture\nEnvironnement juridique et administratif"
-  },
-  {
-    "objectID": "doc/accueil.html#examen-analyste-3",
-    "href": "doc/accueil.html#examen-analyste-3",
-    "title": "Accueil Master STD",
-    "section": "Examen Analyste",
-    "text": "Examen Analyste\n\n\nDates\n\ninscriptions : mi-Octobre\nécrit (début janvier) : 6h\n\ndossier d’analyse\n\noral (début mars) : 30min prépa, 10 min exposé, 20min questions\n\ntirage au sort de 2 sujets, choix d’un sujet"
-  },
-  {
-    "objectID": "doc/accueil.html#insee",
-    "href": "doc/accueil.html#insee",
-    "title": "Accueil Master STD",
-    "section": "INSEE",
-    "text": "INSEE\n\nFocus INSEE\nVérifiez vos accès à l’intranet et à Mouv’in\n\nla campagne de mobilité démarre en octobre"
-  },
-  {
-    "objectID": "doc/accueil.html#campagne-de-mobilité",
-    "href": "doc/accueil.html#campagne-de-mobilité",
-    "title": "Accueil Master STD",
-    "section": "Campagne de mobilité",
-    "text": "Campagne de mobilité\n\n\nDates importantes\n\nMi-octobre : vous devez être inscrits dans la campagne\nMi-décembre : diffusion des postes ouverts\nFin-février : dépôt des voeux\nMi-avril : résultats"
-  },
-  {
-    "objectID": "doc/accueil.html#campagne-de-mobilité-1",
-    "href": "doc/accueil.html#campagne-de-mobilité-1",
-    "title": "Accueil Master STD",
-    "section": "Campagne de mobilité",
-    "text": "Campagne de mobilité\n\n\nConseils\n\npréparez en avance votre CV\npréparez un mail de motivation\n\nà adapter ensuite selon les postes visés\n\nenvoyez des mails avant Noël\n\nle 15 janvier c’est trop tard !"
-  },
-  {
-    "objectID": "doc/accueil.html#métiers-insee",
-    "href": "doc/accueil.html#métiers-insee",
-    "title": "Accueil Master STD",
-    "section": "Métiers INSEE",
-    "text": "Métiers INSEE\nAvoir fait un poste dans la sphère info est un vrai plus\n\nAnalyste Développeur\nAnalyste Développeur confirmé\nExpert big data\nChef de projet\nUrbaniste du système d’information\nDBA\nIngénieur Système et Sécurité\nIngénieur DevOps\nIngénieur dans l’équipe produit Kubernetes\n\n\n\n\nHome"
-  },
-  {
-    "objectID": "doc/INSEE.html",
-    "href": "doc/INSEE.html",
-    "title": "Focus sur l’INSEE",
-    "section": "",
-    "text": "INSEE: Institut National de la Statistique et des Études Économiques.\nCréé en 1946, l’INSEE emploie environs 5.000 agents dont 25% de catégorie Attaché. D’autres informations sont disponibles dans les rapports d’activité annuels."
-  },
-  {
-    "objectID": "doc/INSEE.html#quelques-liens",
-    "href": "doc/INSEE.html#quelques-liens",
-    "title": "Focus sur l’INSEE",
-    "section": "Quelques liens",
-    "text": "Quelques liens\n\nhttps://www.insee.fr/\nRéseau des Datascientists de la Statistique Publique (SSPHub)\n\n💡 abonnez-vous à la newletter\n\nBlog de l’INSEE\nTwitter, il existe également de nombreux fils régionaux, par exemple :\n\nInsee en région\nHauts-de-France\nBretagne\n\nhttps://statistiques-locales.insee.fr/\n\n\nRessources pédagogiques et outils interactifs\n\nDécouvrir, apprendre, enseigner\nClassement des prénoms en France depuis 1900\nPyramide des ages\nDatavisualisation des salaires\n\n\n\nVidéos\n\nChaine Youtube INSEE\n\nDe nombreuses playlists expliquent simplement différents concepts, par exemple :\n\nRessources pédagogiques\nExplique moi l’éco\n\n\nRené Carmille, un hacker sous l’Occupation\nDocumentaire sur la création en 1941 du Service National des Statistiques qui deviendra l’INSEE quelques années plus tard\n\n\n\nLes chiffres sont-ils “neutres” ?\npar NotaBene"
-  },
-  {
-    "objectID": "doc/INSEE.html#la-direction-générale-dg",
-    "href": "doc/INSEE.html#la-direction-générale-dg",
-    "title": "Focus sur l’INSEE",
-    "section": "La Direction Générale (DG)",
-    "text": "La Direction Générale (DG)\nLa majorité des missions et des agents de la DG sont à Montrouge au sud de Paris. Les agents du centre de Metz font également parti de la DG (l’établissement de Lorraine étant localisé à Nancy).\nAussi dans chacun des établissements régionaux, des agents réalisent des missions nationales. De plus en plus de travaux sont transférés depuis Montrouge vers des établissements de province.\n\nLes 7 directions\n\nSecrétariat Général\n\nLe SG intervient dans les domaines suivants :\n\nla gestion des ressources humaines, des conditions de travail,\nle pilotage des ressources financières, des moyens informatiques, immobiliers et logistiques.\n\nSource : insee.fr\n\nMots clés: RH, Budget, Communication interne, Dialogue social, Affaires juridiques et contentieuses\n\n\nDirection du Système d’Information\n\nLa DSI :\n\npilote et développe le système d’information de l’INSEE,\nen élabore la stratégie et le schéma directeur,\nen assure la sécurité,\nmet à disposition l’infrastructure informatique nécessaire au fonctionnement du système d’information.\n\nSource : insee.fr\n\nMots clés: Infrastructures, Réseaux, Sécurité, Projets informatiques, Développement, Assistance à Maîtrise d’Ouvrage, Innovation\n\n\nDirection de la Méthodologie et de la Coordination Statistique et Internationale\n\nLa DMCSI a pour mission :\n\nd’élaborer et de promouvoir les bonnes méthodes et pratiques en matière statistique,\nde mettre en place, progressivement et de manière coopérative, un cadre d’assurance qualité,\nd’organiser, au sein du service statistique public, la coordination de l’Insee et des services statistiques ministériels aux niveaux national et international,\nd’assister le directeur général dans son rôle de coordonnateur des autorités statistiques nationales au sens de la loi européenne,\nde promouvoir et d’animer l’innovation au sein du service statistique public.\n\nSource : insee.fr\n\nMots clés: Méthodes, Démarche qualité, Documentation statistique, Coordination, Sondages, Innovation, SSP Lab\n\n\nDirection des Statistiques Démographiques et Sociales\n\nLa DSDS :\n\ngère le répertoire national d’identification des personnes physiques et le fichier national des électeurs\nconçoit et élabore les statistiques et les études concernant la population, les ménages et le développement social, notamment dans les domaines suivants : démographie, emploi, revenus, patrimoines, prix à la consommation, logement et conditions de vie\nétablit les populations légales et produit les résultats statistiques du recensement aux plans national et local.\n\nSource : insee.fr\n\nMots clés: Enquêtes ménages, Études démographiques et sociales, Emploi, Démographie, Ressources et des conditions de vie, Prix à la consommation\n\n\nDirection des Statistiques d’Entreprises\n\nLa DSE coordonne l’ensemble des statistiques sur le système productif. Elle veille notamment à la mise en œuvre des obligations statistiques résultant des principaux règlements européens sur les entreprises et s’assure que tous les moyens sont mis en œuvre pour y parvenir, à l’intérieur comme à l’extérieur de la direction générale. Elle gère les répertoires d’entreprises et d’établissements (répertoire inter-administratif SIRENE et répertoire statistique SIRUS), produit les statistiques de l’industrie, du commerce et des services marchands, gère des bases de données d’entreprises. Elle construit des indicateurs conjoncturels macroéconomiques et participe à l’élaboration des comptes nationaux annuels à un niveau sectoriel détaillé.\nSource : insee.fr\n\nMots clés: Enquêtes entreprise, Répertoire SIRENE, Statistiques annuelles d’entreprise, Profilage, Synthèses sectorielles\n\n\nDirection de la Diffusion et de l’Action Régionale\n\nLa DDAR : - met à disposition de l’ensemble des utilisateurs des produits et services résultant des activités de la statistique publique de l’Insee et des autres services producteurs, - en adéquation avec les attentes des publics, elle en assure la diffusion, la promotion et la distribution, - coordonne l’offre et les activités d’étude et de diffusion des directions régionales de l’Insee : information générale, études réalisées en partenariat avec les acteurs publics en région, conseil et assistance aux décideurs régionaux et locaux.\nSource : insee.fr\n\nMots clés: Action régionale, Communication externe, Insee contact, Offre éditoriale, Diffusions internet, Open Data,\n\n\nDirection des Études et Synthèses Économiques\n\nLa DESE :\n\nélabore et analyse des informations conjoncturelles,\nen fait périodiquement la synthèse,\nproduit les comptes nationaux annuels et trimestriels,\nconçoit et fait fonctionner des modèles, notamment dans les domaines de la macroéconomie et de la protection sociale.\n\nElle réalise des études et prévisions économiques et des évaluations de politiques publiques.\nSource : insee.fr\n\nMots clés: Comptes Nationaux, Notes de Conjoncture, Economie et Statistique, Études macroéconomiques"
-  },
-  {
-    "objectID": "doc/INSEE.html#les-directions-régionales-dr",
-    "href": "doc/INSEE.html#les-directions-régionales-dr",
-    "title": "Focus sur l’INSEE",
-    "section": "Les Directions Régionales (DR)",
-    "text": "Les Directions Régionales (DR)\nLes locaux de l’INSEE se situent généralement dans les préfectures des régions d’avant 2016, ainsi que dans les DOM.\nPour plus de détails sur la localisation des établissements de l’INSEE, consulter le rapport annuel d’activités de L’INSEE 2021, page 22\n\nUn peu d’histoire\nAvant 2016 et la réforme des régions, chaque préfecture de région avait sa DR de l’INSEE. Chaque DR était composée des 3 services suivants :\n\nService Administration des Ressources (SAR)\n\nRessources Humaines\nBudget, Logistique, Assistance informatique\nFormation\n\nService Statistique (SES)\n\nDivision Enquête Ménage (DEM)\nDivsion Recensement de la Population (RP)\n\nService Etude et Diffusion (SED)\n\nEtudes régionales\n\n\nChaque DR réalise également des missions de portée nationale (détaillé par la suite).\n\n\nRéorganisation suite à la fusion des régions\nAprès 2016, l’INSEE est toujours présente dans ces villes. Cependant il ne peut rester qu’une seule DR par région, ainsi les autres seront nommés Établissement. Pour les régions qui n’ont pas fusionnées, rien ne change.\nCe qui a changé :\n\nUn seul SED subsiste par région, généralement dans la plus grande ville\nChaque DR et chaque établissement conserve un SES\nLes SAR fusionnent, la majorité des agents du SAR sont à la DR même si le SAR garde des agents dans chaque établissement pour plus de proximité\n\nLa DR n’est pas toujours localisée dans la plus grande ville, exemple avec la région Nouvelle-Aquitaine :\n\nDR : Poitiers\nETAB : Bordeaux et Limoges\nLe SED est à Bordeaux\n\n\n\nLes pôles et sites\n\nDescriptions des sites et pôles extraites de l’intranet de l’INSEE\n\nDans chaque DR ou établissement, il n’y a pas uniquement des missions régionales. Voici quelques exemples de pôles et de sites aux missions nationales ou inter-régionales.\n\nSite SIRENE\nLa mission principale du site est l’immatriculation des entreprises, qui consiste à leur attribuer des numéros SIREN et SIRET et un code APE, déterminé d’après la nomenclature d’activités française (NAF). Le site traite aussi des déclarations administratives telles que des changements de dénomination, d’adresse, de catégorie juridique, d’activité…\n\nConnaître et comprendre le répertoire Sirene\nTrajectoires d’entreprise (intranet insee)\n\n\n\nSite Prix à la Consommation\n\ncollecte des relevés de prix\ncontrôle des processus de collecte\n\n\n\nSite Tourisme\n\ngère les enquêtes de fréquentation (hôtellerie et camping)\net la mise à jour du parc des hébergements (hôtels et campings)\n\n\n\nSite Réseau Enquêteurs Entreprises\n\nteste les questionnaires d’enquête préalablement au passage au comité du label\ncontact avec les entreprises nouvellement entrantes dans les échantillons avant l’envoi des premiers questionnaires\nrelance des non-répondants, notamment les entreprises dont le poids dans un échantillon est important, par téléphone ou par visite\n\n\n\nSite Gestion Financière\nSes missions principales sont d’une part de formaliser les achats et suivre la liquidation de la dépense, d’autre part d’établir les ordres de mission et les états de frais des agents, enquêteurs et superviseurs.\n\n\nSite BRPP\nIl gère la mise à jour du répertoire d’identification des personnes physiques avec des données d’état civil (naissances, décès, mariages, conclusions et dissolutions de pacs). Ce répertoire doit être l’image des registres d’état civil détenus par les mairies. L’équipe est chargée, entre autres, de contrôler la cohérence et la qualité des données, l’exhaustivité des actes transmis, de s’assurer des délais de transmission.\n\n\nPôle de Service pour l’Action Régionale (PSAR)\nLe PSAR a pour mission de fournir au réseau de l’action régionale des prestations de nature à faciliter la réalisation de synthèses et diagnostics de territoire par les directions régionales, dans le cadre du service spécifique rendu à leurs partenaires, acteurs publics du développement local.\nL’activité du PSAR relève de trois domaines qui se recoupent en partie :\n\nil produit des investissements (le principal outil développé et maintenu sous la responsabilité du Psar est le « kit synthèses locales »)\nil intervient dans le champ de la méthodologie\nil assure une fonction d’animation et de formation autour des synthèses et diagnostics de territoire.\n\nLes PSAR :\n\nPSAR Synthèses Locales (Lyon)\nPSAR Emploi-Population (Lille)\nPSAR Analyse Territoriale (Marseille)\nPSAR Études Économiques Régionales (Toulouse)"
-  },
-  {
-    "objectID": "doc/INSEE.html#les-services-statistiques-ministériels-ssm",
-    "href": "doc/INSEE.html#les-services-statistiques-ministériels-ssm",
-    "title": "Focus sur l’INSEE",
-    "section": "Les Services Statistiques Ministériels (SSM)",
-    "text": "Les Services Statistiques Ministériels (SSM)\nDe très nombreux postes sont réservés aux agents de l’INSEE dans différents ministères. Voici les principaux SSM :\n\nDARES (Direction de l’Animation, de la Recherche, des Études et des Statistiques)\nDEPP (Direction de l’Évaluation, de la Prospective et de la Performance)\n\nSSM en charge des statistiques sur l’éducation\n\nDESF (Département des Études et Statistiques Fiscales)\n\nSSM de la de la DGFIP (Direction Générale des Finances Publiques)\nSSM du ministère du Travail\n\nDRESS (Direction de la Recherche, des Études, de l’Évaluation et des Statistiques)\n\nSSM chargé de la santé et des solidarités\n\nDSECE (Département des Statistiques et des Études du Commerce Extérieur)\n\nSSM chargé du commerce extérieur et des douanes\n\nDSED (Département des Statistiques, des Études et de la Documentation)\n\nSSM sur le sujet de l’Immigration et de l’Intégration\n\nMEDES (Mission des Enquêtes, Données et Études Statistiques)\n\nSSM chargé de la jeunesse et des sports\n\nSDES\n\nDREAL : (Direction Régionale de l’Environnement, de l’Aménagement et du Logement)\n\nSIES (Sous-direction des systèmes d’Information et des Études Statistiques)\n\nSSM chargé de l’enseignement supérieur et de la recherche\n\nSRISE (Services Régionaux de l’Information Statistique et Économique)\n\nDirections régionales de l’Alimentation, de l’Agriculture et de la Forêt (DRAAF)\n\nSSMSI (Service Statistique Ministériel de la Sécurité Intérieure)"
-  },
-  {
-    "objectID": "doc/INSEE.html#les-principales-enquêtes",
-    "href": "doc/INSEE.html#les-principales-enquêtes",
-    "title": "Focus sur l’INSEE",
-    "section": "Les principales enquêtes",
-    "text": "Les principales enquêtes\nVoici quelques exemples d’enquêtes réalisées auprès des ménages :\n\nEnquête Annuelle du Recensement de la population (EAR)\n\ntous les 5 ans pour les communes de moins de 10.000 habitants\nannuel pour les communes de plus de 10.000 habitants mais uniquement sur un échantillon de 8% des logements\n\nEnquête Emploi en Continu\nLoyers et Charges\nConjoncture auprès des ménages (Camme)\nStatistiques sur les Ressources et Conditions de Vie (SRCV)\nEntrée dans la vie adulte (EVA)\nTechnologie de l’Information et de la Communication (TIC)\n\n\n\n\n\n\n\nTip\n\n\n\nL’INSEE réalise également de nombreuses enquêtes auprès des entreprises."
-  },
-  {
-    "objectID": "doc/INSEE.html#les-répertoires",
-    "href": "doc/INSEE.html#les-répertoires",
-    "title": "Focus sur l’INSEE",
-    "section": "Les répertoires",
-    "text": "Les répertoires\n\nSIRENE : Entreprises privées, publiques, associations\nRNIPP : Répertoire National d’Identification des Personnes Physiques\n\nfournis le numéro de Sécurité Sociale\n\nREU : Répertoire Electoral Unique\n\npour l’inscription sur les listes électorales\n\nCOG (prononcé “coge”) : Code Officiel Géographique\nRIL : Répertoire des Immeubles Localisés"
-  },
-  {
     "objectID": "doc/DSI.html#département-développement-du-si-ddsi",
     "href": "doc/DSI.html#département-développement-du-si-ddsi",
     "title": "La DSI",
@@ -196,6 +77,62 @@
     "text": "Unité innovation et stratégie du système d’information (UNISSI)\n\nDivision Innovation et Instruction Technique (DIIT)\n\nen lien avec l’Unité SSP Lab\n\nDivision Urbanisme du Système d’Information (DUSI)\nDivision de la Sécurité et de la Maîtrise des Risques (DSMR)\n\n\n\n\nHome"
   },
   {
+    "objectID": "doc/cours.html",
+    "href": "doc/cours.html",
+    "title": "Cours",
+    "section": "",
+    "text": "Le programme complet est consultable sur la page du Master Statistique des Données pour la Décision Publique du site de l’ENSAI."
+  },
+  {
+    "objectID": "doc/cours.html#ue1-machine-learning",
+    "href": "doc/cours.html#ue1-machine-learning",
+    "title": "Cours",
+    "section": "1 UE1 Machine Learning",
+    "text": "1 UE1 Machine Learning\n\n1.1 Apprentissage statistique (Machine Learning)\n\n\n\nEnseignant\nSébastien Da Veiga\n\n\nCours\n18h\n\n\nAteliers\n12h\n\n\nLangue\nAnglais (cours) et Français (ateliers)\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nModèles Linéaires : Régression et classification, techniques de pénalisation.\nMéthodes Locales : Approches basées sur la proximité des données.\nSVM (Support Vector Machine) : Modèle pour la classification et la régression avec le kernel trick.\nForêts d’arbres décisionnels (Random Forest) : Méthode d’ensemble pour améliorer la précision des prédictions.\nComparaison Empirique des Modèles : Techniques pour évaluer et comparer empiriquement la performance des modèles pour des tâches spécifiques.\n\n\n\n\n\n1.2 Apprentissage profond (Deep Learning)\n\n\n\nEnseignant\nIkko Yamane\n\n\nCours\n24h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nPrincipe des réseaux de neurones\nPropriétés des réseaux de neurones simples\nDescente de gradient\nRéseaux de neurones profonds\n\n\n\n\n\n1.3 Webmining et Traitement du langage\n\n\n\nEnseignant\nGuillaume Gravier (Irisa)\n\n\nCours\n9h\n\n\nAtelier\n12h\n\n\nLangue\nAnglais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nCollecter des données\nExtraire de l’information et apparier des sources textuelles\nClassification, Analyse de sentiment\nModèles d’étude de la langue"
+  },
+  {
+    "objectID": "doc/cours.html#ue2-développement-dapplication-et-dataops",
+    "href": "doc/cours.html#ue2-développement-dapplication-et-dataops",
+    "title": "Cours",
+    "section": "2 UE2 Développement d’application et DataOps",
+    "text": "2 UE2 Développement d’application et DataOps\n\n2.1 Génie Logiciel\n\n\n\n\n\n\n\nEnseignants\nDjamel Eddine KHELLADI et Alban GRÉAU\n\n\nCours\n24h\n\n\nAtelier\n24h\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nPatrons de conception, Bonnes pratiques\nContenerisation et Orchestration\nTests, TDD, Couverture de tests\nCICD\nJava - Maven - Spring Boot - JPA - Hibernate\nCloud avec AWS (s3, RDS, Elastic Beanstalk)\n\n\n\nCours de Rémi (2023)\n\n\n2.2 Développement Web\nLes élèves doivent choisir entre ce cours et celui de DataOps.\n\n\n\n\n\n\n\nEnseignant\nOlivier Chantrel\n\n\nCours\n12h\n\n\nAtelier\n15h\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nXML, DOM, SAX\nWeb, HTML, CSS, Bootstrap\nPHP, MySQL, MariaDB\nAJAX, JavaScript (Angular, React, Vue.JS)\n\n\n\n\n\n2.3 DataOps\nLes élèves doivent choisir entre ce cours et celui de Développement Web.\n\n\n\nEnseignant\nChristophe Blefari\n\n\nCours\n27h\n\n\nLangue\nAnglais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nDataOps, MLOps et DevOps\nAWS Cloud platform\nInfrastructure as Code\nCI/CD\nDocker, Kubernetes\nData pipelines et data observability"
+  },
+  {
+    "objectID": "doc/cours.html#ue3-big-data",
+    "href": "doc/cours.html#ue3-big-data",
+    "title": "Cours",
+    "section": "3 UE3 Big Data",
+    "text": "3 UE3 Big Data\n\n3.1 Technologies NOSQL et Cloud\n\n\n\nEnseignant\nShadi Ibrahim\n\n\nCours\n30h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nSQL et NoSQL\nSystème de fichiers distribué avec HDFS\nTraitement distribué avec Hadoop MapReduce\nVirtualisation et conteneurisation\nDynamoDB, Google BigTable, MongoDB, Neo4J\n\n\n\n\n\n3.2 Indexation Web\n\n\n\nEnseignant\nLara Perinetti\n\n\nCours\n9h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours couvre la collecte d’informations web, l’Information Retrieval, la constitution et l’organisation de corpus, et l’utilisation de l’algorithme PageRank. Les élèves apprendront des techniques de classification de documents textuels et d’opinion mining, incluant l’analyse de sentiments et l’évaluation de modèles.\n\nInformation Retrieval :\n\nConcepts : tf-idf, stemming, Regex, kmeans.\nPratique : Construction de term-document matrix, utilisation de PageRank.\n\nOpinion Mining :\n\nConcepts : Sentiment analysis, annotation syntaxique.\nPratique : Constitution de corpus, annotation et classification de textes.\n\n\n\n\n\n\n3.3 Publication de données respectueuses\n\n\n\nEnseignant\nTristan Allard et Julien Jamme\n\n\nCours\n9h\n\n\nLangue\nFrançais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nLa publication de données respectueuses de la vie privée est essentielle pour permettre des analyses de données tout en protégeant les informations personnelles :\n\nMéthodes de Partitionnement : Techniques comme le k-anonymat et la l-diversité sont précieuses mais ont des limites.\nConfidentialité Différentielle : Aujourd’hui la norme de référence, elle offre des garanties formelles grâce à des techniques de perturbation des données.\nVulnérabilités : Les schémas de publication restent vulnérables à des attaques telles que la ré-identification et l’inférence de membership.\nDéfis Complexes : Les données personnelles posent des défis en matière de confidentialité, nécessitant des améliorations continues des techniques de protection.\nÉvolution Historique : Comprendre l’évolution des méthodes aide à mieux appréhender les approches modernes.\nCycle Sans Fin : La lutte pour la protection de la vie privée est un cycle sans fin, exigeant vigilance et innovation constantes."
+  },
+  {
+    "objectID": "doc/cours.html#ue4-système-et-réseaux",
+    "href": "doc/cours.html#ue4-système-et-réseaux",
+    "title": "Cours",
+    "section": "4 UE4 Système et Réseaux",
+    "text": "4 UE4 Système et Réseaux\n\n4.1 Initiation à Unix\n\n\n\nEnseignant\nSébastien Le Corre\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nIntroduction à GNU/Linux : Familiarisation avec le système d’exploitation GNU/Linux, son histoire et ses principes fondamentaux.\nInstallation d’une distribution : Étapes pour installer une distribution GNU/Linux sur un système.\nLe shell : Utilisation et manipulation du shell (interpréteur de commandes) pour exécuter des tâches et automatiser des processus.\nUtilisateurs, groupes, permissions : Gestion des utilisateurs, des groupes et des permissions pour sécuriser l’accès aux fichiers et aux ressources système.\nLa gestion des paquets : Méthodes pour installer, mettre à jour et supprimer des logiciels via les gestionnaires de paquets de GNU/Linux.\nLa gestion du réseau : Configuration et gestion des paramètres réseau, y compris la connexion, la configuration IP et la résolution de noms.\nMéthodes de dépannage : Techniques et outils pour diagnostiquer et résoudre les problèmes courants rencontrés dans un environnement GNU/Linux.\n\n\n\n\n\n4.2 Réseaux et Systèmes d’exploitation\n\n\n\nEnseignant\nThomas Correge\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nGestion des Ressources par les OS : Exploration des mécanismes par lesquels les systèmes d’exploitation gèrent le matériel et les ressources logicielles.\nProcessus et Multithreading : Étude des processus, leur création, gestion et synchronisation, ainsi que l’utilisation efficace du multithreading pour améliorer les performances des applications.\nTopologies et Technologies Réseau : Analyse des différentes architectures réseau, telles que LAN, WAN, et des technologies sous-jacentes comme Ethernet, WiFi, et leurs implications.\nModèles en Couches : Compréhension des modèles OSI (Open Systems Interconnection) et TCP/IP, et comment ces modèles organisent les communications réseau.\nConcepts de Sécurité : Introduction aux concepts de DMZ (Zone Démilitarisée), pare-feu et proxy pour sécuriser les réseaux, ainsi qu’une sensibilisation aux risques liés à la sécurité informatique.\n\n\n\n\n\n4.3 Systèmes répartis\n\n\n\nEnseignant\nDavid Gross-Amblard\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours approfondit les architectures distribuées à l’échelle mondiale, avec une focalisation sur les grilles, les systèmes peer-to-peer (P2P) et le cloud. Les objectifs incluent la compréhension des concepts fondamentaux tels que la synchronisation et l’exclusion mutuelle, ainsi que l’étude des algorithmes associés à chaque type d’architecture.\n\nIntroduction aux Architectures Distribuées : Exploration des différentes architectures réparties.\nConcepts Fondamentaux : Synchronisation, exclusion mutuelle, et autres concepts clés.\nApproches Centralisées et Semi-centralisées : Étude du cloud computing et des grilles.\nApproches Décentralisées : Analyse des systèmes P2P structurés, non-structurés et hybrides.\nApplications Pratiques : Utilisation dans les systèmes de partage de fichiers et les protocoles épidémiques.\n\n\n\n\n\n4.4 Sécurité des données\n\n\n\nEnseignant\nDavid Gross-Amblard\n\n\nCours\n9h\n\n\nAteliers\n9h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours explore les principes fondamentaux de la sécurité informatique, en mettant l’accent sur la protection des données dans un contexte d’actualité dynamique marqué par des attaques spectaculaires et l’évolution des législations. La cryptographie est présentée comme un outil essentiel pour prévenir la divulgation, la modification et l’accès non autorisé aux données.\n\nIntroduction à la Sécurité : Analyse des besoins et des menaces en matière de sécurité informatique.\nCryptography :\n\nCryptographies à clés secrètes et publiques.\nProtocoles cryptographiques pour assurer la confidentialité, l’intégrité, la signature et l’authentification des données.\n\nSystèmes Utilisateurs :\n\nApplications Web et sécurité.\nSécurité des transactions par carte bancaire.\nSécurité des applications réseau."
+  },
+  {
+    "objectID": "doc/cours.html#ue5-formation-analyste",
+    "href": "doc/cours.html#ue5-formation-analyste",
+    "title": "Cours",
+    "section": "5 UE5 Formation Analyste",
+    "text": "5 UE5 Formation Analyste\n\n5.1 Gestion de projet\n\n\n5.2 Gestion de Projet Informatique\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours explore la gestion de projet dans le domaine des systèmes d’information, en couvrant le cycle de vie d’une application, les acteurs impliqués et leurs rôles respectifs. Il inclut également la conduite du changement, la comitologie pour la prise de décision, ainsi que la gestion de la qualité et l’adoption des méthodes agiles.\n\nCycle de Vie d’une Application : Phases de développement, de déploiement et de maintenance.\nActeurs et Rôles : Responsabilités des développeurs, chefs de projet, utilisateurs finaux et autres parties prenantes.\nConduite du Changement : Stratégies pour gérer les résistances et faciliter l’adoption des nouvelles technologies.\nComitologie : Structures décisionnelles et processus de gouvernance dans les projets informatiques.\nQualité : Normes de qualité, assurance qualité et contrôle qualité.\nMéthodes Agiles : Approches itératives et adaptatives pour la gestion de projet, telles que Scrum et Kanban.\n\n\n\n\n\n5.3 Architecture informatique\n\n\n\nEnseignant\nNicolas Duffour\n\n\nCours\n24h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours vise à familiariser les étudiants avec les principes d’architecture informatique de pointe. Les objectifs incluent la préparation aux épreuves écrites et orales de l’examen, en développant une compréhension approfondie des architectures physique, technique, applicative et logique.\n\nArchitecture : Exploration des dimensions physique, technique, applicative et logique.\nSécurité : Concepts essentiels pour garantir la protection des systèmes informatiques.\nTransformation Numérique : Impact du cloud computing, du big data et de l’intelligence artificielle sur l’architecture informatique moderne.\n\n\n\n\n\n5.4 Environnement informatique ministériel et interministériel\n\n\n\nEnseignant\nSophie Ronfle\n\n\nCours\n18h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours présente les cadres juridiques essentiels tels que la Loi Informatique et Libertés (LIL), le Règlement Général sur la Protection des Données (RGPD), et le droit d’auteur. Les étudiants apprendront les définitions et les implications des données personnelles, y compris l’adresse IP, ainsi que les droits et obligations des individus et des responsables de traitement. La régulation des cookies et traceurs selon le règlement ePrivacy, le rôle de la Commission Nationale Informatique et Liberté (CNIL), et l’évolution vers le Délégué à la Protection des Données (DPO) seront également abordés. Enfin, le cours couvre l’encadrement juridique de l’utilisation des outils informatiques dans les sphères privée et professionnelle."
+  },
+  {
+    "objectID": "doc/cours.html#ue6-formation-avancée-à-lexamen-danalyste",
+    "href": "doc/cours.html#ue6-formation-avancée-à-lexamen-danalyste",
+    "title": "Cours",
+    "section": "6 UE6 Formation avancée à l’examen d’analyste",
+    "text": "6 UE6 Formation avancée à l’examen d’analyste\n\n6.1 Préparation à l’écrit\n\n\n6.2 Préparation à l’oral\n\n\n6.3 Anglais"
+  },
+  {
+    "objectID": "doc/cours.html#ue7-stage",
+    "href": "doc/cours.html#ue7-stage",
+    "title": "Cours",
+    "section": "7 UE7 Stage",
+    "text": "7 UE7 Stage"
+  },
+  {
     "objectID": "doc/presentation.html#sommaire",
     "href": "doc/presentation.html#sommaire",
     "title": "Présentation Master STD",
@@ -264,62 +201,6 @@
     "title": "Présentation Master STD",
     "section": "Conclusion",
     "text": "Conclusion\n\nUn poste à l’info est un vrai plus\nInnovation, Dynamique\nCommunauté très active\nPas besoin d’être un crack en informatique\nVision globale de ce que fait l’INSEE\n\n\nConfettis : press C\n\n\n\n\nHome"
-  },
-  {
-    "objectID": "doc/cours.html",
-    "href": "doc/cours.html",
-    "title": "Cours",
-    "section": "",
-    "text": "Le programme complet est consultable sur la page du Master Statistique des Données pour la Décision Publique du site de l’ENSAI."
-  },
-  {
-    "objectID": "doc/cours.html#ue1-machine-learning",
-    "href": "doc/cours.html#ue1-machine-learning",
-    "title": "Cours",
-    "section": "1 UE1 Machine Learning",
-    "text": "1 UE1 Machine Learning\n\n1.1 Apprentissage statistique (Machine Learning)\n\n\n\nEnseignant\nSébastien Da Veiga\n\n\nCours\n18h\n\n\nAteliers\n12h\n\n\nLangue\nAnglais (cours) et Français (ateliers)\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nModèles Linéaires : Régression et classification, techniques de pénalisation.\nMéthodes Locales : Approches basées sur la proximité des données.\nSVM (Support Vector Machine) : Modèle pour la classification et la régression avec le kernel trick.\nForêts d’arbres décisionnels (Random Forest) : Méthode d’ensemble pour améliorer la précision des prédictions.\nComparaison Empirique des Modèles : Techniques pour évaluer et comparer empiriquement la performance des modèles pour des tâches spécifiques.\n\n\n\n\n\n1.2 Apprentissage profond (Deep Learning)\n\n\n\nEnseignant\nIkko Yamane\n\n\nCours\n24h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nPrincipe des réseaux de neurones\nPropriétés des réseaux de neurones simples\nDescente de gradient\nRéseaux de neurones profonds\n\n\n\n\n\n1.3 Webmining et Traitement du langage\n\n\n\nEnseignant\nGuillaume Gravier (Irisa)\n\n\nCours\n9h\n\n\nAtelier\n12h\n\n\nLangue\nAnglais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nCollecter des données\nExtraire de l’information et apparier des sources textuelles\nClassification, Analyse de sentiment\nModèles d’étude de la langue"
-  },
-  {
-    "objectID": "doc/cours.html#ue2-développement-dapplication-et-dataops",
-    "href": "doc/cours.html#ue2-développement-dapplication-et-dataops",
-    "title": "Cours",
-    "section": "2 UE2 Développement d’application et DataOps",
-    "text": "2 UE2 Développement d’application et DataOps\n\n2.1 Génie Logiciel\n\n\n\n\n\n\n\nEnseignants\nDjamel Eddine KHELLADI et Alban GRÉAU\n\n\nCours\n24h\n\n\nAtelier\n24h\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nPatrons de conception, Bonnes pratiques\nContenerisation et Orchestration\nTests, TDD, Couverture de tests\nCICD\nJava - Maven - Spring Boot - JPA - Hibernate\nCloud avec AWS (s3, RDS, Elastic Beanstalk)\n\n\n\nCours de Rémi (2023)\n\n\n2.2 Développement Web\nLes élèves doivent choisir entre ce cours et celui de DataOps.\n\n\n\n\n\n\n\nEnseignant\nOlivier Chantrel\n\n\nCours\n12h\n\n\nAtelier\n15h\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nXML, DOM, SAX\nWeb, HTML, CSS, Bootstrap\nPHP, MySQL, MariaDB\nAJAX, JavaScript (Angular, React, Vue.JS)\n\n\n\n\n\n2.3 DataOps\nLes élèves doivent choisir entre ce cours et celui de Développement Web.\n\n\n\nEnseignant\nChristophe Blefari\n\n\nCours\n27h\n\n\nLangue\nAnglais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nDataOps, MLOps et DevOps\nAWS Cloud platform\nInfrastructure as Code\nCI/CD\nDocker, Kubernetes\nData pipelines et data observability"
-  },
-  {
-    "objectID": "doc/cours.html#ue3-big-data",
-    "href": "doc/cours.html#ue3-big-data",
-    "title": "Cours",
-    "section": "3 UE3 Big Data",
-    "text": "3 UE3 Big Data\n\n3.1 Technologies NOSQL et Cloud\n\n\n\nEnseignant\nShadi Ibrahim\n\n\nCours\n30h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nSQL et NoSQL\nSystème de fichiers distribué avec HDFS\nTraitement distribué avec Hadoop MapReduce\nVirtualisation et conteneurisation\nDynamoDB, Google BigTable, MongoDB, Neo4J\n\n\n\n\n\n3.2 Indexation Web\n\n\n\nEnseignant\nLara Perinetti\n\n\nCours\n9h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours couvre la collecte d’informations web, l’Information Retrieval, la constitution et l’organisation de corpus, et l’utilisation de l’algorithme PageRank. Les élèves apprendront des techniques de classification de documents textuels et d’opinion mining, incluant l’analyse de sentiments et l’évaluation de modèles.\n\nInformation Retrieval :\n\nConcepts : tf-idf, stemming, Regex, kmeans.\nPratique : Construction de term-document matrix, utilisation de PageRank.\n\nOpinion Mining :\n\nConcepts : Sentiment analysis, annotation syntaxique.\nPratique : Constitution de corpus, annotation et classification de textes.\n\n\n\n\n\n\n3.3 Publication de données respectueuses\n\n\n\nEnseignant\nTristan Allard et Julien Jamme\n\n\nCours\n9h\n\n\nLangue\nFrançais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nLa publication de données respectueuses de la vie privée est essentielle pour permettre des analyses de données tout en protégeant les informations personnelles :\n\nMéthodes de Partitionnement : Techniques comme le k-anonymat et la l-diversité sont précieuses mais ont des limites.\nConfidentialité Différentielle : Aujourd’hui la norme de référence, elle offre des garanties formelles grâce à des techniques de perturbation des données.\nVulnérabilités : Les schémas de publication restent vulnérables à des attaques telles que la ré-identification et l’inférence de membership.\nDéfis Complexes : Les données personnelles posent des défis en matière de confidentialité, nécessitant des améliorations continues des techniques de protection.\nÉvolution Historique : Comprendre l’évolution des méthodes aide à mieux appréhender les approches modernes.\nCycle Sans Fin : La lutte pour la protection de la vie privée est un cycle sans fin, exigeant vigilance et innovation constantes."
-  },
-  {
-    "objectID": "doc/cours.html#ue4-système-et-réseaux",
-    "href": "doc/cours.html#ue4-système-et-réseaux",
-    "title": "Cours",
-    "section": "4 UE4 Système et Réseaux",
-    "text": "4 UE4 Système et Réseaux\n\n4.1 Initiation à Unix\n\n\n\nEnseignant\nSébastien Le Corre\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nIntroduction à GNU/Linux : Familiarisation avec le système d’exploitation GNU/Linux, son histoire et ses principes fondamentaux.\nInstallation d’une distribution : Étapes pour installer une distribution GNU/Linux sur un système.\nLe shell : Utilisation et manipulation du shell (interpréteur de commandes) pour exécuter des tâches et automatiser des processus.\nUtilisateurs, groupes, permissions : Gestion des utilisateurs, des groupes et des permissions pour sécuriser l’accès aux fichiers et aux ressources système.\nLa gestion des paquets : Méthodes pour installer, mettre à jour et supprimer des logiciels via les gestionnaires de paquets de GNU/Linux.\nLa gestion du réseau : Configuration et gestion des paramètres réseau, y compris la connexion, la configuration IP et la résolution de noms.\nMéthodes de dépannage : Techniques et outils pour diagnostiquer et résoudre les problèmes courants rencontrés dans un environnement GNU/Linux.\n\n\n\n\n\n4.2 Réseaux et Systèmes d’exploitation\n\n\n\nEnseignant\nThomas Correge\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nGestion des Ressources par les OS : Exploration des mécanismes par lesquels les systèmes d’exploitation gèrent le matériel et les ressources logicielles.\nProcessus et Multithreading : Étude des processus, leur création, gestion et synchronisation, ainsi que l’utilisation efficace du multithreading pour améliorer les performances des applications.\nTopologies et Technologies Réseau : Analyse des différentes architectures réseau, telles que LAN, WAN, et des technologies sous-jacentes comme Ethernet, WiFi, et leurs implications.\nModèles en Couches : Compréhension des modèles OSI (Open Systems Interconnection) et TCP/IP, et comment ces modèles organisent les communications réseau.\nConcepts de Sécurité : Introduction aux concepts de DMZ (Zone Démilitarisée), pare-feu et proxy pour sécuriser les réseaux, ainsi qu’une sensibilisation aux risques liés à la sécurité informatique.\n\n\n\n\n\n4.3 Systèmes répartis\n\n\n\nEnseignant\nDavid Gross-Amblard\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours approfondit les architectures distribuées à l’échelle mondiale, avec une focalisation sur les grilles, les systèmes peer-to-peer (P2P) et le cloud. Les objectifs incluent la compréhension des concepts fondamentaux tels que la synchronisation et l’exclusion mutuelle, ainsi que l’étude des algorithmes associés à chaque type d’architecture.\n\nIntroduction aux Architectures Distribuées : Exploration des différentes architectures réparties.\nConcepts Fondamentaux : Synchronisation, exclusion mutuelle, et autres concepts clés.\nApproches Centralisées et Semi-centralisées : Étude du cloud computing et des grilles.\nApproches Décentralisées : Analyse des systèmes P2P structurés, non-structurés et hybrides.\nApplications Pratiques : Utilisation dans les systèmes de partage de fichiers et les protocoles épidémiques.\n\n\n\n\n\n4.4 Sécurité des données\n\n\n\nEnseignant\nDavid Gross-Amblard\n\n\nCours\n9h\n\n\nAteliers\n9h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours explore les principes fondamentaux de la sécurité informatique, en mettant l’accent sur la protection des données dans un contexte d’actualité dynamique marqué par des attaques spectaculaires et l’évolution des législations. La cryptographie est présentée comme un outil essentiel pour prévenir la divulgation, la modification et l’accès non autorisé aux données.\n\nIntroduction à la Sécurité : Analyse des besoins et des menaces en matière de sécurité informatique.\nCryptography :\n\nCryptographies à clés secrètes et publiques.\nProtocoles cryptographiques pour assurer la confidentialité, l’intégrité, la signature et l’authentification des données.\n\nSystèmes Utilisateurs :\n\nApplications Web et sécurité.\nSécurité des transactions par carte bancaire.\nSécurité des applications réseau."
-  },
-  {
-    "objectID": "doc/cours.html#ue5-formation-analyste",
-    "href": "doc/cours.html#ue5-formation-analyste",
-    "title": "Cours",
-    "section": "5 UE5 Formation Analyste",
-    "text": "5 UE5 Formation Analyste\n\n5.1 Gestion de projet\n\n\n5.2 Gestion de Projet Informatique\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours explore la gestion de projet dans le domaine des systèmes d’information, en couvrant le cycle de vie d’une application, les acteurs impliqués et leurs rôles respectifs. Il inclut également la conduite du changement, la comitologie pour la prise de décision, ainsi que la gestion de la qualité et l’adoption des méthodes agiles.\n\nCycle de Vie d’une Application : Phases de développement, de déploiement et de maintenance.\nActeurs et Rôles : Responsabilités des développeurs, chefs de projet, utilisateurs finaux et autres parties prenantes.\nConduite du Changement : Stratégies pour gérer les résistances et faciliter l’adoption des nouvelles technologies.\nComitologie : Structures décisionnelles et processus de gouvernance dans les projets informatiques.\nQualité : Normes de qualité, assurance qualité et contrôle qualité.\nMéthodes Agiles : Approches itératives et adaptatives pour la gestion de projet, telles que Scrum et Kanban.\n\n\n\n\n\n5.3 Architecture informatique\n\n\n\nEnseignant\nNicolas Duffour\n\n\nCours\n24h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours vise à familiariser les étudiants avec les principes d’architecture informatique de pointe. Les objectifs incluent la préparation aux épreuves écrites et orales de l’examen, en développant une compréhension approfondie des architectures physique, technique, applicative et logique.\n\nArchitecture : Exploration des dimensions physique, technique, applicative et logique.\nSécurité : Concepts essentiels pour garantir la protection des systèmes informatiques.\nTransformation Numérique : Impact du cloud computing, du big data et de l’intelligence artificielle sur l’architecture informatique moderne.\n\n\n\n\n\n5.4 Environnement informatique ministériel et interministériel\n\n\n\nEnseignant\nSophie Ronfle\n\n\nCours\n18h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours présente les cadres juridiques essentiels tels que la Loi Informatique et Libertés (LIL), le Règlement Général sur la Protection des Données (RGPD), et le droit d’auteur. Les étudiants apprendront les définitions et les implications des données personnelles, y compris l’adresse IP, ainsi que les droits et obligations des individus et des responsables de traitement. La régulation des cookies et traceurs selon le règlement ePrivacy, le rôle de la Commission Nationale Informatique et Liberté (CNIL), et l’évolution vers le Délégué à la Protection des Données (DPO) seront également abordés. Enfin, le cours couvre l’encadrement juridique de l’utilisation des outils informatiques dans les sphères privée et professionnelle."
-  },
-  {
-    "objectID": "doc/cours.html#ue6-formation-avancée-à-lexamen-danalyste",
-    "href": "doc/cours.html#ue6-formation-avancée-à-lexamen-danalyste",
-    "title": "Cours",
-    "section": "6 UE6 Formation avancée à l’examen d’analyste",
-    "text": "6 UE6 Formation avancée à l’examen d’analyste\n\n6.1 Préparation à l’écrit\n\n\n6.2 Préparation à l’oral\n\n\n6.3 Anglais"
-  },
-  {
-    "objectID": "doc/cours.html#ue7-stage",
-    "href": "doc/cours.html#ue7-stage",
-    "title": "Cours",
-    "section": "7 UE7 Stage",
-    "text": "7 UE7 Stage"
   },
   {
     "objectID": "doc/stage-slide.html#modalités",
@@ -581,6 +462,90 @@
     "text": "🏁 Pour terminer\n\nProduisez quelque chose dont vous êtes fier\nProduisez un travail sérieux\nCreuser les sujets qui vous paraissent interessants"
   },
   {
+    "objectID": "doc/accueil.html#ue-et-matières",
+    "href": "doc/accueil.html#ue-et-matières",
+    "title": "Accueil Master STD",
+    "section": "UE et Matières",
+    "text": "UE et Matières\n\nMachine Learning\nGénie Logiciel, DevOps\nBig Data, Cloud\nSystème, Réseaux, Sécurité\nGestion de projet\n\n\nSans oublier l’anglais"
+  },
+  {
+    "objectID": "doc/accueil.html#examen-analyste",
+    "href": "doc/accueil.html#examen-analyste",
+    "title": "Accueil Master STD",
+    "section": "Examen Analyste",
+    "text": "Examen Analyste\n\nLien examen\nInscription\nPas obligatoire pour travailler en service Informatique à l’INSEE\n\nmais fortement recommandé\n\nPrime analyste : 225€ / mois"
+  },
+  {
+    "objectID": "doc/accueil.html#examen-analyste-1",
+    "href": "doc/accueil.html#examen-analyste-1",
+    "title": "Accueil Master STD",
+    "section": "Examen Analyste",
+    "text": "Examen Analyste\n\n\nQualités évaluées\n\nTechniques d’analyse,\nAptitude à la synthèse\nRédaction d’un dossier technique\nConnaissances en matière de programmation\nQualités de réflexion et de logique"
+  },
+  {
+    "objectID": "doc/accueil.html#examen-analyste-2",
+    "href": "doc/accueil.html#examen-analyste-2",
+    "title": "Accueil Master STD",
+    "section": "Examen Analyste",
+    "text": "Examen Analyste\n\n\nConnaissances\n\nGestion de projet, organisation du SI\nDéveloppement d’applications\nMatériel, sécurité, réseaux, architecture\nEnvironnement juridique et administratif"
+  },
+  {
+    "objectID": "doc/accueil.html#examen-analyste-3",
+    "href": "doc/accueil.html#examen-analyste-3",
+    "title": "Accueil Master STD",
+    "section": "Examen Analyste",
+    "text": "Examen Analyste\n\n\nDates\n\ninscriptions : mi-Octobre\nécrit (début janvier) : 6h\n\ndossier d’analyse\n\noral (début mars) : 30min prépa, 10 min exposé, 20min questions\n\ntirage au sort de 2 sujets, choix d’un sujet"
+  },
+  {
+    "objectID": "doc/accueil.html#examen-analyste-4",
+    "href": "doc/accueil.html#examen-analyste-4",
+    "title": "Accueil Master STD",
+    "section": "Examen Analyste",
+    "text": "Examen Analyste\n\n\nPrépa\n\n4 Examens blancs écrits à l’ENSAI\n3 Oraux blancs à l’IGPDE\n\n\nOB1 le 4/12"
+  },
+  {
+    "objectID": "doc/accueil.html#examen-analyste-5",
+    "href": "doc/accueil.html#examen-analyste-5",
+    "title": "Accueil Master STD",
+    "section": "Examen Analyste",
+    "text": "Examen Analyste\n\n\nMission\n\nOM Collectif\n\nAvec Nuitée si oral avant 10h\nSans Nuitée si oral après 10h\n\nRemboursement de frais\n\n\nVolontaire pour participer à réunion\nPrévenir si situation particulière (n’habite pas Rennes)"
+  },
+  {
+    "objectID": "doc/accueil.html#stage",
+    "href": "doc/accueil.html#stage",
+    "title": "Accueil Master STD",
+    "section": "Stage",
+    "text": "Stage\nInfos stage"
+  },
+  {
+    "objectID": "doc/accueil.html#insee",
+    "href": "doc/accueil.html#insee",
+    "title": "Accueil Master STD",
+    "section": "INSEE",
+    "text": "INSEE\n\nFocus INSEE\nVérifiez vos accès à l’intranet et à Mouv’in\n\nla campagne de mobilité démarre en octobre"
+  },
+  {
+    "objectID": "doc/accueil.html#campagne-de-mobilité",
+    "href": "doc/accueil.html#campagne-de-mobilité",
+    "title": "Accueil Master STD",
+    "section": "Campagne de mobilité",
+    "text": "Campagne de mobilité\n\n\nDates importantes\n\nMi-octobre : vous devez être inscrits dans la campagne\nMi-décembre : diffusion des postes ouverts\nFin-février : dépôt des voeux\nMi-avril : résultats"
+  },
+  {
+    "objectID": "doc/accueil.html#campagne-de-mobilité-1",
+    "href": "doc/accueil.html#campagne-de-mobilité-1",
+    "title": "Accueil Master STD",
+    "section": "Campagne de mobilité",
+    "text": "Campagne de mobilité\n\n\nConseils\n\npréparez en avance votre CV\npréparez un mail de motivation\n\nà adapter ensuite selon les postes visés\n\nenvoyez des mails avant Noël\n\nle 15 janvier c’est trop tard !"
+  },
+  {
+    "objectID": "doc/accueil.html#métiers-insee",
+    "href": "doc/accueil.html#métiers-insee",
+    "title": "Accueil Master STD",
+    "section": "Métiers INSEE",
+    "text": "Métiers INSEE\nAvoir fait un poste dans la sphère info est un vrai plus\n\nAnalyste Développeur\nAnalyste Développeur confirmé\nExpert big data\nChef de projet\nUrbaniste du système d’information\nDBA\nIngénieur Système et Sécurité\nIngénieur DevOps\nIngénieur dans l’équipe produit Kubernetes\n\n\n\n\nHome"
+  },
+  {
     "objectID": "doc/examen-analyste.html",
     "href": "doc/examen-analyste.html",
     "title": "Examen d’Analyste",
@@ -642,5 +607,54 @@
     "title": "Examen d’Analyste",
     "section": "Missions",
     "text": "Missions\n\n\n\n\n\n\nCaution\n\n\n\nVous aurez 2 types de missions différents qui ne donnent pas lieu aux mêmes prises en charge :\n\nformation (oraux blanc, semaine DG) ➡️ tous les frais sont pris en charge : transport, repas, nuitées\nconcours / examens (examens écrit et oral) ➡️ seul le transport aller/retour est remboursé par l’ENSAI\n\n\n\n\nOrdre de Mission\nAvant de partir en mission, il est impératif d’être couvert par un Ordre de Mission (OM).\nPour obtenir cet OM, vous devez préalablement remplir une demande d'OM, au plus tard 10 jours avant le début de la mission. Cette fiche liste tous les élèments permettant de définir la mission :\n\nNom, prénom, tél, mail\nLieu de départ, dates de départ et de retour\nMotif, lieu et durée de la mission\n\nil faut joindre un justificatif de mission (convocation, justificatif d’inscription…)\n\nDétailler les trajets pour se rendre sur le lieu de la mission (pas besoin de détailler métro, rer, bus)\nSigner, et faire signer par la direction des études ET le secrétariat général\n\nUne fois que tout est bien rempli, vous pouvez envoyer votre demande d’OM et la convocation sur la boite fonctionnelle mission.\n\n\n\n\n\n\nCochez les bonnes cases\n\n\n\nVous avez 2 possibilités pour vos billets de train :\n\nVous achetez vous-même les billets et demanderez ensuite le remboursement\n\n\nBillet à commander : NON\nBillet à rembourser : OUI\n\n\nVous demander à l’ENSAI de commander vos billets\n\n\nBillet à commander : OUI\nBillet à rembourser : NON\ndans ce cas, votre demande d’OM doit arriver au minimum 15 jours avant le début de la mission\n\nCochez la case Metro / RER / Bus si nécessaire pour votre trajet.\n\n\n\n\nRemboursement de frais\nIl est important de demander et conserver tous les justificatifs originaux de frais (ticket repas, ticket métro, facture hôtel…).\nA votre retour de mission, envoyez sans tarder le tout aux gestionnaires.\n\nRepas\n\nSi arrivée la veille : repas du soir : 20€\nLe midi :\n\n10€ si repas dans un restaurant administratif\n20€ si repas à l’extérieur\n\nSi retour de mission après 20h, repas du soir : 20€"
+  },
+  {
+    "objectID": "doc/INSEE.html",
+    "href": "doc/INSEE.html",
+    "title": "Focus sur l’INSEE",
+    "section": "",
+    "text": "INSEE: Institut National de la Statistique et des Études Économiques.\nCréé en 1946, l’INSEE emploie environs 5.000 agents dont 25% de catégorie Attaché. D’autres informations sont disponibles dans les rapports d’activité annuels."
+  },
+  {
+    "objectID": "doc/INSEE.html#quelques-liens",
+    "href": "doc/INSEE.html#quelques-liens",
+    "title": "Focus sur l’INSEE",
+    "section": "Quelques liens",
+    "text": "Quelques liens\n\nhttps://www.insee.fr/\nRéseau des Datascientists de la Statistique Publique (SSPHub)\n\n💡 abonnez-vous à la newletter\n\nBlog de l’INSEE\nTwitter, il existe également de nombreux fils régionaux, par exemple :\n\nInsee en région\nHauts-de-France\nBretagne\n\nhttps://statistiques-locales.insee.fr/\n\n\nRessources pédagogiques et outils interactifs\n\nDécouvrir, apprendre, enseigner\nClassement des prénoms en France depuis 1900\nPyramide des ages\nDatavisualisation des salaires\n\n\n\nVidéos\n\nChaine Youtube INSEE\n\nDe nombreuses playlists expliquent simplement différents concepts, par exemple :\n\nRessources pédagogiques\nExplique moi l’éco\n\n\nRené Carmille, un hacker sous l’Occupation\nDocumentaire sur la création en 1941 du Service National des Statistiques qui deviendra l’INSEE quelques années plus tard\n\n\n\nLes chiffres sont-ils “neutres” ?\npar NotaBene"
+  },
+  {
+    "objectID": "doc/INSEE.html#la-direction-générale-dg",
+    "href": "doc/INSEE.html#la-direction-générale-dg",
+    "title": "Focus sur l’INSEE",
+    "section": "La Direction Générale (DG)",
+    "text": "La Direction Générale (DG)\nLa majorité des missions et des agents de la DG sont à Montrouge au sud de Paris. Les agents du centre de Metz font également parti de la DG (l’établissement de Lorraine étant localisé à Nancy).\nAussi dans chacun des établissements régionaux, des agents réalisent des missions nationales. De plus en plus de travaux sont transférés depuis Montrouge vers des établissements de province.\n\nLes 7 directions\n\nSecrétariat Général\n\nLe SG intervient dans les domaines suivants :\n\nla gestion des ressources humaines, des conditions de travail,\nle pilotage des ressources financières, des moyens informatiques, immobiliers et logistiques.\n\nSource : insee.fr\n\nMots clés: RH, Budget, Communication interne, Dialogue social, Affaires juridiques et contentieuses\n\n\nDirection du Système d’Information\n\nLa DSI :\n\npilote et développe le système d’information de l’INSEE,\nen élabore la stratégie et le schéma directeur,\nen assure la sécurité,\nmet à disposition l’infrastructure informatique nécessaire au fonctionnement du système d’information.\n\nSource : insee.fr\n\nMots clés: Infrastructures, Réseaux, Sécurité, Projets informatiques, Développement, Assistance à Maîtrise d’Ouvrage, Innovation\n\n\nDirection de la Méthodologie et de la Coordination Statistique et Internationale\n\nLa DMCSI a pour mission :\n\nd’élaborer et de promouvoir les bonnes méthodes et pratiques en matière statistique,\nde mettre en place, progressivement et de manière coopérative, un cadre d’assurance qualité,\nd’organiser, au sein du service statistique public, la coordination de l’Insee et des services statistiques ministériels aux niveaux national et international,\nd’assister le directeur général dans son rôle de coordonnateur des autorités statistiques nationales au sens de la loi européenne,\nde promouvoir et d’animer l’innovation au sein du service statistique public.\n\nSource : insee.fr\n\nMots clés: Méthodes, Démarche qualité, Documentation statistique, Coordination, Sondages, Innovation, SSP Lab\n\n\nDirection des Statistiques Démographiques et Sociales\n\nLa DSDS :\n\ngère le répertoire national d’identification des personnes physiques et le fichier national des électeurs\nconçoit et élabore les statistiques et les études concernant la population, les ménages et le développement social, notamment dans les domaines suivants : démographie, emploi, revenus, patrimoines, prix à la consommation, logement et conditions de vie\nétablit les populations légales et produit les résultats statistiques du recensement aux plans national et local.\n\nSource : insee.fr\n\nMots clés: Enquêtes ménages, Études démographiques et sociales, Emploi, Démographie, Ressources et des conditions de vie, Prix à la consommation\n\n\nDirection des Statistiques d’Entreprises\n\nLa DSE coordonne l’ensemble des statistiques sur le système productif. Elle veille notamment à la mise en œuvre des obligations statistiques résultant des principaux règlements européens sur les entreprises et s’assure que tous les moyens sont mis en œuvre pour y parvenir, à l’intérieur comme à l’extérieur de la direction générale. Elle gère les répertoires d’entreprises et d’établissements (répertoire inter-administratif SIRENE et répertoire statistique SIRUS), produit les statistiques de l’industrie, du commerce et des services marchands, gère des bases de données d’entreprises. Elle construit des indicateurs conjoncturels macroéconomiques et participe à l’élaboration des comptes nationaux annuels à un niveau sectoriel détaillé.\nSource : insee.fr\n\nMots clés: Enquêtes entreprise, Répertoire SIRENE, Statistiques annuelles d’entreprise, Profilage, Synthèses sectorielles\n\n\nDirection de la Diffusion et de l’Action Régionale\n\nLa DDAR : - met à disposition de l’ensemble des utilisateurs des produits et services résultant des activités de la statistique publique de l’Insee et des autres services producteurs, - en adéquation avec les attentes des publics, elle en assure la diffusion, la promotion et la distribution, - coordonne l’offre et les activités d’étude et de diffusion des directions régionales de l’Insee : information générale, études réalisées en partenariat avec les acteurs publics en région, conseil et assistance aux décideurs régionaux et locaux.\nSource : insee.fr\n\nMots clés: Action régionale, Communication externe, Insee contact, Offre éditoriale, Diffusions internet, Open Data,\n\n\nDirection des Études et Synthèses Économiques\n\nLa DESE :\n\nélabore et analyse des informations conjoncturelles,\nen fait périodiquement la synthèse,\nproduit les comptes nationaux annuels et trimestriels,\nconçoit et fait fonctionner des modèles, notamment dans les domaines de la macroéconomie et de la protection sociale.\n\nElle réalise des études et prévisions économiques et des évaluations de politiques publiques.\nSource : insee.fr\n\nMots clés: Comptes Nationaux, Notes de Conjoncture, Economie et Statistique, Études macroéconomiques"
+  },
+  {
+    "objectID": "doc/INSEE.html#les-directions-régionales-dr",
+    "href": "doc/INSEE.html#les-directions-régionales-dr",
+    "title": "Focus sur l’INSEE",
+    "section": "Les Directions Régionales (DR)",
+    "text": "Les Directions Régionales (DR)\nLes locaux de l’INSEE se situent généralement dans les préfectures des régions d’avant 2016, ainsi que dans les DOM.\nPour plus de détails sur la localisation des établissements de l’INSEE, consulter le rapport annuel d’activités de L’INSEE 2021, page 22\n\nUn peu d’histoire\nAvant 2016 et la réforme des régions, chaque préfecture de région avait sa DR de l’INSEE. Chaque DR était composée des 3 services suivants :\n\nService Administration des Ressources (SAR)\n\nRessources Humaines\nBudget, Logistique, Assistance informatique\nFormation\n\nService Statistique (SES)\n\nDivision Enquête Ménage (DEM)\nDivsion Recensement de la Population (RP)\n\nService Etude et Diffusion (SED)\n\nEtudes régionales\n\n\nChaque DR réalise également des missions de portée nationale (détaillé par la suite).\n\n\nRéorganisation suite à la fusion des régions\nAprès 2016, l’INSEE est toujours présente dans ces villes. Cependant il ne peut rester qu’une seule DR par région, ainsi les autres seront nommés Établissement. Pour les régions qui n’ont pas fusionnées, rien ne change.\nCe qui a changé :\n\nUn seul SED subsiste par région, généralement dans la plus grande ville\nChaque DR et chaque établissement conserve un SES\nLes SAR fusionnent, la majorité des agents du SAR sont à la DR même si le SAR garde des agents dans chaque établissement pour plus de proximité\n\nLa DR n’est pas toujours localisée dans la plus grande ville, exemple avec la région Nouvelle-Aquitaine :\n\nDR : Poitiers\nETAB : Bordeaux et Limoges\nLe SED est à Bordeaux\n\n\n\nLes pôles et sites\n\nDescriptions des sites et pôles extraites de l’intranet de l’INSEE\n\nDans chaque DR ou établissement, il n’y a pas uniquement des missions régionales. Voici quelques exemples de pôles et de sites aux missions nationales ou inter-régionales.\n\nSite SIRENE\nLa mission principale du site est l’immatriculation des entreprises, qui consiste à leur attribuer des numéros SIREN et SIRET et un code APE, déterminé d’après la nomenclature d’activités française (NAF). Le site traite aussi des déclarations administratives telles que des changements de dénomination, d’adresse, de catégorie juridique, d’activité…\n\nConnaître et comprendre le répertoire Sirene\nTrajectoires d’entreprise (intranet insee)\n\n\n\nSite Prix à la Consommation\n\ncollecte des relevés de prix\ncontrôle des processus de collecte\n\n\n\nSite Tourisme\n\ngère les enquêtes de fréquentation (hôtellerie et camping)\net la mise à jour du parc des hébergements (hôtels et campings)\n\n\n\nSite Réseau Enquêteurs Entreprises\n\nteste les questionnaires d’enquête préalablement au passage au comité du label\ncontact avec les entreprises nouvellement entrantes dans les échantillons avant l’envoi des premiers questionnaires\nrelance des non-répondants, notamment les entreprises dont le poids dans un échantillon est important, par téléphone ou par visite\n\n\n\nSite Gestion Financière\nSes missions principales sont d’une part de formaliser les achats et suivre la liquidation de la dépense, d’autre part d’établir les ordres de mission et les états de frais des agents, enquêteurs et superviseurs.\n\n\nSite BRPP\nIl gère la mise à jour du répertoire d’identification des personnes physiques avec des données d’état civil (naissances, décès, mariages, conclusions et dissolutions de pacs). Ce répertoire doit être l’image des registres d’état civil détenus par les mairies. L’équipe est chargée, entre autres, de contrôler la cohérence et la qualité des données, l’exhaustivité des actes transmis, de s’assurer des délais de transmission.\n\n\nPôle de Service pour l’Action Régionale (PSAR)\nLe PSAR a pour mission de fournir au réseau de l’action régionale des prestations de nature à faciliter la réalisation de synthèses et diagnostics de territoire par les directions régionales, dans le cadre du service spécifique rendu à leurs partenaires, acteurs publics du développement local.\nL’activité du PSAR relève de trois domaines qui se recoupent en partie :\n\nil produit des investissements (le principal outil développé et maintenu sous la responsabilité du Psar est le « kit synthèses locales »)\nil intervient dans le champ de la méthodologie\nil assure une fonction d’animation et de formation autour des synthèses et diagnostics de territoire.\n\nLes PSAR :\n\nPSAR Synthèses Locales (Lyon)\nPSAR Emploi-Population (Lille)\nPSAR Analyse Territoriale (Marseille)\nPSAR Études Économiques Régionales (Toulouse)"
+  },
+  {
+    "objectID": "doc/INSEE.html#les-services-statistiques-ministériels-ssm",
+    "href": "doc/INSEE.html#les-services-statistiques-ministériels-ssm",
+    "title": "Focus sur l’INSEE",
+    "section": "Les Services Statistiques Ministériels (SSM)",
+    "text": "Les Services Statistiques Ministériels (SSM)\nDe très nombreux postes sont réservés aux agents de l’INSEE dans différents ministères. Voici les principaux SSM :\n\nDARES (Direction de l’Animation, de la Recherche, des Études et des Statistiques)\nDEPP (Direction de l’Évaluation, de la Prospective et de la Performance)\n\nSSM en charge des statistiques sur l’éducation\n\nDESF (Département des Études et Statistiques Fiscales)\n\nSSM de la de la DGFIP (Direction Générale des Finances Publiques)\nSSM du ministère du Travail\n\nDRESS (Direction de la Recherche, des Études, de l’Évaluation et des Statistiques)\n\nSSM chargé de la santé et des solidarités\n\nDSECE (Département des Statistiques et des Études du Commerce Extérieur)\n\nSSM chargé du commerce extérieur et des douanes\n\nDSED (Département des Statistiques, des Études et de la Documentation)\n\nSSM sur le sujet de l’Immigration et de l’Intégration\n\nMEDES (Mission des Enquêtes, Données et Études Statistiques)\n\nSSM chargé de la jeunesse et des sports\n\nSDES\n\nDREAL : (Direction Régionale de l’Environnement, de l’Aménagement et du Logement)\n\nSIES (Sous-direction des systèmes d’Information et des Études Statistiques)\n\nSSM chargé de l’enseignement supérieur et de la recherche\n\nSRISE (Services Régionaux de l’Information Statistique et Économique)\n\nDirections régionales de l’Alimentation, de l’Agriculture et de la Forêt (DRAAF)\n\nSSMSI (Service Statistique Ministériel de la Sécurité Intérieure)"
+  },
+  {
+    "objectID": "doc/INSEE.html#les-principales-enquêtes",
+    "href": "doc/INSEE.html#les-principales-enquêtes",
+    "title": "Focus sur l’INSEE",
+    "section": "Les principales enquêtes",
+    "text": "Les principales enquêtes\nVoici quelques exemples d’enquêtes réalisées auprès des ménages :\n\nEnquête Annuelle du Recensement de la population (EAR)\n\ntous les 5 ans pour les communes de moins de 10.000 habitants\nannuel pour les communes de plus de 10.000 habitants mais uniquement sur un échantillon de 8% des logements\n\nEnquête Emploi en Continu\nLoyers et Charges\nConjoncture auprès des ménages (Camme)\nStatistiques sur les Ressources et Conditions de Vie (SRCV)\nEntrée dans la vie adulte (EVA)\nTechnologie de l’Information et de la Communication (TIC)\n\n\n\n\n\n\n\nTip\n\n\n\nL’INSEE réalise également de nombreuses enquêtes auprès des entreprises."
+  },
+  {
+    "objectID": "doc/INSEE.html#les-répertoires",
+    "href": "doc/INSEE.html#les-répertoires",
+    "title": "Focus sur l’INSEE",
+    "section": "Les répertoires",
+    "text": "Les répertoires\n\nSIRENE : Entreprises privées, publiques, associations\nRNIPP : Répertoire National d’Identification des Personnes Physiques\n\nfournis le numéro de Sécurité Sociale\n\nREU : Répertoire Electoral Unique\n\npour l’inscription sur les listes électorales\n\nCOG (prononcé “coge”) : Code Officiel Géographique\nRIL : Répertoire des Immeubles Localisés"
   }
 ]
