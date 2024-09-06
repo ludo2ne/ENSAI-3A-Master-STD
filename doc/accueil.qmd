@@ -2,7 +2,7 @@
 title: "Accueil Master STD"
 subtitle: "Rentrée Master Statistique et Traitement des Données"
 author: "Ludovic Deneuville"
-date: "4 septembre 2023"
+date: "9 septembre 2024"
 format:
   revealjs:
     theme: moon
@@ -13,25 +13,17 @@ format:
 from: markdown+emoji
 ---
 
+## UE et Matières
 
-## Distribution PC
+- Machine Learning
+- Génie Logiciel, DevOps
+- Big Data, Cloud
+- Système, Réseaux, Sécurité
+- Gestion de projet
 
-OS : Ubuntu
-
-- [ ] Noter numéro
-- [ ] Signer feuille
-
-
-## Distribution PC
-
-### Clé USB Windows 10 
-
-- :warning: installer en dual boot : Ne pas écraser Ubuntu !
-- Besoin pour le cours du 2/10 au 6/10 (Réseaux et Systèmes d'Exploitation)
-- :warning: Ne pas installer trop tôt 
-  - **sans clé de licence (validité 1 mois)**
-  - installer à partir du 20/09
-
+:::{.notes}
+Sans oublier l'anglais
+:::
 
 ## Examen Analyste
 
@@ -81,12 +73,45 @@ OS : Ubuntu
 
 
 
+## Examen Analyste
 
+\
+
+### Prépa
+
+- 4 Examens blancs écrits à l'ENSAI
+- 3 Oraux blancs à l'IGPDE
+
+::: {.notes}
+OB1 le 4/12
+:::
+
+## Examen Analyste
+
+\
+
+### Mission
+
+- OM Collectif
+  - Avec Nuitée si oral avant 10h
+  - Sans Nuitée si oral après 10h
+- Remboursement de frais
+
+::: {.notes}
+Volontaire pour participer à réunion
+
+Prévenir si situation particulière (n'habite pas Rennes)
+:::
+
+
+## Stage
+
+[Infos stage](stage.qmd)
 
 ## INSEE
 
 - [Focus INSEE](INSEE.qmd)
-- [ ] Vérifiez vos accès à l'[intranet](https://intranet.insee.fr/){target="_blank"} et à [Mouv'in](https://mobilites.insee.fr/){target="_blank"}
+- Vérifiez vos accès à l'[intranet](https://intranet.insee.fr/){target="_blank"} et à [Mouv'in](https://mobilites.insee.fr/){target="_blank"}
   - la campagne de mobilité démarre en octobre
 
 

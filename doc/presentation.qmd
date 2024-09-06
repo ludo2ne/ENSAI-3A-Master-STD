@@ -118,7 +118,7 @@ Méthodes agiles applicables aussi aux projets stats
 - Automatiser le processus de mise en production
   - CI/CD, Conteneurisation
 - Tests automatisés pour contrôler
-- Outils d’observations de la prod aux développeurs
+- Outils d'observations de la prod aux développeurs
 
 ::: {.notes}
 Dashboard
