@@ -23,6 +23,8 @@ from: markdown+emoji
 
 :::{.notes}
 Sans oublier l'anglais
+
+Vous avez tous votre ordi ?
 :::
 
 ## Examen Analyste
@@ -40,11 +42,17 @@ Sans oublier l'anglais
 
 ### Qualités évaluées
 
-- Techniques d'analyse, 
+- Techniques d'analyse
 - Aptitude à la synthèse
 - Rédaction d'un dossier technique
 - Connaissances en matière de programmation
 - Qualités de réflexion et de logique
+
+:::{.notes}
+Très scolaire
+
+Pas très moderne (ne pas dénigrer les anciennes techno)
+:::
 
 
 ## Examen Analyste
@@ -57,6 +65,15 @@ Sans oublier l'anglais
 - Développement d'applications
 - Matériel, sécurité, réseaux, architecture
 - Environnement juridique et administratif
+
+
+:::{.notes}
+Oral : 
+
+- 2 sujets
+  - choix d'un sujet :arrow_right: prez 10min
+- puis 10min questions
+:::
 
 
 ## Examen Analyste
@@ -98,7 +115,7 @@ OB1 le 4/12
 - Remboursement de frais
 
 ::: {.notes}
-Volontaire pour participer à réunion
+Volontaire (délégué ?) pour participer à réunion.
 
 Prévenir si situation particulière (n'habite pas Rennes)
 :::
@@ -125,6 +142,11 @@ Prévenir si situation particulière (n'habite pas Rennes)
 - Mi-décembre : diffusion des postes ouverts
 - Fin-février : dépôt des voeux
 - Mi-avril : résultats
+
+
+:::{.notes}
+Vous souhaitez un poste info ?
+:::
 
 
 ## Campagne de mobilité
