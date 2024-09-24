@@ -128,12 +128,12 @@ Chauqe année, 2 sessions d'examen sont programmées.
 #### 1ere session
 
 |||
-|----------------------------|------------------------|
-| Ouverture des inscriptions | 10/10/2024             |
-| Clôture des inscriptions   | 14/11/2024             |
-| Épreuve écrite             | 16/01/2025             |
-| Résultats Admissibilité    | 13/02/2025             |
-| Épreuve orale              | À partir du 10/03/2025 |
+|----------------------------|--------------------------|
+| Ouverture des inscriptions | 10/10/2024               |
+| Clôture des inscriptions   | 14/11/2024               |
+| Épreuve écrite             | 16/01/2025 9h45 - 15h45  |
+| Résultats Admissibilité    | 13/02/2025               |
+| Épreuve orale              | À partir du 10/03/2025   |
 
 
 #### 2e session
@@ -152,14 +152,9 @@ Centrex
   - Métro 4 :arrow_right: Chatelet Les Halles :arrow_right: RER A :arrow_right: Noisy Champs
 :::
 
-- Jeudi 11 janvier 2024
-  - Début de l'épreuve : 9h45
-  - Fin de l'épreuve : 15h45
-
 
 ### Oral
 
-- À partir du 11 mars 2024
 
 ::: {.callout-note title="Adresse et Trajet"}
 Immeuble Atrium  
@@ -170,11 +165,17 @@ Place des Vins-de-France
 
 ## Semaine à la DG
 
+:construction:
+
+Du 17/02/25 au 21/02/25
+
+::: {.callout-note title="Programme 2023-2024"}
 - Lundi 12/02: préparation à l’oral J1 [Bilal Aalioui et Nadia Msellek]
 - Mardi 13/02 : l’informatique ministérielle et interministérielle [Bilal aalioui et Nadia Msellek]
 - Mercredi 14/02 : Oraux Blancs n°3 à l'IGPDE
 - Jeudi 15/02 : préparation à l’oral J2 [Bilal Aalioui et Nadia Msellek]
 - Vendredi 16/02 : days of chaos [Armelle Koehl Donatien Eneman]
+:::
 
 
 ## Missions
