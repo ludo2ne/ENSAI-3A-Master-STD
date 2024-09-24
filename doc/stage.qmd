@@ -12,19 +12,20 @@ format:
     theme: moon
     footer: "[Home](../index.html) - [Stage Master STD](stage.qmd)"      # Link to the homepage
     slide-number: c/t                    # collapsed/total
+    slide-level: 3
     chalkboard: true
     controls: true
     output-file: stage-slide.html
 from: markdown+emoji
 ---
 
-## Modalités
+## Modalités :memo:
 
 - durée : entre 20 semaines et 6 mois
 - entre le 3 mars et le 31 août
 
 
-## :dart: Objectifs
+## Objectifs :dart: 
 
 - Mobiliser les connaissances acquises à l'ENSAI 
 - Mise en situation professionnelle réelle
@@ -34,34 +35,44 @@ from: markdown+emoji
 - Prendre des initiatives, explorer des technologies émergentes
 
 
-## :gem: Contenu
+## Contenu :gem:
 
 - En lien avec les enseignements de la filière STD
   - Machine Learning (Deep Learning, NLP)
   - Développement web et Dataops
   - Big Data
   - Système, Réseaux et Sécurité
-- Il est préférable de travailler sur des domaines connus et ensuite d'aller plus loin
-- Plutôt que de partir directement sur des sujets trop exotiques
+
+::: {.callout-note}
+Il est préférable de travailler sur des domaines connus et ensuite d'aller plus loin.
+
+Plutôt que de partir directement sur des sujets trop exotiques.
+:::
 
 
-## :speech_balloon: Exemples de sujets de stages récents
+
+### Exemples de sujets de stages {.smaller}
 
 - L'intelligence artificielle au profit de la détection de sorties de données frauduleuses
 - Identifier, analyser et prototyper une solution d’architecture pour exposer les services autour des métadonnées
 - Construction d’un moteur d’agrégation de données individuelles utilisable en interactif
 - Optimisation du calcul des populations légales à travers une architecture de calcul distribué
-
-
-## :speech_balloon: Exemples de sujets de stages récents
-
 - Automatisation de la transformation des données individuelles pour la diﬀusion européenne
 - Développement d’une application mobile pour les enquêteurs
 - OpenSource et Modularité à l'INSEE : Exemple avec l'implémentation d'une méthode d'échantillonage
 - Comment proposer une architecture conteneurisée pour répondre aux besoins de services en « self-déploiement » et d'intégration continue ?
 
 
-## :hammer:  Réalisations attendues
+## Étapes :hourglass:
+
+1. Recherche bibliographique
+2. Rencontrer les acteurs (Utilisateurs, MOA, Experts...)
+3. Problématique
+4. Expériences, analyses
+5. Mise en valeur des résultats
+
+
+### Réalisations attendues
 
 Par exemple :
 
@@ -70,7 +81,9 @@ Par exemple :
 - Un déploiement sur la plateforme dev.insee.io
 
 
-## :tophat: Maitre de stage 
+## Les acteurs :tophat: 
+
+### Maitre de stage 
 
 - Définit les objectifs
 - Assure un encadrement technique 
@@ -81,49 +94,20 @@ Par exemple :
 - Renseigne la grille d’évaluation
 
 
-## :womans_hat: Référent pédagogique 
+### Référent pédagogique 
 
 - Un enseignant de l’ENSAI
-- S’assure du bon déroulement du stage
+- S'assure du bon déroulement du stage
 - Point d'avancement de vos travaux en Mai
 
 
-## :truck: Livrables 
+## Livrables :truck:
 
 - Mi-mai : Note d'étape
-- Fin août : Rapport final
+- Fin août : Rapport final + Note de synthèse en anglais
 - Mi-sept : Soutenance
 
-
-## :page_facing_up: Rapport - partie 1
-
-Contexte :
-
-- Dans quoi s'intègre votre travail ?
-- Pourquoi ce sujet est intéressant ?
-- Existe-il un existant ?
-- Gain pour l'établissement
-- Une petite bibliographie
-
-
-## :page_facing_up: Bibliographie
-
-Objectif : réaliser un état de l'art sur votre sujet
-Montrez nous que vous avez pris de la hauteur !
-
-- Documentations officielles
-- Articles de recherche, de blog
-- Livres
-- Conférences
-
-
-## :chart_with_downwards_trend: Et les Stats ?
-
-- Ne vous forcez pas à mettre des stats si elles ne servent à rien
-- Par contre ne pas savoir répondre à une question de stat lors de la soutenance est un problème
-
-
-## :newspaper: Note d'étape
+### Note d'étape
 
 - avant la fin du 2e mois, pour vérifier que tout va bien
 - note de 2 à 3 pages en anglais ou français
@@ -133,7 +117,73 @@ Montrez nous que vous avez pris de la hauteur !
 - état actuel de vos travaux
 
 
-## :sweat: Si quelque chose ne va pas
+## Rapport :blue_book:
+
+- 30 pages maximum hors annexes
+
+### Contexte
+
+Commencez par décrire le contexte :
+
+- Dans quoi s'intègre votre travail ?
+- Pourquoi ce sujet est intéressant ?
+- Quel est l'existant ?
+- Gain pour l'établissement
+
+
+### Bibliographie
+
+::: {.callout-tip title="Objectif"}
+Réalisez un état de l'art sur votre sujet.
+
+Montrez nous que vous avez pris de la hauteur !
+:::
+
+- Documentations officielles
+- Articles de recherche, de blog
+- Livres
+- Conférences
+
+
+### Démarche scientifique
+
+Adoptez une démarche scientifique :
+
+1. Observation
+2. Formulation d'hypothèses
+3. Expérimentations
+4. Analyse des résultats
+5. Conclusions
+
+
+### Et les Stats ?
+
+- Ne vous forcez pas à mettre des stats si elles ne servent à rien
+- Par contre, il faut savoir répondre à une question de stat lors de la soutenance
+
+
+## Note de synthèse :guardsman:
+
+- En anglais
+- 4 pages maximum
+
+## Soutenance :tada:
+
+- Exposé : 20 min
+- Questions : 25 min
+
+::: {.callout-note}
+La soutenance se déroulera en présence :
+
+- d'un président de jury
+- de l'encadrant pédagogique de l'ENSAI
+- du maitre de stage
+:::
+
+
+## Erreurs à éviter :warning:
+
+### Si quelque chose ne va pas
 
 N'attendez pas la note d'étape et encore moins le dernier mois pour dire que ça ne va pas !
 
@@ -141,7 +191,16 @@ N'attendez pas la note d'étape et encore moins le dernier mois pour dire que ç
 2. Contactez votre référent ENSAI
 
 
-## :warning: Erreurs à éviter
+### Ignorer le métier
+
+::: {.callout-important}
+Un développeur rend service à des utilisateurs.
+
+Il faut donc apprendre le contexte métier dans lequel vous travaillez.
+:::
+
+
+### Contexte INSEE
 
 Trop faible connaissance du contexte INSEE (ou de la structure d'accueil)
 
@@ -152,7 +211,7 @@ Solutions :
 - Aller aux dev'académy, séminaires de développement...
     
 
-## :warning: Erreurs à éviter 
+### Mise en valeur
 
 Vous n'arrivez pas à montrer ce que vous avez fait :
 
@@ -160,13 +219,50 @@ Vous n'arrivez pas à montrer ce que vous avez fait :
 - Manque de technique : vous ne connaissez pas des notions de base
 
 
-## :link: Liens utiles 
+### Écriture du rapport
+
+- Respectez le format attendu
+- Donnez des titres informatifs à vos parties
+- **RELISEZ-LE !!!!!**
+
+::: {.callout-important title="Les figures"}
+Les figures doivent être propres, lisibles avec un titre et une source.
+
+Si vous utilisez une image, vérifiez qu'elle est libre de droits.
+:::
+
+---
+
+::: {.callout-warning title="Erreurs à ne pas faire"}
+- Rédiger son rapport une fois le stage terminé
+- Utiliser "on" et la forme passive (ex : "on voit que")
+- Insérer des figures sans aucune explication
+:::
+
+
+
+### Stage "prise de poste"
+
+::: {.callout}
+Vous devez réaliser un stage de niveau Master 2 sur un sujet bien précis.
+
+Le but n'est pas que vous découvriez votre futur environnement de travail et appreniez à être opérationnel sur votre futur poste.
+
+Ce n'est pas interdit mais cela pourrait vous pénaliser.
+
+Le but lorsque vous intégrez une équipe n'est pas de vous conformer à son mode de fonctionnement sans avoir un esprit critique. 
+Vous êtes jeunes et plein d'énergie, vous devez apporter de nouvelles pratiques et techniques.
+:::
+
+
+
+## Liens utiles :link: 
 
 - [pass fonction publique](https://www.pass.fonction-publique.gouv.fr/){target="_blank"}
 - Offres de stage sur Moodle
 
 
-## :checkered_flag: Pour terminer
+## Pour terminer :checkered_flag: 
 
 - Produisez quelque chose dont vous êtes fier
 - Produisez un travail sérieux

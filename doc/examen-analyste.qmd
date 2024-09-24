@@ -56,12 +56,24 @@ Il y a 2 épreuves à réussir (note ≥ 10) pour obtenir la qualification :
 
 ### Écrits
 
+:::: {.callout-important}
+- Début : 10h
+- Fin : 16h
+
+Vous n'avez le droit à aucun document. Calculatrice de l'école autorisée.
+
+En cas de sortie temporaire de la salle, vous serez toujours accompagné.
+
+Vous pouvez apporter à manger (évitez les chips).
+:::
+
+
 L'IGPDE fournit les sujets et corrige les copies
 
-- Examen Blanc n°1 du 15/09/23
-- Examen Blanc n°2 du 17/10/23
-- Examen Blanc n°3 du 14/11/23
-- Examen Blanc n°4 du 11/12/23
+- Examen Blanc n°1 du 15/09/24
+- Examen Blanc n°2 du 18/10/24
+- Examen Blanc n°3 du 15/11/24
+- Examen Blanc n°4 du 13/12/24
 
 
 ### Oraux
@@ -78,9 +90,9 @@ IGPDE
   - Métro 4 :arrow_right: Chatelet Les Halles :arrow_right: RER A
 :::
 
-- Oral Blanc n°1 du 06/12/23
-- Oral Blanc n°2 du 22/01/24
-- Oral Blanc n°3 du 14/02/24
+- Oral Blanc n°1 du 04/12/24
+- Oral Blanc n°2 du 27/01/25
+- Oral Blanc n°3 du 19/02/25
 
 ::: {.callout-tip}
 - Présenter convocation + une pièce d’identité pour accéder au batiment
@@ -109,12 +121,24 @@ IGPDE
 
 ## Examen
 
-### Calendrier 2024 (1ere session)
+Chauqe année, 2 sessions d'examen sont programmées.
 
-- 12/10/2023 : ouverture des inscriptions
-- 16/11/2023 : cloture des inscriptions
-- 11/01/2024 : épreuve écrite
-- à partir du 11/03/2024 : épreuve orale
+### Calendrier 2025 
+
+#### 1ere session
+
+|||
+|----------------------------|------------------------|
+| Ouverture des inscriptions | 10/10/2024             |
+| Clôture des inscriptions   | 14/11/2024             |
+| Épreuve écrite             | 16/01/2025             |
+| Résultats Admissibilité    | 13/02/2025             |
+| Épreuve orale              | À partir du 10/03/2025 |
+
+
+#### 2e session
+
+:construction:
 
 ### Écrit
 
