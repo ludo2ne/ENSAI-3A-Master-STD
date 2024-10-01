@@ -2,7 +2,7 @@
 title: "Présentation Master STD"
 subtitle: "Master Statistique et Traitement des Données"
 author: "Ludovic Deneuville"
-date: "2024.03.29"
+date: "2024.10.01"
 format:
   revealjs:
     theme: moon
@@ -22,13 +22,25 @@ from: markdown+emoji
 - Technologies
 - DevOps
 
+## But de l'informatique
+
+::: {.callout-important}
+- Améliorer l'efficacité
+- Gérer et protéger des données
+- Répondre à des besoins métier
+:::
+
+:::{.notes}
+- Supprimer des tâches sans valeur ajoutée
+- Répondre à des besoins utilisateurs, les conseiller
+:::
 
 ## DSI de l'INSEE
 
 - Développement d'applications
 - Production, Infrastructure, Architecture, Réseaux
 - Sécurité, Stratégie
-- Innovation, État de l'art
+- **Innovation**, État de l'art
 
 ::: {.notes}
 
@@ -51,7 +63,8 @@ plus de 100 applications (gestion de répertoire, intégration de fichiers, orga
 
 
 ::: {.notes}
-Plus d'hommes que de femmes mais elles sont souvent très motivées, efficaces.  
+Plus d'hommes que de femmes mais elles sont souvent très motivées, efficaces.
+
 Pas là pour enfiler des perles
 :::
 
@@ -67,7 +80,7 @@ Pas là pour enfiler des perles
 
 - Génie Logiciel, DevOps
 - Big Data, Cloud
-- Système, Réseaux, Sécurité
+- Système, Réseaux, Sécurité, Linux
 - Machine Learning
 - Gestion de projet
 
