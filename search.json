@@ -109,7 +109,7 @@
     "href": "doc/stage.html#rapport",
     "title": "Stage Master STD",
     "section": "Rapport 📘",
-    "text": "Rapport 📘\n\n30 pages maximum hors annexes\n\n\nContexte\nCommencez par décrire le contexte :\n\nDans quoi s’intègre votre travail ?\nPourquoi ce sujet est intéressant ?\nQuel est l’existant ?\nGain pour l’établissement\n\n\n\nBibliographie\n\n\n\n\n\n\nObjectif\n\n\n\nRéalisez un état de l’art sur votre sujet.\nMontrez nous que vous avez pris de la hauteur !\n\n\n\nDocumentations officielles\nArticles de recherche, de blog\nLivres\nConférences\n\n\n\nDémarche scientifique\nAdoptez une démarche scientifique :\n\nObservation\nFormulation d’hypothèses\nExpérimentations\nAnalyse des résultats\nConclusions\n\n\n\nEt les Stats ?\n\nNe vous forcez pas à mettre des stats si elles ne servent à rien\nPar contre, il faut savoir répondre à une question de stat lors de la soutenance"
+    "text": "Rapport 📘\n\n30 pages maximum hors annexes\n\n\nIntroduction\n\nPrésentation du contexte\nObjectifs et Enjeux\nDescription de la Mission\nProblématique\nAnnonce du plan\n\n\n\nPartie 1 : Contexte\nCommencez par décrire le contexte :\n\nDans quoi s’intègre votre travail ?\nPourquoi ce sujet est intéressant ?\nQuel est l’existant ?\nGain pour l’établissement\n\n\n\nConclusion\n\nBilan et retours d’expérience\nAnalyse Critique\nPerspectives et Projets Futurs\n\n\n\n\n\n\n\nImportant\n\n\n\nConclusion ≠ Introduction\n\n\n\n\nBibliographie\n\n\n\n\n\n\nObjectif\n\n\n\nRéalisez un état de l’art sur votre sujet.\nMontrez nous que vous avez pris de la hauteur !\n\n\n\nDocumentations officielles\nArticles de recherche, de blog\nLivres\nConférences\n\n\n\nDémarche scientifique\nAdoptez une démarche scientifique :\n\nObservation\nFormulation d’hypothèses\nExpérimentations\nAnalyse des résultats\nConclusions\n\n\n\nEt les Stats ?\n\nNe vous forcez pas à mettre des stats si elles ne servent à rien\nPar contre, il faut savoir répondre à une question de stat lors de la soutenance"
   },
   {
     "objectID": "doc/stage.html#note-de-synthèse",
@@ -130,7 +130,7 @@
     "href": "doc/stage.html#erreurs-à-éviter",
     "title": "Stage Master STD",
     "section": "Erreurs à éviter ⚠️",
-    "text": "Erreurs à éviter ⚠️\n\nSi quelque chose ne va pas\nN’attendez pas la note d’étape et encore moins le dernier mois pour dire que ça ne va pas !\n\nDiscutez avec votre tuteur\nContactez votre référent ENSAI\n\n\n\nIgnorer le métier\n\n\n\n\n\n\nImportant\n\n\n\nUn développeur rend service à des utilisateurs.\nIl faut donc apprendre le contexte métier dans lequel vous travaillez.\n\n\n\n\nContexte INSEE\nTrop faible connaissance du contexte INSEE (ou de la structure d’accueil)\nSolutions :\n\nDiscuter avec les développeurs\nS’abonner aux canaux actifs sur Tchap\nAller aux dev’académy, séminaires de développement…\n\n\n\nMise en valeur\nVous n’arrivez pas à montrer ce que vous avez fait :\n\nManque de hauteur : vous utilisez des outils sans les comprendre\nManque de technique : vous ne connaissez pas des notions de base\n\n\n\nÉcriture du rapport\n\nRespectez le format attendu\nDonnez des titres informatifs à vos parties\nRELISEZ-LE !!!!!\n\n\n\n\n\n\n\nLes figures\n\n\n\nLes figures doivent être propres, lisibles avec un titre et une source.\nSi vous utilisez une image, vérifiez qu’elle est libre de droits.\n\n\n\n\n\n\n\n\n\nErreurs à ne pas faire\n\n\n\n\nRédiger son rapport une fois le stage terminé\nUtiliser “on” et la forme passive (ex : “on voit que”)\nInsérer des figures sans aucune explication\n\n\n\n\n\nStage “prise de poste”\n\n\n\n\n\n\nVous devez réaliser un stage de niveau Master 2 sur un sujet bien précis.\nLe but n’est pas que vous découvriez votre futur environnement de travail et appreniez à être opérationnel sur votre futur poste.\nCe n’est pas interdit mais cela pourrait vous pénaliser.\nLe but lorsque vous intégrez une équipe n’est pas de vous conformer à son mode de fonctionnement sans avoir un esprit critique. Vous êtes jeunes et plein d’énergie, vous devez apporter de nouvelles pratiques et techniques."
+    "text": "Erreurs à éviter ⚠️\n\nErreur 1 : ne pas alerter\nN’attendez pas la note d’étape et encore moins le dernier mois pour dire que ça ne va pas !\n\nDiscutez avec votre tuteur\nContactez votre référent ENSAI\n\n\n\nErreur 2 : Ignorer le métier\n\n\n\n\n\n\nImportant\n\n\n\nUn développeur rend service à des utilisateurs.\nIl faut donc apprendre le contexte métier dans lequel vous travaillez.\n\n\n\n\nErreur 3 : Contexte INSEE\nTrop faible connaissance du contexte INSEE (ou de la structure d’accueil)\nSolutions :\n\nDiscuter avec les développeurs\nS’abonner aux canaux actifs sur Tchap\nAller aux dev’académy, séminaires de développement…\n\n\n\nErreur 4 : négliger le rapport\n\nRespectez le format attendu\nDonnez des titres informatifs à vos parties\nRELISEZ-LE !!!!!\n\n\n\n\n\n\n\nLes figures\n\n\n\nLes figures doivent être propres, lisibles avec un titre et une source.\nSi vous utilisez une image, vérifiez qu’elle est libre de droits.\n\n\n\n\n\n\n\n\n\nErreurs à ne pas faire\n\n\n\n\nRédiger son rapport une fois le stage terminé\nUtiliser “on” et la forme passive (ex : “on voit que”)\nInsérer des figures sans aucune explication\n\n\n\n\n\nMise en valeur\nVous n’arrivez pas à montrer ce que vous avez fait :\n\nManque de hauteur : vous utilisez des outils sans les comprendre\nManque de technique : vous ne connaissez pas des notions de base\n\n\n\nStage “prise de poste”\n\n\n\n\n\n\nVous devez réaliser un stage de niveau Master 2 sur un sujet bien précis.\nLe but n’est pas que vous découvriez votre futur environnement de travail et appreniez à être opérationnel sur votre futur poste.\nCe n’est pas interdit mais cela pourrait vous pénaliser.\nLe but lorsque vous intégrez une équipe n’est pas de vous conformer à son mode de fonctionnement sans avoir un esprit critique. Vous êtes jeunes et plein d’énergie, vous devez apporter de nouvelles pratiques et techniques."
   },
   {
     "objectID": "doc/stage.html#liens-utiles",
@@ -357,6 +357,13 @@
     "text": "Sommaire\n\nLa DSI de l’INSEE\nMatières étudiées à l’ENSAI\nTechnologies\nDevOps"
   },
   {
+    "objectID": "doc/presentation.html#but-de-linformatique",
+    "href": "doc/presentation.html#but-de-linformatique",
+    "title": "Présentation Master STD",
+    "section": "But de l’informatique",
+    "text": "But de l’informatique\n\n\n\n\n\n\nImportant\n\n\n\nAméliorer l’efficacité\nGérer et protéger des données\nRépondre à des besoins métier\n\n\n\n\n\n\nSupprimer des tâches sans valeur ajoutée\nRépondre à des besoins utilisateurs, les conseiller"
+  },
+  {
     "objectID": "doc/presentation.html#dsi-de-linsee",
     "href": "doc/presentation.html#dsi-de-linsee",
     "title": "Présentation Master STD",
@@ -382,7 +389,7 @@
     "href": "doc/presentation.html#domaines-étudiés-en-std",
     "title": "Présentation Master STD",
     "section": "Domaines étudiés en STD",
-    "text": "Domaines étudiés en STD\n\nGénie Logiciel, DevOps\nBig Data, Cloud\nSystème, Réseaux, Sécurité\nMachine Learning\nGestion de projet\n\n\n🎯 avoir une culture informatique\nIntervenants venant du monde professionnel\nExamen Analyste"
+    "text": "Domaines étudiés en STD\n\nGénie Logiciel, DevOps\nBig Data, Cloud\nSystème, Réseaux, Sécurité, Linux\nMachine Learning\nGestion de projet\n\n\n🎯 avoir une culture informatique\nIntervenants venant du monde professionnel\nExamen Analyste"
   },
   {
     "objectID": "doc/presentation.html#technologies-clés",
