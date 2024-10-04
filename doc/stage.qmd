@@ -121,7 +121,15 @@ Par exemple :
 
 - 30 pages maximum hors annexes
 
-### Contexte
+### Introduction
+
+- Présentation du contexte
+- Objectifs et Enjeux
+- Description de la Mission
+- Problématique
+- Annonce du plan
+
+### Partie 1 : Contexte
 
 Commencez par décrire le contexte :
 
@@ -130,6 +138,15 @@ Commencez par décrire le contexte :
 - Quel est l'existant ?
 - Gain pour l'établissement
 
+### Conclusion
+
+- Bilan et retours d'expérience
+- Analyse Critique
+- Perspectives et Projets Futurs
+
+::: {.callout-important}
+Conclusion ≠ Introduction
+:::
 
 ### Bibliographie
 
@@ -183,7 +200,7 @@ La soutenance se déroulera en présence :
 
 ## Erreurs à éviter :warning:
 
-### Si quelque chose ne va pas
+### Erreur 1 : ne pas alerter
 
 N'attendez pas la note d'étape et encore moins le dernier mois pour dire que ça ne va pas !
 
@@ -191,7 +208,7 @@ N'attendez pas la note d'étape et encore moins le dernier mois pour dire que ç
 2. Contactez votre référent ENSAI
 
 
-### Ignorer le métier
+### Erreur 2 : Ignorer le métier
 
 ::: {.callout-important}
 Un développeur rend service à des utilisateurs.
@@ -200,7 +217,7 @@ Il faut donc apprendre le contexte métier dans lequel vous travaillez.
 :::
 
 
-### Contexte INSEE
+### Erreur 3 : Contexte INSEE
 
 Trop faible connaissance du contexte INSEE (ou de la structure d'accueil)
 
@@ -209,17 +226,8 @@ Solutions :
 - Discuter avec les développeurs
 - S'abonner aux canaux actifs sur Tchap
 - Aller aux dev'académy, séminaires de développement...
-    
 
-### Mise en valeur
-
-Vous n'arrivez pas à montrer ce que vous avez fait :
-
-- Manque de hauteur : vous utilisez des outils sans les comprendre
-- Manque de technique : vous ne connaissez pas des notions de base
-
-
-### Écriture du rapport
+### Erreur 4 : négliger le rapport
 
 - Respectez le format attendu
 - Donnez des titres informatifs à vos parties
@@ -239,6 +247,12 @@ Si vous utilisez une image, vérifiez qu'elle est libre de droits.
 - Insérer des figures sans aucune explication
 :::
 
+### Mise en valeur
+
+Vous n'arrivez pas à montrer ce que vous avez fait :
+
+- Manque de hauteur : vous utilisez des outils sans les comprendre
+- Manque de technique : vous ne connaissez pas des notions de base
 
 
 ### Stage "prise de poste"
