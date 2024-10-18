@@ -19,6 +19,8 @@ website:
             text: Les cours
           - href: doc/examen-analyste.qmd
             text: L'examen d'Analyste
+          - href: doc/deplacements.qmd
+            text: Déplacements
           - href: doc/stage.qmd
             text: Le Stage
       - text: L'INSEE

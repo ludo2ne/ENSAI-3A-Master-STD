@@ -1,0 +1,227 @@
+---
+title: "Déplacements et Mission"
+description: "Gestion des déplacements à Paris des élèves"
+author: "Ludovic Deneuville"
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-expand: 3
+from: markdown+emoji
+---
+
+
+## Todo
+
+- [ ] Vérifier que tous les élèves peuvent se rendre facilement à Rennes très tôt
+- [ ] Demander les cartes de réduc SNCF avec date fin validité
+- [ ] Modop remboursements de frais post mission
+
+
+## Trajets SNCF
+
+Le marché Globeo doit être utilisé par l'ENSAI pour réserver les billets de train et les nuitées.
+
+À priori ces billets sont échangeables (frais 19€ + réglement de la différence de prix).
+
+Les couts relatifs à un échange de billet ne seront pas remboursés.
+
+### Rennes - Paris matin
+
+| Rennes | Paris   | Durée  | 
+|--------|---------|--------|
+| 06:35  | 08:15   | 1h40   | 
+| 07:00  | 08:46   | 1h46   | 
+| 07:35  | 09:05   | 1h30   | 
+| 07:48  | 09:45   | 1h57   | 
+| 08:35  | 10:02   | 1h27   |
+
+### Rennes - Paris soir
+
+Pour les élèves qui partent la veille.
+
+| Rennes | Paris   | Durée  | 
+|--------|---------|--------|
+| 17:35  | 19:06   | 1h31   |
+| 18:35  | 20:15   | 1h40   |
+| 19:35  | 21:04   | 1h29   |
+
+### Paris - Rennes soir
+
+| Départ | Arrivée | Durée  |
+|--------|---------|--------|
+| 16:50  | 18:25   | 1h35   |
+| 17:08  | 19:09   | 2h01   |
+| 17:53  | 19:25   | 1h32   |
+| 18:08  | 20:10   | 2h02   |
+| 18:35  | 20:25   | 1h50   |
+| 18:50  | 21:25   | 1h35   |
+
+## Ordres de Mission
+
+Pour partir en mission, il est indispensable d'avoir un OM.
+
+Pour obtenir un OM, il faut remplir... une demande d'OM.
+
+### OM Collectifs
+
+Pour certaines mission, des OM collectifs seront réalisés (vous n'aurez donc pas à faire de demande individuelle).
+
+Le protocole pour la réalisation d'OM collectifs sera le suivant :
+
+- l'ENSAI propose les conditions de la mission (horaires de train, nuitées...)
+- Vous aurez un délai de 3 jours ouvrés pour valider ou faire une contre-proposition
+
+### OM individuels
+
+Vous devez à minima 15 jours avant votre départ en mission transmettre à la boite `mission` :
+
+- votre demande d'OM
+- votre convocation
+
+::: {.callout-tip title="Aide au remplissage"}
+- [x] élève ENSAI
+- [x] Budget de l'ENSAI
+- [x] Examen / concours
+- Nom, prénom, Tél, Mail, Fonction ENSAI : `Élève`
+- **1. Lieu de départ** : ENSAI Bruz ou adresse de votre logement étudiant
+- **2. Détail mission** : tout renseigner
+  - Détaillez précisément votre trajet (horaires train)
+- **3. Modes de transport**
+  - Si vous avez, numéro de carte de réduction et date validité
+  - Billet à commander : OUI (l'ENSAI commande vos billets)
+  - Billet à rembourser : NON (c'est l'ENSAI qui paie donc rien à rembourser)
+  - Cochez Métro, RER
+:::
+
+Protocole :
+
+- [ ] L'élève remplit sa demande d'OM
+- [ ] Il imprime et fait signer par la Direction des études
+- [ ] Scanne et envoie ses documents sur la boite mail `mission`
+  - demande d'OM + convocation
+- l'ENSAI achète les billets de trains
+
+
+### Types de missions
+
+Il y a 2 types de missions qui donnent lieu à des conditions de prise en charge différentes :
+
+- **Formation** (Oraux blancs et semaine à la DG)
+  - Transport, repas et éventuelles nuitées pris en charge par l'ENSAI.
+- **Examen** (écrits et oraux)
+  - Seul le transport est pris en charge par l'ENSAI.
+
+
+
+## Les missions
+
+### Oraux blancs
+
+::: {.callout-note title="Adresse"}
+IGPDE  
+20, allée Georges Pompidou  
+94300 VINCENNES  
+
+- RER A (Vincennes) ou Metro 1 (Château de Vincennes)
+- Depuis Montparnasse (40 min)
+  - Métro 4 :arrow_right: Chatelet Les Halles :arrow_right: RER A
+:::
+
+- 4 décembre 2024
+- 27 janvier 2025
+
+L'année dernière, les oraux blancs se déroulaient entre 8h55 et 16h20.
+
+L'ENSAI propose 2 OM collectifs et réserve TRAIN (+ HOTEL) :
+
+- OM1 : pour les élèves convoqués avant 10h00
+  - ALLER la veille, nuit d'hotel
+  - RETOUR le soir
+- OM2 : pour les élèves convoqués après 10h00
+  - ALLER le matin
+  - RETOUR le soir
+
+
+### Examen écrit
+
+::: {.callout-note title="Adresse et Trajet"}
+Centrex  
+2 Rue de la Butte Verte  
+93160 NOISY-LE-GRAND  
+
+- RER A Noisy-Champs
+- Depuis Montparnasse (50min)
+  - Métro 4 :arrow_right: Chatelet Les Halles :arrow_right: RER A :arrow_right: Noisy Champs
+:::
+
+Le 16 janvier 2025 (horaires 2024 : 9h45 - 16h).
+
+- [ ] Les élèves devront dès réception, transmettre une copie de leur convocation à la boite `mission`.
+
+
+
+L'ENSAI propose 2 OM collectifs et réserve le TRAIN :
+
+- OM1 : Aller-Retour dans la journée
+  - Aller : Train de 6h35 - 8h15
+  - Retour : Train de 17h53 - 19h25
+- OM2 : Aller la veille pour ceux qui préfèrent être sur place
+  - :warning: L'ENSAI ne prend pas en charge la nuitée
+  - Aller : Train la veille de 18h35 ?
+  - Retour : Train de 17h53 - 19h25
+
+
+### Semaine à Paris
+
+17 au 21 février 2025 (En 2024, du lundi 10h au vendredi 17h au White)
+
+- Aller : Train lundi matin
+  - Vacances d'hiver juste avant
+- Hotel
+  - Une chambre par étudiant
+  - Ibis budget Châtillon Paris Ouest 65€ / nuit, 30 min à pied DG INSEE, 15 min en Tram
+  - Si un élève ne souhaite pas dormir à l'hotel, il prévient l'ENSAI mais ne sera pas remboursé
+ - Retour : Train vendredi soir
+
+
+
+### Examen oral
+
+::: {.callout-caution title="Délai assez courts"}
+Résultats d'amissibilité le 13 février. 
+
+Oraux à partir du 10 mars 2025
+:::
+
+Chaque élève fait sa demande d'OM individuel.
+
+
+## Frais à avancer
+
+### Repas
+
+Dans le cadre d'une formation, les repas sont pris en charge par l'ENSAI
+
+- Le matin
+  - Si une nuitée est prise en charge, alors le petit-déjeuner est inclus
+- Le midi
+  - 10€ si présence d'un restaurant administratif
+  - 20€ si repas à l'extérieur
+- Le soir 20 €
+  - si arrivée la veille
+  - si retour de mission après 20h
+
+### Ticket métro, bus, RER
+
+- Gardez tous les tickets
+- Au retour de mission, scannez-les et envoyez sur la boite `mission`
+
+
+
+
+
+
+
+
+
