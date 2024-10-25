@@ -86,7 +86,7 @@ IGPDE
 94300 VINCENNES  
 
 - RER A (Vincennes) ou Metro 1 (Château de Vincennes)
-- Depuis Montparnasse (35 min)
+- Depuis Montparnasse (40 min)
   - Métro 4 :arrow_right: Chatelet Les Halles :arrow_right: RER A
 :::
 
