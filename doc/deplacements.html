@@ -170,12 +170,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#todo" id="toc-todo" class="nav-link active" data-scroll-target="#todo">Todo</a></li>
-  <li><a href="#trajets-sncf" id="toc-trajets-sncf" class="nav-link" data-scroll-target="#trajets-sncf">Trajets SNCF</a>
+  <li><a href="#trajets-sncf" id="toc-trajets-sncf" class="nav-link active" data-scroll-target="#trajets-sncf">Trajets SNCF</a>
   <ul class="collapse">
   <li><a href="#rennes---paris-matin" id="toc-rennes---paris-matin" class="nav-link" data-scroll-target="#rennes---paris-matin">Rennes - Paris matin</a></li>
   <li><a href="#rennes---paris-soir" id="toc-rennes---paris-soir" class="nav-link" data-scroll-target="#rennes---paris-soir">Rennes - Paris soir</a></li>
   <li><a href="#paris---rennes-soir" id="toc-paris---rennes-soir" class="nav-link" data-scroll-target="#paris---rennes-soir">Paris - Rennes soir</a></li>
+  <li><a href="#parking" id="toc-parking" class="nav-link" data-scroll-target="#parking">Parking</a></li>
   </ul></li>
   <li><a href="#ordres-de-mission" id="toc-ordres-de-mission" class="nav-link" data-scroll-target="#ordres-de-mission">Ordres de Mission</a>
   <ul class="collapse">
@@ -235,19 +235,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="todo" class="level2">
-<h2 class="anchored" data-anchor-id="todo">Todo</h2>
-<ul class="task-list">
-<li><label><input type="checkbox">Vérifier que tous les élèves peuvent se rendre facilement à Rennes très tôt</label></li>
-<li><label><input type="checkbox">Demander les cartes de réduc SNCF avec date fin validité</label></li>
-<li><label><input type="checkbox">Modop remboursements de frais post mission</label></li>
-</ul>
-</section>
 <section id="trajets-sncf" class="level2">
 <h2 class="anchored" data-anchor-id="trajets-sncf">Trajets SNCF</h2>
 <p>Le marché Globeo doit être utilisé par l’ENSAI pour réserver les billets de train et les nuitées.</p>
 <p>À priori ces billets sont échangeables (frais 19€ + réglement de la différence de prix).</p>
-<p>Les couts relatifs à un échange de billet ne seront pas remboursés.</p>
+<p>Les couts relatifs à un échange de billet <u>ne seront pas remboursés</u>.</p>
 <section id="rennes---paris-matin" class="level3">
 <h3 class="anchored" data-anchor-id="rennes---paris-matin">Rennes - Paris matin</h3>
 <table class="caption-top table">
@@ -361,18 +353,35 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 </section>
+<section id="parking" class="level3">
+<h3 class="anchored" data-anchor-id="parking">Parking</h3>
+<p>Pour les élèves ayant des difficultés pour se rendre tôt à la gare de Rennes en utilisant les transports en communs, l’ENSAI dispose d’une carte de Parking.</p>
+<p>Il faut dans ce cas faire la demande à la logistique au plus tôt car il n’y a qu’<u>une seule carte</u> pour tout l’ENSAI…</p>
+</section>
 </section>
 <section id="ordres-de-mission" class="level2">
 <h2 class="anchored" data-anchor-id="ordres-de-mission">Ordres de Mission</h2>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p>Pour partir en mission, il est indispensable d’avoir un OM.</p>
 <p>Pour obtenir un OM, il faut remplir… une demande d’OM.</p>
+</div>
+</div>
 <section id="om-collectifs" class="level3">
 <h3 class="anchored" data-anchor-id="om-collectifs">OM Collectifs</h3>
 <p>Pour certaines missions, des OM collectifs seront réalisés (vous n’aurez donc pas à faire de demande individuelle).</p>
 <p>Le protocole pour la réalisation d’OM collectifs sera le suivant :</p>
 <ul>
 <li>l’ENSAI propose les conditions de la mission (horaires de train, nuitées…)</li>
-<li>Vous aurez un délai de 3 jours ouvrés pour valider ou faire une contre-proposition</li>
+<li>Vous aurez un délai de 3 jours ouvrés pour valider ou faire une contre-proposition collective</li>
 </ul>
 </section>
 <section id="om-individuels" class="level3">
@@ -415,7 +424,10 @@ Aide au remplissage
 <p>Protocole :</p>
 <ul>
 <li><label><input type="checkbox">L’élève remplit sa demande d’OM</label></li>
-<li><label><input type="checkbox">Il imprime et fait signer par la Direction des études</label></li>
+<li><label><input type="checkbox">Il imprime et fait signer par la Direction des études</label>
+<ul>
+<li>s’il n’est pas sur place, il envoie par mail sa demande d’OM</li>
+</ul></li>
 <li><label><input type="checkbox">Scanne et envoie ses documents sur la boite mail <code>mission</code></label>
 <ul>
 <li>demande d’OM + convocation</li>
@@ -508,9 +520,6 @@ Adresse et Trajet
 </div>
 </div>
 <p>Le 16 janvier 2025 (horaires 2024 : 9h45 - 16h).</p>
-<ul class="task-list">
-<li><label><input type="checkbox">Les élèves devront dès réception, transmettre une copie de leur convocation à la boite <code>mission</code>.</label></li>
-</ul>
 <p>L’ENSAI propose 2 OM collectifs et réserve le TRAIN :</p>
 <ul>
 <li>OM1 : Aller-Retour dans la journée
@@ -524,6 +533,11 @@ Adresse et Trajet
 <li>Aller : Train la veille de 18h35 ?</li>
 <li>Retour : Train de 17h53 - 19h25</li>
 </ul></li>
+<li><label><input type="checkbox">Les élèves doivent signifier leur souhait entre OM1 et OM2</label>
+<ul>
+<li>sans réponse, ils seront affectés à l’OM1</li>
+</ul></li>
+<li><label><input type="checkbox">Les élèves devront dès réception, transmettre une copie de leur convocation à la boite <code>mission</code>.</label></li>
 </ul>
 </section>
 <section id="semaine-à-paris" class="level3">
@@ -583,12 +597,25 @@ Délai assez courts
 <li>si retour de mission après 20h</li>
 </ul></li>
 </ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Aucun justificatif n’est à transmettre pour les repas, le calcul des montants à rembourser est effectué par le gestionnaire.</p>
+</div>
+</div>
 </section>
 <section id="ticket-métro-bus-rer" class="level3">
 <h3 class="anchored" data-anchor-id="ticket-métro-bus-rer">Ticket métro, bus, RER</h3>
-<ul>
-<li>Gardez tous les tickets</li>
-<li>Au retour de mission, scannez-les et envoyez sur la boite <code>mission</code></li>
+<p>Gardez tous les tickets :</p>
+<ul class="task-list">
+<li><label><input type="checkbox">Au retour de mission, scannez-les et envoyez sur la boite <code>mission</code> pour obtenir le remboursement</label></li>
 </ul>
 
 
