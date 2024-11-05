@@ -11,20 +11,13 @@ from: markdown+emoji
 ---
 
 
-## Todo
-
-- [ ] Vérifier que tous les élèves peuvent se rendre facilement à Rennes très tôt
-- [ ] Demander les cartes de réduc SNCF avec date fin validité
-- [ ] Modop remboursements de frais post mission
-
-
 ## Trajets SNCF
 
 Le marché Globeo doit être utilisé par l'ENSAI pour réserver les billets de train et les nuitées.
 
 À priori ces billets sont échangeables (frais 19€ + réglement de la différence de prix).
 
-Les couts relatifs à un échange de billet ne seront pas remboursés.
+Les couts relatifs à un échange de billet [ne seront pas remboursés]{.underline}.
 
 ### Rennes - Paris matin
 
@@ -57,11 +50,21 @@ Pour les élèves qui partent la veille.
 | 18:35  | 20:25   | 1h50   |
 | 18:50  | 21:25   | 1h35   |
 
+
+### Parking
+
+Pour les élèves ayant des difficultés pour se rendre tôt à la gare de Rennes en utilisant les transports en communs, l'ENSAI dispose d'une carte de Parking.
+
+Il faut dans ce cas faire la demande à la logistique au plus tôt car il n'y a qu'[une seule carte]{.underline} pour tout l'ENSAI...
+
+
 ## Ordres de Mission
 
+::: {.callout-important}
 Pour partir en mission, il est indispensable d'avoir un OM.
 
 Pour obtenir un OM, il faut remplir... une demande d'OM.
+:::
 
 ### OM Collectifs
 
@@ -70,7 +73,7 @@ Pour certaines missions, des OM collectifs seront réalisés (vous n'aurez donc 
 Le protocole pour la réalisation d'OM collectifs sera le suivant :
 
 - l'ENSAI propose les conditions de la mission (horaires de train, nuitées...)
-- Vous aurez un délai de 3 jours ouvrés pour valider ou faire une contre-proposition
+- Vous aurez un délai de 3 jours ouvrés pour valider ou faire une contre-proposition collective
 
 ### OM individuels
 
@@ -98,6 +101,7 @@ Protocole :
 
 - [ ] L'élève remplit sa demande d'OM
 - [ ] Il imprime et fait signer par la Direction des études
+  - s'il n'est pas sur place, il envoie par mail sa demande d'OM
 - [ ] Scanne et envoie ses documents sur la boite mail `mission`
   - demande d'OM + convocation
 - l'ENSAI achète les billets de trains
@@ -157,10 +161,6 @@ Centrex
 
 Le 16 janvier 2025 (horaires 2024 : 9h45 - 16h).
 
-- [ ] Les élèves devront dès réception, transmettre une copie de leur convocation à la boite `mission`.
-
-
-
 L'ENSAI propose 2 OM collectifs et réserve le TRAIN :
 
 - OM1 : Aller-Retour dans la journée
@@ -170,6 +170,10 @@ L'ENSAI propose 2 OM collectifs et réserve le TRAIN :
   - :warning: L'ENSAI ne prend pas en charge la nuitée
   - Aller : Train la veille de 18h35 ?
   - Retour : Train de 17h53 - 19h25
+
+- [ ] Les élèves doivent signifier leur souhait entre OM1 et OM2
+  - sans réponse, ils seront affectés à l'OM1
+- [ ] Les élèves devront dès réception, transmettre une copie de leur convocation à la boite `mission`.
 
 
 ### Semaine à Paris
@@ -212,10 +216,15 @@ Dans le cadre d'une formation, les repas sont pris en charge par l'ENSAI
   - si arrivée la veille
   - si retour de mission après 20h
 
+::: {.callout-tip}
+Aucun justificatif n'est à transmettre pour les repas, le calcul des montants à rembourser est effectué par le gestionnaire.
+:::
+
 ### Ticket métro, bus, RER
 
-- Gardez tous les tickets
-- Au retour de mission, scannez-les et envoyez sur la boite `mission`
+Gardez tous les tickets :
+
+- [ ] Au retour de mission, scannez-les et envoyez sur la boite `mission` pour obtenir le remboursement
 
 
 
