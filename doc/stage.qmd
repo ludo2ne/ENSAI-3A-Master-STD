@@ -29,7 +29,7 @@ from: markdown+emoji
 
 - Mobiliser les connaissances acquises à l'ENSAI 
 - Mise en situation professionnelle réelle
-- Comprendre le fonctionnement de la strucutre d'accueil
+- Comprendre le fonctionnement de la structure d'accueil
 - Travailler au sein d'une équipe
 - Gagner en autonomie
 - Prendre des initiatives, explorer des technologies émergentes
@@ -153,7 +153,7 @@ Conclusion ≠ Introduction
 ::: {.callout-tip title="Objectif"}
 Réalisez un état de l'art sur votre sujet.
 
-Montrez nous que vous avez pris de la hauteur !
+Montrez-nous que vous avez pris de la hauteur !
 :::
 
 - Documentations officielles
@@ -166,7 +166,7 @@ Montrez nous que vous avez pris de la hauteur !
 
 Adoptez une démarche scientifique :
 
-1. Observation
+1. Observations
 2. Formulation d'hypothèses
 3. Expérimentations
 4. Analyse des résultats
