@@ -188,7 +188,7 @@ Chaque DR réalise également des missions de portée nationale (détaillé par 
 
 ### Réorganisation suite à la fusion des régions
 
-Après 2016, l'INSEE est toujours présente dans ces villes. Cependant il ne peut rester qu'une seule DR par région, ainsi les autres seront nommés Établissement. Pour les régions qui n'ont pas fusionnées, rien ne change. 
+Après 2016, l'INSEE est toujours présente dans ces villes. Cependant il ne peut rester qu'une seule DR par région, ainsi les autres seront nommés Établissements. Pour les régions qui n'ont pas fusionnées, rien ne change. 
 
 Ce qui a changé :
 

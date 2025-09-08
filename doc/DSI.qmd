@@ -34,7 +34,7 @@ from: markdown+emoji
 
 - Enquêtes ménages et entreprises
   - Conception, Collecte, Traitements, Évaluation
-- programme Métallica, Multimode
+- filière enquêtes (ex programme Métallica), Multimode
 - RMéS : référentiel de métadonnées statistiques de l’Insee
 
 

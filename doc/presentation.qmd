@@ -2,7 +2,7 @@
 title: "Présentation Master STD"
 subtitle: "Master Statistique et Traitement des Données"
 author: "Ludovic Deneuville"
-date: "2024.10.01"
+date: "2025.03.17"
 format:
   revealjs:
     theme: moon

@@ -37,11 +37,12 @@ from: markdown+emoji
 
 ## Contenu :gem:
 
-- En lien avec les enseignements de la filière STD
-  - Machine Learning (Deep Learning, NLP)
-  - Développement web et Dataops
-  - Big Data
-  - Système, Réseaux et Sécurité
+En lien avec les enseignements de la filière STD :
+
+- Machine Learning (Deep Learning, NLP)
+- Développement / Déploiement d'une application
+- Big Data, Cloud, DataOps
+- Système, Réseaux et Sécurité
 
 ::: {.callout-note}
 Il est préférable de travailler sur des domaines connus et ensuite d'aller plus loin.
@@ -120,6 +121,16 @@ Par exemple :
 ## Rapport :blue_book:
 
 - 30 pages maximum hors annexes
+
+:::{.notes}
+Suivre un cheminement logique :
+
+- d'où vous partez
+- où vous voulez aller
+- votre voyage
+- là ou vous êtes arrivé
+  - les nouveaux chemins qui s'ouvrent
+:::
 
 ### Introduction
 
