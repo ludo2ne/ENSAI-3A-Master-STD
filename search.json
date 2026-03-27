@@ -1,194 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Master STD",
-    "section": "",
-    "text": "Présentation aux élèves de 1ère année\nAccueil des étudiants du Master STD\n\nLes enseignements\nLe stage de Master\n\nL’INSEE\n\nLa Direction des Systèmes d’Informations de l’INSEE"
-  },
-  {
-    "objectID": "doc/presentation.html#sommaire",
-    "href": "doc/presentation.html#sommaire",
-    "title": "Présentation Master STD",
-    "section": "Sommaire",
-    "text": "Sommaire\n\nLa DSI de l’INSEE\nMatières étudiées à l’ENSAI\nTechnologies\nDevOps"
-  },
-  {
-    "objectID": "doc/presentation.html#but-de-linformatique",
-    "href": "doc/presentation.html#but-de-linformatique",
-    "title": "Présentation Master STD",
-    "section": "But de l’informatique",
-    "text": "But de l’informatique\n\n\n\n\n\n\nImportant\n\n\n\nAméliorer l’efficacité\nGérer et protéger des données\nRépondre à des besoins métier\n\n\n\n\n\n\nSupprimer des tâches sans valeur ajoutée\nRépondre à des besoins utilisateurs, les conseiller"
-  },
-  {
-    "objectID": "doc/presentation.html#dsi-de-linsee",
-    "href": "doc/presentation.html#dsi-de-linsee",
-    "title": "Présentation Master STD",
-    "section": "DSI de l’INSEE",
-    "text": "DSI de l’INSEE\n\nDéveloppement d’applications\nProduction, Infrastructure, Architecture, Réseaux\nSécurité, Stratégie\nInnovation, État de l’art\n\n\n\nWEB4G : insee.fr\nRESIL : répertoire Statistique des Individus et des Logements\nSIRENE : répertoire d’entreprises\nNAUTILE : tirage d’échantillon\nMETALLICA : enquêtes ménages (conception, suivi, collecte)\n\nplus de 100 applications (gestion de répertoire, intégration de fichiers, organisation, outils internes)"
-  },
-  {
-    "objectID": "doc/presentation.html#dsi-de-linsee-1",
-    "href": "doc/presentation.html#dsi-de-linsee-1",
-    "title": "Présentation Master STD",
-    "section": "DSI de l’INSEE",
-    "text": "DSI de l’INSEE\n\nEffectifs 2022 : 428\n\neffectifs INSEE 2022 : 5027\n240 développeurs et développeuses\n\nParis, Nantes, Lille, Orléans, Metz…\n\n\nPlus d’hommes que de femmes mais elles sont souvent très motivées, efficaces.\nPas là pour enfiler des perles"
-  },
-  {
-    "objectID": "doc/presentation.html#exemple-de-métiers-à-linsee",
-    "href": "doc/presentation.html#exemple-de-métiers-à-linsee",
-    "title": "Présentation Master STD",
-    "section": "Exemple de métiers à l’INSEE",
-    "text": "Exemple de métiers à l’INSEE\n\nAnalyste développeur\nChef de projet informatique\nArchitecte applicatif\nAnalyste Sécurité"
-  },
-  {
-    "objectID": "doc/presentation.html#domaines-étudiés-en-std",
-    "href": "doc/presentation.html#domaines-étudiés-en-std",
-    "title": "Présentation Master STD",
-    "section": "Domaines étudiés en STD",
-    "text": "Domaines étudiés en STD\n\nGénie Logiciel, DevOps\nBig Data, Cloud\nSystème, Réseaux, Sécurité, Linux\nMachine Learning\nGestion de projet\n\n\n🎯 avoir une culture informatique\nIntervenants venant du monde professionnel\nExamen Analyste"
-  },
-  {
-    "objectID": "doc/presentation.html#technologies-clés",
-    "href": "doc/presentation.html#technologies-clés",
-    "title": "Présentation Master STD",
-    "section": "Technologies clés",
-    "text": "Technologies clés\n\nJava : back\n\nPython : ça arrive…\n\nJavaScript React : front\nGit, GitLab, GitHub\nCI/CD, Qualimétrie\nDocker, Kubernetes : Conteneurisation, Orchestration\n\n\nAvant tout ça :\n\ncoder sur sa machine\nlancer les tests\ncréer un zip\nse connecter au serveur de dev, arrêter\ndéposer le zip, redémarrer\n\nça marche sur ma machine et pas sur le serveur…"
-  },
-  {
-    "objectID": "doc/presentation.html#devops-à-linsee",
-    "href": "doc/presentation.html#devops-à-linsee",
-    "title": "Présentation Master STD",
-    "section": "DevOps à l’Insee",
-    "text": "DevOps à l’Insee\n\nInitiée par la DSI en 2021\nAller plus loin que SCRUM\n\naugmenter le rythme des déploiements\n\n\n\nMéthodes agiles applicables aussi aux projets stats"
-  },
-  {
-    "objectID": "doc/presentation.html#devops-à-linsee-1",
-    "href": "doc/presentation.html#devops-à-linsee-1",
-    "title": "Présentation Master STD",
-    "section": "DevOps à l’Insee",
-    "text": "DevOps à l’Insee\n\nFluidifier les interactions entre développeurs (dev) et exploitants (ops)\nAutomatiser le processus de mise en production\n\nCI/CD, Conteneurisation\n\nTests automatisés pour contrôler\nOutils d’observations de la prod aux développeurs\n\n\nDashboard"
-  },
-  {
-    "objectID": "doc/presentation.html#dataops",
-    "href": "doc/presentation.html#dataops",
-    "title": "Présentation Master STD",
-    "section": "DataOps",
-    "text": "DataOps\n\nFluidifier le lien entre :\n\nGestionnaires de données\nConsommateurs de données"
-  },
-  {
-    "objectID": "doc/presentation.html#conclusion",
-    "href": "doc/presentation.html#conclusion",
-    "title": "Présentation Master STD",
-    "section": "Conclusion",
-    "text": "Conclusion\n\nUn poste à l’info est un vrai plus\nInnovation, Dynamique\nCommunauté très active\nPas besoin d’être un crack en informatique\nVision globale de ce que fait l’INSEE\n\n\nConfettis : press C"
-  },
-  {
-    "objectID": "doc/INSEE.html",
-    "href": "doc/INSEE.html",
-    "title": "Focus sur l’INSEE",
-    "section": "",
-    "text": "INSEE: Institut National de la Statistique et des Études Économiques.\nCréé en 1946, l’INSEE emploie environs 5.000 agents dont 25% de catégorie Attaché. D’autres informations sont disponibles dans les rapports d’activité annuels."
-  },
-  {
-    "objectID": "doc/INSEE.html#quelques-liens",
-    "href": "doc/INSEE.html#quelques-liens",
-    "title": "Focus sur l’INSEE",
-    "section": "Quelques liens",
-    "text": "Quelques liens\n\nhttps://www.insee.fr/\nRéseau des Datascientists de la Statistique Publique (SSPHub)\n\n💡 abonnez-vous à la newletter\n\nBlog de l’INSEE\nTwitter, il existe également de nombreux fils régionaux, par exemple :\n\nInsee en région\nHauts-de-France\nBretagne\n\nhttps://statistiques-locales.insee.fr/\n\n\nRessources pédagogiques et outils interactifs\n\nDécouvrir, apprendre, enseigner\nClassement des prénoms en France depuis 1900\nPyramide des ages\nDatavisualisation des salaires\n\n\n\nVidéos\n\nChaine Youtube INSEE\n\nDe nombreuses playlists expliquent simplement différents concepts, par exemple :\n\nRessources pédagogiques\nExplique moi l’éco\n\n\nRené Carmille, un hacker sous l’Occupation\nDocumentaire sur la création en 1941 du Service National des Statistiques qui deviendra l’INSEE quelques années plus tard\n\n\n\nLes chiffres sont-ils “neutres” ?\npar NotaBene"
-  },
-  {
-    "objectID": "doc/INSEE.html#la-direction-générale-dg",
-    "href": "doc/INSEE.html#la-direction-générale-dg",
-    "title": "Focus sur l’INSEE",
-    "section": "La Direction Générale (DG)",
-    "text": "La Direction Générale (DG)\nLa majorité des missions et des agents de la DG sont à Montrouge au sud de Paris. Les agents du centre de Metz font également parti de la DG (l’établissement de Lorraine étant localisé à Nancy).\nAussi dans chacun des établissements régionaux, des agents réalisent des missions nationales. De plus en plus de travaux sont transférés depuis Montrouge vers des établissements de province.\n\nLes 7 directions\n\nSecrétariat Général\n\nLe SG intervient dans les domaines suivants :\n\nla gestion des ressources humaines, des conditions de travail,\nle pilotage des ressources financières, des moyens informatiques, immobiliers et logistiques.\n\nSource : insee.fr\n\nMots clés: RH, Budget, Communication interne, Dialogue social, Affaires juridiques et contentieuses\n\n\nDirection du Système d’Information\n\nLa DSI :\n\npilote et développe le système d’information de l’INSEE,\nen élabore la stratégie et le schéma directeur,\nen assure la sécurité,\nmet à disposition l’infrastructure informatique nécessaire au fonctionnement du système d’information.\n\nSource : insee.fr\n\nMots clés: Infrastructures, Réseaux, Sécurité, Projets informatiques, Développement, Assistance à Maîtrise d’Ouvrage, Innovation\n\n\nDirection de la Méthodologie et de la Coordination Statistique et Internationale\n\nLa DMCSI a pour mission :\n\nd’élaborer et de promouvoir les bonnes méthodes et pratiques en matière statistique,\nde mettre en place, progressivement et de manière coopérative, un cadre d’assurance qualité,\nd’organiser, au sein du service statistique public, la coordination de l’Insee et des services statistiques ministériels aux niveaux national et international,\nd’assister le directeur général dans son rôle de coordonnateur des autorités statistiques nationales au sens de la loi européenne,\nde promouvoir et d’animer l’innovation au sein du service statistique public.\n\nSource : insee.fr\n\nMots clés: Méthodes, Démarche qualité, Documentation statistique, Coordination, Sondages, Innovation, SSP Lab\n\n\nDirection des Statistiques Démographiques et Sociales\n\nLa DSDS :\n\ngère le répertoire national d’identification des personnes physiques et le fichier national des électeurs\nconçoit et élabore les statistiques et les études concernant la population, les ménages et le développement social, notamment dans les domaines suivants : démographie, emploi, revenus, patrimoines, prix à la consommation, logement et conditions de vie\nétablit les populations légales et produit les résultats statistiques du recensement aux plans national et local.\n\nSource : insee.fr\n\nMots clés: Enquêtes ménages, Études démographiques et sociales, Emploi, Démographie, Ressources et des conditions de vie, Prix à la consommation\n\n\nDirection des Statistiques d’Entreprises\n\nLa DSE coordonne l’ensemble des statistiques sur le système productif. Elle veille notamment à la mise en œuvre des obligations statistiques résultant des principaux règlements européens sur les entreprises et s’assure que tous les moyens sont mis en œuvre pour y parvenir, à l’intérieur comme à l’extérieur de la direction générale. Elle gère les répertoires d’entreprises et d’établissements (répertoire inter-administratif SIRENE et répertoire statistique SIRUS), produit les statistiques de l’industrie, du commerce et des services marchands, gère des bases de données d’entreprises. Elle construit des indicateurs conjoncturels macroéconomiques et participe à l’élaboration des comptes nationaux annuels à un niveau sectoriel détaillé.\nSource : insee.fr\n\nMots clés: Enquêtes entreprise, Répertoire SIRENE, Statistiques annuelles d’entreprise, Profilage, Synthèses sectorielles\n\n\nDirection de la Diffusion et de l’Action Régionale\n\nLa DDAR : - met à disposition de l’ensemble des utilisateurs des produits et services résultant des activités de la statistique publique de l’Insee et des autres services producteurs, - en adéquation avec les attentes des publics, elle en assure la diffusion, la promotion et la distribution, - coordonne l’offre et les activités d’étude et de diffusion des directions régionales de l’Insee : information générale, études réalisées en partenariat avec les acteurs publics en région, conseil et assistance aux décideurs régionaux et locaux.\nSource : insee.fr\n\nMots clés: Action régionale, Communication externe, Insee contact, Offre éditoriale, Diffusions internet, Open Data,\n\n\nDirection des Études et Synthèses Économiques\n\nLa DESE :\n\nélabore et analyse des informations conjoncturelles,\nen fait périodiquement la synthèse,\nproduit les comptes nationaux annuels et trimestriels,\nconçoit et fait fonctionner des modèles, notamment dans les domaines de la macroéconomie et de la protection sociale.\n\nElle réalise des études et prévisions économiques et des évaluations de politiques publiques.\nSource : insee.fr\n\nMots clés: Comptes Nationaux, Notes de Conjoncture, Economie et Statistique, Études macroéconomiques"
-  },
-  {
-    "objectID": "doc/INSEE.html#les-directions-régionales-dr",
-    "href": "doc/INSEE.html#les-directions-régionales-dr",
-    "title": "Focus sur l’INSEE",
-    "section": "Les Directions Régionales (DR)",
-    "text": "Les Directions Régionales (DR)\nLes locaux de l’INSEE se situent généralement dans les préfectures des régions d’avant 2016, ainsi que dans les DOM.\nPour plus de détails sur la localisation des établissements de l’INSEE, consulter le rapport annuel d’activités de L’INSEE 2021, page 22\n\nUn peu d’histoire\nAvant 2016 et la réforme des régions, chaque préfecture de région avait sa DR de l’INSEE. Chaque DR était composée des 3 services suivants :\n\nService Administration des Ressources (SAR)\n\nRessources Humaines\nBudget, Logistique, Assistance informatique\nFormation\n\nService Statistique (SES)\n\nDivision Enquête Ménage (DEM)\nDivsion Recensement de la Population (RP)\n\nService Etude et Diffusion (SED)\n\nEtudes régionales\n\n\nChaque DR réalise également des missions de portée nationale (détaillé par la suite).\n\n\nRéorganisation suite à la fusion des régions\nAprès 2016, l’INSEE est toujours présente dans ces villes. Cependant il ne peut rester qu’une seule DR par région, ainsi les autres seront nommés Établissements. Pour les régions qui n’ont pas fusionnées, rien ne change.\nCe qui a changé :\n\nUn seul SED subsiste par région, généralement dans la plus grande ville\nChaque DR et chaque établissement conserve un SES\nLes SAR fusionnent, la majorité des agents du SAR sont à la DR même si le SAR garde des agents dans chaque établissement pour plus de proximité\n\nLa DR n’est pas toujours localisée dans la plus grande ville, exemple avec la région Nouvelle-Aquitaine :\n\nDR : Poitiers\nETAB : Bordeaux et Limoges\nLe SED est à Bordeaux\n\n\n\nLes pôles et sites\n\nDescriptions des sites et pôles extraites de l’intranet de l’INSEE\n\nDans chaque DR ou établissement, il n’y a pas uniquement des missions régionales. Voici quelques exemples de pôles et de sites aux missions nationales ou inter-régionales.\n\nSite SIRENE\nLa mission principale du site est l’immatriculation des entreprises, qui consiste à leur attribuer des numéros SIREN et SIRET et un code APE, déterminé d’après la nomenclature d’activités française (NAF). Le site traite aussi des déclarations administratives telles que des changements de dénomination, d’adresse, de catégorie juridique, d’activité…\n\nConnaître et comprendre le répertoire Sirene\nTrajectoires d’entreprise (intranet insee)\n\n\n\nSite Prix à la Consommation\n\ncollecte des relevés de prix\ncontrôle des processus de collecte\n\n\n\nSite Tourisme\n\ngère les enquêtes de fréquentation (hôtellerie et camping)\net la mise à jour du parc des hébergements (hôtels et campings)\n\n\n\nSite Réseau Enquêteurs Entreprises\n\nteste les questionnaires d’enquête préalablement au passage au comité du label\ncontact avec les entreprises nouvellement entrantes dans les échantillons avant l’envoi des premiers questionnaires\nrelance des non-répondants, notamment les entreprises dont le poids dans un échantillon est important, par téléphone ou par visite\n\n\n\nSite Gestion Financière\nSes missions principales sont d’une part de formaliser les achats et suivre la liquidation de la dépense, d’autre part d’établir les ordres de mission et les états de frais des agents, enquêteurs et superviseurs.\n\n\nSite BRPP\nIl gère la mise à jour du répertoire d’identification des personnes physiques avec des données d’état civil (naissances, décès, mariages, conclusions et dissolutions de pacs). Ce répertoire doit être l’image des registres d’état civil détenus par les mairies. L’équipe est chargée, entre autres, de contrôler la cohérence et la qualité des données, l’exhaustivité des actes transmis, de s’assurer des délais de transmission.\n\n\nPôle de Service pour l’Action Régionale (PSAR)\nLe PSAR a pour mission de fournir au réseau de l’action régionale des prestations de nature à faciliter la réalisation de synthèses et diagnostics de territoire par les directions régionales, dans le cadre du service spécifique rendu à leurs partenaires, acteurs publics du développement local.\nL’activité du PSAR relève de trois domaines qui se recoupent en partie :\n\nil produit des investissements (le principal outil développé et maintenu sous la responsabilité du Psar est le « kit synthèses locales »)\nil intervient dans le champ de la méthodologie\nil assure une fonction d’animation et de formation autour des synthèses et diagnostics de territoire.\n\nLes PSAR :\n\nPSAR Synthèses Locales (Lyon)\nPSAR Emploi-Population (Lille)\nPSAR Analyse Territoriale (Marseille)\nPSAR Études Économiques Régionales (Toulouse)"
-  },
-  {
-    "objectID": "doc/INSEE.html#les-services-statistiques-ministériels-ssm",
-    "href": "doc/INSEE.html#les-services-statistiques-ministériels-ssm",
-    "title": "Focus sur l’INSEE",
-    "section": "Les Services Statistiques Ministériels (SSM)",
-    "text": "Les Services Statistiques Ministériels (SSM)\nDe très nombreux postes sont réservés aux agents de l’INSEE dans différents ministères. Voici les principaux SSM :\n\nDARES (Direction de l’Animation, de la Recherche, des Études et des Statistiques)\nDEPP (Direction de l’Évaluation, de la Prospective et de la Performance)\n\nSSM en charge des statistiques sur l’éducation\n\nDESF (Département des Études et Statistiques Fiscales)\n\nSSM de la de la DGFIP (Direction Générale des Finances Publiques)\nSSM du ministère du Travail\n\nDRESS (Direction de la Recherche, des Études, de l’Évaluation et des Statistiques)\n\nSSM chargé de la santé et des solidarités\n\nDSECE (Département des Statistiques et des Études du Commerce Extérieur)\n\nSSM chargé du commerce extérieur et des douanes\n\nDSED (Département des Statistiques, des Études et de la Documentation)\n\nSSM sur le sujet de l’Immigration et de l’Intégration\n\nMEDES (Mission des Enquêtes, Données et Études Statistiques)\n\nSSM chargé de la jeunesse et des sports\n\nSDES\n\nDREAL : (Direction Régionale de l’Environnement, de l’Aménagement et du Logement)\n\nSIES (Sous-direction des systèmes d’Information et des Études Statistiques)\n\nSSM chargé de l’enseignement supérieur et de la recherche\n\nSRISE (Services Régionaux de l’Information Statistique et Économique)\n\nDirections régionales de l’Alimentation, de l’Agriculture et de la Forêt (DRAAF)\n\nSSMSI (Service Statistique Ministériel de la Sécurité Intérieure)"
-  },
-  {
-    "objectID": "doc/INSEE.html#les-principales-enquêtes",
-    "href": "doc/INSEE.html#les-principales-enquêtes",
-    "title": "Focus sur l’INSEE",
-    "section": "Les principales enquêtes",
-    "text": "Les principales enquêtes\nVoici quelques exemples d’enquêtes réalisées auprès des ménages :\n\nEnquête Annuelle du Recensement de la population (EAR)\n\ntous les 5 ans pour les communes de moins de 10.000 habitants\nannuel pour les communes de plus de 10.000 habitants mais uniquement sur un échantillon de 8% des logements\n\nEnquête Emploi en Continu\nLoyers et Charges\nConjoncture auprès des ménages (Camme)\nStatistiques sur les Ressources et Conditions de Vie (SRCV)\nEntrée dans la vie adulte (EVA)\nTechnologie de l’Information et de la Communication (TIC)\n\n\n\n\n\n\n\nTip\n\n\n\nL’INSEE réalise également de nombreuses enquêtes auprès des entreprises."
-  },
-  {
-    "objectID": "doc/INSEE.html#les-répertoires",
-    "href": "doc/INSEE.html#les-répertoires",
-    "title": "Focus sur l’INSEE",
-    "section": "Les répertoires",
-    "text": "Les répertoires\n\nSIRENE : Entreprises privées, publiques, associations\nRNIPP : Répertoire National d’Identification des Personnes Physiques\n\nfournis le numéro de Sécurité Sociale\n\nREU : Répertoire Electoral Unique\n\npour l’inscription sur les listes électorales\n\nCOG (prononcé “coge”) : Code Officiel Géographique\nRIL : Répertoire des Immeubles Localisés"
-  },
-  {
-    "objectID": "doc/cours.html",
-    "href": "doc/cours.html",
-    "title": "Cours",
-    "section": "",
-    "text": "Le programme complet est consultable sur la page du Master Statistique des Données pour la Décision Publique du site de l’ENSAI."
-  },
-  {
-    "objectID": "doc/cours.html#ue1-machine-learning",
-    "href": "doc/cours.html#ue1-machine-learning",
-    "title": "Cours",
-    "section": "1 UE1 Machine Learning",
-    "text": "1 UE1 Machine Learning\n\n1.1 Apprentissage statistique (Machine Learning)\n\n\n\nEnseignant\nSébastien Da Veiga\n\n\nCours\n18h\n\n\nAteliers\n12h\n\n\nLangue\nAnglais (cours) et Français (ateliers)\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nModèles Linéaires : Régression et classification, techniques de pénalisation.\nMéthodes Locales : Approches basées sur la proximité des données.\nSVM (Support Vector Machine) : Modèle pour la classification et la régression avec le kernel trick.\nForêts d’arbres décisionnels (Random Forest) : Méthode d’ensemble pour améliorer la précision des prédictions.\nComparaison Empirique des Modèles : Techniques pour évaluer et comparer empiriquement la performance des modèles pour des tâches spécifiques.\n\n\n\n\n\n1.2 Apprentissage profond (Deep Learning)\n\n\n\nEnseignant\nIkko Yamane\n\n\nCours\n24h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nPrincipe des réseaux de neurones\nPropriétés des réseaux de neurones simples\nDescente de gradient\nRéseaux de neurones profonds\n\n\n\n\n\n1.3 Webmining et Traitement du langage\n\n\n\nEnseignant\nGuillaume Gravier (Irisa)\n\n\nCours\n9h\n\n\nAtelier\n12h\n\n\nLangue\nAnglais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nCollecter des données\nExtraire de l’information et apparier des sources textuelles\nClassification, Analyse de sentiment\nModèles d’étude de la langue"
-  },
-  {
-    "objectID": "doc/cours.html#ue2-développement-dapplication-et-dataops",
-    "href": "doc/cours.html#ue2-développement-dapplication-et-dataops",
-    "title": "Cours",
-    "section": "2 UE2 Développement d’application et DataOps",
-    "text": "2 UE2 Développement d’application et DataOps\n\n2.1 Génie Logiciel\n\n\n\n\n\n\n\nEnseignants\nDjamel Eddine KHELLADI et Alban GRÉAU\n\n\nCours\n24h\n\n\nAtelier\n24h\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nPatrons de conception, Bonnes pratiques\nContenerisation et Orchestration\nTests, TDD, Couverture de tests\nCICD\nJava - Maven - Spring Boot - JPA - Hibernate\nCloud avec AWS (s3, RDS, Elastic Beanstalk)\n\n\n\nCours de Rémi (2023)\n\n\n2.2 Développement Web\nLes élèves doivent choisir entre ce cours et celui de DataOps.\n\n\n\n\n\n\n\nEnseignant\nOlivier Chantrel\n\n\nCours\n12h\n\n\nAtelier\n15h\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nXML, DOM, SAX\nWeb, HTML, CSS, Bootstrap\nPHP, MySQL, MariaDB\nAJAX, JavaScript (Angular, React, Vue.JS)\n\n\n\n\n\n2.3 DataOps\nLes élèves doivent choisir entre ce cours et celui de Développement Web.\n\n\n\nEnseignant\nChristophe Blefari\n\n\nCours\n27h\n\n\nLangue\nAnglais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nDataOps, MLOps et DevOps\nAWS Cloud platform\nInfrastructure as Code\nCI/CD\nDocker, Kubernetes\nData pipelines et data observability"
-  },
-  {
-    "objectID": "doc/cours.html#ue3-big-data",
-    "href": "doc/cours.html#ue3-big-data",
-    "title": "Cours",
-    "section": "3 UE3 Big Data",
-    "text": "3 UE3 Big Data\n\n3.1 Technologies NOSQL et Cloud\n\n\n\nEnseignant\nShadi Ibrahim\n\n\nCours\n30h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nSQL et NoSQL\nSystème de fichiers distribué avec HDFS\nTraitement distribué avec Hadoop MapReduce\nVirtualisation et conteneurisation\nDynamoDB, Google BigTable, MongoDB, Neo4J\n\n\n\n\n\n3.2 Indexation Web\n\n\n\nEnseignant\nLara Perinetti\n\n\nCours\n9h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours couvre la collecte d’informations web, l’Information Retrieval, la constitution et l’organisation de corpus, et l’utilisation de l’algorithme PageRank. Les élèves apprendront des techniques de classification de documents textuels et d’opinion mining, incluant l’analyse de sentiments et l’évaluation de modèles.\n\nInformation Retrieval :\n\nConcepts : tf-idf, stemming, Regex, kmeans.\nPratique : Construction de term-document matrix, utilisation de PageRank.\n\nOpinion Mining :\n\nConcepts : Sentiment analysis, annotation syntaxique.\nPratique : Constitution de corpus, annotation et classification de textes.\n\n\n\n\n\n\n3.3 Publication de données respectueuses\n\n\n\nEnseignant\nTristan Allard et Julien Jamme\n\n\nCours\n9h\n\n\nLangue\nFrançais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nLa publication de données respectueuses de la vie privée est essentielle pour permettre des analyses de données tout en protégeant les informations personnelles :\n\nMéthodes de Partitionnement : Techniques comme le k-anonymat et la l-diversité sont précieuses mais ont des limites.\nConfidentialité Différentielle : Aujourd’hui la norme de référence, elle offre des garanties formelles grâce à des techniques de perturbation des données.\nVulnérabilités : Les schémas de publication restent vulnérables à des attaques telles que la ré-identification et l’inférence de membership.\nDéfis Complexes : Les données personnelles posent des défis en matière de confidentialité, nécessitant des améliorations continues des techniques de protection.\nÉvolution Historique : Comprendre l’évolution des méthodes aide à mieux appréhender les approches modernes.\nCycle Sans Fin : La lutte pour la protection de la vie privée est un cycle sans fin, exigeant vigilance et innovation constantes."
-  },
-  {
-    "objectID": "doc/cours.html#ue4-système-et-réseaux",
-    "href": "doc/cours.html#ue4-système-et-réseaux",
-    "title": "Cours",
-    "section": "4 UE4 Système et Réseaux",
-    "text": "4 UE4 Système et Réseaux\n\n4.1 Initiation à Unix\n\n\n\nEnseignant\nSébastien Le Corre\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nIntroduction à GNU/Linux : Familiarisation avec le système d’exploitation GNU/Linux, son histoire et ses principes fondamentaux.\nInstallation d’une distribution : Étapes pour installer une distribution GNU/Linux sur un système.\nLe shell : Utilisation et manipulation du shell (interpréteur de commandes) pour exécuter des tâches et automatiser des processus.\nUtilisateurs, groupes, permissions : Gestion des utilisateurs, des groupes et des permissions pour sécuriser l’accès aux fichiers et aux ressources système.\nLa gestion des paquets : Méthodes pour installer, mettre à jour et supprimer des logiciels via les gestionnaires de paquets de GNU/Linux.\nLa gestion du réseau : Configuration et gestion des paramètres réseau, y compris la connexion, la configuration IP et la résolution de noms.\nMéthodes de dépannage : Techniques et outils pour diagnostiquer et résoudre les problèmes courants rencontrés dans un environnement GNU/Linux.\n\n\n\n\n\n4.2 Réseaux et Systèmes d’exploitation\n\n\n\nEnseignant\nThomas Correge\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\n\nGestion des Ressources par les OS : Exploration des mécanismes par lesquels les systèmes d’exploitation gèrent le matériel et les ressources logicielles.\nProcessus et Multithreading : Étude des processus, leur création, gestion et synchronisation, ainsi que l’utilisation efficace du multithreading pour améliorer les performances des applications.\nTopologies et Technologies Réseau : Analyse des différentes architectures réseau, telles que LAN, WAN, et des technologies sous-jacentes comme Ethernet, WiFi, et leurs implications.\nModèles en Couches : Compréhension des modèles OSI (Open Systems Interconnection) et TCP/IP, et comment ces modèles organisent les communications réseau.\nConcepts de Sécurité : Introduction aux concepts de DMZ (Zone Démilitarisée), pare-feu et proxy pour sécuriser les réseaux, ainsi qu’une sensibilisation aux risques liés à la sécurité informatique.\n\n\n\n\n\n4.3 Systèmes répartis\n\n\n\nEnseignant\nDavid Gross-Amblard\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours approfondit les architectures distribuées à l’échelle mondiale, avec une focalisation sur les grilles, les systèmes peer-to-peer (P2P) et le cloud. Les objectifs incluent la compréhension des concepts fondamentaux tels que la synchronisation et l’exclusion mutuelle, ainsi que l’étude des algorithmes associés à chaque type d’architecture.\n\nIntroduction aux Architectures Distribuées : Exploration des différentes architectures réparties.\nConcepts Fondamentaux : Synchronisation, exclusion mutuelle, et autres concepts clés.\nApproches Centralisées et Semi-centralisées : Étude du cloud computing et des grilles.\nApproches Décentralisées : Analyse des systèmes P2P structurés, non-structurés et hybrides.\nApplications Pratiques : Utilisation dans les systèmes de partage de fichiers et les protocoles épidémiques.\n\n\n\n\n\n4.4 Sécurité des données\n\n\n\nEnseignant\nDavid Gross-Amblard\n\n\nCours\n9h\n\n\nAteliers\n9h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours explore les principes fondamentaux de la sécurité informatique, en mettant l’accent sur la protection des données dans un contexte d’actualité dynamique marqué par des attaques spectaculaires et l’évolution des législations. La cryptographie est présentée comme un outil essentiel pour prévenir la divulgation, la modification et l’accès non autorisé aux données.\n\nIntroduction à la Sécurité : Analyse des besoins et des menaces en matière de sécurité informatique.\nCryptography :\n\nCryptographies à clés secrètes et publiques.\nProtocoles cryptographiques pour assurer la confidentialité, l’intégrité, la signature et l’authentification des données.\n\nSystèmes Utilisateurs :\n\nApplications Web et sécurité.\nSécurité des transactions par carte bancaire.\nSécurité des applications réseau."
-  },
-  {
-    "objectID": "doc/cours.html#ue5-formation-analyste",
-    "href": "doc/cours.html#ue5-formation-analyste",
-    "title": "Cours",
-    "section": "5 UE5 Formation Analyste",
-    "text": "5 UE5 Formation Analyste\n\n5.1 Gestion de projet\n\n\n5.2 Gestion de Projet Informatique\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours explore la gestion de projet dans le domaine des systèmes d’information, en couvrant le cycle de vie d’une application, les acteurs impliqués et leurs rôles respectifs. Il inclut également la conduite du changement, la comitologie pour la prise de décision, ainsi que la gestion de la qualité et l’adoption des méthodes agiles.\n\nCycle de Vie d’une Application : Phases de développement, de déploiement et de maintenance.\nActeurs et Rôles : Responsabilités des développeurs, chefs de projet, utilisateurs finaux et autres parties prenantes.\nConduite du Changement : Stratégies pour gérer les résistances et faciliter l’adoption des nouvelles technologies.\nComitologie : Structures décisionnelles et processus de gouvernance dans les projets informatiques.\nQualité : Normes de qualité, assurance qualité et contrôle qualité.\nMéthodes Agiles : Approches itératives et adaptatives pour la gestion de projet, telles que Scrum et Kanban.\n\n\n\n\n\n5.3 Architecture informatique\n\n\n\nEnseignant\nNicolas Duffour\n\n\nCours\n24h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours vise à familiariser les étudiants avec les principes d’architecture informatique de pointe. Les objectifs incluent la préparation aux épreuves écrites et orales de l’examen, en développant une compréhension approfondie des architectures physique, technique, applicative et logique.\n\nArchitecture : Exploration des dimensions physique, technique, applicative et logique.\nSécurité : Concepts essentiels pour garantir la protection des systèmes informatiques.\nTransformation Numérique : Impact du cloud computing, du big data et de l’intelligence artificielle sur l’architecture informatique moderne.\n\n\n\n\n\n5.4 Environnement informatique ministériel et interministériel\n\n\n\nEnseignant\nSophie Ronfle\n\n\nCours\n18h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nContenu du cours\n\n\n\nCe cours présente les cadres juridiques essentiels tels que la Loi Informatique et Libertés (LIL), le Règlement Général sur la Protection des Données (RGPD), et le droit d’auteur. Les étudiants apprendront les définitions et les implications des données personnelles, y compris l’adresse IP, ainsi que les droits et obligations des individus et des responsables de traitement. La régulation des cookies et traceurs selon le règlement ePrivacy, le rôle de la Commission Nationale Informatique et Liberté (CNIL), et l’évolution vers le Délégué à la Protection des Données (DPO) seront également abordés. Enfin, le cours couvre l’encadrement juridique de l’utilisation des outils informatiques dans les sphères privée et professionnelle."
-  },
-  {
-    "objectID": "doc/cours.html#ue6-formation-avancée-à-lexamen-danalyste",
-    "href": "doc/cours.html#ue6-formation-avancée-à-lexamen-danalyste",
-    "title": "Cours",
-    "section": "6 UE6 Formation avancée à l’examen d’analyste",
-    "text": "6 UE6 Formation avancée à l’examen d’analyste\n\n6.1 Préparation à l’écrit\n\n\n6.2 Préparation à l’oral\n\n\n6.3 Anglais"
-  },
-  {
-    "objectID": "doc/cours.html#ue7-stage",
-    "href": "doc/cours.html#ue7-stage",
-    "title": "Cours",
-    "section": "7 UE7 Stage",
-    "text": "7 UE7 Stage"
-  },
-  {
     "objectID": "doc/deplacements.html",
     "href": "doc/deplacements.html",
     "title": "Déplacements et Mission",
@@ -207,14 +18,14 @@
     "href": "doc/deplacements.html#ordres-de-mission",
     "title": "Déplacements et Mission",
     "section": "Ordres de Mission",
-    "text": "Ordres de Mission\n\n\n\n\n\n\nImportant\n\n\n\nPour partir en mission, il est indispensable d’avoir un OM.\nPour obtenir un OM, il faut remplir… une demande d’OM.\n\n\n\nOM Collectifs\nPour certaines missions, des OM collectifs seront réalisés (vous n’aurez donc pas à faire de demande individuelle).\nLe protocole pour la réalisation d’OM collectifs sera le suivant :\n\nl’ENSAI propose les conditions de la mission (horaires de train, nuitées…)\nVous aurez un délai de 3 jours ouvrés pour valider ou faire une contre-proposition collective\n\n\n\nOM individuels\nVous devez à minima 15 jours avant votre départ en mission transmettre à la boite mission :\n\nvotre demande d’OM\nvotre convocation\n\n\n\n\n\n\n\nAide au remplissage\n\n\n\n\nélève ENSAI\nBudget de l’ENSAI\nExamen / concours\nNom, prénom, Tél, Mail, Fonction ENSAI : Élève\n1. Lieu de départ : ENSAI Bruz ou adresse de votre logement étudiant\n2. Détail mission : tout renseigner\n\nDétaillez précisément votre trajet (horaires train)\n\n3. Modes de transport\n\nSi vous avez, numéro de carte de réduction et date validité\nBillet à commander : OUI (l’ENSAI commande vos billets)\nBillet à rembourser : NON (c’est l’ENSAI qui paie donc rien à rembourser)\nCochez Métro, RER\n\n\n\n\nProtocole :\n\nL’élève remplit sa demande d’OM\nIl imprime et fait signer par la Direction des études\n\ns’il n’est pas sur place, il envoie par mail sa demande d’OM\n\nScanne et envoie ses documents sur la boite mail mission\n\ndemande d’OM + convocation\n\nl’ENSAI achète les billets de trains\n\n\n\nTypes de missions\nIl y a 2 types de missions qui donnent lieu à des conditions de prise en charge différentes :\n\nFormation (Oraux blancs et semaine à la DG)\n\nTransport, repas et éventuelles nuitées pris en charge par l’ENSAI.\n\nExamen (écrits et oraux)\n\nSeul le transport est pris en charge par l’ENSAI."
+    "text": "Ordres de Mission\n\n\n\n\n\n\nImportant\n\n\n\nPour partir en mission, il est indispensable d’avoir un OM.\nPour obtenir un OM, il faut remplir… une demande d’OM.\n\n\n\nOM Collectifs\nPour certaines missions, des OM collectifs seront réalisés (vous n’aurez donc pas à faire de demande individuelle).\nLe protocole pour la réalisation d’OM collectifs sera le suivant :\n\nl’ENSAI propose les conditions de la mission (horaires de train, nuitées…)\nVous aurez un délai de 3 jours ouvrés pour valider ou faire une contre-proposition collective\n\n\n\nOM individuels\nVous devez à minima 15 jours avant votre départ en mission transmettre à la boite mission :\n\nvotre demande d’OM\nvotre convocation\n\n\n\n\n\n\n\nTipAide au remplissage\n\n\n\n\nélève ENSAI\nBudget de l’ENSAI\nExamen / concours\nNom, prénom, Tél, Mail, Fonction ENSAI : Élève\n1. Lieu de départ : ENSAI Bruz ou adresse de votre logement étudiant\n2. Détail mission : tout renseigner\n\nDétaillez précisément votre trajet (horaires train)\n\n3. Modes de transport\n\nSi vous avez, numéro de carte de réduction et date validité\nBillet à commander : OUI (l’ENSAI commande vos billets)\nBillet à rembourser : NON (c’est l’ENSAI qui paie donc rien à rembourser)\nCochez Métro, RER\n\n\n\n\nProtocole :\n\nL’élève remplit sa demande d’OM\nIl imprime et fait signer par la Direction des études\n\ns’il n’est pas sur place, il envoie par mail sa demande d’OM\n\nScanne et envoie ses documents sur la boite mail mission\n\ndemande d’OM + convocation\n\nl’ENSAI achète les billets de trains\n\n\n\nTypes de missions\nIl y a 2 types de missions qui donnent lieu à des conditions de prise en charge différentes :\n\nFormation (Oraux blancs et semaine à la DG)\n\nTransport, repas et éventuelles nuitées pris en charge par l’ENSAI.\n\nExamen (écrits et oraux)\n\nSeul le transport est pris en charge par l’ENSAI."
   },
   {
     "objectID": "doc/deplacements.html#les-missions",
     "href": "doc/deplacements.html#les-missions",
     "title": "Déplacements et Mission",
     "section": "Les missions",
-    "text": "Les missions\n\nOraux blancs\n\n\n\n\n\n\nAdresse\n\n\n\nIGPDE\n20, allée Georges Pompidou\n94300 VINCENNES\n\nRER A (Vincennes) ou Metro 1 (Château de Vincennes)\nDepuis Montparnasse (40 min)\n\nMétro 4 ➡️ Chatelet Les Halles ➡️ RER A\n\n\n\n\n\n4 décembre 2024\n27 janvier 2025\n\nL’année dernière, les oraux blancs se déroulaient entre 8h55 et 16h20.\nL’ENSAI propose 2 OM collectifs et réserve TRAIN (+ HOTEL) :\n\nOM1 : pour les élèves convoqués avant 10h00\n\nALLER la veille, nuit d’hotel\nRETOUR le soir\n\nOM2 : pour les élèves convoqués après 10h00\n\nALLER le matin\nRETOUR le soir\n\n\n\n\nExamen écrit\n\n\n\n\n\n\nAdresse et Trajet\n\n\n\nCentrex\n2 Rue de la Butte Verte\n93160 NOISY-LE-GRAND\n\nRER A Noisy-Champs\nDepuis Montparnasse (50min)\n\nMétro 4 ➡️ Chatelet Les Halles ➡️ RER A ➡️ Noisy Champs\n\n\n\n\nLe 16 janvier 2025 (horaires 2024 : 9h45 - 16h).\nL’ENSAI propose 2 OM collectifs et réserve le TRAIN :\n\nOM1 : Aller-Retour dans la journée\n\nAller : Train de 6h35 - 8h15\nRetour : Train de 17h53 - 19h25\n\nOM2 : Aller la veille pour ceux qui préfèrent être sur place\n\n⚠️ L’ENSAI ne prend pas en charge la nuitée\nAller : Train la veille de 18h35 ?\nRetour : Train de 17h53 - 19h25\n\nLes élèves doivent signifier leur souhait entre OM1 et OM2\n\nsans réponse, ils seront affectés à l’OM1\n\nLes élèves devront dès réception, transmettre une copie de leur convocation à la boite mission.\n\n\n\nSemaine à Paris\n17 au 21 février 2025 (En 2024, du lundi 10h au vendredi 17h au White)\n\nAller : Train lundi matin\n\nVacances d’hiver juste avant\n\nHotel\n\nUne chambre par étudiant\nIbis budget Châtillon Paris Ouest 65€ / nuit, 30 min à pied DG INSEE, 15 min en Tram\nSi un élève ne souhaite pas dormir à l’hotel, il prévient l’ENSAI mais ne sera pas remboursé\n\nRetour : Train vendredi soir\n\n\n\nExamen oral\n\n\n\n\n\n\nDélai assez courts\n\n\n\nRésultats d’amissibilité le 13 février.\nOraux à partir du 10 mars 2025\n\n\nChaque élève fait sa demande d’OM individuel."
+    "text": "Les missions\n\nOraux blancs\n\n\n\n\n\n\nNoteAdresse\n\n\n\nIGPDE\n20, allée Georges Pompidou\n94300 VINCENNES\n\nRER A (Vincennes) ou Metro 1 (Château de Vincennes)\nDepuis Montparnasse (40 min)\n\nMétro 4 ➡️ Chatelet Les Halles ➡️ RER A\n\n\n\n\n\n4 décembre 2024\n27 janvier 2025\n\nL’année dernière, les oraux blancs se déroulaient entre 8h55 et 16h20.\nL’ENSAI propose 2 OM collectifs et réserve TRAIN (+ HOTEL) :\n\nOM1 : pour les élèves convoqués avant 10h00\n\nALLER la veille, nuit d’hotel\nRETOUR le soir\n\nOM2 : pour les élèves convoqués après 10h00\n\nALLER le matin\nRETOUR le soir\n\n\n\n\nExamen écrit\n\n\n\n\n\n\nNoteAdresse et Trajet\n\n\n\nCentrex\n2 Rue de la Butte Verte\n93160 NOISY-LE-GRAND\n\nRER A Noisy-Champs\nDepuis Montparnasse (50min)\n\nMétro 4 ➡️ Chatelet Les Halles ➡️ RER A ➡️ Noisy Champs\n\n\n\n\nLe 16 janvier 2025 (horaires 2024 : 9h45 - 16h).\nL’ENSAI propose 2 OM collectifs et réserve le TRAIN :\n\nOM1 : Aller-Retour dans la journée\n\nAller : Train de 6h35 - 8h15\nRetour : Train de 17h53 - 19h25\n\nOM2 : Aller la veille pour ceux qui préfèrent être sur place\n\n⚠️ L’ENSAI ne prend pas en charge la nuitée\nAller : Train la veille de 18h35 ?\nRetour : Train de 17h53 - 19h25\n\nLes élèves doivent signifier leur souhait entre OM1 et OM2\n\nsans réponse, ils seront affectés à l’OM1\n\nLes élèves devront dès réception, transmettre une copie de leur convocation à la boite mission.\n\n\n\nSemaine à Paris\n17 au 21 février 2025 (En 2024, du lundi 10h au vendredi 17h au White)\n\nAller : Train lundi matin\n\nVacances d’hiver juste avant\n\nHotel\n\nUne chambre par étudiant\nIbis budget Châtillon Paris Ouest 65€ / nuit, 30 min à pied DG INSEE, 15 min en Tram\nSi un élève ne souhaite pas dormir à l’hotel, il prévient l’ENSAI mais ne sera pas remboursé\n\nRetour : Train vendredi soir\n\n\n\nExamen oral\n\n\n\n\n\n\nCautionDélai assez courts\n\n\n\nRésultats d’amissibilité le 13 février.\nOraux à partir du 10 mars 2025\n\n\nChaque élève fait sa demande d’OM individuel."
   },
   {
     "objectID": "doc/deplacements.html#frais-à-avancer",
@@ -224,67 +35,193 @@
     "text": "Frais à avancer\n\nRepas\nDans le cadre d’une formation, les repas sont pris en charge par l’ENSAI\n\nLe matin\n\nSi une nuitée est prise en charge, alors le petit-déjeuner est inclus\n\nLe midi\n\n10€ si présence d’un restaurant administratif\n20€ si repas à l’extérieur\n\nLe soir 20 €\n\nsi arrivée la veille\nsi retour de mission après 20h\n\n\n\n\n\n\n\n\nTip\n\n\n\nAucun justificatif n’est à transmettre pour les repas, le calcul des montants à rembourser est effectué par le gestionnaire.\n\n\n\n\nTicket métro, bus, RER\nGardez tous les tickets :\n\nAu retour de mission, scannez-les et envoyez sur la boite mission pour obtenir le remboursement"
   },
   {
-    "objectID": "doc/examen-analyste.html",
-    "href": "doc/examen-analyste.html",
-    "title": "Examen d’Analyste",
+    "objectID": "doc/stage.html",
+    "href": "doc/stage.html",
+    "title": "Stage Master STD",
     "section": "",
-    "text": "Cet examen permet de valider vos connaissances dans le domaine du traitement de l’information. Sa réussite vous confére la qualification d’Analyste-développeur à vie.\nCette qualification vous permet :\n\nd’obtenir une prime supplémentaire mensuelle si vous êtes affecté sur un poste informatique\nd’accéder aux qualifications PSE et Chef de projet\n\nIl y a 2 épreuves à réussir (note ≥ 10) pour obtenir la qualification :\n\népreuve écrite : étude d’un cas d’automatisation + dossier technique\népreuve orale : présentation d’un sujet tiré au sort, puis questions du jury"
+    "text": "durée : entre 20 semaines et 6 mois\nentre le 16 mars et le 31 août"
   },
   {
-    "objectID": "doc/examen-analyste.html#présentation",
-    "href": "doc/examen-analyste.html#présentation",
-    "title": "Examen d’Analyste",
+    "objectID": "doc/stage.html#modalités",
+    "href": "doc/stage.html#modalités",
+    "title": "Stage Master STD",
     "section": "",
-    "text": "Cet examen permet de valider vos connaissances dans le domaine du traitement de l’information. Sa réussite vous confére la qualification d’Analyste-développeur à vie.\nCette qualification vous permet :\n\nd’obtenir une prime supplémentaire mensuelle si vous êtes affecté sur un poste informatique\nd’accéder aux qualifications PSE et Chef de projet\n\nIl y a 2 épreuves à réussir (note ≥ 10) pour obtenir la qualification :\n\népreuve écrite : étude d’un cas d’automatisation + dossier technique\népreuve orale : présentation d’un sujet tiré au sort, puis questions du jury"
+    "text": "durée : entre 20 semaines et 6 mois\nentre le 16 mars et le 31 août"
   },
   {
-    "objectID": "doc/examen-analyste.html#liens",
-    "href": "doc/examen-analyste.html#liens",
-    "title": "Examen d’Analyste",
-    "section": "Liens",
-    "text": "Liens\n\nPage examen (Calendrier, infos, annales, rapports du jury…)\nInscription"
+    "objectID": "doc/stage.html#objectifs",
+    "href": "doc/stage.html#objectifs",
+    "title": "Stage Master STD",
+    "section": "Objectifs 🎯",
+    "text": "Objectifs 🎯\n\nMobiliser les connaissances acquises à l’ENSAI\nMise en situation professionnelle réelle\nComprendre le fonctionnement de la structure d’accueil\nTravailler au sein d’une équipe\nGagner en autonomie\nPrendre des initiatives, explorer des technologies émergentes"
   },
   {
-    "objectID": "doc/examen-analyste.html#contacts",
-    "href": "doc/examen-analyste.html#contacts",
-    "title": "Examen d’Analyste",
-    "section": "Contacts",
-    "text": "Contacts\n\n\n\nContact\nRôle\n\n\n\n\nBLOCH Fabrice\nCorrespondant INSEE\n\n\nBOURDIN Marion\nIGPDE - Chargée de formation cycle analyste\n\n\nDENEUVILLE Ludovic\nENSAI - Responsable Master STD\n\n\nDUCHESNE Aurélie\nENSAI - Organisatrice de la formation"
+    "objectID": "doc/stage.html#contenu",
+    "href": "doc/stage.html#contenu",
+    "title": "Stage Master STD",
+    "section": "Contenu 💎",
+    "text": "Contenu 💎\nEn lien avec les enseignements de la filière STD :\n\nMachine Learning (Deep Learning, NLP)\nDéveloppement / Déploiement d’une application\nBig Data, Cloud, DataOps\nSystème, Réseaux et Sécurité\n\n\n\n\n\n\n\nNote\n\n\n\nIl est préférable de travailler sur des domaines connus et ensuite d’aller plus loin.\nPlutôt que de partir directement sur des sujets trop exotiques.\n\n\n\nExemples de sujets de stages\n\nL’intelligence artificielle au profit de la détection de sorties de données frauduleuses\nIdentifier, analyser et prototyper une solution d’architecture pour exposer les services autour des métadonnées\nConstruction d’un moteur d’agrégation de données individuelles utilisable en interactif\nOptimisation du calcul des populations légales à travers une architecture de calcul distribué\nAutomatisation de la transformation des données individuelles pour la diﬀusion européenne\nDéveloppement d’une application mobile pour les enquêteurs\nOpenSource et Modularité à l’INSEE : Exemple avec l’implémentation d’une méthode d’échantillonage\nComment proposer une architecture conteneurisée pour répondre aux besoins de services en « self-déploiement » et d’intégration continue ?"
   },
   {
-    "objectID": "doc/examen-analyste.html#formateurs",
-    "href": "doc/examen-analyste.html#formateurs",
-    "title": "Examen d’Analyste",
-    "section": "Formateurs",
-    "text": "Formateurs\n\n\n\nFormateur\nMatière\n\n\n\n\nKOUAME Sonia\nPréparation à l’examen écrit\n\n\nBROSSARD Xavier\nGestion de projet\n\n\nMSELLEK Nadia\nGestion de projet\n\n\nAALIOUI Bilal"
+    "objectID": "doc/stage.html#sujet",
+    "href": "doc/stage.html#sujet",
+    "title": "Stage Master STD",
+    "section": "Sujet",
+    "text": "Sujet\nUne offre ou un sujet de stage devra contenir les éléments suivants :\n\nContexte, description de la structure, de l’équipe d’accueil\nObjectifs, missions, problématique, méthodologie\n\nDans quel but, pourquoi c’est intéressant, à quoi cela va servir\n\nTechnologies, outils utilisés\nConnaissances et aptitudes recherchées\nQuelles données sont utilisées\nQuels sont les livrables attendus\nDurée ou date de début et de fin\nMaitre de stage"
   },
   {
-    "objectID": "doc/examen-analyste.html#examens-blancs",
-    "href": "doc/examen-analyste.html#examens-blancs",
-    "title": "Examen d’Analyste",
-    "section": "Examens blancs",
-    "text": "Examens blancs\n\nÉcrits\n\n\n\n\n\n\nImportant\n\n\n\n\nDébut : 10h\nFin : 16h\n\nVous n’avez le droit à aucun document. Calculatrice de l’école autorisée.\nEn cas de sortie temporaire de la salle, vous serez toujours accompagné.\nVous pouvez apporter à manger (évitez les chips).\n\n\nL’IGPDE fournit les sujets et corrige les copies\n\nExamen Blanc n°1 du 15/09/24\nExamen Blanc n°2 du 18/10/24\nExamen Blanc n°3 du 15/11/24\nExamen Blanc n°4 du 13/12/24\n\n\n\nOraux\nLes oraux blancs ont lieu en présentiel à l’IGPDE :\n\n\n\n\n\n\nAdresse et Trajet\n\n\n\nIGPDE\n20, allée Georges Pompidou\n94300 VINCENNES\n\nRER A (Vincennes) ou Metro 1 (Château de Vincennes)\nDepuis Montparnasse (40 min)\n\nMétro 4 ➡️ Chatelet Les Halles ➡️ RER A\n\n\n\n\n\nOral Blanc n°1 du 04/12/24\nOral Blanc n°2 du 27/01/25\nOral Blanc n°3 du 19/02/25\n\n\n\n\n\n\n\nTip\n\n\n\n\nPrésenter convocation + une pièce d’identité pour accéder au batiment\nRestaurant administratif dans le batiment ouvert de 11h45 à 14h00 (présenter convocation pour avoir un tarif réduit)\nEspace convivialité au 3ème étage, cafétéria au rdc, centre de documentation au 4ème étage\n\n\n\n\nDéroulement d’un oral\n\nTirage au sort des sujets\n\nBureau 7120 (Christine Gaillard et Marion Bourdin)\n5 minutes avant le début de votre préparation (ex : 8h55 si début à 9h)\n\nPréparation de votre présentation\n\nà la salle indiquée sur le planning\ndurée : 30 minutes\nDu brouillon est à disposition. Pensez à prendre une montre ou un chronométre\n\nPassage devant le jury + débriefing :\n\nSalle indiquée sur les plannings\n10 minutes de présentation (bien respecter le temps imparti !)\n20 minutes de questions-réponses\n\n20 minutes de débriefing"
+    "objectID": "doc/stage.html#étapes",
+    "href": "doc/stage.html#étapes",
+    "title": "Stage Master STD",
+    "section": "Étapes ⌛",
+    "text": "Étapes ⌛\n\nRecherche bibliographique\nRencontrer les acteurs (Utilisateurs, MOA, Experts…)\nProblématique\nExpériences, analyses\nMise en valeur des résultats\n\n\nRéalisations attendues\nPar exemple :\n\nUn produit viable\nDes résultats d’une expérience\nUn déploiement sur la plateforme dev.insee.io"
   },
   {
-    "objectID": "doc/examen-analyste.html#examen",
-    "href": "doc/examen-analyste.html#examen",
-    "title": "Examen d’Analyste",
-    "section": "Examen",
-    "text": "Examen\nChauqe année, 2 sessions d’examen sont programmées.\n\nCalendrier 2025\n\n1ere session\n\n\n\nOuverture des inscriptions\n10/10/2024\n\n\nClôture des inscriptions\n14/11/2024\n\n\nÉpreuve écrite\n16/01/2025 9h45 - 15h45\n\n\nRésultats Admissibilité\n13/02/2025\n\n\nÉpreuve orale\nÀ partir du 10/03/2025\n\n\n\n\n\n2e session\n🚧\n\n\n\nÉcrit\n\n\n\n\n\n\nAdresse et Trajet\n\n\n\nCentrex\n2 Rue de la Butte Verte\n93160 NOISY-LE-GRAND\n\nRER A Noisy-Champs\nDepuis Montparnasse (50min)\n\nMétro 4 ➡️ Chatelet Les Halles ➡️ RER A ➡️ Noisy Champs\n\n\n\n\n\n\nOral\n\n\n\n\n\n\nAdresse et Trajet\n\n\n\nImmeuble Atrium\nPlace des Vins-de-France\n75573 PARIS"
+    "objectID": "doc/stage.html#les-acteurs",
+    "href": "doc/stage.html#les-acteurs",
+    "title": "Stage Master STD",
+    "section": "Les acteurs 🎩",
+    "text": "Les acteurs 🎩\n\nMaitre de stage\n\nDéfinit les objectifs\nAssure un encadrement technique\nOptimise les conditions de réalisation du stage\nFacilite l’intégration du stagiaire dans l’équipe\nAssure un suivi régulier de la progression du stagiaire\nRéalise un entretien de fin de stage\nRenseigne la grille d’évaluation\n\n\n\nRéférent pédagogique\n\nUn enseignant de l’ENSAI\nS’assure du bon déroulement du stage\nPoint d’avancement de vos travaux en Mai"
   },
   {
-    "objectID": "doc/examen-analyste.html#semaine-à-la-dg",
-    "href": "doc/examen-analyste.html#semaine-à-la-dg",
-    "title": "Examen d’Analyste",
-    "section": "Semaine à la DG",
-    "text": "Semaine à la DG\n🚧\nDu 17/02/25 au 21/02/25\n\n\n\n\n\n\nProgramme 2023-2024\n\n\n\n\nLundi 12/02: préparation à l’oral J1 [Bilal Aalioui et Nadia Msellek]\nMardi 13/02 : l’informatique ministérielle et interministérielle [Bilal aalioui et Nadia Msellek]\nMercredi 14/02 : Oraux Blancs n°3 à l’IGPDE\nJeudi 15/02 : préparation à l’oral J2 [Bilal Aalioui et Nadia Msellek]\nVendredi 16/02 : days of chaos [Armelle Koehl Donatien Eneman]"
+    "objectID": "doc/stage.html#livrables",
+    "href": "doc/stage.html#livrables",
+    "title": "Stage Master STD",
+    "section": "Livrables 🚚",
+    "text": "Livrables 🚚\n\nMi-mai : Note d’étape\nFin août : Rapport final + Note de synthèse en anglais\nMi-sept : Soutenance\n\n\nNote d’étape\n\navant la fin du 2e mois, pour vérifier que tout va bien\nnote de 2 à 3 pages en anglais ou français\ndécrire votre mission (environnement, objectifs, résultats attendus…)\nle timing prévisionnel des différentes étapes\nméthodologies utilisées (ou qui seront mobilisées)\nétat actuel de vos travaux"
   },
   {
-    "objectID": "doc/examen-analyste.html#missions",
-    "href": "doc/examen-analyste.html#missions",
-    "title": "Examen d’Analyste",
-    "section": "Missions",
-    "text": "Missions\n\n\n\n\n\n\nCaution\n\n\n\nVous aurez 2 types de missions différents qui ne donnent pas lieu aux mêmes prises en charge :\n\nformation (oraux blanc, semaine DG) ➡️ tous les frais sont pris en charge : transport, repas, nuitées\nconcours / examens (examens écrit et oral) ➡️ seul le transport aller/retour est remboursé par l’ENSAI\n\n\n\n\nOrdre de Mission\nAvant de partir en mission, il est impératif d’être couvert par un Ordre de Mission (OM).\nPour obtenir cet OM, vous devez préalablement remplir une demande d'OM, au plus tard 10 jours avant le début de la mission. Cette fiche liste tous les élèments permettant de définir la mission :\n\nNom, prénom, tél, mail\nLieu de départ, dates de départ et de retour\nMotif, lieu et durée de la mission\n\nil faut joindre un justificatif de mission (convocation, justificatif d’inscription…)\n\nDétailler les trajets pour se rendre sur le lieu de la mission (pas besoin de détailler métro, rer, bus)\nSigner, et faire signer par la direction des études ET le secrétariat général\n\nUne fois que tout est bien rempli, vous pouvez envoyer votre demande d’OM et la convocation sur la boite fonctionnelle mission.\n\n\n\n\n\n\nCochez les bonnes cases\n\n\n\nVous avez 2 possibilités pour vos billets de train :\n\nVous achetez vous-même les billets et demanderez ensuite le remboursement\n\n\nBillet à commander : NON\nBillet à rembourser : OUI\n\n\nVous demander à l’ENSAI de commander vos billets\n\n\nBillet à commander : OUI\nBillet à rembourser : NON\ndans ce cas, votre demande d’OM doit arriver au minimum 15 jours avant le début de la mission\n\nCochez la case Metro / RER / Bus si nécessaire pour votre trajet.\n\n\n\n\nRemboursement de frais\nIl est important de demander et conserver tous les justificatifs originaux de frais (ticket repas, ticket métro, facture hôtel…).\nA votre retour de mission, envoyez sans tarder le tout aux gestionnaires.\n\nRepas\n\nSi arrivée la veille : repas du soir : 20€\nLe midi :\n\n10€ si repas dans un restaurant administratif\n20€ si repas à l’extérieur\n\nSi retour de mission après 20h, repas du soir : 20€"
+    "objectID": "doc/stage.html#rapport",
+    "href": "doc/stage.html#rapport",
+    "title": "Stage Master STD",
+    "section": "Rapport 📘",
+    "text": "Rapport 📘\n\n30 pages maximum hors annexes\n\n\nSuivre un cheminement logique :\n\nd’où vous partez\noù vous voulez aller\nvotre voyage\nlà ou vous êtes arrivé\n\nles nouveaux chemins qui s’ouvrent\n\n\n\n\nIntroduction\n\nPrésentation du contexte\nObjectifs et Enjeux\nDescription de la Mission\nProblématique\nAnnonce du plan\n\n\n\nPartie 1 : Contexte\nCommencez par décrire le contexte :\n\nDans quoi s’intègre votre travail ?\nPourquoi ce sujet est intéressant ?\nQuel est l’existant ?\nGain pour l’établissement\n\n\n\nConclusion\n\nBilan et retours d’expérience\nAnalyse Critique\nPerspectives et Projets Futurs\n\n\n\n\n\n\n\nImportant\n\n\n\nConclusion ≠ Introduction\n\n\n\n\nBibliographie\n\n\n\n\n\n\nTipObjectif\n\n\n\nRéalisez un état de l’art sur votre sujet.\nMontrez-nous que vous avez pris de la hauteur !\n\n\n\nDocumentations officielles\nArticles de recherche, de blog\nLivres\nConférences\n\n\n\nDémarche scientifique\nAdoptez une démarche scientifique :\n\nObservations\nFormulation d’hypothèses\nExpérimentations\nAnalyse des résultats\nConclusions\n\n\n\nEt les Stats ?\n\nNe vous forcez pas à mettre des stats si elles ne servent à rien\nPar contre, il faut savoir répondre à une question de stat lors de la soutenance"
+  },
+  {
+    "objectID": "doc/stage.html#note-de-synthèse",
+    "href": "doc/stage.html#note-de-synthèse",
+    "title": "Stage Master STD",
+    "section": "Note de synthèse 💂‍♂️",
+    "text": "Note de synthèse 💂‍♂️\n\nEn anglais\n4 pages maximum"
+  },
+  {
+    "objectID": "doc/stage.html#soutenance",
+    "href": "doc/stage.html#soutenance",
+    "title": "Stage Master STD",
+    "section": "Soutenance 🎉",
+    "text": "Soutenance 🎉\n\nExposé : 20 min\nQuestions : 25 min\n\n\n\n\n\n\n\nNote\n\n\n\nLa soutenance se déroulera en présence :\n\nd’un président de jury\nde l’encadrant pédagogique de l’ENSAI\ndu maitre de stage"
+  },
+  {
+    "objectID": "doc/stage.html#erreurs-à-éviter",
+    "href": "doc/stage.html#erreurs-à-éviter",
+    "title": "Stage Master STD",
+    "section": "Erreurs à éviter ⚠️",
+    "text": "Erreurs à éviter ⚠️\n\nErreur 1 : ne pas alerter\nN’attendez pas la note d’étape et encore moins le dernier mois pour dire que ça ne va pas !\n\nDiscutez avec votre tuteur\nContactez votre référent ENSAI\n\n\n\nErreur 2 : Ignorer le métier\n\n\n\n\n\n\nImportant\n\n\n\nUn développeur rend service à des utilisateurs.\nIl faut donc apprendre le contexte métier dans lequel vous travaillez.\n\n\n\n\nErreur 3 : Contexte INSEE\nTrop faible connaissance du contexte INSEE (ou de la structure d’accueil)\nSolutions :\n\nDiscuter avec les développeurs\nS’abonner aux canaux actifs sur Tchap\nAller aux dev’académy, séminaires de développement…\n\n\n\nErreur 4 : négliger le rapport\n\nRespectez le format attendu\nDonnez des titres informatifs à vos parties\nRELISEZ-LE !!!!!\n\n\n\n\n\n\n\nImportantLes figures\n\n\n\nLes figures doivent être propres, lisibles avec un titre et une source.\nSi vous utilisez une image, vérifiez qu’elle est libre de droits.\n\n\n\n\n\n\n\n\n\nWarningErreurs à ne pas faire\n\n\n\n\nRédiger son rapport une fois le stage terminé\nUtiliser “on” et la forme passive (ex : “on voit que”)\nInsérer des figures sans aucune explication\n\n\n\n\n\nMise en valeur\nVous n’arrivez pas à montrer ce que vous avez fait :\n\nManque de hauteur : vous utilisez des outils sans les comprendre\nManque de technique : vous ne connaissez pas des notions de base\n\n\n\nStage “prise de poste”\n\n\n\n\n\n\nVous devez réaliser un stage de niveau Master 2 sur un sujet bien précis.\nLe but n’est pas que vous découvriez votre futur environnement de travail et appreniez à être opérationnel sur votre futur poste.\nCe n’est pas interdit mais cela pourrait vous pénaliser.\nLe but lorsque vous intégrez une équipe n’est pas de vous conformer à son mode de fonctionnement sans avoir un esprit critique. Vous êtes jeunes et plein d’énergie, vous devez apporter de nouvelles pratiques et techniques."
+  },
+  {
+    "objectID": "doc/stage.html#liens-utiles",
+    "href": "doc/stage.html#liens-utiles",
+    "title": "Stage Master STD",
+    "section": "Liens utiles 🔗",
+    "text": "Liens utiles 🔗\n\npass fonction publique\nOffres de stage sur Moodle"
+  },
+  {
+    "objectID": "doc/stage.html#pour-terminer",
+    "href": "doc/stage.html#pour-terminer",
+    "title": "Stage Master STD",
+    "section": "Pour terminer 🏁",
+    "text": "Pour terminer 🏁\n\nProduisez quelque chose dont vous êtes fier\nProduisez un travail sérieux\nCreuser les sujets qui vous paraissent interessants"
+  },
+  {
+    "objectID": "doc/stage-slide.html#modalités",
+    "href": "doc/stage-slide.html#modalités",
+    "title": "Stage Master STD",
+    "section": "Modalités 📝",
+    "text": "Modalités 📝\n\ndurée : entre 20 semaines et 6 mois\nentre le 16 mars et le 31 août"
+  },
+  {
+    "objectID": "doc/stage-slide.html#objectifs",
+    "href": "doc/stage-slide.html#objectifs",
+    "title": "Stage Master STD",
+    "section": "Objectifs 🎯",
+    "text": "Objectifs 🎯\n\nMobiliser les connaissances acquises à l’ENSAI\nMise en situation professionnelle réelle\nComprendre le fonctionnement de la structure d’accueil\nTravailler au sein d’une équipe\nGagner en autonomie\nPrendre des initiatives, explorer des technologies émergentes"
+  },
+  {
+    "objectID": "doc/stage-slide.html#contenu",
+    "href": "doc/stage-slide.html#contenu",
+    "title": "Stage Master STD",
+    "section": "Contenu 💎",
+    "text": "Contenu 💎\nEn lien avec les enseignements de la filière STD :\n\nMachine Learning (Deep Learning, NLP)\nDéveloppement / Déploiement d’une application\nBig Data, Cloud, DataOps\nSystème, Réseaux et Sécurité\n\n\n\n\n\n\n\nNote\n\n\nIl est préférable de travailler sur des domaines connus et ensuite d’aller plus loin.\nPlutôt que de partir directement sur des sujets trop exotiques."
+  },
+  {
+    "objectID": "doc/stage-slide.html#sujet",
+    "href": "doc/stage-slide.html#sujet",
+    "title": "Stage Master STD",
+    "section": "Sujet",
+    "text": "Sujet\nUne offre ou un sujet de stage devra contenir les éléments suivants :\n\nContexte, description de la structure, de l’équipe d’accueil\nObjectifs, missions, problématique, méthodologie\n\nDans quel but, pourquoi c’est intéressant, à quoi cela va servir\n\nTechnologies, outils utilisés\nConnaissances et aptitudes recherchées\nQuelles données sont utilisées\nQuels sont les livrables attendus\nDurée ou date de début et de fin\nMaitre de stage"
+  },
+  {
+    "objectID": "doc/stage-slide.html#étapes",
+    "href": "doc/stage-slide.html#étapes",
+    "title": "Stage Master STD",
+    "section": "Étapes ⌛",
+    "text": "Étapes ⌛\n\nRecherche bibliographique\nRencontrer les acteurs (Utilisateurs, MOA, Experts…)\nProblématique\nExpériences, analyses\nMise en valeur des résultats"
+  },
+  {
+    "objectID": "doc/stage-slide.html#les-acteurs",
+    "href": "doc/stage-slide.html#les-acteurs",
+    "title": "Stage Master STD",
+    "section": "Les acteurs 🎩",
+    "text": "Les acteurs 🎩"
+  },
+  {
+    "objectID": "doc/stage-slide.html#livrables",
+    "href": "doc/stage-slide.html#livrables",
+    "title": "Stage Master STD",
+    "section": "Livrables 🚚",
+    "text": "Livrables 🚚\n\nMi-mai : Note d’étape\nFin août : Rapport final + Note de synthèse en anglais\nMi-sept : Soutenance"
+  },
+  {
+    "objectID": "doc/stage-slide.html#rapport",
+    "href": "doc/stage-slide.html#rapport",
+    "title": "Stage Master STD",
+    "section": "Rapport 📘",
+    "text": "Rapport 📘\n\n30 pages maximum hors annexes\n\n\nSuivre un cheminement logique :\n\nd’où vous partez\noù vous voulez aller\nvotre voyage\nlà ou vous êtes arrivé\n\nles nouveaux chemins qui s’ouvrent"
+  },
+  {
+    "objectID": "doc/stage-slide.html#note-de-synthèse",
+    "href": "doc/stage-slide.html#note-de-synthèse",
+    "title": "Stage Master STD",
+    "section": "Note de synthèse 💂‍♂️",
+    "text": "Note de synthèse 💂‍♂️\n\nEn anglais\n4 pages maximum"
+  },
+  {
+    "objectID": "doc/stage-slide.html#soutenance",
+    "href": "doc/stage-slide.html#soutenance",
+    "title": "Stage Master STD",
+    "section": "Soutenance 🎉",
+    "text": "Soutenance 🎉\n\nExposé : 20 min\nQuestions : 25 min\n\n\n\n\n\n\n\nNote\n\n\nLa soutenance se déroulera en présence :\n\nd’un président de jury\nde l’encadrant pédagogique de l’ENSAI\ndu maitre de stage"
+  },
+  {
+    "objectID": "doc/stage-slide.html#erreurs-à-éviter",
+    "href": "doc/stage-slide.html#erreurs-à-éviter",
+    "title": "Stage Master STD",
+    "section": "Erreurs à éviter ⚠️",
+    "text": "Erreurs à éviter ⚠️"
+  },
+  {
+    "objectID": "doc/stage-slide.html#liens-utiles",
+    "href": "doc/stage-slide.html#liens-utiles",
+    "title": "Stage Master STD",
+    "section": "Liens utiles 🔗",
+    "text": "Liens utiles 🔗\n\npass fonction publique\nOffres de stage sur Moodle"
+  },
+  {
+    "objectID": "doc/stage-slide.html#pour-terminer",
+    "href": "doc/stage-slide.html#pour-terminer",
+    "title": "Stage Master STD",
+    "section": "Pour terminer 🏁",
+    "text": "Pour terminer 🏁\n\nProduisez quelque chose dont vous êtes fier\nProduisez un travail sérieux\nCreuser les sujets qui vous paraissent interessants"
   },
   {
     "objectID": "doc/accueil.html#ue-et-matières",
@@ -441,178 +378,255 @@
     "text": "Unité innovation et stratégie du système d’information (UNISSI)\n\nDivision Innovation et Instruction Technique (DIIT)\n\nen lien avec l’Unité SSP Lab\n\nDivision Urbanisme du Système d’Information (DUSI)\nDivision de la Sécurité et de la Maîtrise des Risques (DSMR)"
   },
   {
-    "objectID": "doc/stage-slide.html#modalités",
-    "href": "doc/stage-slide.html#modalités",
-    "title": "Stage Master STD",
-    "section": "Modalités 📝",
-    "text": "Modalités 📝\n\ndurée : entre 20 semaines et 6 mois\nentre le 3 mars et le 31 août"
-  },
-  {
-    "objectID": "doc/stage-slide.html#objectifs",
-    "href": "doc/stage-slide.html#objectifs",
-    "title": "Stage Master STD",
-    "section": "Objectifs 🎯",
-    "text": "Objectifs 🎯\n\nMobiliser les connaissances acquises à l’ENSAI\nMise en situation professionnelle réelle\nComprendre le fonctionnement de la structure d’accueil\nTravailler au sein d’une équipe\nGagner en autonomie\nPrendre des initiatives, explorer des technologies émergentes"
-  },
-  {
-    "objectID": "doc/stage-slide.html#contenu",
-    "href": "doc/stage-slide.html#contenu",
-    "title": "Stage Master STD",
-    "section": "Contenu 💎",
-    "text": "Contenu 💎\nEn lien avec les enseignements de la filière STD :\n\nMachine Learning (Deep Learning, NLP)\nDéveloppement / Déploiement d’une application\nBig Data, Cloud, DataOps\nSystème, Réseaux et Sécurité\n\n\n\n\n\n\n\nNote\n\n\nIl est préférable de travailler sur des domaines connus et ensuite d’aller plus loin.\nPlutôt que de partir directement sur des sujets trop exotiques."
-  },
-  {
-    "objectID": "doc/stage-slide.html#étapes",
-    "href": "doc/stage-slide.html#étapes",
-    "title": "Stage Master STD",
-    "section": "Étapes ⌛",
-    "text": "Étapes ⌛\n\nRecherche bibliographique\nRencontrer les acteurs (Utilisateurs, MOA, Experts…)\nProblématique\nExpériences, analyses\nMise en valeur des résultats"
-  },
-  {
-    "objectID": "doc/stage-slide.html#les-acteurs",
-    "href": "doc/stage-slide.html#les-acteurs",
-    "title": "Stage Master STD",
-    "section": "Les acteurs 🎩",
-    "text": "Les acteurs 🎩"
-  },
-  {
-    "objectID": "doc/stage-slide.html#livrables",
-    "href": "doc/stage-slide.html#livrables",
-    "title": "Stage Master STD",
-    "section": "Livrables 🚚",
-    "text": "Livrables 🚚\n\nMi-mai : Note d’étape\nFin août : Rapport final + Note de synthèse en anglais\nMi-sept : Soutenance"
-  },
-  {
-    "objectID": "doc/stage-slide.html#rapport",
-    "href": "doc/stage-slide.html#rapport",
-    "title": "Stage Master STD",
-    "section": "Rapport 📘",
-    "text": "Rapport 📘\n\n30 pages maximum hors annexes\n\n\nSuivre un cheminement logique :\n\nd’où vous partez\noù vous voulez aller\nvotre voyage\nlà ou vous êtes arrivé\n\nles nouveaux chemins qui s’ouvrent"
-  },
-  {
-    "objectID": "doc/stage-slide.html#note-de-synthèse",
-    "href": "doc/stage-slide.html#note-de-synthèse",
-    "title": "Stage Master STD",
-    "section": "Note de synthèse 💂‍♂️",
-    "text": "Note de synthèse 💂‍♂️\n\nEn anglais\n4 pages maximum"
-  },
-  {
-    "objectID": "doc/stage-slide.html#soutenance",
-    "href": "doc/stage-slide.html#soutenance",
-    "title": "Stage Master STD",
-    "section": "Soutenance 🎉",
-    "text": "Soutenance 🎉\n\nExposé : 20 min\nQuestions : 25 min\n\n\n\n\n\n\n\nNote\n\n\nLa soutenance se déroulera en présence :\n\nd’un président de jury\nde l’encadrant pédagogique de l’ENSAI\ndu maitre de stage"
-  },
-  {
-    "objectID": "doc/stage-slide.html#erreurs-à-éviter",
-    "href": "doc/stage-slide.html#erreurs-à-éviter",
-    "title": "Stage Master STD",
-    "section": "Erreurs à éviter ⚠️",
-    "text": "Erreurs à éviter ⚠️"
-  },
-  {
-    "objectID": "doc/stage-slide.html#liens-utiles",
-    "href": "doc/stage-slide.html#liens-utiles",
-    "title": "Stage Master STD",
-    "section": "Liens utiles 🔗",
-    "text": "Liens utiles 🔗\n\npass fonction publique\nOffres de stage sur Moodle"
-  },
-  {
-    "objectID": "doc/stage-slide.html#pour-terminer",
-    "href": "doc/stage-slide.html#pour-terminer",
-    "title": "Stage Master STD",
-    "section": "Pour terminer 🏁",
-    "text": "Pour terminer 🏁\n\nProduisez quelque chose dont vous êtes fier\nProduisez un travail sérieux\nCreuser les sujets qui vous paraissent interessants"
-  },
-  {
-    "objectID": "doc/stage.html",
-    "href": "doc/stage.html",
-    "title": "Stage Master STD",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Master STD",
     "section": "",
-    "text": "durée : entre 20 semaines et 6 mois\nentre le 3 mars et le 31 août"
+    "text": "Présentation aux élèves de 1ère année\nAccueil des étudiants du Master STD\n\nLes enseignements\nLe stage de Master\n\nL’INSEE\n\nLa Direction des Systèmes d’Informations de l’INSEE"
   },
   {
-    "objectID": "doc/stage.html#modalités",
-    "href": "doc/stage.html#modalités",
-    "title": "Stage Master STD",
+    "objectID": "doc/INSEE.html",
+    "href": "doc/INSEE.html",
+    "title": "Focus sur l’INSEE",
     "section": "",
-    "text": "durée : entre 20 semaines et 6 mois\nentre le 3 mars et le 31 août"
+    "text": "INSEE: Institut National de la Statistique et des Études Économiques.\nCréé en 1946, l’INSEE emploie environs 5.000 agents dont 25% de catégorie Attaché. D’autres informations sont disponibles dans les rapports d’activité annuels."
   },
   {
-    "objectID": "doc/stage.html#objectifs",
-    "href": "doc/stage.html#objectifs",
-    "title": "Stage Master STD",
-    "section": "Objectifs 🎯",
-    "text": "Objectifs 🎯\n\nMobiliser les connaissances acquises à l’ENSAI\nMise en situation professionnelle réelle\nComprendre le fonctionnement de la structure d’accueil\nTravailler au sein d’une équipe\nGagner en autonomie\nPrendre des initiatives, explorer des technologies émergentes"
+    "objectID": "doc/INSEE.html#quelques-liens",
+    "href": "doc/INSEE.html#quelques-liens",
+    "title": "Focus sur l’INSEE",
+    "section": "Quelques liens",
+    "text": "Quelques liens\n\nhttps://www.insee.fr/\nRéseau des Datascientists de la Statistique Publique (SSPHub)\n\n💡 abonnez-vous à la newletter\n\nBlog de l’INSEE\nTwitter, il existe également de nombreux fils régionaux, par exemple :\n\nInsee en région\nHauts-de-France\nBretagne\n\nhttps://statistiques-locales.insee.fr/\n\n\nRessources pédagogiques et outils interactifs\n\nDécouvrir, apprendre, enseigner\nClassement des prénoms en France depuis 1900\nPyramide des ages\nDatavisualisation des salaires\n\n\n\nVidéos\n\nChaine Youtube INSEE\n\nDe nombreuses playlists expliquent simplement différents concepts, par exemple :\n\nRessources pédagogiques\nExplique moi l’éco\n\n\nRené Carmille, un hacker sous l’Occupation\nDocumentaire sur la création en 1941 du Service National des Statistiques qui deviendra l’INSEE quelques années plus tard\n\n\n\nLes chiffres sont-ils “neutres” ?\npar NotaBene"
   },
   {
-    "objectID": "doc/stage.html#contenu",
-    "href": "doc/stage.html#contenu",
-    "title": "Stage Master STD",
-    "section": "Contenu 💎",
-    "text": "Contenu 💎\nEn lien avec les enseignements de la filière STD :\n\nMachine Learning (Deep Learning, NLP)\nDéveloppement / Déploiement d’une application\nBig Data, Cloud, DataOps\nSystème, Réseaux et Sécurité\n\n\n\n\n\n\n\nNote\n\n\n\nIl est préférable de travailler sur des domaines connus et ensuite d’aller plus loin.\nPlutôt que de partir directement sur des sujets trop exotiques.\n\n\n\nExemples de sujets de stages\n\nL’intelligence artificielle au profit de la détection de sorties de données frauduleuses\nIdentifier, analyser et prototyper une solution d’architecture pour exposer les services autour des métadonnées\nConstruction d’un moteur d’agrégation de données individuelles utilisable en interactif\nOptimisation du calcul des populations légales à travers une architecture de calcul distribué\nAutomatisation de la transformation des données individuelles pour la diﬀusion européenne\nDéveloppement d’une application mobile pour les enquêteurs\nOpenSource et Modularité à l’INSEE : Exemple avec l’implémentation d’une méthode d’échantillonage\nComment proposer une architecture conteneurisée pour répondre aux besoins de services en « self-déploiement » et d’intégration continue ?"
+    "objectID": "doc/INSEE.html#la-direction-générale-dg",
+    "href": "doc/INSEE.html#la-direction-générale-dg",
+    "title": "Focus sur l’INSEE",
+    "section": "La Direction Générale (DG)",
+    "text": "La Direction Générale (DG)\nLa majorité des missions et des agents de la DG sont à Montrouge au sud de Paris. Les agents du centre de Metz font également parti de la DG (l’établissement de Lorraine étant localisé à Nancy).\nAussi dans chacun des établissements régionaux, des agents réalisent des missions nationales. De plus en plus de travaux sont transférés depuis Montrouge vers des établissements de province.\n\nLes 7 directions\n\nSecrétariat Général\n\nLe SG intervient dans les domaines suivants :\n\nla gestion des ressources humaines, des conditions de travail,\nle pilotage des ressources financières, des moyens informatiques, immobiliers et logistiques.\n\nSource : insee.fr\n\nMots clés: RH, Budget, Communication interne, Dialogue social, Affaires juridiques et contentieuses\n\n\nDirection du Système d’Information\n\nLa DSI :\n\npilote et développe le système d’information de l’INSEE,\nen élabore la stratégie et le schéma directeur,\nen assure la sécurité,\nmet à disposition l’infrastructure informatique nécessaire au fonctionnement du système d’information.\n\nSource : insee.fr\n\nMots clés: Infrastructures, Réseaux, Sécurité, Projets informatiques, Développement, Assistance à Maîtrise d’Ouvrage, Innovation\n\n\nDirection de la Méthodologie et de la Coordination Statistique et Internationale\n\nLa DMCSI a pour mission :\n\nd’élaborer et de promouvoir les bonnes méthodes et pratiques en matière statistique,\nde mettre en place, progressivement et de manière coopérative, un cadre d’assurance qualité,\nd’organiser, au sein du service statistique public, la coordination de l’Insee et des services statistiques ministériels aux niveaux national et international,\nd’assister le directeur général dans son rôle de coordonnateur des autorités statistiques nationales au sens de la loi européenne,\nde promouvoir et d’animer l’innovation au sein du service statistique public.\n\nSource : insee.fr\n\nMots clés: Méthodes, Démarche qualité, Documentation statistique, Coordination, Sondages, Innovation, SSP Lab\n\n\nDirection des Statistiques Démographiques et Sociales\n\nLa DSDS :\n\ngère le répertoire national d’identification des personnes physiques et le fichier national des électeurs\nconçoit et élabore les statistiques et les études concernant la population, les ménages et le développement social, notamment dans les domaines suivants : démographie, emploi, revenus, patrimoines, prix à la consommation, logement et conditions de vie\nétablit les populations légales et produit les résultats statistiques du recensement aux plans national et local.\n\nSource : insee.fr\n\nMots clés: Enquêtes ménages, Études démographiques et sociales, Emploi, Démographie, Ressources et des conditions de vie, Prix à la consommation\n\n\nDirection des Statistiques d’Entreprises\n\nLa DSE coordonne l’ensemble des statistiques sur le système productif. Elle veille notamment à la mise en œuvre des obligations statistiques résultant des principaux règlements européens sur les entreprises et s’assure que tous les moyens sont mis en œuvre pour y parvenir, à l’intérieur comme à l’extérieur de la direction générale. Elle gère les répertoires d’entreprises et d’établissements (répertoire inter-administratif SIRENE et répertoire statistique SIRUS), produit les statistiques de l’industrie, du commerce et des services marchands, gère des bases de données d’entreprises. Elle construit des indicateurs conjoncturels macroéconomiques et participe à l’élaboration des comptes nationaux annuels à un niveau sectoriel détaillé.\nSource : insee.fr\n\nMots clés: Enquêtes entreprise, Répertoire SIRENE, Statistiques annuelles d’entreprise, Profilage, Synthèses sectorielles\n\n\nDirection de la Diffusion et de l’Action Régionale\n\nLa DDAR : - met à disposition de l’ensemble des utilisateurs des produits et services résultant des activités de la statistique publique de l’Insee et des autres services producteurs, - en adéquation avec les attentes des publics, elle en assure la diffusion, la promotion et la distribution, - coordonne l’offre et les activités d’étude et de diffusion des directions régionales de l’Insee : information générale, études réalisées en partenariat avec les acteurs publics en région, conseil et assistance aux décideurs régionaux et locaux.\nSource : insee.fr\n\nMots clés: Action régionale, Communication externe, Insee contact, Offre éditoriale, Diffusions internet, Open Data,\n\n\nDirection des Études et Synthèses Économiques\n\nLa DESE :\n\nélabore et analyse des informations conjoncturelles,\nen fait périodiquement la synthèse,\nproduit les comptes nationaux annuels et trimestriels,\nconçoit et fait fonctionner des modèles, notamment dans les domaines de la macroéconomie et de la protection sociale.\n\nElle réalise des études et prévisions économiques et des évaluations de politiques publiques.\nSource : insee.fr\n\nMots clés: Comptes Nationaux, Notes de Conjoncture, Economie et Statistique, Études macroéconomiques"
   },
   {
-    "objectID": "doc/stage.html#étapes",
-    "href": "doc/stage.html#étapes",
-    "title": "Stage Master STD",
-    "section": "Étapes ⌛",
-    "text": "Étapes ⌛\n\nRecherche bibliographique\nRencontrer les acteurs (Utilisateurs, MOA, Experts…)\nProblématique\nExpériences, analyses\nMise en valeur des résultats\n\n\nRéalisations attendues\nPar exemple :\n\nUn produit viable\nDes résultats d’une expérience\nUn déploiement sur la plateforme dev.insee.io"
+    "objectID": "doc/INSEE.html#les-directions-régionales-dr",
+    "href": "doc/INSEE.html#les-directions-régionales-dr",
+    "title": "Focus sur l’INSEE",
+    "section": "Les Directions Régionales (DR)",
+    "text": "Les Directions Régionales (DR)\nLes locaux de l’INSEE se situent généralement dans les préfectures des régions d’avant 2016, ainsi que dans les DOM.\nPour plus de détails sur la localisation des établissements de l’INSEE, consulter le rapport annuel d’activités de L’INSEE 2021, page 22\n\nUn peu d’histoire\nAvant 2016 et la réforme des régions, chaque préfecture de région avait sa DR de l’INSEE. Chaque DR était composée des 3 services suivants :\n\nService Administration des Ressources (SAR)\n\nRessources Humaines\nBudget, Logistique, Assistance informatique\nFormation\n\nService Statistique (SES)\n\nDivision Enquête Ménage (DEM)\nDivsion Recensement de la Population (RP)\n\nService Etude et Diffusion (SED)\n\nEtudes régionales\n\n\nChaque DR réalise également des missions de portée nationale (détaillé par la suite).\n\n\nRéorganisation suite à la fusion des régions\nAprès 2016, l’INSEE est toujours présente dans ces villes. Cependant il ne peut rester qu’une seule DR par région, ainsi les autres seront nommés Établissements. Pour les régions qui n’ont pas fusionnées, rien ne change.\nCe qui a changé :\n\nUn seul SED subsiste par région, généralement dans la plus grande ville\nChaque DR et chaque établissement conserve un SES\nLes SAR fusionnent, la majorité des agents du SAR sont à la DR même si le SAR garde des agents dans chaque établissement pour plus de proximité\n\nLa DR n’est pas toujours localisée dans la plus grande ville, exemple avec la région Nouvelle-Aquitaine :\n\nDR : Poitiers\nETAB : Bordeaux et Limoges\nLe SED est à Bordeaux\n\n\n\nLes pôles et sites\n\nDescriptions des sites et pôles extraites de l’intranet de l’INSEE\n\nDans chaque DR ou établissement, il n’y a pas uniquement des missions régionales. Voici quelques exemples de pôles et de sites aux missions nationales ou inter-régionales.\n\nSite SIRENE\nLa mission principale du site est l’immatriculation des entreprises, qui consiste à leur attribuer des numéros SIREN et SIRET et un code APE, déterminé d’après la nomenclature d’activités française (NAF). Le site traite aussi des déclarations administratives telles que des changements de dénomination, d’adresse, de catégorie juridique, d’activité…\n\nConnaître et comprendre le répertoire Sirene\nTrajectoires d’entreprise (intranet insee)\n\n\n\nSite Prix à la Consommation\n\ncollecte des relevés de prix\ncontrôle des processus de collecte\n\n\n\nSite Tourisme\n\ngère les enquêtes de fréquentation (hôtellerie et camping)\net la mise à jour du parc des hébergements (hôtels et campings)\n\n\n\nSite Réseau Enquêteurs Entreprises\n\nteste les questionnaires d’enquête préalablement au passage au comité du label\ncontact avec les entreprises nouvellement entrantes dans les échantillons avant l’envoi des premiers questionnaires\nrelance des non-répondants, notamment les entreprises dont le poids dans un échantillon est important, par téléphone ou par visite\n\n\n\nSite Gestion Financière\nSes missions principales sont d’une part de formaliser les achats et suivre la liquidation de la dépense, d’autre part d’établir les ordres de mission et les états de frais des agents, enquêteurs et superviseurs.\n\n\nSite BRPP\nIl gère la mise à jour du répertoire d’identification des personnes physiques avec des données d’état civil (naissances, décès, mariages, conclusions et dissolutions de pacs). Ce répertoire doit être l’image des registres d’état civil détenus par les mairies. L’équipe est chargée, entre autres, de contrôler la cohérence et la qualité des données, l’exhaustivité des actes transmis, de s’assurer des délais de transmission.\n\n\nPôle de Service pour l’Action Régionale (PSAR)\nLe PSAR a pour mission de fournir au réseau de l’action régionale des prestations de nature à faciliter la réalisation de synthèses et diagnostics de territoire par les directions régionales, dans le cadre du service spécifique rendu à leurs partenaires, acteurs publics du développement local.\nL’activité du PSAR relève de trois domaines qui se recoupent en partie :\n\nil produit des investissements (le principal outil développé et maintenu sous la responsabilité du Psar est le « kit synthèses locales »)\nil intervient dans le champ de la méthodologie\nil assure une fonction d’animation et de formation autour des synthèses et diagnostics de territoire.\n\nLes PSAR :\n\nPSAR Synthèses Locales (Lyon)\nPSAR Emploi-Population (Lille)\nPSAR Analyse Territoriale (Marseille)\nPSAR Études Économiques Régionales (Toulouse)"
   },
   {
-    "objectID": "doc/stage.html#les-acteurs",
-    "href": "doc/stage.html#les-acteurs",
-    "title": "Stage Master STD",
-    "section": "Les acteurs 🎩",
-    "text": "Les acteurs 🎩\n\nMaitre de stage\n\nDéfinit les objectifs\nAssure un encadrement technique\nOptimise les conditions de réalisation du stage\nFacilite l’intégration du stagiaire dans l’équipe\nAssure un suivi régulier de la progression du stagiaire\nRéalise un entretien de fin de stage\nRenseigne la grille d’évaluation\n\n\n\nRéférent pédagogique\n\nUn enseignant de l’ENSAI\nS’assure du bon déroulement du stage\nPoint d’avancement de vos travaux en Mai"
+    "objectID": "doc/INSEE.html#les-services-statistiques-ministériels-ssm",
+    "href": "doc/INSEE.html#les-services-statistiques-ministériels-ssm",
+    "title": "Focus sur l’INSEE",
+    "section": "Les Services Statistiques Ministériels (SSM)",
+    "text": "Les Services Statistiques Ministériels (SSM)\nDe très nombreux postes sont réservés aux agents de l’INSEE dans différents ministères. Voici les principaux SSM :\n\nDARES (Direction de l’Animation, de la Recherche, des Études et des Statistiques)\nDEPP (Direction de l’Évaluation, de la Prospective et de la Performance)\n\nSSM en charge des statistiques sur l’éducation\n\nDESF (Département des Études et Statistiques Fiscales)\n\nSSM de la de la DGFIP (Direction Générale des Finances Publiques)\nSSM du ministère du Travail\n\nDRESS (Direction de la Recherche, des Études, de l’Évaluation et des Statistiques)\n\nSSM chargé de la santé et des solidarités\n\nDSECE (Département des Statistiques et des Études du Commerce Extérieur)\n\nSSM chargé du commerce extérieur et des douanes\n\nDSED (Département des Statistiques, des Études et de la Documentation)\n\nSSM sur le sujet de l’Immigration et de l’Intégration\n\nMEDES (Mission des Enquêtes, Données et Études Statistiques)\n\nSSM chargé de la jeunesse et des sports\n\nSDES\n\nDREAL : (Direction Régionale de l’Environnement, de l’Aménagement et du Logement)\n\nSIES (Sous-direction des systèmes d’Information et des Études Statistiques)\n\nSSM chargé de l’enseignement supérieur et de la recherche\n\nSRISE (Services Régionaux de l’Information Statistique et Économique)\n\nDirections régionales de l’Alimentation, de l’Agriculture et de la Forêt (DRAAF)\n\nSSMSI (Service Statistique Ministériel de la Sécurité Intérieure)"
   },
   {
-    "objectID": "doc/stage.html#livrables",
-    "href": "doc/stage.html#livrables",
-    "title": "Stage Master STD",
-    "section": "Livrables 🚚",
-    "text": "Livrables 🚚\n\nMi-mai : Note d’étape\nFin août : Rapport final + Note de synthèse en anglais\nMi-sept : Soutenance\n\n\nNote d’étape\n\navant la fin du 2e mois, pour vérifier que tout va bien\nnote de 2 à 3 pages en anglais ou français\ndécrire votre mission (environnement, objectifs, résultats attendus…)\nle timing prévisionnel des différentes étapes\nméthodologies utilisées (ou qui seront mobilisées)\nétat actuel de vos travaux"
+    "objectID": "doc/INSEE.html#les-principales-enquêtes",
+    "href": "doc/INSEE.html#les-principales-enquêtes",
+    "title": "Focus sur l’INSEE",
+    "section": "Les principales enquêtes",
+    "text": "Les principales enquêtes\nVoici quelques exemples d’enquêtes réalisées auprès des ménages :\n\nEnquête Annuelle du Recensement de la population (EAR)\n\ntous les 5 ans pour les communes de moins de 10.000 habitants\nannuel pour les communes de plus de 10.000 habitants mais uniquement sur un échantillon de 8% des logements\n\nEnquête Emploi en Continu\nLoyers et Charges\nConjoncture auprès des ménages (Camme)\nStatistiques sur les Ressources et Conditions de Vie (SRCV)\nEntrée dans la vie adulte (EVA)\nTechnologie de l’Information et de la Communication (TIC)\n\n\n\n\n\n\n\nTip\n\n\n\nL’INSEE réalise également de nombreuses enquêtes auprès des entreprises."
   },
   {
-    "objectID": "doc/stage.html#rapport",
-    "href": "doc/stage.html#rapport",
-    "title": "Stage Master STD",
-    "section": "Rapport 📘",
-    "text": "Rapport 📘\n\n30 pages maximum hors annexes\n\n\nSuivre un cheminement logique :\n\nd’où vous partez\noù vous voulez aller\nvotre voyage\nlà ou vous êtes arrivé\n\nles nouveaux chemins qui s’ouvrent\n\n\n\n\nIntroduction\n\nPrésentation du contexte\nObjectifs et Enjeux\nDescription de la Mission\nProblématique\nAnnonce du plan\n\n\n\nPartie 1 : Contexte\nCommencez par décrire le contexte :\n\nDans quoi s’intègre votre travail ?\nPourquoi ce sujet est intéressant ?\nQuel est l’existant ?\nGain pour l’établissement\n\n\n\nConclusion\n\nBilan et retours d’expérience\nAnalyse Critique\nPerspectives et Projets Futurs\n\n\n\n\n\n\n\nImportant\n\n\n\nConclusion ≠ Introduction\n\n\n\n\nBibliographie\n\n\n\n\n\n\nObjectif\n\n\n\nRéalisez un état de l’art sur votre sujet.\nMontrez-nous que vous avez pris de la hauteur !\n\n\n\nDocumentations officielles\nArticles de recherche, de blog\nLivres\nConférences\n\n\n\nDémarche scientifique\nAdoptez une démarche scientifique :\n\nObservations\nFormulation d’hypothèses\nExpérimentations\nAnalyse des résultats\nConclusions\n\n\n\nEt les Stats ?\n\nNe vous forcez pas à mettre des stats si elles ne servent à rien\nPar contre, il faut savoir répondre à une question de stat lors de la soutenance"
+    "objectID": "doc/INSEE.html#les-répertoires",
+    "href": "doc/INSEE.html#les-répertoires",
+    "title": "Focus sur l’INSEE",
+    "section": "Les répertoires",
+    "text": "Les répertoires\n\nSIRENE : Entreprises privées, publiques, associations\nRNIPP : Répertoire National d’Identification des Personnes Physiques\n\nfournis le numéro de Sécurité Sociale\n\nREU : Répertoire Electoral Unique\n\npour l’inscription sur les listes électorales\n\nCOG (prononcé “coge”) : Code Officiel Géographique\nRIL : Répertoire des Immeubles Localisés"
   },
   {
-    "objectID": "doc/stage.html#note-de-synthèse",
-    "href": "doc/stage.html#note-de-synthèse",
-    "title": "Stage Master STD",
-    "section": "Note de synthèse 💂‍♂️",
-    "text": "Note de synthèse 💂‍♂️\n\nEn anglais\n4 pages maximum"
+    "objectID": "doc/examen-analyste.html",
+    "href": "doc/examen-analyste.html",
+    "title": "Examen d’Analyste",
+    "section": "",
+    "text": "Cet examen permet de valider vos connaissances dans le domaine du traitement de l’information. Sa réussite vous confére la qualification d’Analyste-développeur à vie.\nCette qualification vous permet :\n\nd’obtenir une prime supplémentaire mensuelle si vous êtes affecté sur un poste informatique\nd’accéder aux qualifications PSE et Chef de projet\n\nIl y a 2 épreuves à réussir (note ≥ 10) pour obtenir la qualification :\n\népreuve écrite : étude d’un cas d’automatisation + dossier technique\népreuve orale : présentation d’un sujet tiré au sort, puis questions du jury"
   },
   {
-    "objectID": "doc/stage.html#soutenance",
-    "href": "doc/stage.html#soutenance",
-    "title": "Stage Master STD",
-    "section": "Soutenance 🎉",
-    "text": "Soutenance 🎉\n\nExposé : 20 min\nQuestions : 25 min\n\n\n\n\n\n\n\nNote\n\n\n\nLa soutenance se déroulera en présence :\n\nd’un président de jury\nde l’encadrant pédagogique de l’ENSAI\ndu maitre de stage"
+    "objectID": "doc/examen-analyste.html#présentation",
+    "href": "doc/examen-analyste.html#présentation",
+    "title": "Examen d’Analyste",
+    "section": "",
+    "text": "Cet examen permet de valider vos connaissances dans le domaine du traitement de l’information. Sa réussite vous confére la qualification d’Analyste-développeur à vie.\nCette qualification vous permet :\n\nd’obtenir une prime supplémentaire mensuelle si vous êtes affecté sur un poste informatique\nd’accéder aux qualifications PSE et Chef de projet\n\nIl y a 2 épreuves à réussir (note ≥ 10) pour obtenir la qualification :\n\népreuve écrite : étude d’un cas d’automatisation + dossier technique\népreuve orale : présentation d’un sujet tiré au sort, puis questions du jury"
   },
   {
-    "objectID": "doc/stage.html#erreurs-à-éviter",
-    "href": "doc/stage.html#erreurs-à-éviter",
-    "title": "Stage Master STD",
-    "section": "Erreurs à éviter ⚠️",
-    "text": "Erreurs à éviter ⚠️\n\nErreur 1 : ne pas alerter\nN’attendez pas la note d’étape et encore moins le dernier mois pour dire que ça ne va pas !\n\nDiscutez avec votre tuteur\nContactez votre référent ENSAI\n\n\n\nErreur 2 : Ignorer le métier\n\n\n\n\n\n\nImportant\n\n\n\nUn développeur rend service à des utilisateurs.\nIl faut donc apprendre le contexte métier dans lequel vous travaillez.\n\n\n\n\nErreur 3 : Contexte INSEE\nTrop faible connaissance du contexte INSEE (ou de la structure d’accueil)\nSolutions :\n\nDiscuter avec les développeurs\nS’abonner aux canaux actifs sur Tchap\nAller aux dev’académy, séminaires de développement…\n\n\n\nErreur 4 : négliger le rapport\n\nRespectez le format attendu\nDonnez des titres informatifs à vos parties\nRELISEZ-LE !!!!!\n\n\n\n\n\n\n\nLes figures\n\n\n\nLes figures doivent être propres, lisibles avec un titre et une source.\nSi vous utilisez une image, vérifiez qu’elle est libre de droits.\n\n\n\n\n\n\n\n\n\nErreurs à ne pas faire\n\n\n\n\nRédiger son rapport une fois le stage terminé\nUtiliser “on” et la forme passive (ex : “on voit que”)\nInsérer des figures sans aucune explication\n\n\n\n\n\nMise en valeur\nVous n’arrivez pas à montrer ce que vous avez fait :\n\nManque de hauteur : vous utilisez des outils sans les comprendre\nManque de technique : vous ne connaissez pas des notions de base\n\n\n\nStage “prise de poste”\n\n\n\n\n\n\nVous devez réaliser un stage de niveau Master 2 sur un sujet bien précis.\nLe but n’est pas que vous découvriez votre futur environnement de travail et appreniez à être opérationnel sur votre futur poste.\nCe n’est pas interdit mais cela pourrait vous pénaliser.\nLe but lorsque vous intégrez une équipe n’est pas de vous conformer à son mode de fonctionnement sans avoir un esprit critique. Vous êtes jeunes et plein d’énergie, vous devez apporter de nouvelles pratiques et techniques."
+    "objectID": "doc/examen-analyste.html#liens",
+    "href": "doc/examen-analyste.html#liens",
+    "title": "Examen d’Analyste",
+    "section": "Liens",
+    "text": "Liens\n\nPage examen (Calendrier, infos, annales, rapports du jury…)\nInscription"
   },
   {
-    "objectID": "doc/stage.html#liens-utiles",
-    "href": "doc/stage.html#liens-utiles",
-    "title": "Stage Master STD",
-    "section": "Liens utiles 🔗",
-    "text": "Liens utiles 🔗\n\npass fonction publique\nOffres de stage sur Moodle"
+    "objectID": "doc/examen-analyste.html#contacts",
+    "href": "doc/examen-analyste.html#contacts",
+    "title": "Examen d’Analyste",
+    "section": "Contacts",
+    "text": "Contacts\n\n\n\nContact\nRôle\n\n\n\n\nBLOCH Fabrice\nCorrespondant INSEE\n\n\nBOURDIN Marion\nIGPDE - Chargée de formation cycle analyste\n\n\nDENEUVILLE Ludovic\nENSAI - Responsable Master STD\n\n\nDUCHESNE Aurélie\nENSAI - Organisatrice de la formation"
   },
   {
-    "objectID": "doc/stage.html#pour-terminer",
-    "href": "doc/stage.html#pour-terminer",
-    "title": "Stage Master STD",
-    "section": "Pour terminer 🏁",
-    "text": "Pour terminer 🏁\n\nProduisez quelque chose dont vous êtes fier\nProduisez un travail sérieux\nCreuser les sujets qui vous paraissent interessants"
+    "objectID": "doc/examen-analyste.html#formateurs",
+    "href": "doc/examen-analyste.html#formateurs",
+    "title": "Examen d’Analyste",
+    "section": "Formateurs",
+    "text": "Formateurs\n\n\n\nFormateur\nMatière\n\n\n\n\nKOUAME Sonia\nPréparation à l’examen écrit\n\n\nBROSSARD Xavier\nGestion de projet\n\n\nMSELLEK Nadia\nGestion de projet\n\n\nAALIOUI Bilal"
+  },
+  {
+    "objectID": "doc/examen-analyste.html#examens-blancs",
+    "href": "doc/examen-analyste.html#examens-blancs",
+    "title": "Examen d’Analyste",
+    "section": "Examens blancs",
+    "text": "Examens blancs\n\nÉcrits\n\n\n\n\n\n\nImportant\n\n\n\n\nDébut : 10h\nFin : 16h\n\nVous n’avez le droit à aucun document. Calculatrice de l’école autorisée.\nEn cas de sortie temporaire de la salle, vous serez toujours accompagné.\nVous pouvez apporter à manger (évitez les chips).\n\n\nL’IGPDE fournit les sujets et corrige les copies\n\nExamen Blanc n°1 du 15/09/24\nExamen Blanc n°2 du 18/10/24\nExamen Blanc n°3 du 15/11/24\nExamen Blanc n°4 du 13/12/24\n\n\n\nOraux\nLes oraux blancs ont lieu en présentiel à l’IGPDE :\n\n\n\n\n\n\nNoteAdresse et Trajet\n\n\n\nIGPDE\n20, allée Georges Pompidou\n94300 VINCENNES\n\nRER A (Vincennes) ou Metro 1 (Château de Vincennes)\nDepuis Montparnasse (40 min)\n\nMétro 4 ➡️ Chatelet Les Halles ➡️ RER A\n\n\n\n\n\nOral Blanc n°1 du 04/12/24\nOral Blanc n°2 du 27/01/25\nOral Blanc n°3 du 19/02/25\n\n\n\n\n\n\n\nTip\n\n\n\n\nPrésenter convocation + une pièce d’identité pour accéder au batiment\nRestaurant administratif dans le batiment ouvert de 11h45 à 14h00 (présenter convocation pour avoir un tarif réduit)\nEspace convivialité au 3ème étage, cafétéria au rdc, centre de documentation au 4ème étage\n\n\n\n\nDéroulement d’un oral\n\nTirage au sort des sujets\n\nBureau 7120 (Christine Gaillard et Marion Bourdin)\n5 minutes avant le début de votre préparation (ex : 8h55 si début à 9h)\n\nPréparation de votre présentation\n\nà la salle indiquée sur le planning\ndurée : 30 minutes\nDu brouillon est à disposition. Pensez à prendre une montre ou un chronométre\n\nPassage devant le jury + débriefing :\n\nSalle indiquée sur les plannings\n10 minutes de présentation (bien respecter le temps imparti !)\n20 minutes de questions-réponses\n\n20 minutes de débriefing"
+  },
+  {
+    "objectID": "doc/examen-analyste.html#examen",
+    "href": "doc/examen-analyste.html#examen",
+    "title": "Examen d’Analyste",
+    "section": "Examen",
+    "text": "Examen\nChaque année, 2 sessions d’examen sont programmées.\n\nCalendrier 2025\n\n1ere session\n\n\n\nOuverture des inscriptions\n10/10/2024\n\n\nClôture des inscriptions\n14/11/2024\n\n\nÉpreuve écrite\n16/01/2025 9h45 - 15h45\n\n\nRésultats Admissibilité\n13/02/2025\n\n\nÉpreuve orale\nÀ partir du 10/03/2025\n\n\n\nHistorique des dates des épreuves écrites :\n\nJeudi 15/01/2026 9h30-15h30\nJeudi 16/01/2025 9h45-15h45\nJeudi 11/01/2024 10h00-16h00\nJeudi 12/01/2023 10h00-16h00\n\n\n\n2e session\n🚧\n\n\n\nÉcrit\n\n\n\n\n\n\nNoteAdresse et Trajet\n\n\n\nCentrex\n2 Rue de la Butte Verte\n93160 NOISY-LE-GRAND\n\nRER A Noisy-Champs\nDepuis Montparnasse (50min)\n\nMétro 4 ➡️ Chatelet Les Halles ➡️ RER A ➡️ Noisy Champs\n\n\n\n\n\n\nOral\n\n\n\n\n\n\nNoteAdresse et Trajet\n\n\n\nImmeuble Atrium\nPlace des Vins-de-France\n75573 PARIS"
+  },
+  {
+    "objectID": "doc/examen-analyste.html#semaine-à-la-dg",
+    "href": "doc/examen-analyste.html#semaine-à-la-dg",
+    "title": "Examen d’Analyste",
+    "section": "Semaine à la DG",
+    "text": "Semaine à la DG\n🚧\nDu 17/02/25 au 21/02/25\n\n\n\n\n\n\nNoteProgramme 2023-2024\n\n\n\n\nLundi 12/02: préparation à l’oral J1 [Bilal Aalioui et Nadia Msellek]\nMardi 13/02 : l’informatique ministérielle et interministérielle [Bilal aalioui et Nadia Msellek]\nMercredi 14/02 : Oraux Blancs n°3 à l’IGPDE\nJeudi 15/02 : préparation à l’oral J2 [Bilal Aalioui et Nadia Msellek]\nVendredi 16/02 : days of chaos [Armelle Koehl Donatien Eneman]"
+  },
+  {
+    "objectID": "doc/examen-analyste.html#missions",
+    "href": "doc/examen-analyste.html#missions",
+    "title": "Examen d’Analyste",
+    "section": "Missions",
+    "text": "Missions\n\n\n\n\n\n\nCaution\n\n\n\nVous aurez 2 types de missions différents qui ne donnent pas lieu aux mêmes prises en charge :\n\nformation (oraux blanc, semaine DG) ➡️ tous les frais sont pris en charge : transport, repas, nuitées\nconcours / examens (examens écrit et oral) ➡️ seul le transport aller/retour est remboursé par l’ENSAI\n\n\n\n\nOrdre de Mission\nAvant de partir en mission, il est impératif d’être couvert par un Ordre de Mission (OM).\nPour obtenir cet OM, vous devez préalablement remplir une demande d'OM, au plus tard 10 jours avant le début de la mission. Cette fiche liste tous les élèments permettant de définir la mission :\n\nNom, prénom, tél, mail\nLieu de départ, dates de départ et de retour\nMotif, lieu et durée de la mission\n\nil faut joindre un justificatif de mission (convocation, justificatif d’inscription…)\n\nDétailler les trajets pour se rendre sur le lieu de la mission (pas besoin de détailler métro, rer, bus)\nSigner, et faire signer par la direction des études ET le secrétariat général\n\nUne fois que tout est bien rempli, vous pouvez envoyer votre demande d’OM et la convocation sur la boite fonctionnelle mission.\n\n\n\n\n\n\nImportantCochez les bonnes cases\n\n\n\nVous avez 2 possibilités pour vos billets de train :\n\nVous achetez vous-même les billets et demanderez ensuite le remboursement\n\n\nBillet à commander : NON\nBillet à rembourser : OUI\n\n\nVous demander à l’ENSAI de commander vos billets\n\n\nBillet à commander : OUI\nBillet à rembourser : NON\ndans ce cas, votre demande d’OM doit arriver au minimum 15 jours avant le début de la mission\n\nCochez la case Metro / RER / Bus si nécessaire pour votre trajet.\n\n\n\n\nRemboursement de frais\nIl est important de demander et conserver tous les justificatifs originaux de frais (ticket repas, ticket métro, facture hôtel…).\nA votre retour de mission, envoyez sans tarder le tout aux gestionnaires.\n\nRepas\n\nSi arrivée la veille : repas du soir : 20€\nLe midi :\n\n10€ si repas dans un restaurant administratif\n20€ si repas à l’extérieur\n\nSi retour de mission après 20h, repas du soir : 20€"
+  },
+  {
+    "objectID": "doc/cours.html",
+    "href": "doc/cours.html",
+    "title": "Cours",
+    "section": "",
+    "text": "Le programme complet est consultable sur la page du Master Statistique des Données pour la Décision Publique du site de l’ENSAI."
+  },
+  {
+    "objectID": "doc/cours.html#ue1-machine-learning",
+    "href": "doc/cours.html#ue1-machine-learning",
+    "title": "Cours",
+    "section": "1 UE1 Machine Learning",
+    "text": "1 UE1 Machine Learning\n\n1.1 Apprentissage statistique (Machine Learning)\n\n\n\nEnseignant\nSébastien Da Veiga\n\n\nCours\n18h\n\n\nAteliers\n12h\n\n\nLangue\nAnglais (cours) et Français (ateliers)\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\n\nModèles Linéaires : Régression et classification, techniques de pénalisation.\nMéthodes Locales : Approches basées sur la proximité des données.\nSVM (Support Vector Machine) : Modèle pour la classification et la régression avec le kernel trick.\nForêts d’arbres décisionnels (Random Forest) : Méthode d’ensemble pour améliorer la précision des prédictions.\nComparaison Empirique des Modèles : Techniques pour évaluer et comparer empiriquement la performance des modèles pour des tâches spécifiques.\n\n\n\n\n\n1.2 Apprentissage profond (Deep Learning)\n\n\n\nEnseignant\nIkko Yamane\n\n\nCours\n24h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\n\nPrincipe des réseaux de neurones\nPropriétés des réseaux de neurones simples\nDescente de gradient\nRéseaux de neurones profonds\n\n\n\n\n\n1.3 Webmining et Traitement du langage\n\n\n\nEnseignant\nGuillaume Gravier (Irisa)\n\n\nCours\n9h\n\n\nAtelier\n12h\n\n\nLangue\nAnglais\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\n\nCollecter des données\nExtraire de l’information et apparier des sources textuelles\nClassification, Analyse de sentiment\nModèles d’étude de la langue"
+  },
+  {
+    "objectID": "doc/cours.html#ue2-développement-dapplication-et-dataops",
+    "href": "doc/cours.html#ue2-développement-dapplication-et-dataops",
+    "title": "Cours",
+    "section": "2 UE2 Développement d’application et DataOps",
+    "text": "2 UE2 Développement d’application et DataOps\n\n2.1 Génie Logiciel\n\n\n\n\n\n\n\nEnseignants\nDjamel Eddine KHELLADI et Alban GRÉAU\n\n\nCours\n24h\n\n\nAtelier\n24h\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\n\nPatrons de conception, Bonnes pratiques\nContenerisation et Orchestration\nTests, TDD, Couverture de tests\nCICD\nJava - Maven - Spring Boot - JPA - Hibernate\nCloud avec AWS (s3, RDS, Elastic Beanstalk)\n\n\n\nCours de Rémi (2023)\n\n\n2.2 Développement Web\nLes élèves doivent choisir entre ce cours et celui de DataOps.\n\n\n\n\n\n\n\nEnseignant\nOlivier Chantrel\n\n\nCours\n12h\n\n\nAtelier\n15h\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\n\nXML, DOM, SAX\nWeb, HTML, CSS, Bootstrap\nPHP, MySQL, MariaDB\nAJAX, JavaScript (Angular, React, Vue.JS)\n\n\n\n\n\n2.3 DataOps\nLes élèves doivent choisir entre ce cours et celui de Développement Web.\n\n\n\nEnseignant\nChristophe Blefari\n\n\nCours\n27h\n\n\nLangue\nAnglais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\n\nDataOps, MLOps et DevOps\nAWS Cloud platform\nInfrastructure as Code\nCI/CD\nDocker, Kubernetes\nData pipelines et data observability"
+  },
+  {
+    "objectID": "doc/cours.html#ue3-big-data",
+    "href": "doc/cours.html#ue3-big-data",
+    "title": "Cours",
+    "section": "3 UE3 Big Data",
+    "text": "3 UE3 Big Data\n\n3.1 Technologies NOSQL et Cloud\n\n\n\nEnseignant\nShadi Ibrahim\n\n\nCours\n30h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\n\nSQL et NoSQL\nSystème de fichiers distribué avec HDFS\nTraitement distribué avec Hadoop MapReduce\nVirtualisation et conteneurisation\nDynamoDB, Google BigTable, MongoDB, Neo4J\n\n\n\n\n\n3.2 Indexation Web\n\n\n\nEnseignant\nLara Perinetti\n\n\nCours\n9h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\nCe cours couvre la collecte d’informations web, l’Information Retrieval, la constitution et l’organisation de corpus, et l’utilisation de l’algorithme PageRank. Les élèves apprendront des techniques de classification de documents textuels et d’opinion mining, incluant l’analyse de sentiments et l’évaluation de modèles.\n\nInformation Retrieval :\n\nConcepts : tf-idf, stemming, Regex, kmeans.\nPratique : Construction de term-document matrix, utilisation de PageRank.\n\nOpinion Mining :\n\nConcepts : Sentiment analysis, annotation syntaxique.\nPratique : Constitution de corpus, annotation et classification de textes.\n\n\n\n\n\n\n3.3 Publication de données respectueuses\n\n\n\nEnseignant\nTristan Allard et Julien Jamme\n\n\nCours\n9h\n\n\nLangue\nFrançais\n\n\nCommun avec les ID\nOui\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\nLa publication de données respectueuses de la vie privée est essentielle pour permettre des analyses de données tout en protégeant les informations personnelles :\n\nMéthodes de Partitionnement : Techniques comme le k-anonymat et la l-diversité sont précieuses mais ont des limites.\nConfidentialité Différentielle : Aujourd’hui la norme de référence, elle offre des garanties formelles grâce à des techniques de perturbation des données.\nVulnérabilités : Les schémas de publication restent vulnérables à des attaques telles que la ré-identification et l’inférence de membership.\nDéfis Complexes : Les données personnelles posent des défis en matière de confidentialité, nécessitant des améliorations continues des techniques de protection.\nÉvolution Historique : Comprendre l’évolution des méthodes aide à mieux appréhender les approches modernes.\nCycle Sans Fin : La lutte pour la protection de la vie privée est un cycle sans fin, exigeant vigilance et innovation constantes."
+  },
+  {
+    "objectID": "doc/cours.html#ue4-système-et-réseaux",
+    "href": "doc/cours.html#ue4-système-et-réseaux",
+    "title": "Cours",
+    "section": "4 UE4 Système et Réseaux",
+    "text": "4 UE4 Système et Réseaux\n\n4.1 Initiation à Unix\n\n\n\nEnseignant\nSébastien Le Corre\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\n\nIntroduction à GNU/Linux : Familiarisation avec le système d’exploitation GNU/Linux, son histoire et ses principes fondamentaux.\nInstallation d’une distribution : Étapes pour installer une distribution GNU/Linux sur un système.\nLe shell : Utilisation et manipulation du shell (interpréteur de commandes) pour exécuter des tâches et automatiser des processus.\nUtilisateurs, groupes, permissions : Gestion des utilisateurs, des groupes et des permissions pour sécuriser l’accès aux fichiers et aux ressources système.\nLa gestion des paquets : Méthodes pour installer, mettre à jour et supprimer des logiciels via les gestionnaires de paquets de GNU/Linux.\nLa gestion du réseau : Configuration et gestion des paramètres réseau, y compris la connexion, la configuration IP et la résolution de noms.\nMéthodes de dépannage : Techniques et outils pour diagnostiquer et résoudre les problèmes courants rencontrés dans un environnement GNU/Linux.\n\n\n\n\n\n4.2 Réseaux et Systèmes d’exploitation\n\n\n\nEnseignant\nThomas Correge\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\n\nGestion des Ressources par les OS : Exploration des mécanismes par lesquels les systèmes d’exploitation gèrent le matériel et les ressources logicielles.\nProcessus et Multithreading : Étude des processus, leur création, gestion et synchronisation, ainsi que l’utilisation efficace du multithreading pour améliorer les performances des applications.\nTopologies et Technologies Réseau : Analyse des différentes architectures réseau, telles que LAN, WAN, et des technologies sous-jacentes comme Ethernet, WiFi, et leurs implications.\nModèles en Couches : Compréhension des modèles OSI (Open Systems Interconnection) et TCP/IP, et comment ces modèles organisent les communications réseau.\nConcepts de Sécurité : Introduction aux concepts de DMZ (Zone Démilitarisée), pare-feu et proxy pour sécuriser les réseaux, ainsi qu’une sensibilisation aux risques liés à la sécurité informatique.\n\n\n\n\n\n4.3 Systèmes répartis\n\n\n\nEnseignant\nDavid Gross-Amblard\n\n\nCours\n15h\n\n\nAteliers\n6h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\nCe cours approfondit les architectures distribuées à l’échelle mondiale, avec une focalisation sur les grilles, les systèmes peer-to-peer (P2P) et le cloud. Les objectifs incluent la compréhension des concepts fondamentaux tels que la synchronisation et l’exclusion mutuelle, ainsi que l’étude des algorithmes associés à chaque type d’architecture.\n\nIntroduction aux Architectures Distribuées : Exploration des différentes architectures réparties.\nConcepts Fondamentaux : Synchronisation, exclusion mutuelle, et autres concepts clés.\nApproches Centralisées et Semi-centralisées : Étude du cloud computing et des grilles.\nApproches Décentralisées : Analyse des systèmes P2P structurés, non-structurés et hybrides.\nApplications Pratiques : Utilisation dans les systèmes de partage de fichiers et les protocoles épidémiques.\n\n\n\n\n\n4.4 Sécurité des données\n\n\n\nEnseignant\nDavid Gross-Amblard\n\n\nCours\n9h\n\n\nAteliers\n9h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\nCe cours explore les principes fondamentaux de la sécurité informatique, en mettant l’accent sur la protection des données dans un contexte d’actualité dynamique marqué par des attaques spectaculaires et l’évolution des législations. La cryptographie est présentée comme un outil essentiel pour prévenir la divulgation, la modification et l’accès non autorisé aux données.\n\nIntroduction à la Sécurité : Analyse des besoins et des menaces en matière de sécurité informatique.\nCryptography :\n\nCryptographies à clés secrètes et publiques.\nProtocoles cryptographiques pour assurer la confidentialité, l’intégrité, la signature et l’authentification des données.\n\nSystèmes Utilisateurs :\n\nApplications Web et sécurité.\nSécurité des transactions par carte bancaire.\nSécurité des applications réseau."
+  },
+  {
+    "objectID": "doc/cours.html#ue5-formation-analyste",
+    "href": "doc/cours.html#ue5-formation-analyste",
+    "title": "Cours",
+    "section": "5 UE5 Formation Analyste",
+    "text": "5 UE5 Formation Analyste\n\n5.1 Gestion de projet\n\n\n5.2 Gestion de Projet Informatique\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\nCe cours explore la gestion de projet dans le domaine des systèmes d’information, en couvrant le cycle de vie d’une application, les acteurs impliqués et leurs rôles respectifs. Il inclut également la conduite du changement, la comitologie pour la prise de décision, ainsi que la gestion de la qualité et l’adoption des méthodes agiles.\n\nCycle de Vie d’une Application : Phases de développement, de déploiement et de maintenance.\nActeurs et Rôles : Responsabilités des développeurs, chefs de projet, utilisateurs finaux et autres parties prenantes.\nConduite du Changement : Stratégies pour gérer les résistances et faciliter l’adoption des nouvelles technologies.\nComitologie : Structures décisionnelles et processus de gouvernance dans les projets informatiques.\nQualité : Normes de qualité, assurance qualité et contrôle qualité.\nMéthodes Agiles : Approches itératives et adaptatives pour la gestion de projet, telles que Scrum et Kanban.\n\n\n\n\n\n5.3 Architecture informatique\n\n\n\nEnseignant\nNicolas Duffour\n\n\nCours\n24h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\nCe cours vise à familiariser les étudiants avec les principes d’architecture informatique de pointe. Les objectifs incluent la préparation aux épreuves écrites et orales de l’examen, en développant une compréhension approfondie des architectures physique, technique, applicative et logique.\n\nArchitecture : Exploration des dimensions physique, technique, applicative et logique.\nSécurité : Concepts essentiels pour garantir la protection des systèmes informatiques.\nTransformation Numérique : Impact du cloud computing, du big data et de l’intelligence artificielle sur l’architecture informatique moderne.\n\n\n\n\n\n5.4 Environnement informatique ministériel et interministériel\n\n\n\nEnseignant\nSophie Ronfle\n\n\nCours\n18h\n\n\nLangue\nFrançais\n\n\n\n\n\n\n\n\n\nNoteContenu du cours\n\n\n\nCe cours présente les cadres juridiques essentiels tels que la Loi Informatique et Libertés (LIL), le Règlement Général sur la Protection des Données (RGPD), et le droit d’auteur. Les étudiants apprendront les définitions et les implications des données personnelles, y compris l’adresse IP, ainsi que les droits et obligations des individus et des responsables de traitement. La régulation des cookies et traceurs selon le règlement ePrivacy, le rôle de la Commission Nationale Informatique et Liberté (CNIL), et l’évolution vers le Délégué à la Protection des Données (DPO) seront également abordés. Enfin, le cours couvre l’encadrement juridique de l’utilisation des outils informatiques dans les sphères privée et professionnelle."
+  },
+  {
+    "objectID": "doc/cours.html#ue6-formation-avancée-à-lexamen-danalyste",
+    "href": "doc/cours.html#ue6-formation-avancée-à-lexamen-danalyste",
+    "title": "Cours",
+    "section": "6 UE6 Formation avancée à l’examen d’analyste",
+    "text": "6 UE6 Formation avancée à l’examen d’analyste\n\n6.1 Préparation à l’écrit\n\n\n6.2 Préparation à l’oral\n\n\n6.3 Anglais"
+  },
+  {
+    "objectID": "doc/cours.html#ue7-stage",
+    "href": "doc/cours.html#ue7-stage",
+    "title": "Cours",
+    "section": "7 UE7 Stage",
+    "text": "7 UE7 Stage"
+  },
+  {
+    "objectID": "doc/presentation.html#sommaire",
+    "href": "doc/presentation.html#sommaire",
+    "title": "Présentation Master STD",
+    "section": "Sommaire",
+    "text": "Sommaire\n\nLa DSI de l’INSEE\nMatières étudiées à l’ENSAI\nTechnologies\nDevOps\n\n\n\nAlgo d’affectation (notes 1A et S1 2A)\nPas de quotas\nÊtre admis en 3A ≠ avoir le diplôme\nStage : à faire sérieusement\nAbsences non justifiées :\n\nretenues sur salaire systématiques\npas de validation d’UE en CER\n\nINSEE : petit monde\n\naccés intranet ?"
+  },
+  {
+    "objectID": "doc/presentation.html#but-de-linformatique",
+    "href": "doc/presentation.html#but-de-linformatique",
+    "title": "Présentation Master STD",
+    "section": "But de l’informatique",
+    "text": "But de l’informatique\n\n\n\n\n\n\nImportant\n\n\n\nAméliorer l’efficacité\nGérer et protéger des données\nRépondre à des besoins métier\n\n\n\n\n\n\nAu service des utilisateurs\n\nRépondre à des besoins, les conseiller\n\nSupprimer des tâches sans valeur ajoutée"
+  },
+  {
+    "objectID": "doc/presentation.html#dsi-de-linsee",
+    "href": "doc/presentation.html#dsi-de-linsee",
+    "title": "Présentation Master STD",
+    "section": "DSI de l’INSEE",
+    "text": "DSI de l’INSEE\n\nDéveloppement d’applications\nProduction, Infrastructure, Architecture, Réseaux\nSécurité, Stratégie\nInnovation, État de l’art\n\n\n\nWEB4G : insee.fr\nRESIL : répertoire Statistique des Individus et des Logements\nSIRENE : répertoire d’entreprises\nNAUTILE : tirage d’échantillon\nMETALLICA : enquêtes ménages (conception, suivi, collecte)\n\nplus de 100 applications (gestion de répertoire, intégration de fichiers, organisation, outils internes)"
+  },
+  {
+    "objectID": "doc/presentation.html#dsi-de-linsee-1",
+    "href": "doc/presentation.html#dsi-de-linsee-1",
+    "title": "Présentation Master STD",
+    "section": "DSI de l’INSEE",
+    "text": "DSI de l’INSEE\n\nEffectifs 2022 : 428\n\neffectifs INSEE 2022 : 5027\n240 développeurs et développeuses\n\nParis, Nantes, Lille, Orléans, Metz…\n\n\nPlus d’hommes que de femmes mais elles sont souvent très motivées, efficaces.\nPas là pour enfiler des perles"
+  },
+  {
+    "objectID": "doc/presentation.html#exemple-de-métiers-à-linsee",
+    "href": "doc/presentation.html#exemple-de-métiers-à-linsee",
+    "title": "Présentation Master STD",
+    "section": "Exemple de métiers à l’INSEE",
+    "text": "Exemple de métiers à l’INSEE\n\nAnalyste développeur\nChef de projet informatique\nArchitecte applicatif\nAnalyste Sécurité"
+  },
+  {
+    "objectID": "doc/presentation.html#domaines-étudiés-en-std",
+    "href": "doc/presentation.html#domaines-étudiés-en-std",
+    "title": "Présentation Master STD",
+    "section": "Domaines étudiés en STD",
+    "text": "Domaines étudiés en STD\n\nGénie Logiciel, DevOps\nBig Data, Cloud\nSystème, Réseaux, Sécurité, Linux\nMachine Learning\nGestion de projet\n\n\n🎯 avoir une culture informatique\nIntervenants venant du monde professionnel\nExamen Analyste"
+  },
+  {
+    "objectID": "doc/presentation.html#technologies-clés",
+    "href": "doc/presentation.html#technologies-clés",
+    "title": "Présentation Master STD",
+    "section": "Technologies clés",
+    "text": "Technologies clés\n\nJava : back\n\nPython : ça arrive…\n\nJavaScript React : front\nGit, GitLab, GitHub\nCI/CD, Qualimétrie\nDocker, Kubernetes : Conteneurisation, Orchestration\n\n\nAvant tout ça :\n\ncoder sur sa machine\nlancer les tests\ncréer un zip\nse connecter au serveur de dev, arrêter\ndéposer le zip, redémarrer\n\nça marche sur ma machine et pas sur le serveur…"
+  },
+  {
+    "objectID": "doc/presentation.html#devops-à-linsee",
+    "href": "doc/presentation.html#devops-à-linsee",
+    "title": "Présentation Master STD",
+    "section": "DevOps à l’Insee",
+    "text": "DevOps à l’Insee\n\nInitiée par la DSI en 2021\nAller plus loin que SCRUM\n\naugmenter le rythme des déploiements\n\n\n\nMéthodes agiles applicables aussi aux projets stats"
+  },
+  {
+    "objectID": "doc/presentation.html#devops-à-linsee-1",
+    "href": "doc/presentation.html#devops-à-linsee-1",
+    "title": "Présentation Master STD",
+    "section": "DevOps à l’Insee",
+    "text": "DevOps à l’Insee\n\nFluidifier les interactions entre développeurs (dev) et exploitants (ops)\nAutomatiser le processus de mise en production\n\nCI/CD, Conteneurisation\n\nTests automatisés pour contrôler\nOutils d’observations de la prod aux développeurs\n\n\nDashboard"
+  },
+  {
+    "objectID": "doc/presentation.html#dataops",
+    "href": "doc/presentation.html#dataops",
+    "title": "Présentation Master STD",
+    "section": "DataOps",
+    "text": "DataOps\n\nFluidifier le lien entre :\n\nGestionnaires de données\nConsommateurs de données"
+  },
+  {
+    "objectID": "doc/presentation.html#conclusion",
+    "href": "doc/presentation.html#conclusion",
+    "title": "Présentation Master STD",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nUn poste à l’info est un vrai plus\nInnovation, Dynamique\nCommunauté très active\nPas besoin d’être un crack en informatique\nVision globale de ce que fait l’INSEE\n\n\nConfettis : press C"
   }
 ]

@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-befe23ebd2f54d8af2c8a89d1a1611f1.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.34">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.9.36">
 
   <meta name="author" content="Ludovic Deneuville">
   <title>Master STD – Stage Master STD</title>
@@ -17,6 +17,9 @@
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -29,7 +32,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-0c8acc74dca0c2faaedea4940f202713.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-84b150702567ae7e15cad124fb9039e2.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -144,7 +147,7 @@ Ludovic Deneuville
 <h2>Modalités <span class="emoji" data-emoji="memo">📝</span></h2>
 <ul>
 <li>durée : entre 20 semaines et 6 mois</li>
-<li>entre le 3 mars et le 31 août</li>
+<li>entre le 16 mars et le 31 août</li>
 </ul>
 </section>
 
@@ -198,6 +201,24 @@ Ludovic Deneuville
 <li>Comment proposer une architecture conteneurisée pour répondre aux besoins de services en « self-déploiement » et d’intégration continue ?</li>
 </ul>
 </section></section>
+<section id="sujet" class="title-slide slide level2 smaller center">
+<h2>Sujet</h2>
+<p>Une offre ou un sujet de stage devra contenir les éléments suivants :</p>
+<ul>
+<li>Contexte, description de la structure, de l’équipe d’accueil</li>
+<li>Objectifs, missions, problématique, méthodologie
+<ul>
+<li>Dans quel but, pourquoi c’est intéressant, à quoi cela va servir</li>
+</ul></li>
+<li>Technologies, outils utilisés</li>
+<li>Connaissances et aptitudes recherchées</li>
+<li>Quelles données sont utilisées</li>
+<li>Quels sont les livrables attendus</li>
+<li>Durée ou date de début et de fin</li>
+<li>Maitre de stage</li>
+</ul>
+</section>
+
 <section>
 <section id="étapes" class="title-slide slide level2 center">
 <h2>Étapes <span class="emoji" data-emoji="hourglass">⌛</span></h2>
@@ -747,7 +768,7 @@ Ludovic Deneuville
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -821,13 +842,14 @@ Ludovic Deneuville
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy
