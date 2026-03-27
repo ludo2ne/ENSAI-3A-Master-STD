@@ -22,7 +22,7 @@ from: markdown+emoji
 ## Modalités :memo:
 
 - durée : entre 20 semaines et 6 mois
-- entre le 3 mars et le 31 août
+- entre le 16 mars et le 31 août
 
 
 ## Objectifs :dart: 
@@ -55,13 +55,28 @@ Plutôt que de partir directement sur des sujets trop exotiques.
 ### Exemples de sujets de stages {.smaller}
 
 - L'intelligence artificielle au profit de la détection de sorties de données frauduleuses
-- Identifier, analyser et prototyper une solution d’architecture pour exposer les services autour des métadonnées
-- Construction d’un moteur d’agrégation de données individuelles utilisable en interactif
+- Identifier, analyser et prototyper une solution d'architecture pour exposer les services autour des métadonnées
+- Construction d'un moteur d'agrégation de données individuelles utilisable en interactif
 - Optimisation du calcul des populations légales à travers une architecture de calcul distribué
 - Automatisation de la transformation des données individuelles pour la diﬀusion européenne
-- Développement d’une application mobile pour les enquêteurs
+- Développement d'une application mobile pour les enquêteurs
 - OpenSource et Modularité à l'INSEE : Exemple avec l'implémentation d'une méthode d'échantillonage
 - Comment proposer une architecture conteneurisée pour répondre aux besoins de services en « self-déploiement » et d'intégration continue ?
+
+
+## Sujet {.smaller}
+
+Une offre ou un sujet de stage devra contenir les éléments suivants :
+
+- Contexte, description de la structure, de l'équipe d'accueil
+- Objectifs, missions, problématique, méthodologie
+  - Dans quel but, pourquoi c'est intéressant, à quoi cela va servir
+- Technologies, outils utilisés
+- Connaissances et aptitudes recherchées 
+- Quelles données sont utilisées
+- Quels sont les livrables attendus
+- Durée ou date de début et de fin
+- Maitre de stage
 
 
 ## Étapes :hourglass:
@@ -92,12 +107,12 @@ Par exemple :
 - Facilite l'intégration du stagiaire dans l'équipe
 - Assure un suivi régulier de la progression du stagiaire
 - Réalise un entretien de fin de stage
-- Renseigne la grille d’évaluation
+- Renseigne la grille d'évaluation
 
 
 ### Référent pédagogique 
 
-- Un enseignant de l’ENSAI
+- Un enseignant de l'ENSAI
 - S'assure du bon déroulement du stage
 - Point d'avancement de vos travaux en Mai
 

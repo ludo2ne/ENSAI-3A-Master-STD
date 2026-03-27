@@ -2,7 +2,7 @@
 title: "Présentation Master STD"
 subtitle: "Master Statistique et Traitement des Données"
 author: "Ludovic Deneuville"
-date: "2025.03.17"
+date: "2026.03.27"
 format:
   revealjs:
     theme: moon
@@ -22,6 +22,18 @@ from: markdown+emoji
 - Technologies
 - DevOps
 
+::: {.notes}
+- Algo d'affectation (notes 1A et S1 2A)
+- Pas de quotas
+- Être admis en 3A ≠ avoir le diplôme
+- Stage : à faire sérieusement
+- Absences non justifiées :
+  - retenues sur salaire systématiques
+  - pas de validation d'UE en CER
+- INSEE : petit monde
+  - accés intranet ?
+:::
+
 ## But de l'informatique
 
 ::: {.callout-important}
@@ -31,8 +43,9 @@ from: markdown+emoji
 :::
 
 :::{.notes}
+- Au service des utilisateurs
+  - Répondre à des besoins, les conseiller
 - Supprimer des tâches sans valeur ajoutée
-- Répondre à des besoins utilisateurs, les conseiller
 :::
 
 ## DSI de l'INSEE

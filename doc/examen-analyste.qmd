@@ -121,7 +121,7 @@ IGPDE
 
 ## Examen
 
-Chauqe année, 2 sessions d'examen sont programmées.
+Chaque année, 2 sessions d'examen sont programmées.
 
 ### Calendrier 2025 
 
@@ -134,6 +134,13 @@ Chauqe année, 2 sessions d'examen sont programmées.
 | Épreuve écrite             | 16/01/2025 9h45 - 15h45  |
 | Résultats Admissibilité    | 13/02/2025               |
 | Épreuve orale              | À partir du 10/03/2025   |
+
+Historique des dates des épreuves écrites :
+
+- Jeudi 15/01/2026 9h30-15h30
+- Jeudi 16/01/2025 9h45-15h45
+- Jeudi 11/01/2024 10h00-16h00
+- Jeudi 12/01/2023 10h00-16h00
 
 
 #### 2e session
