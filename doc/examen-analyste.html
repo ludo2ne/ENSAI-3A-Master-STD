@@ -43,10 +43,12 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-1d7df340958b8ecd1b693e7223101497.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark-dcc84627b33080ef3fb7b7d5d6cf9c28.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-1d7df340958b8ecd1b693e7223101497.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="floating nav-fixed quarto-dark"><script id="quarto-html-before-body" type="application/javascript">
+<body class="floating nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -221,8 +223,10 @@ ul.task-list li input[type="checkbox"] {
         changeGiscusTheme();
       }
     };
-    const authorPrefersDark = true;
+    const authorPrefersDark = false;
     const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
@@ -437,15 +441,11 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="odd">
 <td>DENEUVILLE Ludovic</td>
-<td>ENSAI - Responsable Master STD</td>
+<td>ENSAI - Responsable enseignements Master STD</td>
 </tr>
 <tr class="even">
-<td>DUCHESNE Aurélie</td>
-<td>ENSAI - Organisatrice de la formation</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
+<td>MACRET Lina</td>
+<td>ENSAI - Responsable scolarité des 3A</td>
 </tr>
 </tbody>
 </table>
@@ -471,14 +471,6 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>MSELLEK Nadia</td>
 <td>Gestion de projet</td>
-</tr>
-<tr class="even">
-<td>AALIOUI Bilal</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -590,11 +582,8 @@ Tip
 </section>
 <section id="examen" class="level2">
 <h2 class="anchored" data-anchor-id="examen">Examen</h2>
-<p>Chaque année, 2 sessions d’examen sont programmées.</p>
 <section id="calendrier-2025" class="level3">
 <h3 class="anchored" data-anchor-id="calendrier-2025">Calendrier 2025</h3>
-<section id="ere-session" class="level4">
-<h4 class="anchored" data-anchor-id="ere-session">1ere session</h4>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
@@ -626,11 +615,6 @@ Tip
 <li>Jeudi 11/01/2024 10h00-16h00</li>
 <li>Jeudi 12/01/2023 10h00-16h00</li>
 </ul>
-</section>
-<section id="e-session" class="level4">
-<h4 class="anchored" data-anchor-id="e-session">2e session</h4>
-<p><span class="emoji" data-emoji="construction">🚧</span></p>
-</section>
 </section>
 <section id="écrit" class="level3">
 <h3 class="anchored" data-anchor-id="écrit">Écrit</h3>
@@ -678,7 +662,6 @@ Place des Vins-de-France<br>
 </section>
 <section id="semaine-à-la-dg" class="level2">
 <h2 class="anchored" data-anchor-id="semaine-à-la-dg">Semaine à la DG</h2>
-<p><span class="emoji" data-emoji="construction">🚧</span></p>
 <p>Du 17/02/25 au 21/02/25</p>
 <div class="callout callout-style-default callout-note callout-titled" title="Programme 2023-2024">
 <div class="callout-header d-flex align-content-center">
@@ -691,11 +674,11 @@ Place des Vins-de-France<br>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Lundi 12/02: préparation à l’oral J1 [Bilal Aalioui et Nadia Msellek]</li>
-<li>Mardi 13/02 : l’informatique ministérielle et interministérielle [Bilal aalioui et Nadia Msellek]</li>
+<li>Lundi 12/02: préparation à l’oral J1 [Nadia Msellek]</li>
+<li>Mardi 13/02 : l’informatique ministérielle et interministérielle [Nadia Msellek]</li>
 <li>Mercredi 14/02 : Oraux Blancs n°3 à l’IGPDE</li>
-<li>Jeudi 15/02 : préparation à l’oral J2 [Bilal Aalioui et Nadia Msellek]</li>
-<li>Vendredi 16/02 : days of chaos [Armelle Koehl Donatien Eneman]</li>
+<li>Jeudi 15/02 : préparation à l’oral J2 [Nadia Msellek]</li>
+<li>Vendredi 16/02 : days of chaos [Armelle Koehl et Donatien Eneman]</li>
 </ul>
 </div>
 </div>
@@ -731,7 +714,7 @@ Caution
 <li>il faut joindre un justificatif de mission (convocation, justificatif d’inscription…)</li>
 </ul></li>
 <li>Détailler les trajets pour se rendre sur le lieu de la mission (pas besoin de détailler métro, rer, bus)</li>
-<li>Signer, et faire signer par la direction des études <u>ET</u> le secrétariat général</li>
+<li>Signer, et faire signer par votre responsable (LD), puis la secrétaire générale</li>
 </ul>
 <p>Une fois que tout est bien rempli, vous pouvez envoyer votre demande d’OM et la convocation sur la boite fonctionnelle <em>mission</em>.</p>
 <div class="callout callout-style-default callout-important callout-titled" title="Cochez les bonnes cases">
@@ -744,21 +727,10 @@ Caution
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Vous avez 2 possibilités pour vos billets de train :</p>
-<ol type="1">
-<li>Vous achetez vous-même les billets et demanderez ensuite le remboursement</li>
-</ol>
-<ul>
-<li>Billet à commander : NON</li>
-<li>Billet à rembourser : OUI</li>
-</ul>
-<ol start="2" type="1">
-<li>Vous demander à l’ENSAI de commander vos billets</li>
-</ol>
+<p>Sauf exception, c’est l’ENSAI qui commande et vous fournit les billets de train :</p>
 <ul>
 <li>Billet à commander : OUI</li>
 <li>Billet à rembourser : NON</li>
-<li>dans ce cas, votre demande d’OM doit arriver au minimum 15 jours avant le début de la mission</li>
 </ul>
 <p>Cochez la case <em>Metro / RER / Bus</em> si nécessaire pour votre trajet.</p>
 </div>
