@@ -13,12 +13,25 @@ format:
 from: markdown+emoji
 ---
 
+
+## Bienvenue
+
+:::{.notes}
+Vous êtes maintenant titulaire, nous sommes collègues.
+
+Quelques règles de bienséance :
+
+- dire bonjour
+- prévenir en cas d'absence
+:::
+
+
 ## UE et Matières
 
 - Machine Learning
 - Génie Logiciel, DevOps
 - Big Data, Cloud, Indexation
-- Système, Réseaux, Sécurité
+- Système, Réseaux, Sécurité, Architecture
 - Gestion de projet
 
 :arrow_right: [Programme complet](https://ensai.fr/2-cursus/master-evaluation-et-decision-publiques/programme-de-la-majeure-std/){target="_blank"}
@@ -164,7 +177,7 @@ Vous souhaitez un poste info ?
 - [ ] préparez un mail de motivation
   - à adapter ensuite selon les postes visés
 - [ ] envoyez des mails avant Noël
-  - le 15 janvier c'est trop tard !
+  - le 15 janvier c'est déjà trop tard !
 
 
 ## Métiers INSEE {.smaller}
@@ -179,4 +192,4 @@ Avoir fait un poste dans la sphère info est un vrai plus
 - DBA
 - Ingénieur Système et Sécurité
 - Ingénieur DevOps
-- Ingénieur dans l’équipe produit Kubernetes
+- Ingénieur dans l'équipe produit Kubernetes

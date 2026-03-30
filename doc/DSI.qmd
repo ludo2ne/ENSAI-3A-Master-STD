@@ -15,7 +15,7 @@ from: markdown+emoji
 
 ## Département Développement du SI (DDSI)
 
-- Répondre aux besoins des maîtrises d’ouvrage
+- Répondre aux besoins des maîtrises d'ouvrage
 - Développement et de maintien des applications
 - Évolution du patrimoine applicatif
 - Mutualisation, rationalisation et transversalité
@@ -25,7 +25,7 @@ from: markdown+emoji
 ## Département Développement du SI (DDSI)
 
 - SNDI de Paris, Lille, Nantes et Orléans
-- GCOC d’Aix-Marseille
+- GCOC d'Aix-Marseille
 - 240 développeurs et développeuses
 - Division Accompagnement et Coaching 
 
@@ -35,12 +35,12 @@ from: markdown+emoji
 - Enquêtes ménages et entreprises
   - Conception, Collecte, Traitements, Évaluation
 - filière enquêtes (ex programme Métallica), Multimode
-- RMéS : référentiel de métadonnées statistiques de l’Insee
+- RMéS : référentiel de métadonnées statistiques de l'Insee
 
 
 ## Domaines d'applications au SNDI d'Orléans
 
-- Emploi et les Revenus d’Activités (SIERA, DSN)
+- Emploi et les Revenus d'Activités (SIERA, DSN)
 - Fichiers fiscaux (RELIEF, FILOSOFI)
 - Tirage d'échantillons (NAUTILE)
 - Données de Caisses, Tourisme, programme RESIL, Pôle Géographie
@@ -52,7 +52,7 @@ from: markdown+emoji
   - Projet SIRENE4
 - Répertoire des personnes
   - BRPP, ELIRE
-- Statistiques structurelles conjoncturels d’entreprises
+- Statistiques structurelles conjoncturels d'entreprises
 
 
 ## Domaines d'applications au SNDI de Paris
@@ -74,7 +74,7 @@ from: markdown+emoji
 ## Département Production et Infrastructure Informatiques (DPII)
 
 - Division Architecture Applicative de Production (DAAP)
-- Centre d’exploitation informatique (CEI à Metz) 
+- Centre d'exploitation informatique (CEI à Metz) 
 - Service national des supports informatiques (SNSI à Nantes)
 - Division Conseil, Assistance et Services aux Utilisateurs et aux Applications (CASUA)
 - Division Infrastructure (DINFRA)
@@ -83,9 +83,9 @@ from: markdown+emoji
 
 ## Unité innovation et stratégie du système d'information (UNISSI)
 
-- Orientations sur l’évolution du SI, choix technologiques
+- Orientations sur l'évolution du SI, choix technologiques
 - Vision fonctionnelle et technique du système d'information
-- Expérimentations sur des technologies avancées, y compris l’IA
+- Expérimentations sur des technologies avancées, y compris l'IA
 - Sécurité du SI et de maîtrise des risque
 
 
@@ -93,6 +93,6 @@ from: markdown+emoji
 
 - Division Innovation et Instruction Technique (DIIT)
   - en lien avec l'Unité SSP Lab
-- Division Urbanisme du Système d’Information (DUSI)
+- Division Urbanisme du Système d'Information (DUSI)
 - Division de la Sécurité et de la Maîtrise des Risques (DSMR)
 

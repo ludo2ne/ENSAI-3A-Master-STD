@@ -128,7 +128,7 @@ Avant tout ça :
 :::
 
 
-## DevOps à l’Insee 
+## DevOps à l'Insee 
 
 - Initiée par la DSI en 2021
 - Aller plus loin que SCRUM 
@@ -138,7 +138,7 @@ Avant tout ça :
 Méthodes agiles applicables aussi aux projets stats
 :::
 
-## DevOps à l’Insee 
+## DevOps à l'Insee 
 
 - Fluidifier les interactions entre développeurs (dev) et exploitants (ops)
 - Automatiser le processus de mise en production

@@ -11,7 +11,7 @@ from: markdown+emoji
 number-sections: true
 ---
 
-Le programme complet est consultable sur la page du [Master Statistique des Données pour la Décision Publique](https://ensai.fr/2-cursus/master-evaluation-et-decision-publiques/){target="_blank"} du site de l'ENSAI.
+Le programme complet est consultable sur la page du [Master Statistique des Données pour la Décision Publique](https://ensai.fr/2-cursus/master-evaluation-et-decision-publiques/programme-de-la-majeure-std/){target="_blank"} du site de l'ENSAI.
 
 
 ## UE1 Machine Learning
@@ -49,6 +49,7 @@ Le programme complet est consultable sur la page du [Master Statistique des Donn
 - Descente de gradient
 - Réseaux de neurones profonds 
 :::
+
 
 ### Webmining et Traitement du langage
 
@@ -310,8 +311,8 @@ Ce cours vise à familiariser les étudiants avec les principes d'architecture i
 
 |             |                          |
 |-------------|--------------------------|
-| Enseignant  | Sophie Ronfle            |
-| Cours       | 18h                      |
+| Enseignant  | Sophie Blaison           |
+| Cours       | 6h                       |
 | Langue      | Français                 |
 
 
