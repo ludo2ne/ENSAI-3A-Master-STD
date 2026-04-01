@@ -21,9 +21,9 @@ website:
           - href: doc/accueil.qmd
             text: Accueil
           - href: doc/cours2A.qmd
-            text: Cours de spécialisation 2A
+            text: Les cours en 2A (spécialisation)
           - href: doc/cours3A.qmd
-            text: Les cours en Master
+            text: Les cours en 3A
           - href: doc/examen-analyste.qmd
             text: L'examen d'Analyste
           - href: doc/deplacements.qmd

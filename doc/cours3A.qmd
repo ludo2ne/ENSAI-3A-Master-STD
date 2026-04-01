@@ -364,7 +364,7 @@ Ce cours explore la gestion de projet dans le domaine des systèmes d'informatio
 :::
 
 
-### Modélisation UML
+### Modélisation et Conception Fonctionnelle
 
 |             |                                |
 |-------------|--------------------------------|
