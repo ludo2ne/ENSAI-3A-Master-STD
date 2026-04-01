@@ -1,0 +1,521 @@
+---
+title: "Cours de 3e année"
+description: "Cours du Master STD"
+author: "Ludovic Deneuville"
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-expand: 3
+from: markdown+emoji
+number-sections: true
+---
+
+Le programme complet est consultable sur la page du [Master Statistique des Données pour la Décision Publique](https://ensai.fr/2-cursus/master-evaluation-et-decision-publiques/programme-de-la-majeure-std/){target="_blank"} du site de l'ENSAI.
+
+
+## UE1 Machine Learning
+
+### Apprentissage statistique (Machine Learning)
+
+|             |                                        |
+|-------------|----------------------------------------|
+| Enseignant  | Sébastien Da Veiga                     |
+| Cours       | 21h                                    |
+| Ateliers    | 12h                                    |
+| Langue      | Anglais (cours) et Français (ateliers) |
+
+Ce cours introduit les principales méthodes d'apprentissage supervisé pour la régression et la classification. Il couvre les modèles linéaires, les techniques de régularisation et les méthodes à noyau comme les SVM. Les méthodes d'ensemble (random forest, boosting) et la sélection de variables sont également abordées, avec une mise en pratique en Python.
+
+
+::: {.callout-tip title="Notions abordées"} 
+- Minimisation du risque empirique, complexité des modèles  
+- Évaluation de modèles, validation croisée  
+- Optimisation à grande échelle (SGD)  
+- Régularisation (Ridge, Lasso)  
+- Support Vector Machines et kernel trick  
+- Méthodes d'ensemble (Random Forest, bagging, boosting, XGBoost)  
+:::
+
+::: {.callout-note title="Prérequis" collapse="true"}
+- Bases en apprentissage supervisé  
+- Régression linéaire et logistique  
+- Notions d'optimisation  
+- Python  
+:::
+
+
+### Apprentissage profond (Deep Learning)
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Ikko Yamane              |
+| Cours       | 9h                       |
+| Ateliers    | 18h                      |
+| Langue      | Anglais                  |
+
+Ce cours introduit les réseaux de neurones profonds et leurs principales architectures. Il aborde les principes d'entraînement, les techniques d'optimisation et les modèles génératifs, avec une mise en pratique en Python (PyTorch) sur des cas concrets.
+
+::: {.callout-tip title="Notions abordées"} 
+- Réseaux de neurones (perceptron, réseaux profonds)  
+- Descente de gradient et optimisation  
+- Architectures : CNN, RNN, transformers  
+- Entraînement des modèles (stabilité, efficacité)  
+- Modèles génératifs (VAE, GANs, diffusion)  
+- Fine-tuning et transfert d'apprentissage  
+:::
+
+
+### Webmining et Traitement du langage
+
+|             |                                             |
+|-------------|---------------------------------------------|
+| Enseignant  | Cyriel Mallart                              |
+| Cours       | 9h                                          |
+| Ateliers    | 12h                                         |
+| Langue      | Anglais                                     |
+
+Ce cours introduit les méthodes de collecte, de nettoyage et d'analyse de données textuelles. Il couvre les fondements du traitement automatique du langage naturel (NLP), les représentations linguistiques et les modèles modernes pour des tâches comme la classification ou l'analyse de sentiment.
+
+::: {.callout-tip title="Notions abordées"} 
+- Collecte, nettoyage et structuration de données textuelles  
+- Représentation des mots (symbolique, distributionnelle, embeddings)  
+- Analyse linguistique (tagging, parsing)  
+- Représentation et classification de documents  
+- Modèles de langue et représentations contextuelles  
+- Modèles séquence-à-séquence et mécanismes d'attention  
+- Tâches NLP (classification, sentiment, NER)  
+:::
+
+::: {.callout-note title="Prérequis" collapse="true"}
+- Python
+- Notions de classification supervisée (logistique, SVM, validation croisée)
+:::
+
+
+## UE2 Développement d'application et DataOps
+
+### Génie Logiciel
+
+|             |                                                |
+|-------------|------------------------------------------------|
+| Enseignant  | Alban Gréau                                    |
+| Cours       | 27h                                            |
+| Commun ID   | Oui                                            |
+
+Ce cours présente les méthodes et outils du génie logiciel pour concevoir, développer et déployer des applications robustes et maintenables. Il couvre les bonnes pratiques de conception, les tests automatisés, la conteneurisation et les chaînes d'intégration et de déploiement continu, avec des applications concrètes en Java et dans le cloud.
+
+::: {.callout-tip title="Notions abordées"} 
+- Bonnes pratiques de conception, architecture logicielle en couches  
+- Patrons de conception (design patterns)  
+- Gestion de versions et conteneurisation (Git, Docker)  
+- Tests logiciels (unitaires, intégration, TDD, mocks, couverture, Gherkin)  
+- Intégration et déploiement continus (CI/CD, GitLab, Jenkins)  
+- Développement backend (Java, Spring Boot, JPA, Hibernate)  
+- Déploiement cloud (AWS : S3, RDS, Elastic Beanstalk)  
+:::
+
+::: {.callout-note title="Prérequis" collapse="true"}
+- SQL
+- Java 
+- Git  
+- Docker  
+:::
+
+[Cours de Rémi (2023)](https://ensai-school.github.io/software-engineering-2021-2022/){target="_blank"}
+
+### Développement Web
+
+|             |                                                |
+|-------------|------------------------------------------------|
+| Enseignant  | Olivier Chantrel                               |
+| Cours       | 18h                                            |
+| Langue      | Français                                       |
+
+Ce cours propose la réalisation d'un projet web de bout en bout, de la conception à l'implémentation. Il présente les technologies historiques et modernes du web, ainsi que les outils nécessaires au développement d'applications web dynamiques.
+
+::: {.callout-tip title="Notions abordées"} 
+- Conception de projet web et architecture applicative  
+- Technologies du web (HTML, XML, CSS)  
+- Manipulation de données (DOM, SAX)  
+- Développement backend (PHP, MySQL, MariaDB)  
+- Développement frontend (JavaScript, AJAX, frameworks)  
+- Écosystème web moderne (HTML5, web services)  
+:::
+
+
+### DataOps
+
+|             |                                                             |
+|-------------|-------------------------------------------------------------|
+| Enseignant  | [Christophe Blefari](https://www.blef.fr/){target="_blank"} |
+| Cours       | 27h                                                         |
+| Langue      | Anglais                                                     |
+| Commun ID   | Oui                                                         |
+
+Ce cours introduit les principes du DataOps et leur articulation avec DevOps et MLOps. Il aborde la mise en place de plateformes de données modernes, en s'appuyant sur le cloud, l'infrastructure as code et les pipelines de données pour industrialiser le traitement et l'exploitation des données.
+
+::: {.callout-tip title="Notions abordées"} 
+- DataOps, MLOps et DevOps (principes et différences)  
+- Cloud computing (GCP)  
+- Infrastructure as Code (Terraform, Ansible)  
+- Intégration et déploiement continus (CI/CD)  
+- Conteneurisation et orchestration (Docker, Kubernetes)  
+- Data pipelines et observabilité des données  
+:::
+
+## UE3 Big Data
+
+### Cloud Computing :construction:
+
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Rémi Pepin               |
+| Cours       | 21h                      |
+| Langue      | Français                 |
+
+Ce cours introduit les concepts fondamentaux du cloud computing et de ses services (IaaS, PaaS, SaaS). Les étudiants apprendront à provisionner, configurer et déployer des services cloud (stockage, calcul, bases de données) sur AWS lors des travaux pratiques, ainsi qu’à concevoir des architectures hautement disponibles, tout en respectant les bonnes pratiques de sécurité et d’automatisation.
+
+
+::: {.callout-tip title="Notions abordées"} 
+- Différences Cloud vs On-Premises  
+- Services cloud : IaaS, PaaS, SaaS  
+- Provisionnement via interface graphique et code  
+- Stockage objet, instances de calcul, bases de données  
+- Sécurité de base dans le cloud  
+- Création de réseaux et architectures hautement disponibles  
+- Serverless et Infrastructure as Code (IaC)  
+- Principaux fournisseurs : AWS, GCP, Azure, OVH  
+:::
+
+
+### Technologies NoSQL et Cloud
+
+|             |                                                                 |
+|-------------|-----------------------------------------------------------------|
+| Enseignant  | [Shadi Ibrahim](https://people.rennes.inria.fr/Shadi.Ibrahim/teaching.html){target="_blank"} |
+| Cours       | 30h                                                             |
+| Langue      | Français                                                        |
+
+Ce cours introduit les architectures distribuées pour le stockage et le traitement des données à grande échelle. Il présente les technologies du Big Data, les systèmes NoSQL et les infrastructures cloud, ainsi que les outils permettant de traiter efficacement des volumes massifs de données.
+
+::: {.callout-tip title="Notions abordées"} 
+- Architectures Big Data et systèmes distribués  
+- Systèmes de fichiers distribués (HDFS)  
+- Traitement distribué (Hadoop, MapReduce)  
+- Virtualisation et conteneurisation  
+- Bases de données NoSQL (DynamoDB, BigTable, MongoDB, Neo4J)  
+:::
+
+
+### Indexation Web
+
+|             |                                                                 |
+|-------------|-----------------------------------------------------------------|
+| Enseignant  | [Lara Perinetti](https://github.com/PeriLara/TPS_indexation_web_ensai){target="_blank"} |
+| Cours       | 9h                                                              |
+| Ateliers    | 6h                                                              |
+| Langue      | Français                                                        |
+| Commun ID   | Oui                                                             |
+
+Ce cours introduit les principes de l'indexation web et des moteurs de recherche, de la collecte des données (crawl) à l'ordonnancement des résultats. Il aborde les techniques d'Information Retrieval, l'évaluation des modèles et des applications en classification et analyse de texte.
+
+::: {.callout-tip title="Notions abordées"} 
+- Collecte de données web (crawl, parsing, DOM)  
+- Information Retrieval (tf-idf, indexation, ranking)  
+- Évaluation des moteurs de recherche (precision, recall, NDCG)  
+- Représentation et classification de documents (k-means, matrices terme-document)  
+- Analyse de texte et opinion mining (sentiment analysis, annotation)  
+- Introduction aux LLMs et RAG  
+:::
+
+
+### Publication de données respectueuses
+
+|             |                                                                 |
+|-------------|-----------------------------------------------------------------|
+| Enseignant  | [Tristan Allard](https://people.irisa.fr/Tristan.Allard/){target="_blank"} et Julien Jamme |
+| Cours       | 15h + 3h                                                        |
+| Langue      | Français                                                        |
+| Commun ID   | Oui                                                             |
+
+Ce cours introduit les méthodes de publication de données respectueuses de la vie privée. Il présente les principaux modèles de protection, leurs limites et les techniques modernes comme la confidentialité différentielle, en mettant en lumière les enjeux liés à l'analyse de données sensibles.
+
+::: {.callout-tip title="Notions abordées"} 
+- Enjeux de la protection des données et attaques (ré-identification, inférence)  
+- Modèles de confidentialité (k-anonymat, l-diversité)  
+- Confidentialité différentielle (principes, mécanismes de perturbation)  
+- Publication interactive et perturbation locale (réponses randomisées)  
+- Génération de données synthétiques et publication centralisée  
+:::
+
+
+## UE4 Système et Réseaux
+
+### Initiation à GNU/Linux
+
+|             |                                          |
+|-------------|------------------------------------------|
+| Enseignant  | Sébastien Le Corre                       |
+| Cours       | 15h                                      |
+| Langue      | Français                                 |
+
+Ce cours propose une prise en main du système GNU/Linux pour un usage quotidien. Il couvre l'utilisation du shell, l'administration de base du système, ainsi que des notions de scripting et de gestion des environnements, avec une ouverture vers les usages en data et cloud.
+
+::: {.callout-tip title="Notions abordées"} 
+- Environnement GNU/Linux (installation, distribution, principes)  
+- Utilisation du shell et ligne de commande (Bash)  
+- Gestion du système (utilisateurs, permissions, paquets)  
+- Réseau et administration de base  
+- Scripting (Bash, Awk, Sed)  
+- Dépannage et bonnes pratiques  
+:::
+
+### Réseaux et Systèmes d'exploitation
+
+|             |                                          |
+|-------------|------------------------------------------|
+| Enseignant  | Thomas Correge                           |
+| Cours       | 21h                                      |
+| Langue      | Français                                 |
+
+Ce cours couvre les principes fondamentaux des systèmes d'exploitation et des réseaux. Il aborde la gestion des ressources, les processus et le multithreading, les architectures et protocoles réseau, ainsi que les concepts de sécurité et de virtualisation.
+
+::: {.callout-tip title="Notions abordées"} 
+- Gestion des ressources par l'OS, processus et multithreading  
+- Topologies réseau (Bus, Anneau, Étoile, Maillage) et technologies (Ethernet, WiFi, adresses MAC/IP, switch, ports)  
+- Protocoles réseau : DNS, HTTP/HTTPS, FTP/SFTP/FTPS, SSH, POP/SMTP/IMAP  
+- Modèles en couches : OSI, TCP/IP  
+- Sécurité réseau : DMZ, pare-feu, proxy, VPN, accès média  
+- Routage et architectures (mainframe, client-serveur, SAN/NAS, Data Center)  
+- Cloud et virtualisation (Azure, conteneurs)  
+- Optimisation de la performance réseau et RGPD  
+- Scripting (PowerShell)  
+:::
+
+
+### Systèmes répartis :construction:
+
+|                      |                                          |
+|----------------------|------------------------------------------|
+| Enseignant           | David Gross-Amblard                      |
+| Cours                | 15h                                      |
+| Ateliers             | 6h                                       |
+| Langue               | Français                                 |
+
+
+::: {.callout-note title="Contenu du cours"}
+Ce cours approfondit les architectures distribuées à l'échelle mondiale, avec une focalisation sur les grilles, les systèmes peer-to-peer (P2P) et le cloud. Les objectifs incluent la compréhension des concepts fondamentaux tels que la synchronisation et l'exclusion mutuelle, ainsi que l'étude des algorithmes associés à chaque type d'architecture.
+
+- **Introduction aux Architectures Distribuées :** Exploration des différentes architectures réparties.
+- **Concepts Fondamentaux :** Synchronisation, exclusion mutuelle, et autres concepts clés.
+- **Approches Centralisées et Semi-centralisées :** Étude du cloud computing et des grilles.
+- **Approches Décentralisées :** Analyse des systèmes P2P structurés, non-structurés et hybrides.
+- **Applications Pratiques :** Utilisation dans les systèmes de partage de fichiers et les protocoles épidémiques.
+:::
+
+### Sécurité des données :construction:
+
+
+|                      |                                          |
+|----------------------|------------------------------------------|
+| Enseignant           | David Gross-Amblard                      |
+| Cours                | 9h                                       |
+| Ateliers             | 9h                                       |
+| Langue               | Français                                 |
+
+::: {.callout-note title="Contenu du cours"}
+Ce cours explore les principes fondamentaux de la sécurité informatique, en mettant l'accent sur la protection des données dans un contexte d'actualité dynamique marqué par des attaques spectaculaires et l'évolution des législations. La cryptographie est présentée comme un outil essentiel pour prévenir la divulgation, la modification et l'accès non autorisé aux données.
+
+- **Introduction à la Sécurité :** Analyse des besoins et des menaces en matière de sécurité informatique.
+- **Cryptography :**
+  - Cryptographies à clés secrètes et publiques.
+  - Protocoles cryptographiques pour assurer la confidentialité, l'intégrité, la signature et l'authentification des données.
+- **Systèmes Utilisateurs :**
+  - Applications Web et sécurité.
+  - Sécurité des transactions par carte bancaire.
+  - Sécurité des applications réseau.
+:::
+
+## UE5 Formation Analyste
+
+### Gestion de Projet Informatique
+
+|             |                                |
+|-------------|--------------------------------|
+| Enseignant  | Nadia Mselleck                 |
+| Cours       | 18h                            |
+| Langue      | Français                       |
+
+Ce cours explore la gestion de projet dans le domaine des systèmes d'information. Il couvre le cycle de vie des applications, les acteurs et leurs rôles, la conduite du changement, la comitologie, la qualité, ainsi que les méthodes agiles pour une gestion de projet efficace et adaptative.
+
+::: {.callout-tip title="Notions abordées"} 
+- Cycle de vie d'une application : développement, déploiement, maintenance  
+- Acteurs et rôles : développeurs, chefs de projet, utilisateurs, parties prenantes  
+- Conduite du changement et adoption des nouvelles technologies  
+- Comitologie : structures décisionnelles et gouvernance  
+- Qualité : normes, assurance et contrôle qualité  
+- Méthodes agiles : Scrum, Kanban et approches itératives/adaptatives  
+:::
+
+::: {.callout-note title="Prérequis" collapse="true"}
+- Bases en informatique et compréhension des projets logiciels  
+:::
+
+
+### Modélisation UML
+
+|             |                                |
+|-------------|--------------------------------|
+| Enseignant  | Xavier Brossard                |
+| Cours       | 18h                            |
+| Langue      | Français                       |
+
+Ce cours permet de maîtriser l'utilisation de UML pour la modélisation de systèmes dans le cadre des épreuves écrites et des exercices pratiques. Les différents types de diagrammes sont présentés avec des cas d'utilisation concrets pour la pratique.
+
+::: {.callout-tip title="Notions abordées"} 
+- Diagramme de communication  
+- Diagramme de classes  
+- Diagramme de cas d'utilisation  
+- Diagramme d'activités  
+- Diagramme d'états-transitions  
+- Dictionnaire de données  
+- TD / exercices pratiques  
+- Rédaction et commentaires de cas d'utilisation  
+:::
+
+::: {.callout-note title="Prérequis" collapse="true"}
+- Notions de base en UML  
+:::
+
+
+### Architecture informatique
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Suliac Le Guillou        |
+| Cours       | 18h                      |
+| Langue      | Français                 |
+
+Ce cours propose une vision globale de l'architecture des systèmes informatiques. Il couvre les principes fondamentaux, le stockage, les architectures client/serveur, la sécurité, l'urbanisme des systèmes et la gestion des processus et flux de données, avec des exercices pratiques pour approfondir chaque thématique.
+
+::: {.callout-tip title="Notions abordées"} 
+- Introduction à l'architecture : fondamentaux, architecture physique, cloud et standardisation, UML  
+- Stockage d'information : bases de données SQL/NoSQL, systèmes de fichiers distribués, stockage objet  
+- Client/serveur : modèle en tiers, introduction à SOA, pratique de déploiement et échanges  
+- Sécurité : modèle de menace, vecteurs d'attaques, notions de cryptographie  
+- Urbanisme et architecture métier : reprise des concepts, intégration SOA, écosystème applicatif  
+- Processus et flux : traitement asynchrone, flux de données, sauvegardes, migration et urbanisme des systèmes  
+:::
+
+
+### Environnement informatique ministériel et interministériel
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Sophie Blaison           |
+| Cours       | 6h                       |
+| Langue      | Français                 |
+
+Ce cours présente le cadre juridique des données personnelles et des outils informatiques dans le secteur public. Il couvre le RGPD, la Loi Informatique et Libertés, le droit d'auteur, les responsabilités des acteurs et le rôle de la CNIL/DPO.
+
+::: {.callout-tip title="Notions abordées"} 
+- Protection des données personnelles : CNIL, RGPD, cookies et traceurs  
+- Droit d'auteur et licences : logiciel libre, Creative Commons  
+- Déontologie et règles d'usage des TIC dans le secteur public  
+:::
+
+
+## UE6 Formation avancée à l'examen d'analyste
+
+### Préparation à l'écrit
+
+3 examens blancs écrits.
+
+### Préparation à l'oral
+
+6 oraux blancs.
+
+
+### Anglais
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Melissa Bourquardez      |
+| Cours       | 30h                      |
+| Langue      | Anglais                  |
+
+Ce cours développe les compétences professionnelles et scientifiques en anglais, à l'écrit et à l'oral, avec un accent sur la présentation scientifique, les résumés et les ateliers pratiques sur le monde professionnel international.
+
+::: {.callout-tip title="Notions abordées"} 
+- Expression orale et écrite, compréhension orale et écrite  
+- Présentation scientifique et résumé (Abstract Workshop)  
+- Ateliers pratiques : Job Interview, Meetings, Negotiation  
+- Compétences transversales : recherche d'information, contextualisation, auto-évaluation, intégration internationale  
+:::
+
+
+## UE7 Stage et séminaires
+
+### Stage de fin d'étude
+
+Ce stage valide les compétences de statisticien/data scientist et permet de mettre en pratique les connaissances théoriques et les aptitudes professionnelles dans un environnement réel.
+
+### Introduction au DevSecOps
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Alban Gréau              |
+| Atelier     | 6h                       |
+| Langue      | Français                 |
+
+Ce cours sensibilise aux impératifs de sécurité dans le génie logiciel et présente les méthodes, outils et bonnes pratiques pour intégrer la sécurité dans le cycle de développement logiciel (DevSecOps).
+
+::: {.callout-tip title="Notions abordées"} 
+- Principes fondamentaux de DevSecOps  
+- Outils et technologies de sécurité intégrée  
+- Processus d'implémentation dans le cycle CI/CD  
+- Bonnes pratiques et méthodologies actuelles  
+- Défis et tendances futures en sécurité logicielle  
+:::
+
+### Atelier Kubernetes
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Hugo Simon               |
+| Atelier     | 30h                      |
+| Langue      | Français                 |
+
+Ce module pratique permet de comprendre le fonctionnement de Kubernetes et son rôle central dans l'écosystème DevOps. Les étudiants apprendront à déployer des applications et services, à gérer les ressources et à packager des applications avec Helm.
+
+::: {.callout-tip title="Notions abordées"} 
+- Composants d'un cluster Kubernetes : Pod, Deployment, Service, Ingress, StatefulSet  
+- Gestion de configurations : ConfigMap, Secret, Volume  
+- Déploiement d'APIs et solutions (base de données, authentification)  
+- Packaging d'applications avec Helm  
+:::
+
+::: {.callout-note title="Prérequis" collapse="true"}
+- Développement d'API (Java, Python ou autre)  
+- Conteneurisation d'une application (Docker, Podman)  
+- Connaissances de base en réseau (DNS, proxy, reverse proxy)  
+:::
+
+### Spark en pratique
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Inès Hiverlet            |
+| Atelier     | 12h                      |
+| Langue      | Français                 |
+
+Ce TP initie les étudiants à l'architecture et aux concepts de Spark pour le traitement de données distribuées et le calcul statistique. Les participants apprendront à produire des analyses et à traiter des flux de données.
+
+::: {.callout-tip title="Notions abordées"} 
+- Architecture du calcul local et distribué  
+- MapReduce et pipelines Spark  
+- Spark ML pour apprentissage statistique  
+- Traitement de flux : streaming et event-time processing  
+:::

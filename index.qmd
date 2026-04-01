@@ -6,9 +6,13 @@ from: markdown+emoji
 ---
 
 
-- [Présentation aux élèves de 1ère année](doc/presentation.qmd)
-- [Accueil des étudiants du Master STD](doc/accueil.qmd)
-  - [Les enseignements](doc/cours.qmd)
-  - [Le stage de Master](doc/stage.qmd)
-- [L'INSEE](doc/INSEE.qmd)
-  - [La Direction des Systèmes d'Informations de l'INSEE](doc/DSI.qmd)
+Vous trouverez ici des informations concernant le **Master Science des Données pour la Décision Publique**, majeure **STD – Statistique et Traitement des Données** :
+
+- Une **présentation aux étudiants** du parcours et de ses objectifs  
+- Le **programme des cours** avec notions avancées en statistique, informatique, économie et mathématiques appliquées  
+- Les informations sur la **formation Analyste-Programmeur**  
+- Le **stage de fin d’études**, moment clé de mise en pratique  
+
+::: {.callout-tip title="Expertise statistique pour la décision publique"}
+Les acteurs publics ont besoin de **statisticiens qualifiés** pour concevoir, analyser et exploiter les bases de données locales, nationales et internationales. Cette spécialité prépare à répondre à cette demande croissante, en combinant théorie et cas pratiques.
+:::

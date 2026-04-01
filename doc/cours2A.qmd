@@ -1,0 +1,93 @@
+---
+title: "Cours de spécialisation"
+description: "Cours de spécialisation en 2e année"
+author: "Ludovic Deneuville"
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-expand: 3
+from: markdown+emoji
+number-sections: true
+---
+
+## Projet informatique (tronc commun)
+
+<https://ludo2ne.github.io/ENSAI-2A-Projet-info/>{target="_blank"}
+
+Ce projet interactif met en pratique les compétences acquises en informatique (compléments + conception + développement) à travers la réalisation d'une application multi‑tiers en Python répondant à une problématique définie. Les étudiants travaillent en équipe, planifient, conçoivent, développent, testent et documentent une solution logicielle professionnelle.
+
+::: {.callout-tip title="Notions abordées"} 
+- Gestion de projet logiciel en équipe (organisation, points hebdomadaires)
+- Analyse fonctionnelle et conception UML (cas d'utilisation, classes, etc.)
+- Développement Python structuré (POO, tests unitaires)
+- Communication avec base de données PostgreSQL et APIs
+- Documentation et bonnes pratiques de code 
+:::
+
+
+
+## Introduction à GNU/Linux
+
+Première partie du cours qui sera complété en 3e année.
+
+6h
+
+## Conception logicielle
+
+<https://conception-logicielle.abrunetti.fr/>{target="_blank"}
+
+
+|             |                                   |
+|-------------|-----------------------------------|
+| Enseignants | Antoine Brunetti, Oriane Foussard |
+| Cours       | 21h                               |
+| Langue      | Français                          |
+
+Ce cours explore différents aspects de l'ingénierie logicielle pour développeurs et statisticiens, en mettant l'accent sur la portabilité, la collaboration, les tests et l'architecture applicative avancée. L'objectif est de produire du code robuste, maintenable et réutilisable dans divers environnements, et de maîtriser les bonnes pratiques pour des projets web modernes.
+
+::: {.callout-tip title="Notions abordées"} 
+- Gestion de version et travail collaboratif avec Git avancé (issues, pull/merge requests)  
+- Portabilité et configuration : exécution hors IDE, environnements virtuels, gestion de paquets  
+- Tests et automatisation : tests unitaires, mocking, scripts d'automatisation, initiation au CI  
+- Applications web et webservices : rôles client et serveur  
+- Architecture applicative avancée : ORM, bases de données, patrons de conception, POO et initiation à la programmation fonctionnelle  
+- Livraison de projets web modernes : publication sur dépôt public, livrable configurable et portable  
+:::
+
+## Programmation orientée objet avec Java
+
+<https://ludo2ne.github.io/ENSAI-2A-Java/>{target="_blank"}
+
+
+|             |                                   |
+|-------------|-----------------------------------|
+| Enseignant  | Ludovic Deneuville                |
+| Cours       | 6h                                |
+| Ateliers    | 12h                               |
+| Langue      | Français                          |
+
+Ce cours permet de maîtriser le langage Java et la programmation orientée objet, en combinant notions théoriques et laboratoires pratiques. L'objectif est de développer des applications Java robustes et maintenables, de comprendre la POO, les collections, les tests unitaires et les frameworks modernes comme Spring Boot et Hibernate.
+
+::: {.callout-tip title="Notions abordées"}
+- Projet Java : structure de répertoires, packages, Maven  
+- Tests unitaires avec JUnit : mocks, mutation testing  
+- Interfaces, Enum, Stream, exceptions  
+- Développement d'API avec Spring Boot et Hibernate, Lombok
+:::
+
+## Réseaux et Systèmes d'Exploitation
+
+|             |                                  |
+|-------------|----------------------------------|
+| Enseignant  | Jean-Baptiste Loisel             |
+| Cours       | 21h                              |
+| Langue      | Français                         |
+
+Ce cours fournit une compréhension des principes fondamentaux des systèmes d'exploitation et des réseaux informatiques. La première partie traite de l'organisation des ressources clés d'un OS (processeur, mémoire, fichiers) dans un contexte multitâche et multi-utilisateur. La deuxième partie aborde les réseaux : topologies, technologies (Ethernet, ADSL, LAN, WAN, VLAN, Wifi sécurisé), protocoles majeurs (TCP/IP, DNS, SMTP…), équipements, conception d'architectures (dimensionnement, redondance, DMZ) et implications pour la sécurité des systèmes d'information.
+
+::: {.callout-tip title="Notions abordées"} 
+- Systèmes d'exploitation : processus, communication inter-processus, planification, gestion mémoire, systèmes de fichiers, RAID, virtualisation  
+- Réseaux : couches OSI et TCP/IP, topologies, protocoles majeurs, VLAN, Wifi sécurisé, DMZ, dimensionnement et redondance  
+:::
+

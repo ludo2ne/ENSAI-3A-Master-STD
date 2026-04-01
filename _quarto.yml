@@ -10,7 +10,7 @@ website:
   repo-branch: main
   reader-mode: true
   navbar:
-    background: "#447099"
+    background: "#124A61"
     left:
       - href: index.qmd
         text: Home
@@ -20,8 +20,10 @@ website:
         menu:
           - href: doc/accueil.qmd
             text: Accueil
-          - href: doc/cours.qmd
-            text: Les cours
+          - href: doc/cours2A.qmd
+            text: Cours de spécialisation 2A
+          - href: doc/cours3A.qmd
+            text: Les cours en Master
           - href: doc/examen-analyste.qmd
             text: L'examen d'Analyste
           - href: doc/deplacements.qmd
