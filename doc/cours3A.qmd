@@ -164,39 +164,58 @@ Ce cours introduit les principes du DataOps et leur articulation avec DevOps et 
 - Data pipelines et observabilité des données  
 :::
 
+
+### Introduction au DevSecOps
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Alban Gréau              |
+| Atelier     | 6h                       |
+| Langue      | Français                 |
+
+Ce cours sensibilise aux impératifs de sécurité dans le génie logiciel et présente les méthodes, outils et bonnes pratiques pour intégrer la sécurité dans le cycle de développement logiciel (DevSecOps).
+
+::: {.callout-tip title="Notions abordées"} 
+- Principes fondamentaux de DevSecOps  
+- Outils et technologies de sécurité intégrée  
+- Processus d'implémentation dans le cycle CI/CD  
+- Bonnes pratiques et méthodologies actuelles  
+- Défis et tendances futures en sécurité logicielle  
+:::
+
+
 ## UE3 Big Data
 
 ### Cloud Computing :construction:
-
 
 |             |                          |
 |-------------|--------------------------|
 | Enseignant  | Rémi Pepin               |
 | Cours       | 21h                      |
 | Langue      | Français                 |
+| Commun ID   | Oui                      |
 
 Ce cours introduit les concepts fondamentaux du cloud computing et de ses services (IaaS, PaaS, SaaS). Les étudiants apprendront à provisionner, configurer et déployer des services cloud (stockage, calcul, bases de données) sur AWS lors des travaux pratiques, ainsi qu’à concevoir des architectures hautement disponibles, tout en respectant les bonnes pratiques de sécurité et d’automatisation.
 
 
 ::: {.callout-tip title="Notions abordées"} 
-- Différences Cloud vs On-Premises  
+- Différences Cloud vs On-Premises, principaux fournisseurs
 - Services cloud : IaaS, PaaS, SaaS  
 - Provisionnement via interface graphique et code  
 - Stockage objet, instances de calcul, bases de données  
 - Sécurité de base dans le cloud  
 - Création de réseaux et architectures hautement disponibles  
-- Serverless et Infrastructure as Code (IaC)  
-- Principaux fournisseurs : AWS, GCP, Azure, OVH  
+- Serverless et Infrastructure as Code (IaC)   
 :::
 
 
-### Technologies NoSQL et Cloud
+### Big Data Technologies
 
 |             |                                                                 |
 |-------------|-----------------------------------------------------------------|
 | Enseignant  | [Shadi Ibrahim](https://people.rennes.inria.fr/Shadi.Ibrahim/teaching.html){target="_blank"} |
-| Cours       | 30h                                                             |
-| Langue      | Français                                                        |
+| Cours       | 18h                                                             |
+| Langue      | English                                                         |
 
 Ce cours introduit les architectures distribuées pour le stockage et le traitement des données à grande échelle. Il présente les technologies du Big Data, les systèmes NoSQL et les infrastructures cloud, ainsi que les outils permettant de traiter efficacement des volumes massifs de données.
 
@@ -204,8 +223,39 @@ Ce cours introduit les architectures distribuées pour le stockage et le traitem
 - Architectures Big Data et systèmes distribués  
 - Systèmes de fichiers distribués (HDFS)  
 - Traitement distribué (Hadoop, MapReduce)  
-- Virtualisation et conteneurisation  
-- Bases de données NoSQL (DynamoDB, BigTable, MongoDB, Neo4J)  
+- Virtualisation et conteneurisation   
+:::
+
+### NoSQL Databases :construction:
+
+Auparavant dans le cours de Shadi qui laisse cette partie à Nikolaos
+
+|             |                                                                 |
+|-------------|-----------------------------------------------------------------|
+| Enseignant  | Nikolaos Parlavantzas                                           |
+| Cours       | 12h                                                             |
+| Langue      | English                                                         |
+
+::: {.callout-tip title="Notions abordées"} 
+- Bases de données NoSQL (DynamoDB, BigTable, MongoDB, Neo4J) 
+:::
+
+
+### Spark en pratique
+
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Inès Hiverlet            |
+| Atelier     | 12h                      |
+| Langue      | Français                 |
+
+Ces [TP](https://ludo2ne.github.io/ENSAI-2A-Big-Data/){target="_blank"} initient les étudiants à l'architecture et aux concepts de Spark pour le traitement de données distribuées et le calcul statistique. Les participants apprendront à produire des analyses et à traiter des flux de données.
+
+::: {.callout-tip title="Notions abordées"} 
+- Architecture du calcul local et distribué  
+- MapReduce et pipelines Spark  
+- Spark ML pour apprentissage statistique  
+- Traitement de flux : streaming et event-time processing  
 :::
 
 
@@ -295,48 +345,50 @@ Ce cours couvre les principes fondamentaux des systèmes d'exploitation et des r
 :::
 
 
-### Systèmes répartis :construction:
+### Architecture informatique
 
-|                      |                                          |
-|----------------------|------------------------------------------|
-| Enseignant           | David Gross-Amblard                      |
-| Cours                | 15h                                      |
-| Ateliers             | 6h                                       |
-| Langue               | Français                                 |
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Suliac Le Guillou        |
+| Cours       | 18h                      |
+| Langue      | Français                 |
 
+Ce cours propose une vision globale de l'architecture des systèmes informatiques. Il couvre les principes fondamentaux, le stockage, les architectures client/serveur, la sécurité, l'urbanisme des systèmes et la gestion des processus et flux de données, avec des exercices pratiques pour approfondir chaque thématique.
 
-::: {.callout-note title="Contenu du cours"}
-Ce cours approfondit les architectures distribuées à l'échelle mondiale, avec une focalisation sur les grilles, les systèmes peer-to-peer (P2P) et le cloud. Les objectifs incluent la compréhension des concepts fondamentaux tels que la synchronisation et l'exclusion mutuelle, ainsi que l'étude des algorithmes associés à chaque type d'architecture.
-
-- **Introduction aux Architectures Distribuées :** Exploration des différentes architectures réparties.
-- **Concepts Fondamentaux :** Synchronisation, exclusion mutuelle, et autres concepts clés.
-- **Approches Centralisées et Semi-centralisées :** Étude du cloud computing et des grilles.
-- **Approches Décentralisées :** Analyse des systèmes P2P structurés, non-structurés et hybrides.
-- **Applications Pratiques :** Utilisation dans les systèmes de partage de fichiers et les protocoles épidémiques.
+::: {.callout-tip title="Notions abordées"} 
+- Introduction à l'architecture : fondamentaux, architecture physique, cloud et standardisation, UML  
+- Stockage d'information : bases de données SQL/NoSQL, systèmes de fichiers distribués, stockage objet  
+- Client/serveur : modèle en tiers, introduction à SOA, pratique de déploiement et échanges  
+- Sécurité : modèle de menace, vecteurs d'attaques, notions de cryptographie  
+- Urbanisme et architecture métier : reprise des concepts, intégration SOA, écosystème applicatif  
+- Processus et flux : traitement asynchrone, flux de données, sauvegardes, migration et urbanisme des systèmes  
 :::
 
-### Sécurité des données :construction:
 
+### Atelier Kubernetes
 
-|                      |                                          |
-|----------------------|------------------------------------------|
-| Enseignant           | David Gross-Amblard                      |
-| Cours                | 9h                                       |
-| Ateliers             | 9h                                       |
-| Langue               | Français                                 |
+|             |                          |
+|-------------|--------------------------|
+| Enseignant  | Hugo Simon               |
+| Atelier     | 30h                      |
+| Langue      | Français                 |
 
-::: {.callout-note title="Contenu du cours"}
-Ce cours explore les principes fondamentaux de la sécurité informatique, en mettant l'accent sur la protection des données dans un contexte d'actualité dynamique marqué par des attaques spectaculaires et l'évolution des législations. La cryptographie est présentée comme un outil essentiel pour prévenir la divulgation, la modification et l'accès non autorisé aux données.
+Ce module pratique permet de comprendre le fonctionnement de Kubernetes et son rôle central dans l'écosystème DevOps. Les étudiants apprendront à déployer des applications et services, à gérer les ressources et à packager des applications avec Helm.
 
-- **Introduction à la Sécurité :** Analyse des besoins et des menaces en matière de sécurité informatique.
-- **Cryptography :**
-  - Cryptographies à clés secrètes et publiques.
-  - Protocoles cryptographiques pour assurer la confidentialité, l'intégrité, la signature et l'authentification des données.
-- **Systèmes Utilisateurs :**
-  - Applications Web et sécurité.
-  - Sécurité des transactions par carte bancaire.
-  - Sécurité des applications réseau.
+::: {.callout-tip title="Notions abordées"} 
+- Composants d'un cluster Kubernetes : Pod, Deployment, Service, Ingress, StatefulSet  
+- Gestion de configurations : ConfigMap, Secret, Volume  
+- Déploiement d'APIs et solutions (base de données, authentification)  
+- Packaging d'applications avec Helm  
 :::
+
+::: {.callout-note title="Prérequis" collapse="true"}
+- Développement d'API (Java, Python ou autre)  
+- Conteneurisation d'une application (Docker, Podman)  
+- Connaissances de base en réseau (DNS, proxy, reverse proxy)  
+:::
+
+
 
 ## UE5 Formation Analyste
 
@@ -375,38 +427,13 @@ Ce cours explore la gestion de projet dans le domaine des systèmes d'informatio
 Ce cours permet de maîtriser l'utilisation de UML pour la modélisation de systèmes dans le cadre des épreuves écrites et des exercices pratiques. Les différents types de diagrammes sont présentés avec des cas d'utilisation concrets pour la pratique.
 
 ::: {.callout-tip title="Notions abordées"} 
-- Diagramme de communication  
-- Diagramme de classes  
-- Diagramme de cas d'utilisation  
-- Diagramme d'activités  
-- Diagramme d'états-transitions  
+- Diagramme de communication, de classes, de cas d'utilisation, d'activités, d'états-transitions  
 - Dictionnaire de données  
-- TD / exercices pratiques  
 - Rédaction et commentaires de cas d'utilisation  
 :::
 
 ::: {.callout-note title="Prérequis" collapse="true"}
 - Notions de base en UML  
-:::
-
-
-### Architecture informatique
-
-|             |                          |
-|-------------|--------------------------|
-| Enseignant  | Suliac Le Guillou        |
-| Cours       | 18h                      |
-| Langue      | Français                 |
-
-Ce cours propose une vision globale de l'architecture des systèmes informatiques. Il couvre les principes fondamentaux, le stockage, les architectures client/serveur, la sécurité, l'urbanisme des systèmes et la gestion des processus et flux de données, avec des exercices pratiques pour approfondir chaque thématique.
-
-::: {.callout-tip title="Notions abordées"} 
-- Introduction à l'architecture : fondamentaux, architecture physique, cloud et standardisation, UML  
-- Stockage d'information : bases de données SQL/NoSQL, systèmes de fichiers distribués, stockage objet  
-- Client/serveur : modèle en tiers, introduction à SOA, pratique de déploiement et échanges  
-- Sécurité : modèle de menace, vecteurs d'attaques, notions de cryptographie  
-- Urbanisme et architecture métier : reprise des concepts, intégration SOA, écosystème applicatif  
-- Processus et flux : traitement asynchrone, flux de données, sauvegardes, migration et urbanisme des systèmes  
 :::
 
 
@@ -462,60 +489,51 @@ Ce cours développe les compétences professionnelles et scientifiques en anglai
 
 Ce stage valide les compétences de statisticien/data scientist et permet de mettre en pratique les connaissances théoriques et les aptitudes professionnelles dans un environnement réel.
 
-### Introduction au DevSecOps
 
-|             |                          |
-|-------------|--------------------------|
-| Enseignant  | Alban Gréau              |
-| Atelier     | 6h                       |
-| Langue      | Français                 |
 
-Ce cours sensibilise aux impératifs de sécurité dans le génie logiciel et présente les méthodes, outils et bonnes pratiques pour intégrer la sécurité dans le cycle de développement logiciel (DevSecOps).
+:::::: {.callout-note collapse="true" title="Anciens cours"}
 
-::: {.callout-tip title="Notions abordées"} 
-- Principes fondamentaux de DevSecOps  
-- Outils et technologies de sécurité intégrée  
-- Processus d'implémentation dans le cycle CI/CD  
-- Bonnes pratiques et méthodologies actuelles  
-- Défis et tendances futures en sécurité logicielle  
+### Systèmes répartis {.unnumbered}
+
+|                      |                                          |
+|----------------------|------------------------------------------|
+| Enseignant           | David Gross-Amblard                      |
+| Cours                | 15h                                      |
+| Ateliers             | 6h                                       |
+| Langue               | Français                                 |
+
+
+::: {.callout-note title="Contenu du cours"}
+Ce cours approfondit les architectures distribuées à l'échelle mondiale, avec une focalisation sur les grilles, les systèmes peer-to-peer (P2P) et le cloud. Les objectifs incluent la compréhension des concepts fondamentaux tels que la synchronisation et l'exclusion mutuelle, ainsi que l'étude des algorithmes associés à chaque type d'architecture.
+
+- **Introduction aux Architectures Distribuées :** Exploration des différentes architectures réparties.
+- **Concepts Fondamentaux :** Synchronisation, exclusion mutuelle, et autres concepts clés.
+- **Approches Centralisées et Semi-centralisées :** Étude du cloud computing et des grilles.
+- **Approches Décentralisées :** Analyse des systèmes P2P structurés, non-structurés et hybrides.
+- **Applications Pratiques :** Utilisation dans les systèmes de partage de fichiers et les protocoles épidémiques.
 :::
 
-### Atelier Kubernetes
+### Sécurité des données {.unnumbered}
 
-|             |                          |
-|-------------|--------------------------|
-| Enseignant  | Hugo Simon               |
-| Atelier     | 30h                      |
-| Langue      | Français                 |
 
-Ce module pratique permet de comprendre le fonctionnement de Kubernetes et son rôle central dans l'écosystème DevOps. Les étudiants apprendront à déployer des applications et services, à gérer les ressources et à packager des applications avec Helm.
+|                      |                                          |
+|----------------------|------------------------------------------|
+| Enseignant           | David Gross-Amblard                      |
+| Cours                | 9h                                       |
+| Ateliers             | 9h                                       |
+| Langue               | Français                                 |
 
-::: {.callout-tip title="Notions abordées"} 
-- Composants d'un cluster Kubernetes : Pod, Deployment, Service, Ingress, StatefulSet  
-- Gestion de configurations : ConfigMap, Secret, Volume  
-- Déploiement d'APIs et solutions (base de données, authentification)  
-- Packaging d'applications avec Helm  
+::: {.callout-note title="Contenu du cours"}
+Ce cours explore les principes fondamentaux de la sécurité informatique, en mettant l'accent sur la protection des données dans un contexte d'actualité dynamique marqué par des attaques spectaculaires et l'évolution des législations. La cryptographie est présentée comme un outil essentiel pour prévenir la divulgation, la modification et l'accès non autorisé aux données.
+
+- **Introduction à la Sécurité :** Analyse des besoins et des menaces en matière de sécurité informatique.
+- **Cryptography :**
+  - Cryptographies à clés secrètes et publiques.
+  - Protocoles cryptographiques pour assurer la confidentialité, l'intégrité, la signature et l'authentification des données.
+- **Systèmes Utilisateurs :**
+  - Applications Web et sécurité.
+  - Sécurité des transactions par carte bancaire.
+  - Sécurité des applications réseau.
 :::
 
-::: {.callout-note title="Prérequis" collapse="true"}
-- Développement d'API (Java, Python ou autre)  
-- Conteneurisation d'une application (Docker, Podman)  
-- Connaissances de base en réseau (DNS, proxy, reverse proxy)  
-:::
-
-### Spark en pratique
-
-|             |                          |
-|-------------|--------------------------|
-| Enseignant  | Inès Hiverlet            |
-| Atelier     | 12h                      |
-| Langue      | Français                 |
-
-Ce TP initie les étudiants à l'architecture et aux concepts de Spark pour le traitement de données distribuées et le calcul statistique. Les participants apprendront à produire des analyses et à traiter des flux de données.
-
-::: {.callout-tip title="Notions abordées"} 
-- Architecture du calcul local et distribué  
-- MapReduce et pipelines Spark  
-- Spark ML pour apprentissage statistique  
-- Traitement de flux : streaming et event-time processing  
-:::
+::::::
