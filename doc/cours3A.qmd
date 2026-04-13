@@ -491,9 +491,12 @@ Ce stage valide les compétences de statisticien/data scientist et permet de met
 
 
 
-:::::: {.callout-note collapse="true" title="Anciens cours"}
+## Anciens cours{.unnumbered}
 
 ### Systèmes répartis {.unnumbered}
+
+L'enseignant n'est plus disponible.
+Ce cours était en fait plutôt centré sur le Big Data et recoupait avec celui de Shadi.
 
 |                      |                                          |
 |----------------------|------------------------------------------|
@@ -515,6 +518,8 @@ Ce cours approfondit les architectures distribuées à l'échelle mondiale, avec
 
 ### Sécurité des données {.unnumbered}
 
+L'enseignant n'est plus disponible.
+Le cours était apprécié, mais recoupait avec d'autres et pas indispensable selon les élèves.
 
 |                      |                                          |
 |----------------------|------------------------------------------|
@@ -535,5 +540,3 @@ Ce cours explore les principes fondamentaux de la sécurité informatique, en me
   - Sécurité des transactions par carte bancaire.
   - Sécurité des applications réseau.
 :::
-
-::::::
