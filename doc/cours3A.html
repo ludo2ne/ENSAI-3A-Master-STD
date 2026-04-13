@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -41,14 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-46185c137835b3f28aaeaa55f02f2c0a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-06549e4b940a29b50247046947ad58de.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-46185c137835b3f28aaeaa55f02f2c0a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-55d5bfb2bf6fc16f70e018053466cbc6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-73449a58f70daac0ab8daaeb5a2be596.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-55d5bfb2bf6fc16f70e018053466cbc6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -353,27 +353,29 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#génie-logiciel" id="toc-génie-logiciel" class="nav-link" data-scroll-target="#génie-logiciel"><span class="header-section-number">2.1</span> Génie Logiciel</a></li>
   <li><a href="#développement-web" id="toc-développement-web" class="nav-link" data-scroll-target="#développement-web"><span class="header-section-number">2.2</span> Développement Web</a></li>
   <li><a href="#dataops" id="toc-dataops" class="nav-link" data-scroll-target="#dataops"><span class="header-section-number">2.3</span> DataOps</a></li>
+  <li><a href="#introduction-au-devsecops" id="toc-introduction-au-devsecops" class="nav-link" data-scroll-target="#introduction-au-devsecops"><span class="header-section-number">2.4</span> Introduction au DevSecOps</a></li>
   </ul></li>
   <li><a href="#ue3-big-data" id="toc-ue3-big-data" class="nav-link" data-scroll-target="#ue3-big-data"><span class="header-section-number">3</span> UE3 Big Data</a>
   <ul class="collapse">
   <li><a href="#cloud-computing" id="toc-cloud-computing" class="nav-link" data-scroll-target="#cloud-computing"><span class="header-section-number">3.1</span> Cloud Computing <span class="emoji" data-emoji="construction">🚧</span></a></li>
-  <li><a href="#technologies-nosql-et-cloud" id="toc-technologies-nosql-et-cloud" class="nav-link" data-scroll-target="#technologies-nosql-et-cloud"><span class="header-section-number">3.2</span> Technologies NoSQL et Cloud</a></li>
-  <li><a href="#indexation-web" id="toc-indexation-web" class="nav-link" data-scroll-target="#indexation-web"><span class="header-section-number">3.3</span> Indexation Web</a></li>
-  <li><a href="#publication-de-données-respectueuses" id="toc-publication-de-données-respectueuses" class="nav-link" data-scroll-target="#publication-de-données-respectueuses"><span class="header-section-number">3.4</span> Publication de données respectueuses</a></li>
+  <li><a href="#big-data-technologies" id="toc-big-data-technologies" class="nav-link" data-scroll-target="#big-data-technologies"><span class="header-section-number">3.2</span> Big Data Technologies</a></li>
+  <li><a href="#nosql-databases" id="toc-nosql-databases" class="nav-link" data-scroll-target="#nosql-databases"><span class="header-section-number">3.3</span> NoSQL Databases <span class="emoji" data-emoji="construction">🚧</span></a></li>
+  <li><a href="#spark-en-pratique" id="toc-spark-en-pratique" class="nav-link" data-scroll-target="#spark-en-pratique"><span class="header-section-number">3.4</span> Spark en pratique</a></li>
+  <li><a href="#indexation-web" id="toc-indexation-web" class="nav-link" data-scroll-target="#indexation-web"><span class="header-section-number">3.5</span> Indexation Web</a></li>
+  <li><a href="#publication-de-données-respectueuses" id="toc-publication-de-données-respectueuses" class="nav-link" data-scroll-target="#publication-de-données-respectueuses"><span class="header-section-number">3.6</span> Publication de données respectueuses</a></li>
   </ul></li>
   <li><a href="#ue4-système-et-réseaux" id="toc-ue4-système-et-réseaux" class="nav-link" data-scroll-target="#ue4-système-et-réseaux"><span class="header-section-number">4</span> UE4 Système et Réseaux</a>
   <ul class="collapse">
   <li><a href="#initiation-à-gnulinux" id="toc-initiation-à-gnulinux" class="nav-link" data-scroll-target="#initiation-à-gnulinux"><span class="header-section-number">4.1</span> Initiation à GNU/Linux</a></li>
   <li><a href="#réseaux-et-systèmes-dexploitation" id="toc-réseaux-et-systèmes-dexploitation" class="nav-link" data-scroll-target="#réseaux-et-systèmes-dexploitation"><span class="header-section-number">4.2</span> Réseaux et Systèmes d’exploitation</a></li>
-  <li><a href="#systèmes-répartis" id="toc-systèmes-répartis" class="nav-link" data-scroll-target="#systèmes-répartis"><span class="header-section-number">4.3</span> Systèmes répartis <span class="emoji" data-emoji="construction">🚧</span></a></li>
-  <li><a href="#sécurité-des-données" id="toc-sécurité-des-données" class="nav-link" data-scroll-target="#sécurité-des-données"><span class="header-section-number">4.4</span> Sécurité des données <span class="emoji" data-emoji="construction">🚧</span></a></li>
+  <li><a href="#architecture-informatique" id="toc-architecture-informatique" class="nav-link" data-scroll-target="#architecture-informatique"><span class="header-section-number">4.3</span> Architecture informatique</a></li>
+  <li><a href="#atelier-kubernetes" id="toc-atelier-kubernetes" class="nav-link" data-scroll-target="#atelier-kubernetes"><span class="header-section-number">4.4</span> Atelier Kubernetes</a></li>
   </ul></li>
   <li><a href="#ue5-formation-analyste" id="toc-ue5-formation-analyste" class="nav-link" data-scroll-target="#ue5-formation-analyste"><span class="header-section-number">5</span> UE5 Formation Analyste</a>
   <ul class="collapse">
   <li><a href="#gestion-de-projet-informatique" id="toc-gestion-de-projet-informatique" class="nav-link" data-scroll-target="#gestion-de-projet-informatique"><span class="header-section-number">5.1</span> Gestion de Projet Informatique</a></li>
   <li><a href="#modélisation-et-conception-fonctionnelle" id="toc-modélisation-et-conception-fonctionnelle" class="nav-link" data-scroll-target="#modélisation-et-conception-fonctionnelle"><span class="header-section-number">5.2</span> Modélisation et Conception Fonctionnelle</a></li>
-  <li><a href="#architecture-informatique" id="toc-architecture-informatique" class="nav-link" data-scroll-target="#architecture-informatique"><span class="header-section-number">5.3</span> Architecture informatique</a></li>
-  <li><a href="#environnement-informatique-ministériel-et-interministériel" id="toc-environnement-informatique-ministériel-et-interministériel" class="nav-link" data-scroll-target="#environnement-informatique-ministériel-et-interministériel"><span class="header-section-number">5.4</span> Environnement informatique ministériel et interministériel</a></li>
+  <li><a href="#environnement-informatique-ministériel-et-interministériel" id="toc-environnement-informatique-ministériel-et-interministériel" class="nav-link" data-scroll-target="#environnement-informatique-ministériel-et-interministériel"><span class="header-section-number">5.3</span> Environnement informatique ministériel et interministériel</a></li>
   </ul></li>
   <li><a href="#ue6-formation-avancée-à-lexamen-danalyste" id="toc-ue6-formation-avancée-à-lexamen-danalyste" class="nav-link" data-scroll-target="#ue6-formation-avancée-à-lexamen-danalyste"><span class="header-section-number">6</span> UE6 Formation avancée à l’examen d’analyste</a>
   <ul class="collapse">
@@ -384,9 +386,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#ue7-stage-et-séminaires" id="toc-ue7-stage-et-séminaires" class="nav-link" data-scroll-target="#ue7-stage-et-séminaires"><span class="header-section-number">7</span> UE7 Stage et séminaires</a>
   <ul class="collapse">
   <li><a href="#stage-de-fin-détude" id="toc-stage-de-fin-détude" class="nav-link" data-scroll-target="#stage-de-fin-détude"><span class="header-section-number">7.1</span> Stage de fin d’étude</a></li>
-  <li><a href="#introduction-au-devsecops" id="toc-introduction-au-devsecops" class="nav-link" data-scroll-target="#introduction-au-devsecops"><span class="header-section-number">7.2</span> Introduction au DevSecOps</a></li>
-  <li><a href="#atelier-kubernetes" id="toc-atelier-kubernetes" class="nav-link" data-scroll-target="#atelier-kubernetes"><span class="header-section-number">7.3</span> Atelier Kubernetes</a></li>
-  <li><a href="#spark-en-pratique" id="toc-spark-en-pratique" class="nav-link" data-scroll-target="#spark-en-pratique"><span class="header-section-number">7.4</span> Spark en pratique</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -799,6 +798,50 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
+<section id="introduction-au-devsecops" class="level3" data-number="2.4">
+<h3 data-number="2.4" class="anchored" data-anchor-id="introduction-au-devsecops"><span class="header-section-number">2.4</span> Introduction au DevSecOps</h3>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td>Enseignant</td>
+<td>Alban Gréau</td>
+</tr>
+<tr class="even">
+<td>Atelier</td>
+<td>6h</td>
+</tr>
+<tr class="odd">
+<td>Langue</td>
+<td>Français</td>
+</tr>
+</tbody>
+</table>
+<p>Ce cours sensibilise aux impératifs de sécurité dans le génie logiciel et présente les méthodes, outils et bonnes pratiques pour intégrer la sécurité dans le cycle de développement logiciel (DevSecOps).</p>
+<div class="callout callout-style-default callout-tip callout-titled" title="Notions abordées">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Notions abordées
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Principes fondamentaux de DevSecOps<br>
+</li>
+<li>Outils et technologies de sécurité intégrée<br>
+</li>
+<li>Processus d’implémentation dans le cycle CI/CD<br>
+</li>
+<li>Bonnes pratiques et méthodologies actuelles<br>
+</li>
+<li>Défis et tendances futures en sécurité logicielle<br>
+</li>
+</ul>
+</div>
+</div>
+</section>
 </section>
 <section id="ue3-big-data" class="level2" data-number="3">
 <h2 data-number="3" class="anchored" data-anchor-id="ue3-big-data"><span class="header-section-number">3</span> UE3 Big Data</h2>
@@ -818,6 +861,10 @@ ul.task-list li input[type="checkbox"] {
 <td>Langue</td>
 <td>Français</td>
 </tr>
+<tr class="even">
+<td>Commun ID</td>
+<td>Oui</td>
+</tr>
 </tbody>
 </table>
 <p>Ce cours introduit les concepts fondamentaux du cloud computing et de ses services (IaaS, PaaS, SaaS). Les étudiants apprendront à provisionner, configurer et déployer des services cloud (stockage, calcul, bases de données) sur AWS lors des travaux pratiques, ainsi qu’à concevoir des architectures hautement disponibles, tout en respectant les bonnes pratiques de sécurité et d’automatisation.</p>
@@ -832,8 +879,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Différences Cloud vs On-Premises<br>
-</li>
+<li>Différences Cloud vs On-Premises, principaux fournisseurs</li>
 <li>Services cloud : IaaS, PaaS, SaaS<br>
 </li>
 <li>Provisionnement via interface graphique et code<br>
@@ -846,14 +892,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li>Serverless et Infrastructure as Code (IaC)<br>
 </li>
-<li>Principaux fournisseurs : AWS, GCP, Azure, OVH<br>
-</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="technologies-nosql-et-cloud" class="level3" data-number="3.2">
-<h3 data-number="3.2" class="anchored" data-anchor-id="technologies-nosql-et-cloud"><span class="header-section-number">3.2</span> Technologies NoSQL et Cloud</h3>
+<section id="big-data-technologies" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="big-data-technologies"><span class="header-section-number">3.2</span> Big Data Technologies</h3>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
@@ -862,11 +906,11 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td>Cours</td>
-<td>30h</td>
+<td>18h</td>
 </tr>
 <tr class="odd">
 <td>Langue</td>
-<td>Français</td>
+<td>English</td>
 </tr>
 </tbody>
 </table>
@@ -890,14 +934,93 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li>Virtualisation et conteneurisation<br>
 </li>
-<li>Bases de données NoSQL (DynamoDB, BigTable, MongoDB, Neo4J)<br>
+</ul>
+</div>
+</div>
+</section>
+<section id="nosql-databases" class="level3" data-number="3.3">
+<h3 data-number="3.3" class="anchored" data-anchor-id="nosql-databases"><span class="header-section-number">3.3</span> NoSQL Databases <span class="emoji" data-emoji="construction">🚧</span></h3>
+<p>Auparavant dans le cours de Shadi qui laisse cette partie à Nikolaos</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 83%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Enseignant</td>
+<td>Nikolaos Parlavantzas</td>
+</tr>
+<tr class="even">
+<td>Cours</td>
+<td>12h</td>
+</tr>
+<tr class="odd">
+<td>Langue</td>
+<td>English</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-tip callout-titled" title="Notions abordées">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Notions abordées
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Bases de données NoSQL (DynamoDB, BigTable, MongoDB, Neo4J)</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="spark-en-pratique" class="level3" data-number="3.4">
+<h3 data-number="3.4" class="anchored" data-anchor-id="spark-en-pratique"><span class="header-section-number">3.4</span> Spark en pratique</h3>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td>Enseignant</td>
+<td>Inès Hiverlet</td>
+</tr>
+<tr class="even">
+<td>Atelier</td>
+<td>12h</td>
+</tr>
+<tr class="odd">
+<td>Langue</td>
+<td>Français</td>
+</tr>
+</tbody>
+</table>
+<p>Ces <a href="https://ludo2ne.github.io/ENSAI-2A-Big-Data/" target="_blank">TP</a> initient les étudiants à l’architecture et aux concepts de Spark pour le traitement de données distribuées et le calcul statistique. Les participants apprendront à produire des analyses et à traiter des flux de données.</p>
+<div class="callout callout-style-default callout-tip callout-titled" title="Notions abordées">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Notions abordées
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Architecture du calcul local et distribué<br>
+</li>
+<li>MapReduce et pipelines Spark<br>
+</li>
+<li>Spark ML pour apprentissage statistique<br>
+</li>
+<li>Traitement de flux : streaming et event-time processing<br>
 </li>
 </ul>
 </div>
 </div>
 </section>
-<section id="indexation-web" class="level3" data-number="3.3">
-<h3 data-number="3.3" class="anchored" data-anchor-id="indexation-web"><span class="header-section-number">3.3</span> Indexation Web</h3>
+<section id="indexation-web" class="level3" data-number="3.5">
+<h3 data-number="3.5" class="anchored" data-anchor-id="indexation-web"><span class="header-section-number">3.5</span> Indexation Web</h3>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
@@ -950,8 +1073,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="publication-de-données-respectueuses" class="level3" data-number="3.4">
-<h3 data-number="3.4" class="anchored" data-anchor-id="publication-de-données-respectueuses"><span class="header-section-number">3.4</span> Publication de données respectueuses</h3>
+<section id="publication-de-données-respectueuses" class="level3" data-number="3.6">
+<h3 data-number="3.6" class="anchored" data-anchor-id="publication-de-données-respectueuses"><span class="header-section-number">3.6</span> Publication de données respectueuses</h3>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
@@ -1099,96 +1222,114 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="systèmes-répartis" class="level3" data-number="4.3">
-<h3 data-number="4.3" class="anchored" data-anchor-id="systèmes-répartis"><span class="header-section-number">4.3</span> Systèmes répartis <span class="emoji" data-emoji="construction">🚧</span></h3>
+<section id="architecture-informatique" class="level3" data-number="4.3">
+<h3 data-number="4.3" class="anchored" data-anchor-id="architecture-informatique"><span class="header-section-number">4.3</span> Architecture informatique</h3>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
 <td>Enseignant</td>
-<td>David Gross-Amblard</td>
+<td>Suliac Le Guillou</td>
 </tr>
 <tr class="even">
 <td>Cours</td>
-<td>15h</td>
+<td>18h</td>
 </tr>
 <tr class="odd">
-<td>Ateliers</td>
-<td>6h</td>
-</tr>
-<tr class="even">
 <td>Langue</td>
 <td>Français</td>
 </tr>
 </tbody>
 </table>
-<div class="callout callout-style-default callout-note callout-titled" title="Contenu du cours">
+<p>Ce cours propose une vision globale de l’architecture des systèmes informatiques. Il couvre les principes fondamentaux, le stockage, les architectures client/serveur, la sécurité, l’urbanisme des systèmes et la gestion des processus et flux de données, avec des exercices pratiques pour approfondir chaque thématique.</p>
+<div class="callout callout-style-default callout-tip callout-titled" title="Notions abordées">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Contenu du cours
+<span class="screen-reader-only">Tip</span>Notions abordées
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Ce cours approfondit les architectures distribuées à l’échelle mondiale, avec une focalisation sur les grilles, les systèmes peer-to-peer (P2P) et le cloud. Les objectifs incluent la compréhension des concepts fondamentaux tels que la synchronisation et l’exclusion mutuelle, ainsi que l’étude des algorithmes associés à chaque type d’architecture.</p>
 <ul>
-<li><strong>Introduction aux Architectures Distribuées :</strong> Exploration des différentes architectures réparties.</li>
-<li><strong>Concepts Fondamentaux :</strong> Synchronisation, exclusion mutuelle, et autres concepts clés.</li>
-<li><strong>Approches Centralisées et Semi-centralisées :</strong> Étude du cloud computing et des grilles.</li>
-<li><strong>Approches Décentralisées :</strong> Analyse des systèmes P2P structurés, non-structurés et hybrides.</li>
-<li><strong>Applications Pratiques :</strong> Utilisation dans les systèmes de partage de fichiers et les protocoles épidémiques.</li>
+<li>Introduction à l’architecture : fondamentaux, architecture physique, cloud et standardisation, UML<br>
+</li>
+<li>Stockage d’information : bases de données SQL/NoSQL, systèmes de fichiers distribués, stockage objet<br>
+</li>
+<li>Client/serveur : modèle en tiers, introduction à SOA, pratique de déploiement et échanges<br>
+</li>
+<li>Sécurité : modèle de menace, vecteurs d’attaques, notions de cryptographie<br>
+</li>
+<li>Urbanisme et architecture métier : reprise des concepts, intégration SOA, écosystème applicatif<br>
+</li>
+<li>Processus et flux : traitement asynchrone, flux de données, sauvegardes, migration et urbanisme des systèmes<br>
+</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="sécurité-des-données" class="level3" data-number="4.4">
-<h3 data-number="4.4" class="anchored" data-anchor-id="sécurité-des-données"><span class="header-section-number">4.4</span> Sécurité des données <span class="emoji" data-emoji="construction">🚧</span></h3>
+<section id="atelier-kubernetes" class="level3" data-number="4.4">
+<h3 data-number="4.4" class="anchored" data-anchor-id="atelier-kubernetes"><span class="header-section-number">4.4</span> Atelier Kubernetes</h3>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
 <td>Enseignant</td>
-<td>David Gross-Amblard</td>
+<td>Hugo Simon</td>
 </tr>
 <tr class="even">
-<td>Cours</td>
-<td>9h</td>
+<td>Atelier</td>
+<td>30h</td>
 </tr>
 <tr class="odd">
-<td>Ateliers</td>
-<td>9h</td>
-</tr>
-<tr class="even">
 <td>Langue</td>
 <td>Français</td>
 </tr>
 </tbody>
 </table>
-<div class="callout callout-style-default callout-note callout-titled" title="Contenu du cours">
+<p>Ce module pratique permet de comprendre le fonctionnement de Kubernetes et son rôle central dans l’écosystème DevOps. Les étudiants apprendront à déployer des applications et services, à gérer les ressources et à packager des applications avec Helm.</p>
+<div class="callout callout-style-default callout-tip callout-titled" title="Notions abordées">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Contenu du cours
+<span class="screen-reader-only">Tip</span>Notions abordées
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Ce cours explore les principes fondamentaux de la sécurité informatique, en mettant l’accent sur la protection des données dans un contexte d’actualité dynamique marqué par des attaques spectaculaires et l’évolution des législations. La cryptographie est présentée comme un outil essentiel pour prévenir la divulgation, la modification et l’accès non autorisé aux données.</p>
 <ul>
-<li><strong>Introduction à la Sécurité :</strong> Analyse des besoins et des menaces en matière de sécurité informatique.</li>
-<li><strong>Cryptography :</strong>
-<ul>
-<li>Cryptographies à clés secrètes et publiques.</li>
-<li>Protocoles cryptographiques pour assurer la confidentialité, l’intégrité, la signature et l’authentification des données.</li>
-</ul></li>
-<li><strong>Systèmes Utilisateurs :</strong>
-<ul>
-<li>Applications Web et sécurité.</li>
-<li>Sécurité des transactions par carte bancaire.</li>
-<li>Sécurité des applications réseau.</li>
-</ul></li>
+<li>Composants d’un cluster Kubernetes : Pod, Deployment, Service, Ingress, StatefulSet<br>
+</li>
+<li>Gestion de configurations : ConfigMap, Secret, Volume<br>
+</li>
+<li>Déploiement d’APIs et solutions (base de données, authentification)<br>
+</li>
+<li>Packaging d’applications avec Helm<br>
+</li>
 </ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled" title="Prérequis">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-21-contents" aria-controls="callout-21" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Prérequis
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-21" class="callout-21-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ul>
+<li>Développement d’API (Java, Python ou autre)<br>
+</li>
+<li>Conteneurisation d’une application (Docker, Podman)<br>
+</li>
+<li>Connaissances de base en réseau (DNS, proxy, reverse proxy)<br>
+</li>
+</ul>
+</div>
 </div>
 </div>
 </section>
@@ -1241,7 +1382,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled" title="Prérequis">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-19-contents" aria-controls="callout-19" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-23-contents" aria-controls="callout-23" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
@@ -1250,7 +1391,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-19" class="callout-19-contents callout-collapse collapse">
+<div id="callout-23" class="callout-23-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <ul>
 <li>Bases en informatique et compréhension des projets logiciels<br>
@@ -1290,19 +1431,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>Diagramme de communication<br>
-</li>
-<li>Diagramme de classes<br>
-</li>
-<li>Diagramme de cas d’utilisation<br>
-</li>
-<li>Diagramme d’activités<br>
-</li>
-<li>Diagramme d’états-transitions<br>
+<li>Diagramme de communication, de classes, de cas d’utilisation, d’activités, d’états-transitions<br>
 </li>
 <li>Dictionnaire de données<br>
-</li>
-<li>TD / exercices pratiques<br>
 </li>
 <li>Rédaction et commentaires de cas d’utilisation<br>
 </li>
@@ -1310,7 +1441,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout callout-style-default callout-note callout-titled" title="Prérequis">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-21-contents" aria-controls="callout-21" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-25-contents" aria-controls="callout-25" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
@@ -1319,7 +1450,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-21" class="callout-21-contents callout-collapse collapse">
+<div id="callout-25" class="callout-25-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <ul>
 <li>Notions de base en UML<br>
@@ -1329,54 +1460,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="architecture-informatique" class="level3" data-number="5.3">
-<h3 data-number="5.3" class="anchored" data-anchor-id="architecture-informatique"><span class="header-section-number">5.3</span> Architecture informatique</h3>
-<table class="caption-top table">
-<tbody>
-<tr class="odd">
-<td>Enseignant</td>
-<td>Suliac Le Guillou</td>
-</tr>
-<tr class="even">
-<td>Cours</td>
-<td>18h</td>
-</tr>
-<tr class="odd">
-<td>Langue</td>
-<td>Français</td>
-</tr>
-</tbody>
-</table>
-<p>Ce cours propose une vision globale de l’architecture des systèmes informatiques. Il couvre les principes fondamentaux, le stockage, les architectures client/serveur, la sécurité, l’urbanisme des systèmes et la gestion des processus et flux de données, avec des exercices pratiques pour approfondir chaque thématique.</p>
-<div class="callout callout-style-default callout-tip callout-titled" title="Notions abordées">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Notions abordées
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Introduction à l’architecture : fondamentaux, architecture physique, cloud et standardisation, UML<br>
-</li>
-<li>Stockage d’information : bases de données SQL/NoSQL, systèmes de fichiers distribués, stockage objet<br>
-</li>
-<li>Client/serveur : modèle en tiers, introduction à SOA, pratique de déploiement et échanges<br>
-</li>
-<li>Sécurité : modèle de menace, vecteurs d’attaques, notions de cryptographie<br>
-</li>
-<li>Urbanisme et architecture métier : reprise des concepts, intégration SOA, écosystème applicatif<br>
-</li>
-<li>Processus et flux : traitement asynchrone, flux de données, sauvegardes, migration et urbanisme des systèmes<br>
-</li>
-</ul>
-</div>
-</div>
-</section>
-<section id="environnement-informatique-ministériel-et-interministériel" class="level3" data-number="5.4">
-<h3 data-number="5.4" class="anchored" data-anchor-id="environnement-informatique-ministériel-et-interministériel"><span class="header-section-number">5.4</span> Environnement informatique ministériel et interministériel</h3>
+<section id="environnement-informatique-ministériel-et-interministériel" class="level3" data-number="5.3">
+<h3 data-number="5.3" class="anchored" data-anchor-id="environnement-informatique-ministériel-et-interministériel"><span class="header-section-number">5.3</span> Environnement informatique ministériel et interministériel</h3>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
@@ -1474,155 +1559,112 @@ ul.task-list li input[type="checkbox"] {
 <section id="stage-de-fin-détude" class="level3" data-number="7.1">
 <h3 data-number="7.1" class="anchored" data-anchor-id="stage-de-fin-détude"><span class="header-section-number">7.1</span> Stage de fin d’étude</h3>
 <p>Ce stage valide les compétences de statisticien/data scientist et permet de mettre en pratique les connaissances théoriques et les aptitudes professionnelles dans un environnement réel.</p>
-</section>
-<section id="introduction-au-devsecops" class="level3" data-number="7.2">
-<h3 data-number="7.2" class="anchored" data-anchor-id="introduction-au-devsecops"><span class="header-section-number">7.2</span> Introduction au DevSecOps</h3>
-<table class="caption-top table">
-<tbody>
-<tr class="odd">
-<td>Enseignant</td>
-<td>Alban Gréau</td>
-</tr>
-<tr class="even">
-<td>Atelier</td>
-<td>6h</td>
-</tr>
-<tr class="odd">
-<td>Langue</td>
-<td>Français</td>
-</tr>
-</tbody>
-</table>
-<p>Ce cours sensibilise aux impératifs de sécurité dans le génie logiciel et présente les méthodes, outils et bonnes pratiques pour intégrer la sécurité dans le cycle de développement logiciel (DevSecOps).</p>
-<div class="callout callout-style-default callout-tip callout-titled" title="Notions abordées">
-<div class="callout-header d-flex align-content-center">
+<div class="callout callout-style-default callout-note callout-titled" title="Anciens cours">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-30-contents" aria-controls="callout-30" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Notions abordées
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Principes fondamentaux de DevSecOps<br>
-</li>
-<li>Outils et technologies de sécurité intégrée<br>
-</li>
-<li>Processus d’implémentation dans le cycle CI/CD<br>
-</li>
-<li>Bonnes pratiques et méthodologies actuelles<br>
-</li>
-<li>Défis et tendances futures en sécurité logicielle<br>
-</li>
-</ul>
-</div>
-</div>
-</section>
-<section id="atelier-kubernetes" class="level3" data-number="7.3">
-<h3 data-number="7.3" class="anchored" data-anchor-id="atelier-kubernetes"><span class="header-section-number">7.3</span> Atelier Kubernetes</h3>
-<table class="caption-top table">
-<tbody>
-<tr class="odd">
-<td>Enseignant</td>
-<td>Hugo Simon</td>
-</tr>
-<tr class="even">
-<td>Atelier</td>
-<td>30h</td>
-</tr>
-<tr class="odd">
-<td>Langue</td>
-<td>Français</td>
-</tr>
-</tbody>
-</table>
-<p>Ce module pratique permet de comprendre le fonctionnement de Kubernetes et son rôle central dans l’écosystème DevOps. Les étudiants apprendront à déployer des applications et services, à gérer les ressources et à packager des applications avec Helm.</p>
-<div class="callout callout-style-default callout-tip callout-titled" title="Notions abordées">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Notions abordées
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Composants d’un cluster Kubernetes : Pod, Deployment, Service, Ingress, StatefulSet<br>
-</li>
-<li>Gestion de configurations : ConfigMap, Secret, Volume<br>
-</li>
-<li>Déploiement d’APIs et solutions (base de données, authentification)<br>
-</li>
-<li>Packaging d’applications avec Helm<br>
-</li>
-</ul>
-</div>
-</div>
-<div class="callout callout-style-default callout-note callout-titled" title="Prérequis">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-27-contents" aria-controls="callout-27" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Prérequis
+<span class="screen-reader-only">Note</span>Anciens cours
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-27" class="callout-27-contents callout-collapse collapse">
+<div id="callout-30" class="callout-30-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<ul>
-<li>Développement d’API (Java, Python ou autre)<br>
-</li>
-<li>Conteneurisation d’une application (Docker, Podman)<br>
-</li>
-<li>Connaissances de base en réseau (DNS, proxy, reverse proxy)<br>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</section>
-<section id="spark-en-pratique" class="level3" data-number="7.4">
-<h3 data-number="7.4" class="anchored" data-anchor-id="spark-en-pratique"><span class="header-section-number">7.4</span> Spark en pratique</h3>
+<section id="systèmes-répartis" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="systèmes-répartis">Systèmes répartis</h3>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
 <td>Enseignant</td>
-<td>Inès Hiverlet</td>
+<td>David Gross-Amblard</td>
 </tr>
 <tr class="even">
-<td>Atelier</td>
-<td>12h</td>
+<td>Cours</td>
+<td>15h</td>
 </tr>
 <tr class="odd">
+<td>Ateliers</td>
+<td>6h</td>
+</tr>
+<tr class="even">
 <td>Langue</td>
 <td>Français</td>
 </tr>
 </tbody>
 </table>
-<p>Ce TP initie les étudiants à l’architecture et aux concepts de Spark pour le traitement de données distribuées et le calcul statistique. Les participants apprendront à produire des analyses et à traiter des flux de données.</p>
-<div class="callout callout-style-default callout-tip callout-titled" title="Notions abordées">
+<div class="callout callout-style-default callout-note callout-titled" title="Contenu du cours">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Notions abordées
+<span class="screen-reader-only">Note</span>Contenu du cours
 </div>
 </div>
 <div class="callout-body-container callout-body">
+<p>Ce cours approfondit les architectures distribuées à l’échelle mondiale, avec une focalisation sur les grilles, les systèmes peer-to-peer (P2P) et le cloud. Les objectifs incluent la compréhension des concepts fondamentaux tels que la synchronisation et l’exclusion mutuelle, ainsi que l’étude des algorithmes associés à chaque type d’architecture.</p>
 <ul>
-<li>Architecture du calcul local et distribué<br>
-</li>
-<li>MapReduce et pipelines Spark<br>
-</li>
-<li>Spark ML pour apprentissage statistique<br>
-</li>
-<li>Traitement de flux : streaming et event-time processing<br>
-</li>
+<li><strong>Introduction aux Architectures Distribuées :</strong> Exploration des différentes architectures réparties.</li>
+<li><strong>Concepts Fondamentaux :</strong> Synchronisation, exclusion mutuelle, et autres concepts clés.</li>
+<li><strong>Approches Centralisées et Semi-centralisées :</strong> Étude du cloud computing et des grilles.</li>
+<li><strong>Approches Décentralisées :</strong> Analyse des systèmes P2P structurés, non-structurés et hybrides.</li>
+<li><strong>Applications Pratiques :</strong> Utilisation dans les systèmes de partage de fichiers et les protocoles épidémiques.</li>
 </ul>
+</div>
+</div>
+</section>
+<section id="sécurité-des-données" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="sécurité-des-données">Sécurité des données</h3>
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td>Enseignant</td>
+<td>David Gross-Amblard</td>
+</tr>
+<tr class="even">
+<td>Cours</td>
+<td>9h</td>
+</tr>
+<tr class="odd">
+<td>Ateliers</td>
+<td>9h</td>
+</tr>
+<tr class="even">
+<td>Langue</td>
+<td>Français</td>
+</tr>
+</tbody>
+</table>
+<div class="callout callout-style-default callout-note callout-titled" title="Contenu du cours">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Contenu du cours
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Ce cours explore les principes fondamentaux de la sécurité informatique, en mettant l’accent sur la protection des données dans un contexte d’actualité dynamique marqué par des attaques spectaculaires et l’évolution des législations. La cryptographie est présentée comme un outil essentiel pour prévenir la divulgation, la modification et l’accès non autorisé aux données.</p>
+<ul>
+<li><strong>Introduction à la Sécurité :</strong> Analyse des besoins et des menaces en matière de sécurité informatique.</li>
+<li><strong>Cryptography :</strong>
+<ul>
+<li>Cryptographies à clés secrètes et publiques.</li>
+<li>Protocoles cryptographiques pour assurer la confidentialité, l’intégrité, la signature et l’authentification des données.</li>
+</ul></li>
+<li><strong>Systèmes Utilisateurs :</strong>
+<ul>
+<li>Applications Web et sécurité.</li>
+<li>Sécurité des transactions par carte bancaire.</li>
+<li>Sécurité des applications réseau.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</section>
+</div>
 </div>
 </div>
 
