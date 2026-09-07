@@ -2,7 +2,7 @@
 title: "Accueil Master STD"
 subtitle: "Rentrée Master Statistique et Traitement des Données"
 author: "Ludovic Deneuville"
-date: "8 septembre 2025"
+date: "7 septembre 2026"
 format:
   revealjs:
     theme: moon
@@ -23,6 +23,8 @@ Quelques règles de bienséance :
 
 - dire bonjour
 - prévenir en cas d'absence
+  - :warning: retenue sur salaire en juin
+  - réputation
 :::
 
 
@@ -40,9 +42,9 @@ Quelques règles de bienséance :
 :::{.notes}
 Sans oublier l'anglais
 
-Intro à K8s, à Spark
+- Beaucoup de cours en visio cette année...
+- Intervenants de Toulouse, Lille...
 
-Vous avez tous votre ordi ?
 :::
 
 ## Examen Analyste
@@ -52,6 +54,10 @@ Vous avez tous votre ordi ?
 - Pas obligatoire pour travailler en service Info à l'INSEE
   - mais fortement recommandé
 - Prime analyste : 225€ / mois
+
+:::{.notes}
+On aime bien narguer la DGFIP avec nos 100 % de réussite.
+:::
 
 
 ## Examen Analyste
@@ -91,6 +97,10 @@ Oral :
 - 2 sujets
   - choix d'un sujet :arrow_right: prez 10min
 - puis 10min questions
+
+La première fois c'est douloureux...
+
+Thomas -> Président de jury
 :::
 
 
@@ -133,9 +143,9 @@ OB1 le 4/12
 - Remboursement de frais
 
 ::: {.notes}
-Volontaire (délégué ?) pour participer à réunion.
-
-Prévenir si situation particulière (n'habite pas Rennes)
+- Volontaire (délégué ?) pour participer à réunion.
+- Prévenir si situation particulière (n'habite pas Rennes)
+- Répondre aux mails des RH
 :::
 
 
@@ -193,3 +203,8 @@ Avoir fait un poste dans la sphère info est un vrai plus
 - Ingénieur Système et Sécurité
 - Ingénieur DevOps
 - Ingénieur dans l'équipe produit Kubernetes
+
+:::{.notes}
+- :warning: compétences demandées
+- Parfois on recherche le mouton à 5 pates
+:::
