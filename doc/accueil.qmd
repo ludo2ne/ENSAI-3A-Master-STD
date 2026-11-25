@@ -27,6 +27,11 @@ Quelques règles de bienséance :
   - réputation
 :::
 
+## Machine
+
+- [ ] Aller voir la DSI si vous n'avez pas votre machine Ubuntu
+  - Par exemple si vous étiez en ERASMUS
+
 
 ## UE et Matières
 

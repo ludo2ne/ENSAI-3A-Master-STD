@@ -1,7 +1,7 @@
 ---
 title: "Stage Master STD"
 author: "Ludovic Deneuville"
-description: "[Format Slide](stage-slide.html)"
+description: "👉 [Slides](stage-slide.html) 👈"
 format:
   html:
     toc: true
@@ -19,13 +19,13 @@ format:
 from: markdown+emoji
 ---
 
-## Modalités :memo:
+## Modalités 📝
 
 - durée : entre 20 semaines et 6 mois
-- entre le 16 mars et le 31 août
+- entre le 22 mars et le 31 août
 
 
-## Objectifs :dart: 
+## Objectifs 🎯
 
 - Mobiliser les connaissances acquises à l'ENSAI 
 - Mise en situation professionnelle réelle
@@ -34,8 +34,14 @@ from: markdown+emoji
 - Gagner en autonomie
 - Prendre des initiatives, explorer des technologies émergentes
 
+:::{.notes}
+- Prenez des initiatives ➡️ valable toute votre carrière
+- Equipe : discutez avec gens, faites vous connaitre
+  - dommage de se faire coller une étiquette négative
+  - INSEE : tout le monde se connait
+:::
 
-## Contenu :gem:
+## Contenu 💎
 
 En lien avec les enseignements de la filière STD :
 
@@ -50,7 +56,9 @@ Il est préférable de travailler sur des domaines connus et ensuite d'aller plu
 Plutôt que de partir directement sur des sujets trop exotiques.
 :::
 
-
+:::{.notes}
+IA
+:::
 
 ### Exemples de sujets de stages {.smaller}
 
@@ -62,6 +70,10 @@ Plutôt que de partir directement sur des sujets trop exotiques.
 - Développement d'une application mobile pour les enquêteurs
 - OpenSource et Modularité à l'INSEE : Exemple avec l'implémentation d'une méthode d'échantillonage
 - Comment proposer une architecture conteneurisée pour répondre aux besoins de services en « self-déploiement » et d'intégration continue ?
+
+:::{.notes}
+Explorer usages de l'IA pour faire ...
+:::
 
 
 ## Sujet {.smaller}
@@ -79,7 +91,7 @@ Une offre ou un sujet de stage devra contenir les éléments suivants :
 - Maitre de stage
 
 
-## Étapes :hourglass:
+## Étapes ⏳
 
 1. Recherche bibliographique
 2. Rencontrer les acteurs (Utilisateurs, MOA, Experts...)
@@ -87,17 +99,28 @@ Une offre ou un sujet de stage devra contenir les éléments suivants :
 4. Expériences, analyses
 5. Mise en valeur des résultats
 
+:::{.notes}
+- Ne pas négliger la biblio, ⚠️ à ne pas réinventer la roue
+
+💡 Ecoutez les conseils de votre tuteur.
+:::
 
 ### Réalisations attendues
 
-Par exemple :
+::: {.callout-caution}
+Vous n'êtes pas en stage d'observation !
 
-- Un produit viable
-- Des résultats d'une expérience
-- Un déploiement sur la plateforme dev.insee.io
+Nous attendons des résultats **concrets**, **utiles** et **mesurables**.
+:::
+
+Exemples :
+
+- Un produit ou un outil opérationnel
+- Des résultats d'expérimentation
+- Des préconisations argumentées
 
 
-## Les acteurs :tophat: 
+## Les acteurs 🎩
 
 ### Maitre de stage 
 
@@ -109,6 +132,11 @@ Par exemple :
 - Réalise un entretien de fin de stage
 - Renseigne la grille d'évaluation
 
+:::{.notes}
+Plusieurs profils : très impliqué, connait bien le sujet, parfois moins
+
+💡 Ecoutez ses conseils et appliquez-les !
+:::
 
 ### Référent pédagogique 
 
@@ -116,10 +144,16 @@ Par exemple :
 - S'assure du bon déroulement du stage
 - Point d'avancement de vos travaux en Mai
 
+:::{.notes}
+N'hésitez pas à demander un retour en visio.
 
-## Livrables :truck:
+Eventuellement demander si possible relire v0 du rapport ?
+:::
+
+## Livrables 📦
 
 - Mi-mai : Note d'étape
+  - À envoyer par mail + déposer sur Moodle
 - Fin août : Rapport final + Note de synthèse en anglais
 - Mi-sept : Soutenance
 
@@ -133,7 +167,7 @@ Par exemple :
 - état actuel de vos travaux
 
 
-## Rapport :blue_book:
+## Rapport 📘
 
 - 30 pages maximum hors annexes
 
@@ -187,7 +221,6 @@ Montrez-nous que vous avez pris de la hauteur !
 - Livres
 - Conférences
 
-
 ### Démarche scientifique
 
 Adoptez une démarche scientifique :
@@ -205,7 +238,7 @@ Adoptez une démarche scientifique :
 - Par contre, il faut savoir répondre à une question de stat lors de la soutenance
 
 
-## Note de synthèse :guardsman:
+## Note de synthèse 💂
 
 - En anglais
 - 4 pages maximum
@@ -216,17 +249,21 @@ Adoptez une démarche scientifique :
 - Questions : 25 min
 
 ::: {.callout-note}
-La soutenance se déroulera en présence :
+La soutenance se déroulera en présence de 4 personnes :
 
-- d'un président de jury
-- de l'encadrant pédagogique de l'ENSAI
-- du maitre de stage
+- Présidente de jury
+- Vice-président de jury
+- Encadrant pédagogique de l'ENSAI
+- Maitre de stage
 :::
 
+:::{.notes}
+Jury bienveillant mais pas là pour faire des cadeaux.
+:::
 
 ## Erreurs à éviter :warning:
 
-### Erreur 1 : ne pas alerter
+### Erreur 1 : ne pas alerter 🚨
 
 N'attendez pas la note d'étape et encore moins le dernier mois pour dire que ça ne va pas !
 
@@ -234,26 +271,26 @@ N'attendez pas la note d'étape et encore moins le dernier mois pour dire que ç
 2. Contactez votre référent ENSAI
 
 
-### Erreur 2 : Ignorer le métier
+### Erreur 2 : Ignorer le métier 👷🏾
 
 ::: {.callout-important}
-Un développeur rend service à des utilisateurs.
+L'informatique est au service des utilisateurs.
 
 Il faut donc apprendre le contexte métier dans lequel vous travaillez.
 :::
 
 
-### Erreur 3 : Contexte INSEE
+### Erreur 3 : Contexte INSEE 📊
 
-Trop faible connaissance du contexte INSEE (ou de la structure d'accueil)
+Trop faible connaissance du contexte INSEE (ou de la structure d'accueil).
 
 Solutions :
 
-- Discuter avec les développeurs
+- Discuter avec les développeurs, les développeuses
 - S'abonner aux canaux actifs sur Tchap
 - Aller aux dev'académy, séminaires de développement...
 
-### Erreur 4 : négliger le rapport
+### Erreur 4 : négliger le rapport 📋
 
 - Respectez le format attendu
 - Donnez des titres informatifs à vos parties
@@ -273,7 +310,7 @@ Si vous utilisez une image, vérifiez qu'elle est libre de droits.
 - Insérer des figures sans aucune explication
 :::
 
-### Mise en valeur
+### Mise en valeur ✨
 
 Vous n'arrivez pas à montrer ce que vous avez fait :
 
@@ -281,7 +318,7 @@ Vous n'arrivez pas à montrer ce que vous avez fait :
 - Manque de technique : vous ne connaissez pas des notions de base
 
 
-### Stage "prise de poste"
+### Stage "prise de poste" ⚠
 
 ::: {.callout}
 Vous devez réaliser un stage de niveau Master 2 sur un sujet bien précis.
