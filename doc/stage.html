@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.11.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Ludovic Deneuville">
-<meta name="description" content="Format Slide">
+<meta name="description" content="👉 Slides 👈">
 
 <title>Stage Master STD – Master STD</title>
 <style>
@@ -40,18 +40,19 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-447e42e69aaa9833c0ba1b986f430b20.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-66c1eaa4de52f21e794c8bf7f7d26b07.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-b5234a5252370d683d0a49c8c787045c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-66c1eaa4de52f21e794c8bf7f7d26b07.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-d1fb3a83cdc89b39e4b92ba18c2dd102.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-c1269d136e6f29c7e79097f0be63cb2b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-d1fb3a83cdc89b39e4b92ba18c2dd102.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -85,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="none">
 </head>
 
-<body class="floating nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="floating nav-fixed quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -108,6 +109,7 @@ ul.task-list li input[type="checkbox"] {
       for (let i=0; i < toggles.length; i++) {
         const toggle = toggles[i];
         if (toggle) {
+          toggle.setAttribute("aria-checked", alternate ? "true" : "false");
           if (alternate) {
             toggle.classList.add("alternate");
           } else {
@@ -137,13 +139,19 @@ ul.task-list li input[type="checkbox"] {
       manageTransitions('#quarto-margin-sidebar .nav-link', true);
       // Switch the toggles
       setColorSchemeToggle(alternate)
-      // Hack to workaround the fact that safari doesn't
-      // properly recolor the scrollbar when toggling (#1455)
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455).
+    // Not run on load: stylesheets are set before first paint there, and
+    // scrolling would undo the scroll to a URL fragment (#14973).
+    // The one pixel nudge keeps the reader where they were.
+    const refreshSafariScrollbar = () => {
       if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
         manageTransitions("body", false);
-        window.scrollTo(0, 1);
+        const scrollY = window.scrollY;
+        window.scrollTo(0, scrollY > 0 ? scrollY - 1 : 1);
         setTimeout(() => {
-          window.scrollTo(0, 0);
+          window.scrollTo(0, scrollY);
           manageTransitions("body", true);
         }, 40);
       }
@@ -237,6 +245,7 @@ ul.task-list li input[type="checkbox"] {
       // Read the current dark / light value
       let toAlternate = !hasAlternateSentinel();
       toggleColorMode(toAlternate);
+      refreshSafariScrollbar();
       setStyleSentinel(toAlternate);
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
       window.dispatchEvent(new Event('resize'));
@@ -251,15 +260,14 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark" aria-label="Site">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Master STD</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -328,45 +336,46 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <button type="button" role="switch" aria-checked="false" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode" aria-label="Toggle dark mode"><i class="bi"></i></button>
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
   </div>
 </a>
 </div>
+            <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="3">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto" aria-label="Section">
+    <nav id="TOC" role="doc-toc" aria-labelledby="toc-title" class="toc-active" data-toc-expanded="3">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#modalités" id="toc-modalités" class="nav-link active" data-scroll-target="#modalités">Modalités <span class="emoji" data-emoji="memo">📝</span></a></li>
-  <li><a href="#objectifs" id="toc-objectifs" class="nav-link" data-scroll-target="#objectifs">Objectifs <span class="emoji" data-emoji="dart">🎯</span></a></li>
-  <li><a href="#contenu" id="toc-contenu" class="nav-link" data-scroll-target="#contenu">Contenu <span class="emoji" data-emoji="gem">💎</span></a>
+  <li><a href="#modalités" id="toc-modalités" class="nav-link active" data-scroll-target="#modalités">Modalités 📝</a></li>
+  <li><a href="#objectifs" id="toc-objectifs" class="nav-link" data-scroll-target="#objectifs">Objectifs 🎯</a></li>
+  <li><a href="#contenu" id="toc-contenu" class="nav-link" data-scroll-target="#contenu">Contenu 💎</a>
   <ul class="collapse">
   <li><a href="#exemples-de-sujets-de-stages" id="toc-exemples-de-sujets-de-stages" class="nav-link" data-scroll-target="#exemples-de-sujets-de-stages">Exemples de sujets de stages</a></li>
   </ul></li>
   <li><a href="#sujet" id="toc-sujet" class="nav-link" data-scroll-target="#sujet">Sujet</a></li>
-  <li><a href="#étapes" id="toc-étapes" class="nav-link" data-scroll-target="#étapes">Étapes <span class="emoji" data-emoji="hourglass">⌛</span></a>
+  <li><a href="#étapes" id="toc-étapes" class="nav-link" data-scroll-target="#étapes">Étapes ⏳</a>
   <ul class="collapse">
   <li><a href="#réalisations-attendues" id="toc-réalisations-attendues" class="nav-link" data-scroll-target="#réalisations-attendues">Réalisations attendues</a></li>
   </ul></li>
-  <li><a href="#les-acteurs" id="toc-les-acteurs" class="nav-link" data-scroll-target="#les-acteurs">Les acteurs <span class="emoji" data-emoji="tophat">🎩</span></a>
+  <li><a href="#les-acteurs" id="toc-les-acteurs" class="nav-link" data-scroll-target="#les-acteurs">Les acteurs 🎩</a>
   <ul class="collapse">
   <li><a href="#maitre-de-stage" id="toc-maitre-de-stage" class="nav-link" data-scroll-target="#maitre-de-stage">Maitre de stage</a></li>
   <li><a href="#référent-pédagogique" id="toc-référent-pédagogique" class="nav-link" data-scroll-target="#référent-pédagogique">Référent pédagogique</a></li>
   </ul></li>
-  <li><a href="#livrables" id="toc-livrables" class="nav-link" data-scroll-target="#livrables">Livrables <span class="emoji" data-emoji="truck">🚚</span></a>
+  <li><a href="#livrables" id="toc-livrables" class="nav-link" data-scroll-target="#livrables">Livrables 📦</a>
   <ul class="collapse">
   <li><a href="#note-détape" id="toc-note-détape" class="nav-link" data-scroll-target="#note-détape">Note d’étape</a></li>
   </ul></li>
-  <li><a href="#rapport" id="toc-rapport" class="nav-link" data-scroll-target="#rapport">Rapport <span class="emoji" data-emoji="blue_book">📘</span></a>
+  <li><a href="#rapport" id="toc-rapport" class="nav-link" data-scroll-target="#rapport">Rapport 📘</a>
   <ul class="collapse">
   <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
   <li><a href="#partie-1-contexte" id="toc-partie-1-contexte" class="nav-link" data-scroll-target="#partie-1-contexte">Partie 1 : Contexte</a></li>
@@ -375,16 +384,16 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#démarche-scientifique" id="toc-démarche-scientifique" class="nav-link" data-scroll-target="#démarche-scientifique">Démarche scientifique</a></li>
   <li><a href="#et-les-stats" id="toc-et-les-stats" class="nav-link" data-scroll-target="#et-les-stats">Et les Stats ?</a></li>
   </ul></li>
-  <li><a href="#note-de-synthèse" id="toc-note-de-synthèse" class="nav-link" data-scroll-target="#note-de-synthèse">Note de synthèse <span class="emoji" data-emoji="guardsman">💂‍♂️</span></a></li>
+  <li><a href="#note-de-synthèse" id="toc-note-de-synthèse" class="nav-link" data-scroll-target="#note-de-synthèse">Note de synthèse 💂</a></li>
   <li><a href="#soutenance" id="toc-soutenance" class="nav-link" data-scroll-target="#soutenance">Soutenance <span class="emoji" data-emoji="tada">🎉</span></a></li>
   <li><a href="#erreurs-à-éviter" id="toc-erreurs-à-éviter" class="nav-link" data-scroll-target="#erreurs-à-éviter">Erreurs à éviter <span class="emoji" data-emoji="warning">⚠️</span></a>
   <ul class="collapse">
-  <li><a href="#erreur-1-ne-pas-alerter" id="toc-erreur-1-ne-pas-alerter" class="nav-link" data-scroll-target="#erreur-1-ne-pas-alerter">Erreur 1 : ne pas alerter</a></li>
-  <li><a href="#erreur-2-ignorer-le-métier" id="toc-erreur-2-ignorer-le-métier" class="nav-link" data-scroll-target="#erreur-2-ignorer-le-métier">Erreur 2 : Ignorer le métier</a></li>
-  <li><a href="#erreur-3-contexte-insee" id="toc-erreur-3-contexte-insee" class="nav-link" data-scroll-target="#erreur-3-contexte-insee">Erreur 3 : Contexte INSEE</a></li>
-  <li><a href="#erreur-4-négliger-le-rapport" id="toc-erreur-4-négliger-le-rapport" class="nav-link" data-scroll-target="#erreur-4-négliger-le-rapport">Erreur 4 : négliger le rapport</a></li>
-  <li><a href="#mise-en-valeur" id="toc-mise-en-valeur" class="nav-link" data-scroll-target="#mise-en-valeur">Mise en valeur</a></li>
-  <li><a href="#stage-prise-de-poste" id="toc-stage-prise-de-poste" class="nav-link" data-scroll-target="#stage-prise-de-poste">Stage “prise de poste”</a></li>
+  <li><a href="#erreur-1-ne-pas-alerter" id="toc-erreur-1-ne-pas-alerter" class="nav-link" data-scroll-target="#erreur-1-ne-pas-alerter">Erreur 1 : ne pas alerter 🚨</a></li>
+  <li><a href="#erreur-2-ignorer-le-métier" id="toc-erreur-2-ignorer-le-métier" class="nav-link" data-scroll-target="#erreur-2-ignorer-le-métier">Erreur 2 : Ignorer le métier 👷🏾</a></li>
+  <li><a href="#erreur-3-contexte-insee" id="toc-erreur-3-contexte-insee" class="nav-link" data-scroll-target="#erreur-3-contexte-insee">Erreur 3 : Contexte INSEE 📊</a></li>
+  <li><a href="#erreur-4-négliger-le-rapport" id="toc-erreur-4-négliger-le-rapport" class="nav-link" data-scroll-target="#erreur-4-négliger-le-rapport">Erreur 4 : négliger le rapport 📋</a></li>
+  <li><a href="#mise-en-valeur" id="toc-mise-en-valeur" class="nav-link" data-scroll-target="#mise-en-valeur">Mise en valeur ✨</a></li>
+  <li><a href="#stage-prise-de-poste" id="toc-stage-prise-de-poste" class="nav-link" data-scroll-target="#stage-prise-de-poste">Stage “prise de poste” ⚠</a></li>
   </ul></li>
   <li><a href="#liens-utiles" id="toc-liens-utiles" class="nav-link" data-scroll-target="#liens-utiles">Liens utiles <span class="emoji" data-emoji="link">🔗</span></a></li>
   <li><a href="#pour-terminer" id="toc-pour-terminer" class="nav-link" data-scroll-target="#pour-terminer">Pour terminer <span class="emoji" data-emoji="checkered_flag">🏁</span></a></li>
@@ -396,7 +405,7 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content" tabindex="-1">
 
 
 <header id="title-block-header" class="quarto-title-block default">
@@ -406,7 +415,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    <a href="stage-slide.html">Format Slide</a>
+    👉 <a href="stage-slide.html">Slides</a> 👈
   </div>
 </div>
 
@@ -430,14 +439,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <section id="modalités" class="level2">
-<h2 class="anchored" data-anchor-id="modalités">Modalités <span class="emoji" data-emoji="memo">📝</span></h2>
+<h2 class="anchored" data-anchor-id="modalités">Modalités 📝</h2>
 <ul>
 <li>durée : entre 20 semaines et 6 mois</li>
-<li>entre le 16 mars et le 31 août</li>
+<li>entre le 22 mars et le 31 août</li>
 </ul>
 </section>
 <section id="objectifs" class="level2">
-<h2 class="anchored" data-anchor-id="objectifs">Objectifs <span class="emoji" data-emoji="dart">🎯</span></h2>
+<h2 class="anchored" data-anchor-id="objectifs">Objectifs 🎯</h2>
 <ul>
 <li>Mobiliser les connaissances acquises à l’ENSAI</li>
 <li>Mise en situation professionnelle réelle</li>
@@ -446,9 +455,19 @@ ul.task-list li input[type="checkbox"] {
 <li>Gagner en autonomie</li>
 <li>Prendre des initiatives, explorer des technologies émergentes</li>
 </ul>
+<div class="notes">
+<ul>
+<li>Prenez des initiatives ➡️ valable toute votre carrière</li>
+<li>Equipe : discutez avec gens, faites vous connaitre
+<ul>
+<li>dommage de se faire coller une étiquette négative</li>
+<li>INSEE : tout le monde se connait</li>
+</ul></li>
+</ul>
+</div>
 </section>
 <section id="contenu" class="level2">
-<h2 class="anchored" data-anchor-id="contenu">Contenu <span class="emoji" data-emoji="gem">💎</span></h2>
+<h2 class="anchored" data-anchor-id="contenu">Contenu 💎</h2>
 <p>En lien avec les enseignements de la filière STD :</p>
 <ul>
 <li>Machine Learning (Deep Learning, NLP)</li>
@@ -470,6 +489,9 @@ Note
 <p>Plutôt que de partir directement sur des sujets trop exotiques.</p>
 </div>
 </div>
+<div class="notes">
+<p>IA</p>
+</div>
 <section id="exemples-de-sujets-de-stages" class="level3 smaller">
 <h3 class="smaller anchored" data-anchor-id="exemples-de-sujets-de-stages">Exemples de sujets de stages</h3>
 <ul>
@@ -482,6 +504,9 @@ Note
 <li>OpenSource et Modularité à l’INSEE : Exemple avec l’implémentation d’une méthode d’échantillonage</li>
 <li>Comment proposer une architecture conteneurisée pour répondre aux besoins de services en « self-déploiement » et d’intégration continue ?</li>
 </ul>
+<div class="notes">
+<p>Explorer usages de l’IA pour faire …</p>
+</div>
 </section>
 </section>
 <section id="sujet" class="level2 smaller">
@@ -502,7 +527,7 @@ Note
 </ul>
 </section>
 <section id="étapes" class="level2">
-<h2 class="anchored" data-anchor-id="étapes">Étapes <span class="emoji" data-emoji="hourglass">⌛</span></h2>
+<h2 class="anchored" data-anchor-id="étapes">Étapes ⏳</h2>
 <ol type="1">
 <li>Recherche bibliographique</li>
 <li>Rencontrer les acteurs (Utilisateurs, MOA, Experts…)</li>
@@ -510,18 +535,38 @@ Note
 <li>Expériences, analyses</li>
 <li>Mise en valeur des résultats</li>
 </ol>
+<div class="notes">
+<ul>
+<li>Ne pas négliger la biblio, ⚠️ à ne pas réinventer la roue</li>
+</ul>
+<p>💡 Ecoutez les conseils de votre tuteur.</p>
+</div>
 <section id="réalisations-attendues" class="level3">
 <h3 class="anchored" data-anchor-id="réalisations-attendues">Réalisations attendues</h3>
-<p>Par exemple :</p>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Caution
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Vous n’êtes pas en stage d’observation !</p>
+<p>Nous attendons des résultats <strong>concrets</strong>, <strong>utiles</strong> et <strong>mesurables</strong>.</p>
+</div>
+</div>
+<p>Exemples :</p>
 <ul>
-<li>Un produit viable</li>
-<li>Des résultats d’une expérience</li>
-<li>Un déploiement sur la plateforme dev.insee.io</li>
+<li>Un produit ou un outil opérationnel</li>
+<li>Des résultats d’expérimentation</li>
+<li>Des préconisations argumentées</li>
 </ul>
 </section>
 </section>
 <section id="les-acteurs" class="level2">
-<h2 class="anchored" data-anchor-id="les-acteurs">Les acteurs <span class="emoji" data-emoji="tophat">🎩</span></h2>
+<h2 class="anchored" data-anchor-id="les-acteurs">Les acteurs 🎩</h2>
 <section id="maitre-de-stage" class="level3">
 <h3 class="anchored" data-anchor-id="maitre-de-stage">Maitre de stage</h3>
 <ul>
@@ -533,6 +578,10 @@ Note
 <li>Réalise un entretien de fin de stage</li>
 <li>Renseigne la grille d’évaluation</li>
 </ul>
+<div class="notes">
+<p>Plusieurs profils : très impliqué, connait bien le sujet, parfois moins</p>
+<p>💡 Ecoutez ses conseils et appliquez-les !</p>
+</div>
 </section>
 <section id="référent-pédagogique" class="level3">
 <h3 class="anchored" data-anchor-id="référent-pédagogique">Référent pédagogique</h3>
@@ -541,12 +590,19 @@ Note
 <li>S’assure du bon déroulement du stage</li>
 <li>Point d’avancement de vos travaux en Mai</li>
 </ul>
+<div class="notes">
+<p>N’hésitez pas à demander un retour en visio.</p>
+<p>Eventuellement demander si possible relire v0 du rapport ?</p>
+</div>
 </section>
 </section>
 <section id="livrables" class="level2">
-<h2 class="anchored" data-anchor-id="livrables">Livrables <span class="emoji" data-emoji="truck">🚚</span></h2>
+<h2 class="anchored" data-anchor-id="livrables">Livrables 📦</h2>
 <ul>
-<li>Mi-mai : Note d’étape</li>
+<li>Mi-mai : Note d’étape
+<ul>
+<li>À envoyer par mail + déposer sur Moodle</li>
+</ul></li>
 <li>Fin août : Rapport final + Note de synthèse en anglais</li>
 <li>Mi-sept : Soutenance</li>
 </ul>
@@ -563,7 +619,7 @@ Note
 </section>
 </section>
 <section id="rapport" class="level2">
-<h2 class="anchored" data-anchor-id="rapport">Rapport <span class="emoji" data-emoji="blue_book">📘</span></h2>
+<h2 class="anchored" data-anchor-id="rapport">Rapport 📘</h2>
 <ul>
 <li>30 pages maximum hors annexes</li>
 </ul>
@@ -622,7 +678,7 @@ Important
 </section>
 <section id="bibliographie" class="level3">
 <h3 class="anchored" data-anchor-id="bibliographie">Bibliographie</h3>
-<div class="callout callout-style-default callout-tip callout-titled" title="Objectif">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -663,7 +719,7 @@ Important
 </section>
 </section>
 <section id="note-de-synthèse" class="level2">
-<h2 class="anchored" data-anchor-id="note-de-synthèse">Note de synthèse <span class="emoji" data-emoji="guardsman">💂‍♂️</span></h2>
+<h2 class="anchored" data-anchor-id="note-de-synthèse">Note de synthèse 💂</h2>
 <ul>
 <li>En anglais</li>
 <li>4 pages maximum</li>
@@ -685,19 +741,23 @@ Note
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>La soutenance se déroulera en présence :</p>
+<p>La soutenance se déroulera en présence de 4 personnes :</p>
 <ul>
-<li>d’un président de jury</li>
-<li>de l’encadrant pédagogique de l’ENSAI</li>
-<li>du maitre de stage</li>
+<li>Présidente de jury</li>
+<li>Vice-président de jury</li>
+<li>Encadrant pédagogique de l’ENSAI</li>
+<li>Maitre de stage</li>
 </ul>
 </div>
+</div>
+<div class="notes">
+<p>Jury bienveillant mais pas là pour faire des cadeaux.</p>
 </div>
 </section>
 <section id="erreurs-à-éviter" class="level2">
 <h2 class="anchored" data-anchor-id="erreurs-à-éviter">Erreurs à éviter <span class="emoji" data-emoji="warning">⚠️</span></h2>
 <section id="erreur-1-ne-pas-alerter" class="level3">
-<h3 class="anchored" data-anchor-id="erreur-1-ne-pas-alerter">Erreur 1 : ne pas alerter</h3>
+<h3 class="anchored" data-anchor-id="erreur-1-ne-pas-alerter">Erreur 1 : ne pas alerter 🚨</h3>
 <p>N’attendez pas la note d’étape et encore moins le dernier mois pour dire que ça ne va pas !</p>
 <ol type="1">
 <li>Discutez avec votre tuteur</li>
@@ -705,7 +765,7 @@ Note
 </ol>
 </section>
 <section id="erreur-2-ignorer-le-métier" class="level3">
-<h3 class="anchored" data-anchor-id="erreur-2-ignorer-le-métier">Erreur 2 : Ignorer le métier</h3>
+<h3 class="anchored" data-anchor-id="erreur-2-ignorer-le-métier">Erreur 2 : Ignorer le métier 👷🏾</h3>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -716,29 +776,29 @@ Important
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Un développeur rend service à des utilisateurs.</p>
+<p>L’informatique est au service des utilisateurs.</p>
 <p>Il faut donc apprendre le contexte métier dans lequel vous travaillez.</p>
 </div>
 </div>
 </section>
 <section id="erreur-3-contexte-insee" class="level3">
-<h3 class="anchored" data-anchor-id="erreur-3-contexte-insee">Erreur 3 : Contexte INSEE</h3>
-<p>Trop faible connaissance du contexte INSEE (ou de la structure d’accueil)</p>
+<h3 class="anchored" data-anchor-id="erreur-3-contexte-insee">Erreur 3 : Contexte INSEE 📊</h3>
+<p>Trop faible connaissance du contexte INSEE (ou de la structure d’accueil).</p>
 <p>Solutions :</p>
 <ul>
-<li>Discuter avec les développeurs</li>
+<li>Discuter avec les développeurs, les développeuses</li>
 <li>S’abonner aux canaux actifs sur Tchap</li>
 <li>Aller aux dev’académy, séminaires de développement…</li>
 </ul>
 </section>
 <section id="erreur-4-négliger-le-rapport" class="level3">
-<h3 class="anchored" data-anchor-id="erreur-4-négliger-le-rapport">Erreur 4 : négliger le rapport</h3>
+<h3 class="anchored" data-anchor-id="erreur-4-négliger-le-rapport">Erreur 4 : négliger le rapport 📋</h3>
 <ul>
 <li>Respectez le format attendu</li>
 <li>Donnez des titres informatifs à vos parties</li>
 <li><strong>RELISEZ-LE !!!!!</strong></li>
 </ul>
-<div class="callout callout-style-default callout-important callout-titled" title="Les figures">
+<div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -753,7 +813,7 @@ Important
 </div>
 </div>
 <hr>
-<div class="callout callout-style-default callout-warning callout-titled" title="Erreurs à ne pas faire">
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -772,7 +832,7 @@ Important
 </div>
 </section>
 <section id="mise-en-valeur" class="level3">
-<h3 class="anchored" data-anchor-id="mise-en-valeur">Mise en valeur</h3>
+<h3 class="anchored" data-anchor-id="mise-en-valeur">Mise en valeur ✨</h3>
 <p>Vous n’arrivez pas à montrer ce que vous avez fait :</p>
 <ul>
 <li>Manque de hauteur : vous utilisez des outils sans les comprendre</li>
@@ -780,7 +840,7 @@ Important
 </ul>
 </section>
 <section id="stage-prise-de-poste" class="level3">
-<h3 class="anchored" data-anchor-id="stage-prise-de-poste">Stage “prise de poste”</h3>
+<h3 class="anchored" data-anchor-id="stage-prise-de-poste">Stage “prise de poste” ⚠</h3>
 <div class="callout callout-style-simple callout-none no-icon">
 <div class="callout-body d-flex">
 <div class="callout-icon-container">
@@ -840,15 +900,50 @@ Important
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
     if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-      const a = window.document.createElement('a');
-      a.classList.add('top-right');
-      a.classList.add('quarto-color-scheme-toggle');
-      a.href = "";
-      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const toggle = window.document.createElement('button');
+      toggle.type = "button";
+      toggle.setAttribute("role", "switch");
+      toggle.setAttribute("aria-checked", "false");
+      toggle.classList.add('top-right');
+      toggle.classList.add('quarto-color-scheme-toggle');
+      toggle.setAttribute("aria-label", "Toggle dark mode");
+      toggle.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
       const i = window.document.createElement("i");
       i.classList.add('bi');
-      a.appendChild(i);
-      window.document.body.appendChild(a);
+      toggle.appendChild(i);
+      // Put the toggle in a landmark of its own, so that landmark navigation
+      // can reach it.
+      //
+      // The container is always a fresh direct child of body, and the toggle is
+      // never moved into page furniture that the theme or the author controls.
+      // The toggle is positioned against the page, so any ancestor that
+      // establishes a containing block captures it: a positioned element or a
+      // grid for position: absolute, and transform, filter, will-change or
+      // contain for position: fixed. A direct child of body has none of these
+      // to inherit, and the shift when one appears is silent and visual.
+      //
+      // ARIA says a document should have at most one banner, and axe reports a
+      // duplicate whether or not the banners carry distinct labels. So use a
+      // header when the page has no banner yet, and a named region otherwise.
+      //
+      // A header is a banner wherever it sits, unless it is inside sectioning
+      // content, so this cannot just look at the children of body: a custom
+      // page layout wraps the title block header in a plain div. An explicit
+      // role="banner" always counts.
+      const sectioning = 'article, aside, main, nav, section, [role="article"], [role="complementary"], [role="main"], [role="navigation"], [role="region"]';
+      const hasBanner = Array.from(
+        window.document.querySelectorAll('header:not([role]), [role="banner"]')
+      ).some(function(el) {
+        return el.hasAttribute("role") || el.closest(sectioning) === null;
+      });
+      const container = window.document.createElement(hasBanner ? "div" : "header");
+      if (hasBanner) {
+        container.setAttribute("role", "region");
+        container.setAttribute("aria-label", "Toggle dark mode");
+      }
+      container.classList.add('quarto-color-scheme-toggle-container');
+      container.appendChild(toggle);
+      window.document.body.appendChild(container);
     }
     setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
@@ -927,7 +1022,8 @@ Important
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
       // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      window.quartoDecorateExternalLinks = function (root) {
+     var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
       for (var i=0; i<links.length; i++) {
         const link = links[i];
         if (!isInternal(link.href)) {
@@ -936,8 +1032,69 @@ Important
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+          if (!link.classList.contains('no-external-icon')) {
+          }
         }
       }
+      };
+      window.quartoDecorateExternalLinks(window.document);
+    // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+    // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+    const hideOnEscAndFocusOut = {
+      name: 'hideOnEscAndFocusOut',
+      defaultValue: true,
+      fn(instance) {
+        const dismiss = () => {
+          // A show scheduled by the trigger delay would otherwise reopen it
+          instance.clearDelayTimeouts();
+          instance.hide();
+        };
+        const onKeyDown = (event) => {
+          if (event.key !== 'Escape') {
+            return;
+          }
+          // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+          // except an open reveal.js slide menu, which Esc should close too.
+          // The menu handles keys only when its keyboard option is on.
+          const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+            window.Reveal.getConfig().menu?.keyboard !== false;
+          if (!menuHandlesEsc) {
+            event.stopPropagation();
+          }
+          if (instance.popper.contains(window.document.activeElement)) {
+            // Disabled while refocusing so the focus trigger does not reopen it
+            instance.disable();
+            instance.reference.focus();
+            instance.enable();
+          }
+          dismiss();
+        };
+        const onFocusOut = (event) => {
+          const target = event.relatedTarget;
+          if (target && !instance.reference.contains(target) &&
+              !instance.popper.contains(target)) {
+            dismiss();
+          }
+        };
+        // On the trigger too: a click trigger (code-annotations: select) has no
+        // blur handling. Attached for the instance's lifetime so leaving the
+        // trigger also cancels a show still pending on the trigger delay.
+        instance.reference.addEventListener('focusout', onFocusOut);
+        return {
+          onShow() {
+            window.document.addEventListener('keydown', onKeyDown, true);
+            instance.popper.addEventListener('focusout', onFocusOut);
+          },
+          onHide() {
+            window.document.removeEventListener('keydown', onKeyDown, true);
+            instance.popper.removeEventListener('focusout', onFocusOut);
+          },
+          onDestroy() {
+            instance.reference.removeEventListener('focusout', onFocusOut);
+          },
+        };
+      },
+    };
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
       const config = {
         allowHTML: true,
@@ -951,6 +1108,7 @@ Important
         interactiveBorder: 10,
         theme: 'quarto',
         placement: 'bottom-start',
+        plugins: [hideOnEscAndFocusOut],
       };
       if (contentFn) {
         config.content = contentFn;
@@ -1113,44 +1271,54 @@ Important
           const lineIds = lines.map((line) => {
             return targetCell + "-" + line;
           })
-          let top = null;
-          let height = null;
-          let parent = null;
+          // Each band is positioned against its own containing block, which is
+          // not the offsetParent of the lines, so place it from client rects.
+          const placeBand = (band, firstEl, lastEl, codeBlock) => {
+            const container = band.offsetParent;
+            if (container === null) {
+              return;
+            }
+            const containerRect = container.getBoundingClientRect();
+            // Reveal.js scales slides with a transform, so convert client
+            // pixels back to the CSS pixels of the container.
+            const scale = containerRect.height / container.offsetHeight || 1;
+            const firstRect = firstEl.getBoundingClientRect();
+            const lastRect = lastEl.getBoundingClientRect();
+            const top = (firstRect.top - containerRect.top) / scale - container.clientTop + container.scrollTop;
+            const height = (lastRect.bottom - firstRect.top) / scale;
+            band.style.top = top - 2 + "px";
+            band.style.height = height + 4 + "px";
+            if (codeBlock) {
+              // Without the copy button wrapper, the containing block is wider
+              // than the code block, so span the code block explicitly.
+              const blockRect = codeBlock.getBoundingClientRect();
+              band.style.left = (blockRect.left - containerRect.left) / scale - container.clientLeft + container.scrollLeft + "px";
+              band.style.width = blockRect.width / scale + "px";
+            }
+          };
           if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
+            const el = window.document.getElementById(lineIds[0]);
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const parent = el.parentElement.parentElement;
+            // cook up a div (if necessary) and position it
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
             }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
+            placeBand(div, el, lastEl, parent.closest("div.sourceCode") || parent);
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
             }
+            placeBand(gutterDiv, el, lastEl);
             selectedAnnoteEl = annoteEl;
           }
         };
@@ -1248,6 +1416,9 @@ Important
       }
     }
   });
+  </script>
+  <script type="application/javascript">
+  window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
   </script>
 </div> <!-- /content -->
 <footer class="footer">
